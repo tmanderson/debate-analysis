@@ -47,6 +47,7 @@ _.each(speakers, function(lines, speaker) {
 
   // go through the speaker's positions and find average weight of each position
   output.push(
+    '\n',
     format.makeTable(
       headings,
       _.sortBy(

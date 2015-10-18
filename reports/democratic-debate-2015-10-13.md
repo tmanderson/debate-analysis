@@ -12,6 +12,8 @@ Most important words spoken:
   - years
   - look
   - future
+
+
  |              Issue              | Average Weight (tf-idf) | 
  | -------------------------------- | ----------------------- | 
  | Ensure Freedom for All Americans | 0.7306426154815481      | 
@@ -38,6 +40,8 @@ Most important words spoken:
   - wall
   - sector
   - parties
+
+
  |                  Issue                  | Average Weight (tf-idf) | 
  | --------------------------------------- | ----------------------- | 
  | Criminal Justice Reform Good Governance | 2.039179263750576       | 
@@ -58,6 +62,8 @@ Most important words spoken:
   - former
   - action
   - itself
+
+
  |          Issue          | Average Weight (tf-idf) | 
  | ----------------------- | ----------------------- | 
  | Debt-Free College       | 0.855268791833557       | 
@@ -87,6 +93,8 @@ Most important words spoken:
   - today
   - democracy
   - maybe
+
+
  |                        Issue                        | Average Weight (tf-idf) | 
  | ---------------------------------------------------- | ----------------------- | 
  | It’s Time to Make College Tuition Free and Debt Free | 1.2769061891846365      | 
@@ -119,6 +127,8 @@ Most important words spoken:
   - family
   - share
   - chance
+
+
  |               Issue               | Average Weight (tf-idf) | 
  | --------------------------------- | ----------------------- | 
  | Health care                       | 0.6887029896800769      | 
