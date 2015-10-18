@@ -6,7 +6,7 @@ Analyzing some language from the 2016 presidential debates. The reports can be v
 | Debate Date      | Report   |
 | ---------------- | -------- |
 | October 13, 2015 | [Democratic Debate #1](reports/democratic-debate-2015-10-13.md) |
-| August 6, 2015   | [Republican Debate #1](reports/democratic-debate-2015-10-13.md) |
+| August 6, 2015   | [Republican Debate #1](reports/republican-debate-2015-08-06.md) |
 
 ### Points of Analysis:
 - Total words spoken
