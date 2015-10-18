@@ -15,13 +15,13 @@ _.extend(module.exports, {
     var colpad, xtrapad;
 
     return _.map([headings, underlines ].concat(data), function(row, i) {
-      return ' | ' + _.map(row, function(value, j) {
+      return '| ' + _.map(row, function(value, j) {
         colpad = padding.slice(0,colWidths[j]/2 - value.toString().length/2).join('');
         xtrapad = padding.slice(0, colWidths[j] - (colpad + colpad + value).length).join('');
 
         if(!i) return colpad + value + colpad;
         return value + colpad + colpad + xtrapad;
-      }).join(' | ') + ' | ';
+      }).join(' | ') + ' |';
     }).join('\n');
   }
 });
