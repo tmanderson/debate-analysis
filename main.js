@@ -38,11 +38,11 @@ _.each(speakers, function(lines, speaker) {
   // output the speaker's name surrounded by `---`
   output.push('\n\n## ' + _.capitalize(speaker));
 
-  output.push('Most important words spoken:');
+  output.push('Most important words spoken:\n');
 
   output.push.apply(output,
-    tfidf.listTerms(0).map(function(item) {
-      return '  - ' + item.term;
+    tfidf.listTerms(0).map(function(item, i) {
+      return (i+1) + '. ' + item.term;
     }).slice(0, 10)
   );
 

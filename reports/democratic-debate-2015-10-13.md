@@ -3,16 +3,17 @@
 
 ## Chafee
 Most important words spoken:
-  - thank
-  - want
-  - peace
-  - electing
-  - four
-  - address
-  - state
-  - years
-  - look
-  - future
+
+  1. thank
+  2. want
+  3. peace
+  4. electing
+  5. four
+  6. address
+  7. state
+  8. years
+  9. look
+  10. future
 
 
  |              Issue              | Average Weight (tf-idf) | 
@@ -31,16 +32,17 @@ Most important words spoken:
 
 ## Webb
 Most important words spoken:
-  - empowering
-  - disgusted
-  - turnstile
-  - corrupted
-  - intimidating
-  - incumbents
-  - street
-  - wall
-  - sector
-  - parties
+
+  1. empowering
+  2. disgusted
+  3. turnstile
+  4. corrupted
+  5. intimidating
+  6. incumbents
+  7. street
+  8. wall
+  9. sector
+  10. parties
 
 
  |                  Issue                  | Average Weight (tf-idf) | 
@@ -53,16 +55,17 @@ Most important words spoken:
 
 ## O'malley
 Most important words spoken:
-  - kids
-  - better
-  - injustice
-  - learned
-  - country
-  - families
-  - president
-  - former
-  - action
-  - itself
+
+  1. kids
+  2. better
+  3. injustice
+  4. learned
+  5. country
+  6. families
+  7. president
+  8. former
+  9. action
+  10. itself
 
 
  |          Issue          | Average Weight (tf-idf) | 
@@ -84,16 +87,17 @@ Most important words spoken:
 
 ## Sanders
 Most important words spoken:
-  - energy
-  - percent
-  - americans
-  - interests
-  - thank
-  - youth
-  - unemployment
-  - today
-  - democracy
-  - maybe
+
+  1. energy
+  2. percent
+  3. americans
+  4. interests
+  5. thank
+  6. youth
+  7. unemployment
+  8. today
+  9. democracy
+  10. maybe
 
 
  |                        Issue                        | Average Weight (tf-idf) | 
@@ -118,16 +122,17 @@ Most important words spoken:
 
 ## Clinton
 Most important words spoken:
-  - divides
-  - work
-  - ways
-  - pay
-  - re
-  - going
-  - so
-  - family
-  - share
-  - chance
+
+  1. divides
+  2. work
+  3. ways
+  4. pay
+  5. re
+  6. going
+  7. so
+  8. family
+  9. share
+  10. chance
 
 
  |               Issue               | Average Weight (tf-idf) | 
