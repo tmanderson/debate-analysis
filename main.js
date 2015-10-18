@@ -5,6 +5,7 @@ var fs = require('fs');
 var natural = require('natural');
 var TfIdf = natural.TfIdf;
 var format = require('./src/format');
+var transcript_title = 'democratic-debate-2015-10-13';
 var speakers = {};
 
 var positions = _.mapKeys(
@@ -15,7 +16,7 @@ var positions = _.mapKeys(
 );
 
 _.each(
-  JSON.parse(fs.readFileSync('./data/transcripts/democratic-debate-2015-10-13.json')),
+  JSON.parse(fs.readFileSync('./data/transcripts/' + transcript_title + '.json')),
   function(line) {
     var speaker = _.keys(line)[0].toLowerCase();
     if(!speakers[speaker]) speakers[speaker] = [];
@@ -25,7 +26,7 @@ _.each(
 
 var tfidf, docs;
 var headings = ['Issue', 'Average Weight (tf-idf)'];
-var output = [];
+var output = ['# ' + _.capitalize(transcript_title.replace(/([a-z])-/ig, '$1 ')) ];
 
 _.each(speakers, function(lines, speaker) {
   if(!positions[speaker]) return;
