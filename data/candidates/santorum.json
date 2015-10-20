@@ -1,1 +1,15 @@
-{"ref":"santorum","name":"Rick Santorum","party":"republican","website":"http://www.ricksantorum.com/","url":{"website":"http://www.ricksantorum.com/","issues":"http://www.ricksantorum.com/issues"},"positions":["economic freedom agenda","fighting radical islam","immigration reform that protects american workers","valuing the dignity of every human life","fighting for conservative values","common sense instead of common core","fighting for the american worker","end the immoral spending in washington"]}
+{
+  "name": "Rick Santorum",
+  "website": "http://www.ricksantorum.com/",
+  "party": "republican",
+  "issues": [
+    "Economic Freedom Agenda",
+    "Fighting Radical Islam",
+    "Immigration Reform That Protects American Workers",
+    "Valuing the dignity of every human life",
+    "Fighting for Conservative Values",
+    "Common Sense Instead of Common Core",
+    "Fighting for the American worker",
+    "End the Immoral Spending in Washington"
+  ]
+}

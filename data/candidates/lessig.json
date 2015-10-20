@@ -1,1 +1,21 @@
-{"ref":"lessig","name":"Lawrence Lessig","party":"democrat","website":"https://lessigforpresident.com/","url":{"website":"https://lessigforpresident.com/","issues":"https://lessigforpresident.com/issues"},"positions":["the issues","the first reform","achieving equality","criminal justice reform","education","the emerging surveillance society","health care reform","immigration reform","innovation policy","the internet","national security & foreign policy","protecting our environment","reforms to support work","the so-called “war on drugs”","social & financial security"]}
+{
+  "name": "Lawrence Lessig",
+  "website": "https://lessigforpresident.com/",
+  "party": "democrat",
+  "issues": [
+    "The First Reform",
+    "Achieving Equality",
+    "Criminal Justice Reform",
+    "Education",
+    "The Emerging Surveillance Society",
+    "Health Care Reform",
+    "Immigration Reform",
+    "Innovation Policy",
+    "The Internet",
+    "National Security & Foreign Policy",
+    "Protecting Our Environment",
+    "Reforms to Support Work",
+    "The So-Called “War on Drugs”",
+    "Social & Financial Security"
+  ]
+}

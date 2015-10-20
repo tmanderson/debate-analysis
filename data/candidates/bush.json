@@ -1,1 +1,9 @@
-{"ref":"bush","name":"Jeb Bush","party":"republican","website":"https://jeb2016.com/?lang=en","url":{"website":"https://jeb2016.com/?lang=en","issues":"https://jeb2016.com/policy?lang=en"},"positions":["additional materials on this policy:"]}
+{
+  "name": "Jeb Bush",
+  "website": "https://jeb2016.com/?lang=en",
+  "party": "republican",
+  "issues": [
+    "Defeating ISIS",
+    "Additional Materials On This Policy:"
+  ]
+}

@@ -5,9 +5,16 @@ _.extend(module.exports, {
   makeTable: function makeMarkdownTable(headings, data) {
     var output = '';
 
+    if(!headings || !headings.length) return '';
+
     var cols = headings.length;
     var colWidths = _.map(headings, function(heading, i) {
-      return Math.max(heading.length, _.max(data, function(row) { return row[i].toString().length; })[i].toString().length);
+      return Math.max(
+        heading.length,
+        _.max(data, function(row) {
+          return (row[i] || ' ').toString().length;
+        }).toString().length
+      );
     });
     
     var padding = _.map(_.range(_.max(colWidths)), _.constant(' '));

@@ -1,1 +1,27 @@
-{"ref":"rubio","name":"Marco Rubio","party":"republican","website":"https://marcorubio.com/","url":{"website":"https://marcorubio.com/","issues":"https://marcorubio.com/issues"},"positions":[]}
+{
+  "name": "Marco Rubio",
+  "website": "https://marcorubio.com/",
+  "party": "republican",
+  "issues": [
+    "Policy For You",
+    "Farmers",
+    "Veterans",
+    "Workers",
+    "Working Families",
+    "China",
+    "Common Core",
+    "Debt",
+    "Energy",
+    "Foreign Policy",
+    "Higher Education",
+    "Iran",
+    "ISIS",
+    "Israel",
+    "Jobs",
+    "Russia",
+    "Second Amendment",
+    "Sharing Economy",
+    "Taxes",
+    "The VA"
+  ]
+}

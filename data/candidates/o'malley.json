@@ -1,1 +1,20 @@
-{"ref":"o'malley","name":"Martin O'Malley","party":"democrat","website":"https://martinomalley.com/","url":{"website":"https://martinomalley.com/","issues":"https://martinomalley.com/policy"},"positions":["vision for the future","trade policy","national service","homeland security","financial reform","clean energy future","addiction treatment","campaign finance reform","gun reform","expand social security","criminal justice reform","immigration reform","debt-free college","foreign policy"]}
+{
+  "name": "Martin O'Malley",
+  "website": "https://martinomalley.com/",
+  "party": "democrat",
+  "issues": [
+    "Trade Policy",
+    "National Service",
+    "Homeland Security",
+    "Financial Reform",
+    "Clean Energy Future",
+    "Addiction Treatment",
+    "Campaign Finance Reform",
+    "Gun Reform",
+    "Expand Social Security",
+    "Criminal Justice Reform",
+    "Immigration Reform",
+    "Debt-Free College",
+    "Foreign Policy"
+  ]
+}

@@ -1,1 +1,17 @@
-{"ref":"carson","name":"Ben Carson","party":"republican","website":"https://www.bencarson.com/","url":{"website":"https://www.bencarson.com/","issues":"https://www.bencarson.com/issues"},"positions":["ben on the issues",""]}
+{
+  "name": "Ben Carson",
+  "website": "https://www.bencarson.com/",
+  "party": "republican",
+  "issues": [
+    "Protecting Innocent Life",
+    "Balanced Budget Amendment",
+    "Education",
+    "Keep Gitmo Open",
+    "Health Care",
+    "Keep Faith in Our Society",
+    "Russia and Lessons Learned",
+    "Protect the Second Amendment",
+    "Stand by Israel, Our Bulwark Middle East Ally",
+    "The American People Deserve a Better Tax Code"
+  ]
+}

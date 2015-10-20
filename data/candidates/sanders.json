@@ -1,1 +1,24 @@
-{"ref":"sanders","name":"Bernie Sanders","party":"democrat","website":"https://berniesanders.com/","url":{"website":"https://berniesanders.com/","issues":"https://berniesanders.com/issues"},"positions":["bernie sanders","on the issues","income and wealth inequality","it’s time to make college tuition free and debt free","getting big money out of politics","creating decent paying jobs","a living wage","climate change & environment","racial justice","a fair and humane immigration policy","fighting for women’s rights","fighting for lgbt equality","caring for our veterans","strengthen and expand social security","fighting to lower prescription drug prices","reforming wall street","real family values","war and peace","war should be the last option: why i support the iran deal"]}
+{
+  "name": "Bernie Sanders",
+  "website": "https://berniesanders.com/",
+  "party": "democrat",
+  "issues": [
+    "Income and Wealth Inequality",
+    "It’s Time to Make College Tuition Free and Debt Free",
+    "Getting Big Money Out of Politics",
+    "Creating Decent Paying Jobs",
+    "A Living Wage",
+    "Climate Change & Environment",
+    "Racial Justice",
+    "A Fair and Humane Immigration Policy",
+    "Fighting for Women’s Rights",
+    "Fighting for LGBT Equality",
+    "Caring for our Veterans",
+    "Strengthen and Expand Social Security",
+    "Fighting to Lower Prescription Drug Prices",
+    "Reforming Wall Street",
+    "Real Family Values",
+    "War and Peace",
+    "War Should Be the Last Option: Why I Support the Iran Deal"
+  ]
+}

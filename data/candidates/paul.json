@@ -1,1 +1,27 @@
-{"ref":"paul","name":"Rand Paul","party":"republican","website":"https://www.randpaul.com/","url":{"website":"https://www.randpaul.com/","issues":"https://www.randpaul.com/issues"},"positions":["rand paul on the issues","\"my policies will defeat the washington machine and unleash the creative spirit of the american people.\"—rand paul","spending and debt","ending nsa spying","term limits","taxes","audit the fed","foreign policy & defense","health care","energy","immigration","regulation","criminal justice reforms","civil liberties","education","israel","social security","veterans","sanctity of life","second amendment","like us on facebook"]}
+{
+  "name": "Rand Paul",
+  "website": "https://www.randpaul.com/",
+  "party": "republican",
+  "issues": [
+    "Spending and Debt",
+    "Ending NSA Spying",
+    "Term Limits",
+    "Taxes",
+    "Audit the Fed",
+    "Foreign Policy & Defense",
+    "Health Care",
+    "Energy",
+    "Immigration",
+    "Regulation",
+    "Criminal Justice Reforms",
+    "Civil Liberties",
+    "Education",
+    "Israel",
+    "Social Security",
+    "Veterans",
+    "Sanctity of Life",
+    "Second Amendment",
+    "Sign Up For Updates",
+    "Take Action"
+  ]
+}

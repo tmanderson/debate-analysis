@@ -1,1 +1,15 @@
-{"ref":"kasich","name":"John Kasich","party":"republican","website":"https://johnkasich.com/","url":{"website":"https://johnkasich.com/","issues":"https://johnkasich.com/issues"},"positions":["issues","","education","national security","a conservative approach to better health care","fiscal responsibility and balancing budgets","defending the second amendment","lifting up the most vulnerable americans","respecting the  sanctity of human life","creating jobs and strengthening the economy"]}
+{
+  "name": "John Kasich",
+  "website": "https://johnkasich.com/",
+  "party": "republican",
+  "issues": [
+    "EDUCATION",
+    "NATIONAL SECURITY",
+    "A CONSERVATIVE APPROACH TO BETTER HEALTH CARE",
+    "FISCAL RESPONSIBILITY AND BALANCING BUDGETS",
+    "DEFENDING THE SECOND AMENDMENT",
+    "LIFTING UP THE MOST VULNERABLE AMERICANS",
+    "RESPECTING THE  SANCTITY OF HUMAN LIFE",
+    "CREATING JOBS AND STRENGTHENING THE ECONOMY"
+  ]
+}
