@@ -13,6 +13,8 @@ Analyzing some language from the 2016 presidential debates. The reports can be v
 - Total words spoken
 - Articulation (unique words against total spoken)
 - Issue importance (per claimed issues, per debate presented issue)
+- Estimated speaking time
+- Inter-party-related negative and positive statements (pointing fingers, name-calling, etc...)
 
 ### Log
 #### 10-18-2015
