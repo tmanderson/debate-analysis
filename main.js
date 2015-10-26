@@ -1,112 +1,97 @@
 'use strict';
 
 var _ = require('lodash');
+
+_.extend(global, {
+  WPM: 190,
+  REPORTS_PATH: './reports',
+  CANDIDATES_PATH: './data/candidates',
+  TRANSCRIPT_PATH: './data/transcripts'
+});
+
 var fs = require('fs');
 var path = require('path');
+var args = process.argv.slice(2);
 
 var natural = require('natural');
 var TfIdf = natural.TfIdf;
 
-var format = require('./src/format');
+natural.PorterStemmer.attach();
 
-var reportsPath = './reports';
-var positionsPath = './data/candidates';
-var transcriptPath = './data/transcripts';
+var Debate = require('./src/debate');
+var commonWords = require('./src/dictionaries').common;
 
-var candidates = _.map(fs.readdirSync(positionsPath), function(file) { return file.split('.')[0]; });
-
-function Debate(party, year, month, day) {
-  var nametpl = _.template('<%=party%>-debate-<%=year%>-<%=month%>-<%=day%>');
-
-  this.name = nametpl({
-    party: party,
-    year: year,
-    month: month < 10 ? '0' + month : month,
-    day: day < 10 ? '0' + day : day
-  });
-
-  this.speakers = {};
-
-  this.loadDebate();
-  this.loadPositions();
-}
-
-_.extend(Debate.prototype, {
-  loadPositions: function loadPositions() {
-    this.issues = JSON.parse(fs.readFileSync('./data/issues.json'));
-
-    // holds the positions of the debate speakers (each contained in a file under `data/candidates`)
-    this.positions = _.mapValues(this.speakers, function(text, name) {
-      var candidate = path.join(positionsPath, name + '.json');
-      if(!fs.existsSync(candidate)) return null;
-      console.log(name);
-      return JSON.parse(fs.readFileSync(candidate)).issues || [];
-    }, this);
-  },
-
-  loadDebate: function loadDebate() {
-    _.each(
-      JSON.parse(fs.readFileSync(path.join(transcriptPath, this.name + '.json'))),
-      function(line) {
-        var speaker = _.keys(line)[0].toLowerCase();
-        if(!this.speakers[speaker]) this.speakers[speaker] = [];
-        this.speakers[speaker].push(_.values(line)[0]);
-      },
-      this
-    );
-  },
-
-  forEachSpeaker: function(process) {
-    _.each(this.speakers, process);
-  }
-});
-
-var debates = [
-  new Debate('democratic', 2015, 10, 13),
-  new Debate('republican', 2015, 8, 6),
-  new Debate('republican', 2015, 9, 16)
-];
-
-var headings = [ 'Issue', 'Average Weight (tf-idf)' ];
+var debates = Debate.getAllForParty('republican');
 
 _.each(debates, function(debate) {
   var tfidf, docs;
-  var output = ['# ' + _.capitalize(debate.name.replace(/([a-z])-/ig, '$1 ')) ];
+  var data = [];
 
-  debate.forEachSpeaker(function(lines, speaker) {
-    if(!debate.positions[speaker]) return;
+  debate.forEachSpeaker(function(speaker) {
+    if(!speaker) return;
+
+    var usedWords = {};
+    var uniqueWords = [];
+    var totalWords = 0;
+
+    _.each(speaker.lines, function(line) {
+      _.each(_.words(line), function(word) {
+        word = word.toLowerCase();
+        totalWords++;
+
+        if(commonWords.indexOf(word) > -1 || word.length < 2) return;
+
+        if(!usedWords[word]) {
+          uniqueWords.push(word);
+          usedWords[word] = 0;
+        }
+
+        usedWords[word]++;
+      });
+    });
 
     tfidf = new TfIdf();
-    // add each response from the speaker to the corpus
-    _.each(lines, tfidf.addDocument, tfidf);
-    // CL formatting, just to make output easier to read
-    lines = _.map(_.range(40-(speaker.length-2)/2), _.constant('-')).join('');
-    // output the speaker's name surrounded by `---`
-    output.push('\n\n## ' + _.capitalize(speaker));
+    _.each(speaker.lines, tfidf.addDocument, tfidf);
+    
+    data.push({
+      name: speaker.name,
 
-    output.push.apply(output,
-      tfidf.listTerms(0).map(function(item, i) {
-        return (i+1) + '. ' + item.term;
-      }).slice(0, 10)
-    );
+      totalWords: totalWords,
+      speakingTime: Math.round(totalWords/WPM),
 
-    // go through the speaker's positions and find average weight of each position
-    output.push(
-      '\n',
-      format.makeTable(
-        headings,
+      averageWordUsage: _.pick(
+        _.mapValues(usedWords, function(count) {
+          return count / uniqueWords.length;
+        }),
+        function(val, key) {
+          return (uniqueWords.indexOf(key) > -1) && val > 0.009 && key;
+        }
+      ),
+
+      importantWords: _.zipObject(
+        _.filter(
+          tfidf.listTerms(0).map(function(item, i) {
+            return [ item.term, item.tfidf ];
+          }),
+          function(line) {
+            return !_.includes(commonWords, line[0]);
+          }
+        ).slice(0, 20) // Most unique words via tfidf
+      ),
+
+      issueRelevance: _.zipObject(
         _.sortBy(
-          _.map(debate.positions[speaker], function(issue) {
+          _.map(speaker.issues, function(issue) {
             docs = tfidf.tfidfs(issue);
-            return [ issue, _.reduce(docs, _.add, 0)/docs.length ];
+            return [ issue, _.reduce(docs, _.add, 0) / 100 ];
           }),
           function(val) {
             return val[1];
           }
-        ).reverse() // issue spoken about most -> least
+        ).reverse() // issue relevance to most important terms (via website issue -> tfidf)
       )
-    );
+    });
   });
 
-  fs.writeFileSync(path.join(reportsPath, debate.name + '.md'), output.join('\n'));
+  fs.writeFileSync(path.join(REPORTS_PATH, _.kebabCase(debate.name) + '.json'), JSON.stringify(data, null, 2));
 });

@@ -8,7 +8,9 @@ var fs = require('fs');
 var URL = require('url');
 var path = require('path');
 var jsdom = require('jsdom');
+var moment = require('moment');
 
+var DEBATE_PATH = 'data/debates';
 var WIKI_HOST = ['https://' + WIKI_LANG, 'wikipedia', 'org/wiki/'].join('.');
 var PROTOCOLS = { 'https:': require('https'), 'http:': require('http') };
 
@@ -48,10 +50,8 @@ function makeRequest(url) {
     deferred.reject('Invalid URL');
     return deferred.promise;
   }
-
-  jsdom.env({
-    url: url,
-    scripts: [ 'http://code.jquery.com/jquery.js' ],
+  console.log(url);
+  jsdom.env(url, ['http://code.jquery.com/jquery.js'], {
     done: function(err, window) {
       if(err) return deferred.reject(err);
       deferred.resolve(window.$);
@@ -138,7 +138,144 @@ function parseIssues($, candidate) {
   );
 }
 
+function getDebateLinks($) {
+  var $this = $(this);
+  var link = $this.next().find('a');
+
+  if(!link.length) return;
+
+  var date = moment(_.trim(this.textContent), 'MMMM Do, YYYY').format('YYYY-MM-DD');
+
+  var debates = [
+    {
+      name: link.text(),
+      date: date,
+      url: link.attr('href')
+    }
+  ];
+
+  link = $this.parent().next().find('a');
+
+  if(link.length && $this.attr('rowspan') > 1) {
+    debates[0].name += ' #2';
+
+    debates.push({
+      name: link.text() + ' #1',
+      date: date,
+      url: link.attr('href')
+    });
+  }
+
+  return debates;
+}
+
+var speakerRE = /[A-Z]+:/g;
+
+function processDebateHTML(debate, filename) {
+  if(_.isString(debate)) {
+    var url = debate;
+
+    debate = filename.split('-');
+
+    debate = {
+      name: debate.slice(0, debate.length-3).join(' '),
+      date: debate.slice(-3).join(' ').replace('.html', ''),
+      url: url
+    };
+  }
+
+  return makeRequest(debate.url)
+    .then(function($) {
+
+      if(debate.url) {
+        var filename = [_.kebabCase(debate.name), debate.date].join('-');
+        fs.writeFileSync(
+          path.join('./', DEBATE_PATH, 'raw', filename + '.html'),
+          $('html')[0].outerHTML
+        );
+      }
+
+      var $content = $('.displaytext');
+      var text = $content.text();
+      var lines = [];
+      var speakerMatch, name;
+      
+      while((speakerMatch = speakerRE.exec(text))) {
+        if(name) {
+          lines.push(
+            _.set({}, name, _.trim(text.substr(speakerRE.lastIndex + name.length, speakerMatch.index)))
+          );
+        }
+        
+        name = speakerMatch[0];
+      }
+      
+      return lines;
+    });
+}
+
 _.extend(module.exports, {
+  getDebates: function(electionYear) {
+    var deferred = b.defer();
+    var debates;
+
+    debates = _.filter(
+      _.map(fs.readdirSync(path.join('./', DEBATE_PATH)), function(debateName) {
+        if(debateName.indexOf(electionYear-1) > -1 ||
+          debateName.indexOf(electionYear) > 1) {
+
+          return fs.readFileSync(path.join('./', DEBATE_PATH, debateName));
+        }
+      })
+    );
+    
+    if(debates.length) {
+      deferred.resolve(debates);
+      return deferred.promise;
+    }
+
+    debates = _.filter(
+      _.map(fs.readdirSync(path.join('./', DEBATE_PATH, 'raw')), function(debateName) {
+        if(debateName.indexOf(electionYear-1) > -1 ||
+          debateName.indexOf(electionYear) > 1) {
+
+          return processDebateHTML(
+            fs.readFileSync(path.join('./', DEBATE_PATH, 'raw', debateName)).toString(),
+            debateName
+          );
+        }
+      })
+    );
+
+    if(debates.length) {
+      b.all(debates).spread(deferred.resolve.bind(deferred));
+      return deferred.promise;
+    }
+
+    if(!debates.length) {
+      makeRequest('http://www.presidency.ucsb.edu/debates.php')
+        .then(function($) {
+           return b.all(
+            _.map(
+              $('tr td.docdate').filter(function() {
+                var $this = $(this);
+
+                return (
+                  this.textContent.indexOf(electionYear-1) > -1 ||
+                  this.textContent.indexOf(electionYear) > -1
+                );
+              })
+              .map(_.partial(getDebateLinks, $))
+              .get(),
+              processDebateHTML
+            )
+          ).spread(deferred.resolve.bind(deferred));
+        });
+    }
+
+    return deferred.promise;
+  },
+
   getIssues: function getIssues() {
     return makeRequest('http://www.ontheissues.org/issues.htm')
       .then(function($) {
@@ -197,52 +334,4 @@ _.extend(module.exports, {
   }
 });
 
-module.exports.getCandidates()
-  .then(function(parties) {
-    var total = _.flatten(parties);
-    var completed = 0;
-
-    return b.all(
-      _.flatten(
-        _.map(parties, function(candidates, party) {
-          return _.map(candidates, function(data, i) {
-            if(!data.website) return;
-
-            return module.exports.getCandidateIssues(data)
-              .then(function(issues) {
-                return _.merge(data, {
-                  party: party,
-                  issues: issues
-                });
-              }, function() {
-                console.log('\x1B[1;31mError finding issues for %s\x1B[0m', data.name);
-              })
-              .then(_.partial(writeCandidateFile, _.last(data.name.split(' ')).toLowerCase()))
-              .then(
-                function() {
-                  console.log('\x1B[1;32mFinished processing %s\x1B[0m', data.name);
-                }, function() {
-                  console.log('\x1B[1;31mError processing %s\x1B[0m', data.name);
-                }
-              );
-          });
-        })
-      )
-    );
-  }, function() {
-    console.log('FAILED!');
-  })
-  .then(function() {
-    console.log('COMPLETE!');
-    process.exit(0);
-  }, function(err) {
-    console.log(err);
-    console.log('ERROR!');
-    process.exit(0);
-  });
-
-// module.exports.getIssues()
-//   .then(function(data) {
-//     fs.writeFileSync(path.join(__dirname, '../data/issues.json'), JSON.stringify(data, null, 2));
-//  });
- 
+module.exports.getDebates(2016)
