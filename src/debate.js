@@ -36,27 +36,27 @@ function Debate(transcript) {
 
 _.extend(Debate.prototype, {
   getCandidate: function getCandidate(name) {
-    var filepath = path.join('./', CANDIDATES_PATH, name + '.json');
+    if(this.speakers[name]) return this.speakers[name];
 
-    if(!fs.existsSync(filepath)) return;
-    return JSON.parse(fs.readFileSync(filepath));
+    var data, filepath = path.join('./', CANDIDATES_PATH, name + '.json');
+
+    if(!fs.existsSync(filepath)) {
+      data = { name: name, isCandidate: false };
+    }
+    else {
+      data = JSON.parse(fs.readFileSync(filepath));
+    }
+
+    return (this.speakers[name] = data);
   },
 
   loadDebate: function loadDebate() {
     _.each(this.transcript.load(), function(line) {
-      var speaker = _.keys(line)[0];
+      var speaker = this.getCandidate(_.keys(line)[0]);
+      if(!speaker) return;
 
-      if(!this.speakers[speaker]) {
-        this.speakers[speaker] = _.extend(
-          this.getCandidate(speaker),
-          {
-            lines: [ _.values(line)[0] ]
-          }
-        );
-      }
-      else {
-        this.speakers[speaker].lines.push(_.values(line)[0]);  
-      }
+      if(!speaker.lines) speaker.lines = [];
+      speaker.lines.push(_.values(line)[0]);
     }, this);
   },
 
