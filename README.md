@@ -25,4 +25,6 @@ In parsing Hillary's site was the by far the worst. I managed to get every other
 - [x] Finish Democrat campaign website parser
 - [x] Finish Republican campaign website parser (only a few more...)
 - [x] Word counts (per issue, overall responses)
-- [ ] STATS: Inter-party-related negative and positive statements (pointing fingers, name-calling, etc...)
+- [x] STATS: Inter-party-related negative and positive statements
+- [ ] STATS: More specifics on name-calling and the such
+- [ ] FACT CHECKS (lies/no lies)
