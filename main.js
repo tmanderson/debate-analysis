@@ -17,15 +17,27 @@ var fs = require('fs');
 var path = require('path');
 var args = process.argv.slice(2);
 
+
 var natural = require('natural');
 var TfIdf = natural.TfIdf;
+var sentiment = require('sentiment');
+var sentenceTokenizer = require('./src/tokenizers').sentence;
 
 natural.PorterStemmer.attach();
 
 var Debate = require('./src/debate');
-var commonWords = require('./src/dictionaries').common;
+var dictionaries = require('./src/dictionaries');
+var commonWords = dictionaries.common;
+var candidates = dictionaries.candidates;
 
 var debates = [].concat(Debate.getAllForParty('democratic')).concat(Debate.getAllForParty('republican'));
+
+function getNormalizedCandidateName(value) {
+  return _.find(candidates, function(name) {
+    name = name.split(' ');
+    return (name[0] === value.toLowerCase() || name[1] === value.toLowerCase());
+  });
+}
 
 _.each(debates, function(debate) {
   var tfidf, docs;
@@ -43,24 +55,68 @@ _.each(debates, function(debate) {
     var totalWords = 0;   // total words spoken
     var usedWords = {};   // [word] -> (# of times used)
     var uniqueWords = []; // contains first occurance of word
+    var callouts = {};    // other candidates called out by this speaker
+    var mostSentimentalLines = {};
 
     _.each(speaker.lines, function(line) {
-      _.each(_.words(line), function(word) {
-        word = word.toLowerCase();
-        totalWords++;
+      _.each(sentenceTokenizer(line), function(sentence) {
+        var sentimentality = sentiment(sentence);
+        var lastName, name;
 
-        if(!usedWords[word]) usedWords[word] = 0;
+        _.each(_.words(sentence), function(word, i, words) {
+          name = getNormalizedCandidateName(word);
 
-        // if the word isn't a letter, is not a common word, and is being
-        // said for the first time
-        if(word.length > 1 && commonWords.indexOf(word) < 0 && !usedWords[word]) {
-          uniqueWords.push(word);
+          word = word.toLowerCase();
+          totalWords++;
+
+          if(name && name !== lastName) {
+            if(!callouts[name]) {
+              callouts[name] = { total: 0, sentiment: 0, lines: [] };
+            }
+
+            callouts[name].total++;
+            callouts[name].sentiment += sentimentality.score;
+            callouts[name].lines.push(sentence);
+            lastName = name;
+          }
+
+          if(!usedWords[word]) usedWords[word] = 0;
+
+          // if the word isn't a letter, is not a common word, and is being
+          // said for the first time
+          if(word.length > 1 && commonWords.indexOf(word) < 0 && !usedWords[word]) {
+            uniqueWords.push(word);
+          }
+
+          usedWords[word]++;
+        });
+
+        // Naive attempt for most negative line
+        if(!mostSentimentalLines.negative ||
+          sentimentality.score < mostSentimentalLines.negative.score) {
+
+          _.extend(mostSentimentalLines, {
+            negative: _.extend(
+              _.pick(sentimentality, 'score', 'comparative'),
+              { line: sentence }
+            )
+          });
         }
 
-        usedWords[word]++;
+        // Naive attempt for most positive line
+        if(!mostSentimentalLines.positive ||
+          sentimentality.score > mostSentimentalLines.positive.score) {
+          
+          _.extend(mostSentimentalLines, {
+            positive: _.extend(
+              _.pick(sentimentality, 'score', 'comparative'),
+              { line: sentence }
+            )
+          });
+        }
       });
     });
-
+    
     // create new tfidf corpus for speaker
     tfidf = new TfIdf();
     // each response from the speaker is considered a document
@@ -83,6 +139,8 @@ _.each(debates, function(debate) {
 
       totalWords: totalWords,
       speakingTime: Math.round(totalWords/WPM),
+
+      emotionalLines: mostSentimentalLines,
 
       averageWordUsage: _.pick(
         _.mapValues(usedWords, function(count) {
@@ -114,7 +172,9 @@ _.each(debates, function(debate) {
             return val[1];
           }
         ).reverse() // issue relevance to most important terms (via website issue -> tfidf)
-      )
+      ),
+
+      callouts: callouts
     });
   });
   
