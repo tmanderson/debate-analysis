@@ -5,16 +5,17 @@ Analyzing some language from the 2016 presidential debates. The reports can be v
 ### Reports:
 | Debate Date      | Report   |
 | ---------------- | -------- |
-| October 13, 2015 | [Democratic Debate #1](reports/democratic-debate-2015-10-13.md) |
-| August 6, 2015   | [Republican Debate #1](reports/republican-debate-2015-08-06.md) (2 of 2)|
-| September 16, 2015   | [Republican Debate #1](reports/republican-debate-2015-09-16.md) (1 of 2) |
+| August 6, 2015   | [Republican Debate #1](reports/republican-debate-1-2015-08-06.json) (1 of 2)|
+| August 6, 2015   | [Republican Debate #1](reports/republican-debate-2-2015-08-06.json) (2 of 2)|
+| September 16, 2015   | [Republican Debate #1](reports/republican-debate-1-2015-09-16.json) (1 of 2) |
+| September 16, 2015   | [Republican Debate #1](reports/republican-debate-2-2015-09-16.json) (2 of 2) |
+| October 13, 2015 | [Democratic Debate #1](reports/democratic-debate-2015-10-13.json) |
 
 ### Points of Analysis:
 - Total words spoken
 - Articulation (unique words against total spoken)
-- Issue importance (per claimed issues, per debate presented issue)
+- Issue importance (per claimed issues, per debate presented issue via **TFIDF**)
 - Estimated speaking time
-- Inter-party-related negative and positive statements (pointing fingers, name-calling, etc...)
 
 ### Log
 #### 10-18-2015
@@ -22,5 +23,6 @@ In parsing Hillary's site was the by far the worst. I managed to get every other
 
 ### TODO:
 - [x] Finish Democrat campaign website parser
-- [ ] Finish Republican campaign website parser (only a few more...)
-- [ ] Word counts (per issue, overall responses)
+- [x] Finish Republican campaign website parser (only a few more...)
+- [x] Word counts (per issue, overall responses)
+- [ ] STATS: Inter-party-related negative and positive statements (pointing fingers, name-calling, etc...)
