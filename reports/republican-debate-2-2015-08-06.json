@@ -52,13 +52,13 @@
       "emotionalLines": {
         "negative": {
           "score": -7,
-          "comparative": -0.10606060606060606,
-          "line": "But when you have people that are cutting Christians ’ heads off , when you have a world that the border and at so many places , that it is medieval times , we ’ ve never — it almost has to be as bad as it ever was in terms of the violence and the horror , we don ’ t have time for tone."
+          "comparative": -0.11290322580645161,
+          "line": "But when you have people that are cutting Christians ’ heads off, when you have a world that the border and at so many places, that it is medieval times, we ’ ve never — it almost has to be as bad as it ever was in terms of the violence and the horror, we don ’ t have time for tone."
         },
         "positive": {
           "score": 9,
-          "comparative": 0.20930232558139536,
-          "line": "I have to respect the person that , if it ’ s not me , the person that wins , if I do win , and I ’ m leading by quite a bit , that ’ s what I want to do."
+          "comparative": 0.23684210526315788,
+          "line": "I have to respect the person that, if it ’ s not me, the person that wins, if I do win, and I ’ m leading by quite a bit, that ’ s what I want to do."
         }
       },
       "averageWordUsage": {
@@ -122,33 +122,33 @@
           "total": 4,
           "sentiment": -3,
           "lines": [
-            "So , if it weren ’ t for me , you wouldn ’ t even be talking about illegal immigration , Chris.",
-            "Chris , hundreds and hundreds of deals.",
-            ", ( LAUGHTER ) , ( APPLAUSE ) ,You know , I mean you ’ re living in a world of the make-believe , Chris , you want to know the truth.",
-            "Every company , Chris can tell you , every company virtually in Atlantic City went bankrupt."
+            "So, if it weren ’ t for me, you wouldn ’ t even be talking about illegal immigration, Chris.",
+            "Chris, hundreds and hundreds of deals.",
+            ", ( LAUGHTER ), ( APPLAUSE ),You know, I mean you ’ re living in a world of the make-believe, Chris, you want to know the truth.",
+            "Every company, Chris can tell you, every company virtually in Atlantic City went bankrupt."
           ]
         },
         "jeb bush": {
           "total": 2,
           "sentiment": 3,
           "lines": [
-            "But we need , Jeb , to build a wall , we need to keep illegals out.",
-            "First of all , Jeb , I am very happy that you denied that , and I appreciate that very much."
+            "But we need, Jeb, to build a wall, we need to keep illegals out.",
+            "First of all, Jeb, I am very happy that you denied that, and I appreciate that very much."
           ]
         },
         "donald trump": {
           "total": 2,
           "sentiment": 0,
           "lines": [
-            "— Donald , if you...",
-            "When I use it , they say , “ Trump , Trump , Trump."
+            "— Donald, if you...",
+            "When I use it, they say, “ Trump, Trump, Trump."
           ]
         },
         "hillary clinton": {
           "total": 1,
           "sentiment": 0,
           "lines": [
-            "Well , I ’ ll tell you what , with Hillary Clinton , I said be at my wedding and she came to my wedding.,You"
+            "Well, I ’ ll tell you what, with Hillary Clinton, I said be at my wedding and she came to my wedding.,You"
           ]
         }
       }
@@ -160,13 +160,13 @@
       "emotionalLines": {
         "negative": {
           "score": -4,
-          "comparative": -0.14285714285714285,
-          "line": "Each one of my budgets has taken a meat axe to foreign aid , because I think we ought to quit sending it to countries that hate us."
+          "comparative": -0.14814814814814814,
+          "line": "Each one of my budgets has taken a meat axe to foreign aid, because I think we ought to quit sending it to countries that hate us."
         },
         "positive": {
           "score": 7,
-          "comparative": 0.2916666666666667,
-          "line": "I know you gave him a big hug , and if you want to give him a big hug again , go right ahead."
+          "comparative": 0.3181818181818182,
+          "line": "I know you gave him a big hug, and if you want to give him a big hug again, go right ahead."
         }
       },
       "averageWordUsage": {
@@ -230,17 +230,17 @@
           "total": 3,
           "sentiment": 8,
           "lines": [
-            "So if he doesn ’ t run as a Republican , maybe he supports Clinton , or maybe he runs as an independent..",
-            "I ’ ve been fighting amidst a lot of opposition from both Hillary Clinton , as well as some Republicans who wanted to send arms to the allies of ISIS.",
-            "I ’ ve been to Ferguson , I ’ ve been to Baltimore , because I want our party to be bigger , better and bolder , and I ’ m the only one that leads Hillary Clinton in five states that were won by President Obama."
+            "So if he doesn ’ t run as a Republican, maybe he supports Clinton, or maybe he runs as an independent..",
+            "I ’ ve been fighting amidst a lot of opposition from both Hillary Clinton, as well as some Republicans who wanted to send arms to the allies of ISIS.",
+            "I ’ ve been to Ferguson, I ’ ve been to Baltimore, because I want our party to be bigger, better and bolder, and I ’ m the only one that leads Hillary Clinton in five states that were won by President Obama."
           ]
         },
         "john kasich": {
           "total": 2,
           "sentiment": 1,
           "lines": [
-            "John Adams said it was the spark that led to our war for independence , and I ’ m proud of standing for the Bill of Rights , and I will continue to stand for the Bill of Rights.",
-            "I asked this question to John Kerry , I said “ do you believe they ’ re trustworthy ?"
+            "John Adams said it was the spark that led to our war for independence, and I ’ m proud of standing for the Bill of Rights, and I will continue to stand for the Bill of Rights.",
+            "I asked this question to John Kerry, I said “ do you believe they ’ re trustworthy?"
           ]
         }
       }
@@ -252,13 +252,13 @@
       "emotionalLines": {
         "negative": {
           "score": -6,
-          "comparative": -0.10526315789473684,
-          "line": "If I was trying to destroy this country , what I would do is find a way to drive wedges between all the people , drive the debt to an unsustainable level , and then step off the stage as a world leader and let our enemies increase while we decreased our capacity as a military person."
+          "comparative": -0.1111111111111111,
+          "line": "If I was trying to destroy this country, what I would do is find a way to drive wedges between all the people, drive the debt to an unsustainable level, and then step off the stage as a world leader and let our enemies increase while we decreased our capacity as a military person."
         },
         "positive": {
           "score": 6,
-          "comparative": 0.1276595744680851,
-          "line": ", ( LAUGHTER ) ,But I — but I ’ m very hopeful that I ’ m not the only onel who ’ s willing to pick up the baton of freedom , because freedom is not free , and we must fight for it every day."
+          "comparative": 0.13636363636363635,
+          "line": ", ( LAUGHTER ),But I — but I ’ m very hopeful that I ’ m not the only onel who ’ s willing to pick up the baton of freedom, because freedom is not free, and we must fight for it every day."
         }
       },
       "averageWordUsage": {
@@ -329,14 +329,14 @@
           "total": 1,
           "sentiment": -2,
           "lines": [
-            "The left , of course , will say Carson doesn ’ t believe in the Geneva Convention , Carson doesn ’ t believe in fighting stupid wars."
+            "The left, of course, will say Carson doesn ’ t believe in the Geneva Convention, Carson doesn ’ t believe in fighting stupid wars."
           ]
         },
         "hillary clinton": {
           "total": 1,
           "sentiment": 2,
           "lines": [
-            "If Hillary is the candidate , which I doubt , that would be a dream come true."
+            "If Hillary is the candidate, which I doubt, that would be a dream come true."
           ]
         }
       }
@@ -417,75 +417,75 @@
           "total": 3,
           "sentiment": 6,
           "lines": [
-            "Well , thank you for the question , Chris , and it ’ s great to be here tonight.",
-            "A frequent target of Christie and Rubio , Paul is apt to become a target in the debate , and he has a habit of growing prickly when challenged.",
-            "Still tarnished by Bridgegate and distrusted by the party ’ s conservative wing , Christie will be looking for a spot to showcase his brash personality."
+            "Well, thank you for the question, Chris, and it ’ s great to be here tonight.",
+            "A frequent target of Christie and Rubio, Paul is apt to become a target in the debate, and he has a habit of growing prickly when challenged.",
+            "Still tarnished by Bridgegate and distrusted by the party ’ s conservative wing, Christie will be looking for a spot to showcase his brash personality."
           ]
         },
         "hillary clinton": {
           "total": 5,
           "sentiment": 2,
           "lines": [
-            "It ’ s important to be qualified , but if this election is a resume competition , then Hillary Clinton ’ s gon na be the next president , because she ’ s been in office and in government longer than anybody else running here tonight.,Here",
-            "I ’ m our nominee , how is Hillary Clinton gon na lecture me about living paycheck to paycheck ?",
-            "His pitch is that he is the adult conservative tough enough to take on Hillary Clinton , but with a sunny tone that broadens the party ’ s appeal.",
-            "The lone woman in the field , Fiorina has proven herself a caustic and effective Hillary Clinton critic.",
-            "She needs to show she has the gravitas , not just the one-liners , to take on Clinton.,The"
+            "It ’ s important to be qualified, but if this election is a resume competition, then Hillary Clinton ’ s gon na be the next president, because she ’ s been in office and in government longer than anybody else running here tonight.,Here",
+            "I ’ m our nominee, how is Hillary Clinton gon na lecture me about living paycheck to paycheck?",
+            "His pitch is that he is the adult conservative tough enough to take on Hillary Clinton, but with a sunny tone that broadens the party ’ s appeal.",
+            "The lone woman in the field, Fiorina has proven herself a caustic and effective Hillary Clinton critic.",
+            "She needs to show she has the gravitas, not just the one-liners, to take on Clinton.,The"
           ]
         },
         "donald trump": {
           "total": 9,
           "sentiment": -3,
           "lines": [
-            "Trump has no experience as a debater , an extremely thin skin and a taste for schoolyard insults.",
+            "Trump has no experience as a debater, an extremely thin skin and a taste for schoolyard insults.",
             "Trump knows better than anyone how to roll out a new product.",
-            "In a spectacle dominated by Trump , Bush wants to come off as cool , collected and informed.",
-            "If he gets pushed around by Trump or fails to make an impact , then his allies may start burning their television ad money on early states sooner than he would have hoped.,The",
-            "Look for him to make bold statements of principle , while avoiding direct attacks on Trump and Carson.,The",
+            "In a spectacle dominated by Trump, Bush wants to come off as cool, collected and informed.",
+            "If he gets pushed around by Trump or fails to make an impact, then his allies may start burning their television ad money on early states sooner than he would have hoped.,The",
+            "Look for him to make bold statements of principle, while avoiding direct attacks on Trump and Carson.,The",
             "A tussle with Trump could be in the cards.,With",
-            "At the center of the undercard , the former Texas governor gets the benefits of more airtime and a Trump-free environment to continue his political resurrection after his disastrous 2012 campaign.",
+            "At the center of the undercard, the former Texas governor gets the benefits of more airtime and a Trump-free environment to continue his political resurrection after his disastrous 2012 campaign.",
             "Beating up on Donald Trump will not be enough to get him to the big boy table in September.,The",
-            "Staking out a position as a moderate , Pataki been an ardent Trump critics."
+            "Staking out a position as a moderate, Pataki been an ardent Trump critics."
           ]
         },
         "jeb bush": {
           "total": 3,
           "sentiment": 4,
           "lines": [
-            "In a spectacle dominated by Trump , Bush wants to come off as cool , collected and informed.",
-            "The Florida senator wants to avoid confrontation and continue to position himself as a consensus second choice for now , hoping that he can take advantage if Bush and Walker stumble.",
-            "Kasich needs to keep the momentum going in a home-state debate , and carve out a niche as an establishment-friendly , grownup alternative to Bush."
+            "In a spectacle dominated by Trump, Bush wants to come off as cool, collected and informed.",
+            "The Florida senator wants to avoid confrontation and continue to position himself as a consensus second choice for now, hoping that he can take advantage if Bush and Walker stumble.",
+            "Kasich needs to keep the momentum going in a home-state debate, and carve out a niche as an establishment-friendly, grownup alternative to Bush."
           ]
         },
         "ben carson": {
           "total": 2,
           "sentiment": 0,
           "lines": [
-            "Look for him to make bold statements of principle , while avoiding direct attacks on Trump and Carson.,The",
-            "Carson retains a cadre of die-hard supporters , but onstage he ’ ll have to prove that his candidacy is more than a fading fad."
+            "Look for him to make bold statements of principle, while avoiding direct attacks on Trump and Carson.,The",
+            "Carson retains a cadre of die-hard supporters, but onstage he ’ ll have to prove that his candidacy is more than a fading fad."
           ]
         },
         "marco rubio": {
           "total": 2,
           "sentiment": 1,
           "lines": [
-            "of the most popular candidates in the field , Rubio is running a tortoise campaign , intentionally flying under the radar as rivals damage their appeal with constant skirmishing.",
-            "A frequent target of Christie and Rubio , Paul is apt to become a target in the debate , and he has a habit of growing prickly when challenged."
+            "of the most popular candidates in the field, Rubio is running a tortoise campaign, intentionally flying under the radar as rivals damage their appeal with constant skirmishing.",
+            "A frequent target of Christie and Rubio, Paul is apt to become a target in the debate, and he has a habit of growing prickly when challenged."
           ]
         },
         "rand paul": {
           "total": 2,
           "sentiment": 4,
           "lines": [
-            "A frequent target of Christie and Rubio , Paul is apt to become a target in the debate , and he has a habit of growing prickly when challenged.",
-            "Slipping in the polls , Paul can give his candidacy a much-needed boost with a strong showing."
+            "A frequent target of Christie and Rubio, Paul is apt to become a target in the debate, and he has a habit of growing prickly when challenged.",
+            "Slipping in the polls, Paul can give his candidacy a much-needed boost with a strong showing."
           ]
         },
         "john kasich": {
           "total": 2,
           "sentiment": 1,
           "lines": [
-            "Kasich needs to keep the momentum going in a home-state debate , and carve out a niche as an establishment-friendly , grownup alternative to Bush.",
+            "Kasich needs to keep the momentum going in a home-state debate, and carve out a niche as an establishment-friendly, grownup alternative to Bush.",
             "But I agree with what Governor Kasich just said."
           ]
         },
@@ -493,14 +493,14 @@
           "total": 1,
           "sentiment": 0,
           "lines": [
-            "The lone woman in the field , Fiorina has proven herself a caustic and effective Hillary Clinton critic."
+            "The lone woman in the field, Fiorina has proven herself a caustic and effective Hillary Clinton critic."
           ]
         },
         "bobby jindal": {
           "total": 1,
           "sentiment": 3,
           "lines": [
-            "Jindal , a Rhodes Scholar , should do better Thursday night , but his Iowa-centric campaign has a long way to go to reach relevance."
+            "Jindal, a Rhodes Scholar, should do better Thursday night, but his Iowa-centric campaign has a long way to go to reach relevance."
           ]
         },
         "mike huckabee": {
@@ -514,21 +514,21 @@
           "total": 1,
           "sentiment": 3,
           "lines": [
-            "’ s quick with a quip and seasoned from his debates in the Senate , but Graham ’ s taste for bipartisan cooperation on issues like immigration makes him tough fit for the GOP base."
+            "’ s quick with a quip and seasoned from his debates in the Senate, but Graham ’ s taste for bipartisan cooperation on issues like immigration makes him tough fit for the GOP base."
           ]
         },
         "george pataki": {
           "total": 1,
           "sentiment": -1,
           "lines": [
-            "Staking out a position as a moderate , Pataki been an ardent Trump critics."
+            "Staking out a position as a moderate, Pataki been an ardent Trump critics."
           ]
         },
         "jim gilmore": {
           "total": 1,
           "sentiment": 3,
           "lines": [
-            "But Gilmore is barely above zero in those surveys , and has no strong base of support."
+            "But Gilmore is barely above zero in those surveys, and has no strong base of support."
           ]
         }
       }
@@ -540,13 +540,13 @@
       "emotionalLines": {
         "negative": {
           "score": -6,
-          "comparative": -0.2222222222222222,
-          "line": ", every one of them said that their child did not die in vain , or their wife , of their husband did not die in vain.,So"
+          "comparative": -0.24,
+          "line": ", every one of them said that their child did not die in vain, or their wife, of their husband did not die in vain.,So"
         },
         "positive": {
           "score": 8,
-          "comparative": 0.5,
-          "line": "We ’ re going to win when we unite people with a hopeful , optimistic message."
+          "comparative": 0.5333333333333333,
+          "line": "We ’ re going to win when we unite people with a hopeful, optimistic message."
         }
       },
       "averageWordUsage": {
@@ -615,14 +615,14 @@
           "total": 1,
           "sentiment": 0,
           "lines": [
-            "In Florida , they called me Jeb , because I earned it.,I"
+            "In Florida, they called me Jeb, because I earned it.,I"
           ]
         },
         "hillary clinton": {
           "total": 2,
           "sentiment": 4,
           "lines": [
-            "This president and Hillary Clinton , who can ’ t even say she ’ s for the X.L.",
+            "This president and Hillary Clinton, who can ’ t even say she ’ s for the X.L.",
             "’ re not going on win by doing what Barack Obama and Hillary Clinton do each and every day."
           ]
         },
@@ -653,8 +653,8 @@
         },
         "positive": {
           "score": 8,
-          "comparative": 0.36363636363636365,
-          "line": "are real differences among the candidates on issues like amnesty , like Obamacare , like religious liberty , like life and marriage."
+          "comparative": 0.42105263157894735,
+          "line": "are real differences among the candidates on issues like amnesty, like Obamacare, like religious liberty, like life and marriage."
         }
       },
       "averageWordUsage": {
@@ -703,15 +703,15 @@
           "total": 2,
           "sentiment": 1,
           "lines": [
-            "Chris , I believe the American people are looking for someone to speak the truth.",
-            "Chris , absolutely yes."
+            "Chris, I believe the American people are looking for someone to speak the truth.",
+            "Chris, absolutely yes."
           ]
         },
         "hillary clinton": {
           "total": 1,
           "sentiment": 0,
           "lines": [
-            "Well , Bret , of course they have , and over the last six and a half years we ’ ve seen the consequences of the Obama-Clinton foreign policy."
+            "Well, Bret, of course they have, and over the last six and a half years we ’ ve seen the consequences of the Obama-Clinton foreign policy."
           ]
         }
       }
@@ -723,13 +723,13 @@
       "emotionalLines": {
         "negative": {
           "score": -5,
-          "comparative": -0.2777777777777778,
-          "line": "need to go at the fundamental problem , and the fundamental problem is that this system is broken."
+          "comparative": -0.29411764705882354,
+          "line": "need to go at the fundamental problem, and the fundamental problem is that this system is broken."
         },
         "positive": {
           "score": 4,
-          "comparative": 0.14285714285714285,
-          "line": ", ( APPLAUSE ) ,When you ’ re responsible for protecting the lives of the American people , then what you need to do is to make sure.."
+          "comparative": 0.15384615384615385,
+          "line": ", ( APPLAUSE ),When you ’ re responsible for protecting the lives of the American people, then what you need to do is to make sure.."
         }
       },
       "averageWordUsage": {
@@ -793,16 +793,16 @@
           "total": 1,
           "sentiment": 0,
           "lines": [
-            "was appointed U.S. attorney by President Bush on September 10th , 2001 , and the world changed enormously the next day , and that happened in my state.,This"
+            "was appointed U.S. attorney by President Bush on September 10th, 2001, and the world changed enormously the next day, and that happened in my state.,This"
           ]
         },
         "rand paul": {
           "total": 3,
           "sentiment": -1,
           "lines": [
-            "And you know — you know , Senator Paul ?",
-            "Senator Paul , you know , the hugs that I remember are the hugs that I gave to the families who lost their people on September 11th.,Those",
-            "And as we move towards dealing with foreign aid , I don ’ t disagree with Senator Paul ’ s position that we shouldn ’ t be funding our enemies."
+            "And you know — you know, Senator Paul?",
+            "Senator Paul, you know, the hugs that I remember are the hugs that I gave to the families who lost their people on September 11th.,Those",
+            "And as we move towards dealing with foreign aid, I don ’ t disagree with Senator Paul ’ s position that we shouldn ’ t be funding our enemies."
           ]
         },
         "ben carson": {
@@ -821,13 +821,13 @@
       "emotionalLines": {
         "negative": {
           "score": -4,
-          "comparative": -0.18181818181818182,
-          "line": "It was the federal government , who continually put mandates on the states that we had to suck up and pay for.,And"
+          "comparative": -0.19047619047619047,
+          "line": "It was the federal government, who continually put mandates on the states that we had to suck up and pay for.,And"
         },
         "positive": {
           "score": 7,
-          "comparative": 0.4666666666666667,
-          "line": "’ ll be my best to do that , and thank you for your support."
+          "comparative": 0.5,
+          "line": "’ ll be my best to do that, and thank you for your support."
         }
       },
       "averageWordUsage": {
@@ -875,14 +875,14 @@
           "total": 1,
           "sentiment": 0,
           "lines": [
-            "Chris , I disagree with the idea that the real issue is a constitutional amendment."
+            "Chris, I disagree with the idea that the real issue is a constitutional amendment."
           ]
         },
         "hillary clinton": {
           "total": 1,
           "sentiment": -3,
           "lines": [
-            "person who has been filled with scandals , and who could not lead , and , of course , I ’ m talking about Hillary Clinton."
+            "person who has been filled with scandals, and who could not lead, and, of course, I ’ m talking about Hillary Clinton."
           ]
         }
       }
@@ -894,13 +894,13 @@
       "emotionalLines": {
         "negative": {
           "score": -4,
-          "comparative": -0.08163265306122448,
-          "line": "And , finally , the working poor , instead of them having come into the emergency rooms where it costs more , where they ’ re sicker and we end up paying , we brought a program in here to make sure that people could get on their feet.,And"
+          "comparative": -0.09090909090909091,
+          "line": "And, finally, the working poor, instead of them having come into the emergency rooms where it costs more, where they ’ re sicker and we end up paying, we brought a program in here to make sure that people could get on their feet.,And"
         },
         "positive": {
           "score": 9,
-          "comparative": 0.15789473684210525,
-          "line": "I think the simple fact of the matter is , and this is where I would agree with Jeb , and I ’ ve been saying it all along , we need to give everybody a chance , treat everybody with respect , and let them share in this great American dream that we have , Megan."
+          "comparative": 0.17647058823529413,
+          "line": "I think the simple fact of the matter is, and this is where I would agree with Jeb, and I ’ ve been saying it all along, we need to give everybody a chance, treat everybody with respect, and let them share in this great American dream that we have, Megan."
         }
       },
       "averageWordUsage": {
@@ -975,14 +975,14 @@
           "total": 1,
           "sentiment": 0,
           "lines": [
-            "Chris , first of all , I was just saying to Chris Christie , they say we ’ re outspoken , we need to take lessons from Donald Trump if we ’ re really going to learn it."
+            "Chris, first of all, I was just saying to Chris Christie, they say we ’ re outspoken, we need to take lessons from Donald Trump if we ’ re really going to learn it."
           ]
         },
         "donald trump": {
           "total": 4,
           "sentiment": 1,
           "lines": [
-            "Chris , first of all , I was just saying to Chris Christie , they say we ’ re outspoken , we need to take lessons from Donald Trump if we ’ re really going to learn it.",
+            "Chris, first of all, I was just saying to Chris Christie, they say we ’ re outspoken, we need to take lessons from Donald Trump if we ’ re really going to learn it.",
             "Here is the thing about Donald Trump.",
             "Donald Trump is hitting a nerve in this country.",
             "Mr. Trump is touching a nerve because people want the wall to be built."
@@ -992,7 +992,7 @@
           "total": 1,
           "sentiment": 9,
           "lines": [
-            "I think the simple fact of the matter is , and this is where I would agree with Jeb , and I ’ ve been saying it all along , we need to give everybody a chance , treat everybody with respect , and let them share in this great American dream that we have , Megan."
+            "I think the simple fact of the matter is, and this is where I would agree with Jeb, and I ’ ve been saying it all along, we need to give everybody a chance, treat everybody with respect, and let them share in this great American dream that we have, Megan."
           ]
         }
       }
@@ -1010,7 +1010,7 @@
         "positive": {
           "score": 0,
           "comparative": 0,
-          "line": ", our allies are not perfect , but Iran is at the heart of most of the evil that is going on in the Middle East through their proxy."
+          "line": ", our allies are not perfect, but Iran is at the heart of most of the evil that is going on in the Middle East through their proxy."
         }
       },
       "averageWordUsage": {

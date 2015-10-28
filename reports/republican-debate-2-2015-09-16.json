@@ -52,13 +52,13 @@
       "emotionalLines": {
         "negative": {
           "score": -8,
-          "comparative": -0.16,
-          "line": "And , that when we go to war , we go to war in a constitutional way , which means that we have to vote on it , that war is initiated by congress , not by the president , that we go to war electively ( ph ) ."
+          "comparative": -0.18604651162790697,
+          "line": "And, that when we go to war, we go to war in a constitutional way, which means that we have to vote on it, that war is initiated by congress, not by the president, that we go to war electively ( ph )."
         },
         "positive": {
           "score": 6,
-          "comparative": 0.23076923076923078,
-          "line": "[ laughter ] One of the greatest — one of the greatest medical discoveries of all times was — were the vaccines , particularly for smallpox."
+          "comparative": 0.24,
+          "line": "[ laughter ] One of the greatest — one of the greatest medical discoveries of all times was — were the vaccines, particularly for smallpox."
         }
       },
       "averageWordUsage": {
@@ -143,40 +143,40 @@
           "total": 2,
           "sentiment": -4,
           "lines": [
-            "I think really there 's a sophomoric quality that is entertaining about Mr. Trump , but I am worried.",
-            "Well , I hate to say it , but Donald Trump has a bit of a point here."
+            "I think really there's a sophomoric quality that is entertaining about Mr. Trump, but I am worried.",
+            "Well, I hate to say it, but Donald Trump has a bit of a point here."
           ]
         },
         "carly fiorina": {
           "total": 2,
           "sentiment": 4,
           "lines": [
-            "Carly Fiorina also said we 're not going to talk with Putin.",
-            "You know , I 'm big on — that we were — and I love what Carly said about women 's suffrage."
+            "Carly Fiorina also said we're not going to talk with Putin.",
+            "You know, I'm big on — that we were — and I love what Carly said about women's suffrage."
           ]
         },
         "hillary clinton": {
           "total": 2,
           "sentiment": 3,
           "lines": [
-            "Had we bombed Assad at the time , like President Obama wanted , and like Hillary Clinton wanted and many Republicans wanted , I think ISIS would be in Damascus today.",
-            "There will always be a Bush or Clinton for you , if you want to go back to war in Iraq."
+            "Had we bombed Assad at the time, like President Obama wanted, and like Hillary Clinton wanted and many Republicans wanted, I think ISIS would be in Damascus today.",
+            "There will always be a Bush or Clinton for you, if you want to go back to war in Iraq."
           ]
         },
         "jeb bush": {
           "total": 3,
           "sentiment": -6,
           "lines": [
-            "Originally , Governor Bush was asked , was the Iraq War a mistake , and he said , \" No. We 'd do it again.",
-            "There will always be a Bush or Clinton for you , if you want to go back to war in Iraq.",
-            "The thing is , is that in Florida , Governor Bush campaigned against medical marijuana."
+            "Originally, Governor Bush was asked, was the Iraq War a mistake, and he said,\" No. We'd do it again.",
+            "There will always be a Bush or Clinton for you, if you want to go back to war in Iraq.",
+            "The thing is, is that in Florida, Governor Bush campaigned against medical marijuana."
           ]
         },
         "chris christie": {
           "total": 1,
           "sentiment": 0,
           "lines": [
-            "Governor Christie would go into Colorado , and if you 're breaking any federal law on marijuana , even though the state law allows it , he would put you in jail."
+            "Governor Christie would go into Colorado, and if you're breaking any federal law on marijuana, even though the state law allows it, he would put you in jail."
           ]
         },
         "george pataki": {
@@ -195,13 +195,13 @@
       "emotionalLines": {
         "negative": {
           "score": -5,
-          "comparative": -0.25,
-          "line": "This threatens Israel immediately , this threatens the entire Middle East , but it threatens the United States of America."
+          "comparative": -0.2777777777777778,
+          "line": "This threatens Israel immediately, this threatens the entire Middle East, but it threatens the United States of America."
         },
         "positive": {
           "score": 15,
-          "comparative": 0.32608695652173914,
-          "line": "I love the idea of a good intellectual capacity to deal with our enemies , but the fact is , if you do n't have good intelligence that is reliable and honest , you wo n't have good intelligence and you can not make good decisions."
+          "comparative": 0.3488372093023256,
+          "line": "I love the idea of a good intellectual capacity to deal with our enemies, but the fact is, if you do n't have good intelligence that is reliable and honest, you wo n't have good intelligence and you can not make good decisions."
         }
       },
       "averageWordUsage": {
@@ -263,7 +263,7 @@
           "total": 1,
           "sentiment": 0,
           "lines": [
-            "I 'm Mike Huckabee."
+            "I'm Mike Huckabee."
           ]
         },
         "jeb bush": {
@@ -271,14 +271,14 @@
           "sentiment": -2,
           "lines": [
             "Jeb is a friend.",
-            "I 'm not up here to fight with Jeb or to fight with anybody else."
+            "I'm not up here to fight with Jeb or to fight with anybody else."
           ]
         },
         "john kasich": {
           "total": 1,
           "sentiment": 0,
           "lines": [
-            "John Kennedy said , \" we 'll go to the moon in a decade and bring a man back , \" and we did it."
+            "John Kennedy said,\" we'll go to the moon in a decade and bring a man back,\" and we did it."
           ]
         }
       }
@@ -290,13 +290,13 @@
       "emotionalLines": {
         "negative": {
           "score": -7,
-          "comparative": -0.3888888888888889,
-          "line": "A gangster in Moscow is not just threatening Europe , he 's threatening to destroy and divide NATO."
+          "comparative": -0.4375,
+          "line": "A gangster in Moscow is not just threatening Europe, he's threatening to destroy and divide NATO."
         },
         "positive": {
           "score": 14,
-          "comparative": 0.3181818181818182,
-          "line": "You ca n't have a strong country without strong people , you can not have strong people without strong values , and you can not have strong values without strong families and the institutions in this country that defend and support those families ."
+          "comparative": 0.34146341463414637,
+          "line": "You ca n't have a strong country without strong people, you can not have strong people without strong values, and you can not have strong values without strong families and the institutions in this country that defend and support those families."
         }
       },
       "averageWordUsage": {
@@ -367,28 +367,28 @@
           "sentiment": 2,
           "lines": [
             "Thank you. My name is Marco Rubio.",
-            "Senator Rubio , you mean ?"
+            "Senator Rubio, you mean?"
           ]
         },
         "john kasich": {
           "total": 1,
           "sentiment": -2,
           "lines": [
-            "It shows the Ayatollah Khamenei saying , \" Death to all Americans , \" and then it shows John Kerry coming back , saying , \" Can we meet ya half way ?"
+            "It shows the Ayatollah Khamenei saying,\" Death to all Americans,\" and then it shows John Kerry coming back, saying,\" Can we meet ya half way?"
           ]
         },
         "hillary clinton": {
           "total": 1,
-          "sentiment": -2,
+          "sentiment": -4,
           "lines": [
-            "And I 'll tell you , I ca n't wait to stand on that debate stage with Hillary Clinton and to make abundantly clear if you vote for Hillary , you are voting for the Ayatollah Khomeini to possess a nuclear weapon and if you elect me as president , under no circumstances will a theocratic ayatollah who chants death to America ever be allowed to acquire a nuclear weapon."
+            "And I'll tell you, I ca n't wait to stand on that debate stage with Hillary Clinton and to make abundantly clear if you vote for Hillary, you are voting for the Ayatollah Khomeini to possess a nuclear weapon and if you elect me as president, under no circumstances will a theocratic ayatollah who chants death to America ever be allowed to acquire a nuclear weapon."
           ]
         },
         "donald trump": {
           "total": 1,
-          "sentiment": -2,
+          "sentiment": -4,
           "lines": [
-            "And you 're right , I have missed some votes , and I 'll tell you why , Mr. Trump."
+            "And you're right, I have missed some votes, and I'll tell you why, Mr. Trump."
           ]
         }
       }
@@ -398,14 +398,14 @@
       "speakingTime": 9,
       "emotionalLines": {
         "negative": {
-          "score": -6,
-          "comparative": -0.42857142857142855,
-          "line": "Weakness is provocative , and this Iranian nuclear deal is nothing short of catastrophic."
+          "score": -7,
+          "comparative": -0.14,
+          "line": "Absolutely we should n't be sending $ 500 million of taxpayer money to funding an ongoing criminal enterprise, and I'll tell you, the fact that Republican leadership in both houses has begun this discussion by preemptively surrendering to Barack Obama and saying,\" we'll give in because Obama threatens a veto."
         },
         "positive": {
           "score": 5,
-          "comparative": 0.3333333333333333,
-          "line": "We keep winning elections , and then we do n't get the outcome we want."
+          "comparative": 0.35714285714285715,
+          "line": "We keep winning elections, and then we do n't get the outcome we want."
         }
       },
       "averageWordUsage": {
@@ -462,7 +462,7 @@
           "total": 1,
           "sentiment": -1,
           "lines": [
-            "Well , Jake , you know , I 'm — I 'm very glad that Donald Trump 's being in this race has forced the mainstream media finally to talk about illegal immigration."
+            "Well, Jake, you know, I'm — I'm very glad that Donald Trump's being in this race has forced the mainstream media finally to talk about illegal immigration."
           ]
         },
         "ben carson": {
@@ -476,12 +476,12 @@
           "total": 6,
           "sentiment": 1,
           "lines": [
-            "Well , Dana , I 've known John Roberts for 20 years , he 's amazingly talented lawyer , but , yes , it was a mistake when he was appointed to the Supreme Court.",
-            "And then in 2005 , in one room was John Roberts , in another room was my former boss , Mike Luttig , the rock ribbed ( ph ) conservative on the Fourth Circuit Court of Appeals..",
-            "...George W. Bush appointed John Roberts , and let me give you the consequences of that.",
-            "Bush nominated John Roberts , I supported his confirmation.",
-            "I would n't have nominated John Roberts , and indeed , Governor Bush pointed out why.",
-            "Both David Souter and John Roberts , they did n't have a long paper trail."
+            "Well, Dana, I've known John Roberts for 20 years, he's amazingly talented lawyer, but, yes, it was a mistake when he was appointed to the Supreme Court.",
+            "And then in 2005, in one room was John Roberts, in another room was my former boss, Mike Luttig, the rock ribbed ( ph ) conservative on the Fourth Circuit Court of Appeals..",
+            "...George W. Bush appointed John Roberts, and let me give you the consequences of that.",
+            "Bush nominated John Roberts, I supported his confirmation.",
+            "I would n't have nominated John Roberts, and indeed, Governor Bush pointed out why.",
+            "Both David Souter and John Roberts, they did n't have a long paper trail."
           ]
         },
         "george pataki": {
@@ -489,7 +489,7 @@
           "sentiment": 2,
           "lines": [
             "George Herbert Walker Bush appointed David Souter.",
-            "...George W. Bush appointed John Roberts , and let me give you the consequences of that.",
+            "...George W. Bush appointed John Roberts, and let me give you the consequences of that.",
             "It is true that after George W."
           ]
         },
@@ -498,18 +498,18 @@
           "sentiment": 1,
           "lines": [
             "George Herbert Walker Bush appointed David Souter.",
-            "...George W. Bush appointed John Roberts , and let me give you the consequences of that.",
-            "If , instead , the President Bush had appointed Edith Jones , and Mike Luttig , which is who I would have appointed , Obamacare would have been struck down three years ago , and the marriage laws of all 50 states would be on the books.",
-            "Bush nominated John Roberts , I supported his confirmation.",
-            "I would n't have nominated John Roberts , and indeed , Governor Bush pointed out why."
+            "...George W. Bush appointed John Roberts, and let me give you the consequences of that.",
+            "If, instead, the President Bush had appointed Edith Jones, and Mike Luttig, which is who I would have appointed, Obamacare would have been struck down three years ago, and the marriage laws of all 50 states would be on the books.",
+            "Bush nominated John Roberts, I supported his confirmation.",
+            "I would n't have nominated John Roberts, and indeed, Governor Bush pointed out why."
           ]
         },
         "mike huckabee": {
           "total": 3,
           "sentiment": -3,
           "lines": [
-            "And then in 2005 , in one room was John Roberts , in another room was my former boss , Mike Luttig , the rock ribbed ( ph ) conservative on the Fourth Circuit Court of Appeals..",
-            "If , instead , the President Bush had appointed Edith Jones , and Mike Luttig , which is who I would have appointed , Obamacare would have been struck down three years ago , and the marriage laws of all 50 states would be on the books.",
+            "And then in 2005, in one room was John Roberts, in another room was my former boss, Mike Luttig, the rock ribbed ( ph ) conservative on the Fourth Circuit Court of Appeals..",
+            "If, instead, the President Bush had appointed Edith Jones, and Mike Luttig, which is who I would have appointed, Obamacare would have been struck down three years ago, and the marriage laws of all 50 states would be on the books.",
             "If you had nominated Edith Jones or Mike Ludig ( ph ) you would have had a bloody fight and they were n't willing to spend political capital to put a strong judicial conservative on the court."
           ]
         },
@@ -529,13 +529,13 @@
       "emotionalLines": {
         "negative": {
           "score": -5,
-          "comparative": -0.3125,
-          "line": "Well , first of all , I recognize that we have an incredible illegal immigration problem."
+          "comparative": -0.35714285714285715,
+          "line": "Well, first of all, I recognize that we have an incredible illegal immigration problem."
         },
         "positive": {
           "score": 9,
-          "comparative": 0.20454545454545456,
-          "line": "So , when someone comes along and says , free college , free phones , free this and that , and the other , they say , \" wow , that 's nice , \" having no idea that they 're destabilizing our position."
+          "comparative": 0.2903225806451613,
+          "line": "So, when someone comes along and says, free college, free phones, free this and that, and the other, they say,\" wow, that's nice,\" having no idea that they're destabilizing our position."
         }
       },
       "averageWordUsage": {
@@ -597,37 +597,37 @@
           "total": 1,
           "sentiment": 0,
           "lines": [
-            "Hi , I 'm Ben Carson , and I 'm a retired pediatric neurosurgeon."
+            "Hi, I'm Ben Carson, and I'm a retired pediatric neurosurgeon."
           ]
         },
         "donald trump": {
           "total": 1,
           "sentiment": 0,
           "lines": [
-            "TRUMP ( ? ) : ..."
+            "TRUMP (? ) :..."
           ]
         },
         "mike huckabee": {
           "total": 1,
           "sentiment": 0,
           "lines": [
-            "But , I 'm also looking at what doctor — at what Governor Huckabee talked about.."
+            "But, I'm also looking at what doctor — at what Governor Huckabee talked about.."
           ]
         },
         "jeb bush": {
           "total": 3,
           "sentiment": 5,
           "lines": [
-            "I have n't had an opportunity to weigh in on foreign policy , and I just want to mention that when the war , when the issue occurred in 2003 , I suggested to President Bush that he not go to war ?",
-            "Bush is a great friend of ours , and we spent many wonderful days at the White House.",
-            "What I suggested to President Bush is to be Kennedy-esque , in the sense that when the Russians got ahead of us in the space race , what we did is use the bully pulpit to galvanize everybody , business , industry , academia behind a national goal to put a man on the moon and bring him back safely."
+            "I have n't had an opportunity to weigh in on foreign policy, and I just want to mention that when the war, when the issue occurred in 2003, I suggested to President Bush that he not go to war?",
+            "Bush is a great friend of ours, and we spent many wonderful days at the White House.",
+            "What I suggested to President Bush is to be Kennedy-esque, in the sense that when the Russians got ahead of us in the space race, what we did is use the bully pulpit to galvanize everybody, business, industry, academia behind a national goal to put a man on the moon and bring him back safely."
           ]
         },
         "george pataki": {
           "total": 1,
           "sentiment": 0,
           "lines": [
-            "Well , recognize that , you know , President George W."
+            "Well, recognize that, you know, President George W."
           ]
         }
       }
@@ -639,13 +639,13 @@
       "emotionalLines": {
         "negative": {
           "score": -6,
-          "comparative": -0.5454545454545454,
-          "line": "They are bad actors , bad things are going to happen."
+          "comparative": -0.6,
+          "line": "They are bad actors, bad things are going to happen."
         },
         "positive": {
           "score": 9,
-          "comparative": 0.15789473684210525,
-          "line": "I say not in a braggadocious way , I 've made billions and billions of dollars dealing with people all over the world , and I want to put whatever that talent is to work for this country so we have great trade deals , we make our country rich again , we make it great again."
+          "comparative": 0.17307692307692307,
+          "line": "I say not in a braggadocious way, I've made billions and billions of dollars dealing with people all over the world, and I want to put whatever that talent is to work for this country so we have great trade deals, we make our country rich again, we make it great again."
         }
       },
       "averageWordUsage": {
@@ -717,8 +717,8 @@
           "total": 3,
           "sentiment": 5,
           "lines": [
-            "I 'm Donald Trump.",
-            "I do n't think you 'd even be asking this question if I did n't run because when I ran , and I brought this up , my opening remarks at Trump Tower , I took heat like nobody has taken heat in a long time.",
+            "I'm Donald Trump.",
+            "I do n't think you'd even be asking this question if I did n't run because when I ran, and I brought this up, my opening remarks at Trump Tower, I took heat like nobody has taken heat in a long time.",
             "And he said today that Donald Trump is maybe the best interview there is anywhere that he has ever done."
           ]
         },
@@ -726,67 +726,67 @@
           "total": 3,
           "sentiment": -1,
           "lines": [
-            "Well , first of all , Rand Paul should n't even be on this stage.",
-            "Just excuse me , one second , Rand..",
-            "If you do n't mind , Rand — you know , you are on last — you do have your 1 percent."
+            "Well, first of all, Rand Paul should n't even be on this stage.",
+            "Just excuse me, one second, Rand..",
+            "If you do n't mind, Rand — you know, you are on last — you do have your 1 percent."
           ]
         },
         "george pataki": {
           "total": 1,
           "sentiment": -4,
           "lines": [
-            "When markets changed , when things turned , I heard Governor Pataki , who , by the way , was a failed governor in New York , a very seriously failed — he would n't be elected dog catcher right now."
+            "When markets changed, when things turned, I heard Governor Pataki, who, by the way, was a failed governor in New York, a very seriously failed — he would n't be elected dog catcher right now."
           ]
         },
         "jeb bush": {
           "total": 5,
           "sentiment": 3,
           "lines": [
-            "I 'm a businessman , did really well , really well , and Jeb , what I want to do is put that ability into this country to make our country rich again.",
-            "No. I just will tell you that , you know , Jeb made the statement.",
-            "I was — excuse me , Jeb .",
-            "Jeb , do n't make things up.",
-            "Jeb , just.. ."
+            "I'm a businessman, did really well, really well, and Jeb, what I want to do is put that ability into this country to make our country rich again.",
+            "No. I just will tell you that, you know, Jeb made the statement.",
+            "I was — excuse me, Jeb.",
+            "Jeb, do n't make things up.",
+            "Jeb, just..."
           ]
         },
         "hillary clinton": {
           "total": 1,
           "sentiment": 0,
           "lines": [
-            "I was a businessman , I got along with Clinton , I got along with everybody."
+            "I was a businessman, I got along with Clinton, I got along with everybody."
           ]
         },
         "chris christie": {
           "total": 3,
-          "sentiment": -6,
+          "sentiment": -8,
           "lines": [
-            "Second of all , we have a lot of really bad dudes in this country from outside , and I think Chris knows that , maybe as well as anybody.",
-            "...By the way , I agree with — with what Chris is saying , but , I will say this.",
-            "Chris will tell you — it 's not Chris ' fault either — but almost everybody in Atlantic City is either in trouble or filed for — maybe I 'll blame Chris ."
+            "Second of all, we have a lot of really bad dudes in this country from outside, and I think Chris knows that, maybe as well as anybody.",
+            "...By the way, I agree with — with what Chris is saying, but, I will say this.",
+            "Chris will tell you — it's not Chris' fault either — but almost everybody in Atlantic City is either in trouble or filed for — maybe I'll blame Chris."
           ]
         },
         "carly fiorina": {
           "total": 4,
           "sentiment": -5,
           "lines": [
-            "I agree 100 percent , by the way , with Carly on the fact that the Democrats do not want to solve this problem , for the obvious reasons , but they do not.",
-            "When Carly says the revenues went up , that 's because she bought Compaq , it was a terrible deal , and it really led to the destruction of the company.",
+            "I agree 100 percent, by the way, with Carly on the fact that the Democrats do not want to solve this problem, for the obvious reasons, but they do not.",
+            "When Carly says the revenues went up, that's because she bought Compaq, it was a terrible deal, and it really led to the destruction of the company.",
             "Carly was at Lucent before that.",
-            "Wait a minute , Carly."
+            "Wait a minute, Carly."
           ]
         },
         "ben carson": {
           "total": 1,
-          "sentiment": 0,
+          "sentiment": -2,
           "lines": [
-            "One thing I 'll say to Ben is that we 've had a graduated tax system for many years , so it 's not a socialistic thing."
+            "One thing I'll say to Ben is that we've had a graduated tax system for many years, so it's not a socialistic thing."
           ]
         },
         "lincoln chafee": {
           "total": 1,
           "sentiment": -2,
           "lines": [
-            "Your brother — and your brother 's administration gave us Barack Obama , because it was such a disaster , those last three months , that Abraham Lincoln could n't have been elected ."
+            "Your brother — and your brother's administration gave us Barack Obama, because it was such a disaster, those last three months, that Abraham Lincoln could n't have been elected."
           ]
         }
       }
@@ -803,8 +803,8 @@
         },
         "positive": {
           "score": 8,
-          "comparative": 0.18604651162790697,
-          "line": "Are we going to take the Reagan approach , the hopeful optimistic approach , the approach that says that , you come to our country legally , you pursue your dreams with a vengeance , you create opportunities for all of us ?"
+          "comparative": 0.21621621621621623,
+          "line": "Are we going to take the Reagan approach, the hopeful optimistic approach, the approach that says that, you come to our country legally, you pursue your dreams with a vengeance, you create opportunities for all of us?"
         }
       },
       "averageWordUsage": {
@@ -866,19 +866,19 @@
           "total": 1,
           "sentiment": 3,
           "lines": [
-            "I 'm Jeb Bush , and I believe America 's on the verge of its greatest century , and I 'm ready to lead."
+            "I'm Jeb Bush, and I believe America's on the verge of its greatest century, and I'm ready to lead."
           ]
         },
         "hillary clinton": {
           "total": 6,
           "sentiment": -4,
           "lines": [
-            "This administration , with President Obama and Hillary Clinton , has created insecurity the likes of which we never would 've imagined.",
-            "He interpreted it the right way , the courts ruled in his favor , and Planned Parenthood did not get funding during that time until President Clinton came in.",
-            "Under Hillary Clinton , and Barack Obama , we have seen a weakness that now creates huge problems for the next president of the United States.",
+            "This administration, with President Obama and Hillary Clinton, has created insecurity the likes of which we never would've imagined.",
+            "He interpreted it the right way, the courts ruled in his favor, and Planned Parenthood did not get funding during that time until President Clinton came in.",
+            "Under Hillary Clinton, and Barack Obama, we have seen a weakness that now creates huge problems for the next president of the United States.",
             "It was n't a Republican ; it was Hillary Clinton.",
-            "So is that the judgment that you bring to the table , that Hillary Clinton..",
-            "But I do think the natural impulse on the left — Hillary Clinton , immediately after one of these horrific violent acts took place , immediately said we need to have federal gun laws."
+            "So is that the judgment that you bring to the table, that Hillary Clinton..",
+            "But I do think the natural impulse on the left — Hillary Clinton, immediately after one of these horrific violent acts took place, immediately said we need to have federal gun laws."
           ]
         },
         "donald trump": {
@@ -886,36 +886,36 @@
           "sentiment": 12,
           "lines": [
             "The one guy that had some special interests that I know of that tried to get me to change my views on something — that was generous and gave me money — was Donald Trump.",
-            "And , Donald , when I was governor , we also increased the opportunities for women.",
-            "To subject my wife into the middle of a raucous political conversation was completely inappropriate , and I hope you apologize for that , Donald .",
-            "Or the Donald Trump approach ?",
-            "But to build a wall , and to deport people — half a million a month — would cost hundreds of billions of dollars , Donald.",
-            "Here 's the facts : When Donald Trump talks about judgment , what was his position on who would 've been the best negotiator to deal with Iran ?",
-            "Donald... [ applause ] ...",
-            "Ever Ready , it 's very high energy , Donald."
+            "And, Donald, when I was governor, we also increased the opportunities for women.",
+            "To subject my wife into the middle of a raucous political conversation was completely inappropriate, and I hope you apologize for that, Donald.",
+            "Or the Donald Trump approach?",
+            "But to build a wall, and to deport people — half a million a month — would cost hundreds of billions of dollars, Donald.",
+            "Here's the facts : When Donald Trump talks about judgment, what was his position on who would've been the best negotiator to deal with Iran?",
+            "Donald... [ applause ]...",
+            "Ever Ready, it's very high energy, Donald."
           ]
         },
         "mike huckabee": {
           "total": 1,
           "sentiment": 1,
           "lines": [
-            "And so we do agree , Mike ."
+            "And so we do agree, Mike."
           ]
         },
         "john kasich": {
           "total": 3,
           "sentiment": 12,
           "lines": [
-            "Well , I 'm surprised Senator Cruz would say that since he was as strong supporter of John Roberts at the time.",
-            "John Roberts has made some really good decisions , for sure , but he did not have a proven , extensive record that would have made the clarity the important thing , and that 's what we need to do.",
-            "Well , first of all , he , as I said , supported John Roberts."
+            "Well, I'm surprised Senator Cruz would say that since he was as strong supporter of John Roberts at the time.",
+            "John Roberts has made some really good decisions, for sure, but he did not have a proven, extensive record that would have made the clarity the important thing, and that's what we need to do.",
+            "Well, first of all, he, as I said, supported John Roberts."
           ]
         },
         "rand paul": {
           "total": 1,
           "sentiment": 2,
           "lines": [
-            "Rand , you know this because you 're campaigning in New Hampshire like all of us , and you see the epidemic of heroin , the overdoses of heroin that 's taking place."
+            "Rand, you know this because you're campaigning in New Hampshire like all of us, and you see the epidemic of heroin, the overdoses of heroin that's taking place."
           ]
         }
       }
@@ -927,13 +927,13 @@
       "emotionalLines": {
         "negative": {
           "score": -6,
-          "comparative": -0.35294117647058826,
-          "line": "I led Hewlett Packard through a very difficult time , the worst technology recession in 25 years."
+          "comparative": -0.375,
+          "line": "I led Hewlett Packard through a very difficult time, the worst technology recession in 25 years."
         },
         "positive": {
           "score": 10,
-          "comparative": 0.12345679012345678,
-          "line": "And with that blindfold she is saying to us that it must be true , it can be true that in this country , in this century , it does n't matter who you are , it does n't matter what you look like , it does n't matter how you start , it does n't matter your circumstances , here in this nation , every American 's life must be filled with the possibilities that come from their God-given gifts."
+          "comparative": 0.1388888888888889,
+          "line": "And with that blindfold she is saying to us that it must be true, it can be true that in this country, in this century, it does n't matter who you are, it does n't matter what you look like, it does n't matter how you start, it does n't matter your circumstances, here in this nation, every American's life must be filled with the possibilities that come from their God-given gifts."
         }
       },
       "averageWordUsage": {
@@ -986,49 +986,49 @@
           "total": 9,
           "sentiment": 8,
           "lines": [
-            "You know , I think Mr. Trump is a wonderful entertainer.",
-            "You know , it 's interesting to me , Mr. Trump said that he heard Mr. Bush very clearly and what Mr. Bush said.",
+            "You know, I think Mr. Trump is a wonderful entertainer.",
+            "You know, it's interesting to me, Mr. Trump said that he heard Mr. Bush very clearly and what Mr. Bush said.",
             "I think women all over this country heard very clearly what Mr. Trump said.",
-            "Dana , with all being said to Mr. Trump..",
+            "Dana, with all being said to Mr. Trump..",
             "Immigration did not come up in 2016 because Mr. Trump brought it up.",
-            "With all due respect , Mr. Trump , we 've been talking about illegal immigration for 25 years.",
-            "But you — you would stipulate , Mr. Trump , but not everyone agrees with you .",
-            "But honestly , Mr. Trump , I find it quite rich that you would talk about this.",
-            "You see , Governor Christie , people spend time talking about their track records , and Mr. Trump and I have every right to do the same."
+            "With all due respect, Mr. Trump, we've been talking about illegal immigration for 25 years.",
+            "But you — you would stipulate, Mr. Trump, but not everyone agrees with you.",
+            "But honestly, Mr. Trump, I find it quite rich that you would talk about this.",
+            "You see, Governor Christie, people spend time talking about their track records, and Mr. Trump and I have every right to do the same."
           ]
         },
         "marco rubio": {
           "total": 1,
           "sentiment": 0,
           "lines": [
-            "We could also , to Senator Rubio 's point , give the Egyptians what they 've asked for , which is intelligence."
+            "We could also, to Senator Rubio's point, give the Egyptians what they've asked for, which is intelligence."
           ]
         },
         "hillary clinton": {
           "total": 5,
           "sentiment": 3,
           "lines": [
-            "As regards Planned Parenthood , anyone who has watched this videotape , I dare Hillary Clinton , Barack Obama to watch these tapes.",
+            "As regards Planned Parenthood, anyone who has watched this videotape, I dare Hillary Clinton, Barack Obama to watch these tapes.",
             "And Mrs. Clinton has to defend her track record.",
-            "Like Mrs. Clinton , I , too , have travels hundreds of thousands of miles around the globe.",
-            "But unlike Mrs. Clinton , I know flying is an activity , not an accomplishment.",
-            "Mrs. Clinton — if you want to stump a Democrat , ask them to name a accomplishment of Mrs. Clinton 's ."
+            "Like Mrs. Clinton, I, too, have travels hundreds of thousands of miles around the globe.",
+            "But unlike Mrs. Clinton, I know flying is an activity, not an accomplishment.",
+            "Mrs. Clinton — if you want to stump a Democrat, ask them to name a accomplishment of Mrs. Clinton's."
           ]
         },
         "jeb bush": {
           "total": 2,
           "sentiment": 3,
           "lines": [
-            "You know , it 's interesting to me , Mr. Trump said that he heard Mr. Bush very clearly and what Mr. Bush said.",
-            "It 's not. And the marijuana that kids are smoking today is not the same as the marijuana that Jeb Bush smoked 40 years ago."
+            "You know, it's interesting to me, Mr. Trump said that he heard Mr. Bush very clearly and what Mr. Bush said.",
+            "It's not. And the marijuana that kids are smoking today is not the same as the marijuana that Jeb Bush smoked 40 years ago."
           ]
         },
         "chris christie": {
           "total": 2,
           "sentiment": 0,
           "lines": [
-            "Well , I thought we had been hearing quite a bit about Govenor Christie 's record as governor , actually.",
-            "You see , Governor Christie , people spend time talking about their track records , and Mr. Trump and I have every right to do the same."
+            "Well, I thought we had been hearing quite a bit about Govenor Christie's record as governor, actually.",
+            "You see, Governor Christie, people spend time talking about their track records, and Mr. Trump and I have every right to do the same."
           ]
         },
         "rand paul": {
@@ -1046,14 +1046,14 @@
       "speakingTime": 12,
       "emotionalLines": {
         "negative": {
-          "score": -3,
-          "comparative": -0.1875,
-          "line": "Now , here 's the — if they cheat , we slap the sanctions back on."
+          "score": -5,
+          "comparative": -0.3333333333333333,
+          "line": "I'll tell you what — I'll tell you what I'd be willing to fight for."
         },
         "positive": {
           "score": 8,
-          "comparative": 0.36363636363636365,
-          "line": "When we shut the government down — if we have a chance at success and it 's a great principle , yes."
+          "comparative": 0.4,
+          "line": "When we shut the government down — if we have a chance at success and it's a great principle, yes."
         }
       },
       "averageWordUsage": {
@@ -1126,7 +1126,7 @@
           "total": 1,
           "sentiment": 0,
           "lines": [
-            "Hello , I 'm John Kasich , the Governor of Ohio."
+            "Hello, I'm John Kasich, the Governor of Ohio."
           ]
         },
         "jeb bush": {
@@ -1140,16 +1140,16 @@
           "total": 3,
           "sentiment": -2,
           "lines": [
-            "We agree. Let 's ask Hillary Clinton.",
-            "So , we 'll get to the point where we 'll talk about Hillary Clinton , or whoever the nominee is , record.",
-            "I do n't intend to do that , and I going to be out there pushing it out — do n't worry about me and Hillary."
+            "We agree. Let's ask Hillary Clinton.",
+            "So, we'll get to the point where we'll talk about Hillary Clinton, or whoever the nominee is, record.",
+            "I do n't intend to do that, and I going to be out there pushing it out — do n't worry about me and Hillary."
           ]
         },
         "carly fiorina": {
           "total": 1,
           "sentiment": 0,
           "lines": [
-            "And finally , a little bit of what Carly said."
+            "And finally, a little bit of what Carly said."
           ]
         }
       }
@@ -1161,13 +1161,13 @@
       "emotionalLines": {
         "negative": {
           "score": -9,
-          "comparative": -0.42857142857142855,
-          "line": "Their families are the victims too , their children are the victims too , and their employers are the victims also."
+          "comparative": -0.47368421052631576,
+          "line": "Their families are the victims too, their children are the victims too, and their employers are the victims also."
         },
         "positive": {
           "score": 7,
-          "comparative": 0.14583333333333334,
-          "line": "It will be an America that be strong and resolute , and will once again be able to stick out its chest and say , \" we truly are the greatest nation in the world , because we live our lives that way , each and every day."
+          "comparative": 0.16279069767441862,
+          "line": "It will be an America that be strong and resolute, and will once again be able to stick out its chest and say,\" we truly are the greatest nation in the world, because we live our lives that way, each and every day."
         }
       },
       "averageWordUsage": {
@@ -1245,7 +1245,7 @@
           "total": 2,
           "sentiment": 6,
           "lines": [
-            "Hi , my name is Chris Christie , and I 'd like to you take the camera off me and put it on the audience because I 'd like to ask all of you , how many of you , raise your hand , believe that in today 's Barak Obama America your children will have a better life than you 've had ?",
+            "Hi, my name is Chris Christie, and I'd like to you take the camera off me and put it on the audience because I'd like to ask all of you, how many of you, raise your hand, believe that in today's Barak Obama America your children will have a better life than you've had?",
             "A Christie presidency wo n't be about me."
           ]
         },
@@ -1253,57 +1253,57 @@
           "total": 5,
           "sentiment": 3,
           "lines": [
-            "Well , I know Ben was n't talking about me , I 'm sure he was talking about one of the other guys , not me.",
-            "I know Ben was n't talking about me .",
+            "Well, I know Ben was n't talking about me, I'm sure he was talking about one of the other guys, not me.",
+            "I know Ben was n't talking about me.",
             "I know Ben did n't mean it about me.",
-            "Be honest , Ben , be honest .",
-            "Let me say this , Jake , is that while that may have been a fine idea that Dr. Carson had , these people were out to kill us."
+            "Be honest, Ben, be honest.",
+            "Let me say this, Jake, is that while that may have been a fine idea that Dr. Carson had, these people were out to kill us."
           ]
         },
         "donald trump": {
           "total": 4,
           "sentiment": 6,
           "lines": [
-            "Here 's what we need to do , and I think this is where Donald is absolutely right.",
-            "Jake listen. While I 'm as entertained as anyone by this personal back-and-forth about the history of Donald and Carly 's career , for the 55-year-old construction worker out in that audience tonight who does n't have a job , who ca n't fund his child 's education , I 've got to tell you the truth.",
-            "But with Donald , it 's a good start.",
-            "And if that means making sure that folks like Donald and many of us on the stage do n't get it , that 's the right thing to do because here 's what Hillary Clinton is going to want to do."
+            "Here's what we need to do, and I think this is where Donald is absolutely right.",
+            "Jake listen. While I'm as entertained as anyone by this personal back-and-forth about the history of Donald and Carly's career, for the 55-year-old construction worker out in that audience tonight who does n't have a job, who ca n't fund his child's education, I've got to tell you the truth.",
+            "But with Donald, it's a good start.",
+            "And if that means making sure that folks like Donald and many of us on the stage do n't get it, that's the right thing to do because here's what Hillary Clinton is going to want to do."
           ]
         },
         "carly fiorina": {
           "total": 2,
           "sentiment": -2,
           "lines": [
-            "Jake listen. While I 'm as entertained as anyone by this personal back-and-forth about the history of Donald and Carly 's career , for the 55-year-old construction worker out in that audience tonight who does n't have a job , who ca n't fund his child 's education , I 've got to tell you the truth.",
-            "Stop — and stop playing — and Carly — Carly , listen."
+            "Jake listen. While I'm as entertained as anyone by this personal back-and-forth about the history of Donald and Carly's career, for the 55-year-old construction worker out in that audience tonight who does n't have a job, who ca n't fund his child's education, I've got to tell you the truth.",
+            "Stop — and stop playing — and Carly — Carly, listen."
           ]
         },
         "john kasich": {
           "total": 3,
           "sentiment": 0,
           "lines": [
-            "John — I 'm not done yet , John .",
-            "When John Kennedy was elected president in 1960 , it was 26 percent.",
-            "Our country would n't be here without John Adams , and he would not have been able to do it without Abigal Adams , so , I 'd put Abigail Adams on the bill."
+            "John — I'm not done yet, John.",
+            "When John Kennedy was elected president in 1960, it was 26 percent.",
+            "Our country would n't be here without John Adams, and he would not have been able to do it without Abigal Adams, so, I'd put Abigail Adams on the bill."
           ]
         },
         "hillary clinton": {
           "total": 5,
           "sentiment": 1,
           "lines": [
-            "The middle class in this country who 's getting plowed over by Barack Obama and Hillary Clinton.",
-            "And the question is , who is going to prosecute Hillary Clinton ?",
-            "I think it 's time to put a former federal prosecutor on the same stage as Hillary Clinton.",
+            "The middle class in this country who's getting plowed over by Barack Obama and Hillary Clinton.",
+            "And the question is, who is going to prosecute Hillary Clinton?",
+            "I think it's time to put a former federal prosecutor on the same stage as Hillary Clinton.",
             "No one is answering that question from the Hillary Clinton campaign..",
-            "And if that means making sure that folks like Donald and many of us on the stage do n't get it , that 's the right thing to do because here 's what Hillary Clinton is going to want to do."
+            "And if that means making sure that folks like Donald and many of us on the stage do n't get it, that's the right thing to do because here's what Hillary Clinton is going to want to do."
           ]
         },
         "jeb bush": {
           "total": 4,
           "sentiment": 3,
           "lines": [
-            "attorney by President Bush on September 10th , 2001.",
-            "And I support what President Bush did at that time , going into Afghanistan , hunting al Qaeda and its leaders , getting its sanctuary out of place , and making it as difficult around the world for them to move people and money.",
+            "attorney by President Bush on September 10th, 2001.",
+            "And I support what President Bush did at that time, going into Afghanistan, hunting al Qaeda and its leaders, getting its sanctuary out of place, and making it as difficult around the world for them to move people and money.",
             "And I am proud to have been one of the people on the stage who was part of making sure that what Governor Bush said before was the truth.",
             "Bush did in 2001."
           ]
@@ -1312,16 +1312,16 @@
           "total": 2,
           "sentiment": -4,
           "lines": [
-            "And that 's what President George W.",
-            "I understand. No , no , listen , everybody makes a mistake every once in a while , Jake , even George Shultz."
+            "And that's what President George W.",
+            "I understand. No, no, listen, everybody makes a mistake every once in a while, Jake, even George Shultz."
           ]
         },
         "rand paul": {
           "total": 2,
           "sentiment": -6,
           "lines": [
-            "And if Senator Paul thinks that the only victim is the person , look at the decrease in productivity , look at the way people get used and move on to other drugs when they use marijuana as a gateway drug , it is not them that are the only victims.",
-            "And Senator Paul knows that that 's simply not the truth."
+            "And if Senator Paul thinks that the only victim is the person, look at the decrease in productivity, look at the way people get used and move on to other drugs when they use marijuana as a gateway drug, it is not them that are the only victims.",
+            "And Senator Paul knows that that's simply not the truth."
           ]
         },
         "marco rubio": {
