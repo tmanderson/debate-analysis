@@ -59,16 +59,18 @@ _.each(debates, function(debate) {
     var mostSentimentalLines = {};
 
     _.each(speaker.lines, function(line) {
+      // get each sentence
       _.each(sentenceTokenizer(line), function(sentence) {
         var sentimentality = sentiment(sentence);
         var lastName, name;
 
+        // process each word within the sentence
         _.each(_.words(sentence), function(word, i, words) {
           name = getNormalizedCandidateName(word);
 
           word = word.toLowerCase();
           totalWords++;
-
+          
           if(name && name !== lastName) {
             if(!callouts[name]) {
               callouts[name] = { total: 0, sentiment: 0, lines: [] };

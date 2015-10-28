@@ -50,7 +50,7 @@ function makeRequest(url) {
     deferred.reject('Invalid URL');
     return deferred.promise;
   }
-  console.log(url);
+  
   jsdom.env(url, ['http://code.jquery.com/jquery.js'], {
     done: function(err, window) {
       if(err) return deferred.reject(err);
