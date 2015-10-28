@@ -17,10 +17,6 @@ Analyzing some language from the 2016 presidential debates. The reports can be v
 - Issue importance (per claimed issues, per debate presented issue via **TFIDF**)
 - Estimated speaking time
 
-### Log
-#### 10-18-2015
-In parsing Hillary's site was the by far the worst. I managed to get every other candidate in both the republican and democratic parties with a relatively similar standard selectors.
-
 ### TODO:
 - [x] Finish Democrat campaign website parser
 - [x] Finish Republican campaign website parser (only a few more...)
