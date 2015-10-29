@@ -15,11 +15,11 @@ _.extend(module.exports, {
           i - lastSentenceEnd > 2 &&
             dictionaries.abbreviations.indexOf(word.toLowerCase()) < 0) {
 
-        sentences.push(words.slice(lastSentenceEnd, i + 1).join(' '));
+        sentences.push(words.slice(lastSentenceEnd, i + 1).join(' ').replace(/\s([.,'?`"])/g, '$1'));
         lastSentenceEnd = i + 1;
       }
     });
     
     return sentences;
   }
-})
+});

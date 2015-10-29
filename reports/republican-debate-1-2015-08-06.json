@@ -52,13 +52,13 @@
       "emotionalLines": {
         "negative": {
           "score": -6,
-          "comparative": -0.18181818181818182,
-          "line": "I do not believe that we need to wholesale destroy every American citizen 's privacy in order to go after those that we know are suspect or are -- are already a problem."
+          "comparative": -0.1875,
+          "line": "I do not believe that we need to wholesale destroy every American citizen's privacy in order to go after those that we know are suspect or are -- are already a problem."
         },
         "positive": {
           "score": 12,
-          "comparative": 0.2926829268292683,
-          "line": "Well , I would begin by reminding people that at this point in previous presidential elections , Jimmy Carter could n't win , Ronald Reagan could n't win , Bill Clinton could n't win , and neither could 've Barack Obama."
+          "comparative": 0.34285714285714286,
+          "line": "Well, I would begin by reminding people that at this point in previous presidential elections, Jimmy Carter could n't win, Ronald Reagan could n't win, Bill Clinton could n't win, and neither could've Barack Obama."
         }
       },
       "averageWordUsage": {
@@ -116,19 +116,19 @@
           "total": 5,
           "sentiment": 11,
           "lines": [
-            "Well , I would begin by reminding people that at this point in previous presidential elections , Jimmy Carter could n't win , Ronald Reagan could n't win , Bill Clinton could n't win , and neither could 've Barack Obama.",
-            "I think to be commander in chief in the 21st century requires someone who understands how the economy works , someone who understands how the world works and who 's in it ; I know more world leaders on the stage today than anyone running , with the possible exception of Hillary Clinton ; understands bureaucracies , how to cut them down to size and hold them accountable ; and understands technology , which is a tool , but it 's also a weapon that 's being used against us.",
+            "Well, I would begin by reminding people that at this point in previous presidential elections, Jimmy Carter could n't win, Ronald Reagan could n't win, Bill Clinton could n't win, and neither could've Barack Obama.",
+            "I think to be commander in chief in the 21st century requires someone who understands how the economy works, someone who understands how the world works and who's in it ; I know more world leaders on the stage today than anyone running, with the possible exception of Hillary Clinton ; understands bureaucracies, how to cut them down to size and hold them accountable ; and understands technology, which is a tool, but it's also a weapon that's being used against us.",
             "I did n't get a phone call from Bill Clinton before I jumped in the race.",
-            "Did any of you get a phone call from Bill Clinton ?",
-            "Hillary Clinton lies about Benghazi , she lies about e- mails."
+            "Did any of you get a phone call from Bill Clinton?",
+            "Hillary Clinton lies about Benghazi, she lies about e- mails."
           ]
         },
         "donald trump": {
           "total": 2,
           "sentiment": 0,
           "lines": [
-            "Here 's the thing that I would ask Donald Trump in all seriousness.",
-            "That 's just a fact , and that 's what Donald Trump taps into."
+            "Here's the thing that I would ask Donald Trump in all seriousness.",
+            "That's just a fact, and that's what Donald Trump taps into."
           ]
         }
       }
@@ -140,13 +140,13 @@
       "emotionalLines": {
         "negative": {
           "score": -4,
-          "comparative": -0.19047619047619047,
-          "line": "I am , but people are upset , and they 're upset for a reason about the future of this country."
+          "comparative": -0.2222222222222222,
+          "line": "I am, but people are upset, and they're upset for a reason about the future of this country."
         },
         "positive": {
           "score": 7,
-          "comparative": 0.11290322580645161,
-          "line": "Iran sanctions -- the Iran sanctions that brought them to the table , those are sanctions that we put in place when I was in the United States Senate , and a whole host of other things that put me in a position of saying , I not only have a great vision , but I can govern effectively in Washington ."
+          "comparative": 0.12280701754385964,
+          "line": "Iran sanctions -- the Iran sanctions that brought them to the table, those are sanctions that we put in place when I was in the United States Senate, and a whole host of other things that put me in a position of saying, I not only have a great vision, but I can govern effectively in Washington."
         }
       },
       "averageWordUsage": {
@@ -225,14 +225,14 @@
           "total": 1,
           "sentiment": 0,
           "lines": [
-            "You 're looking at the -- at the man who introduced and fought on the floor as a freshman senator and passed the Welfare Reform Act of 1996 over two President Clinton vetoes."
+            "You're looking at the -- at the man who introduced and fought on the floor as a freshman senator and passed the Welfare Reform Act of 1996 over two President Clinton vetoes."
           ]
         },
         "lincoln chafee": {
           "total": 1,
           "sentiment": 0,
           "lines": [
-            "It is not any more than Dred Scott was settled law to Abraham Lincoln , who , in his first inaugural address , said \" it wo n't stand."
+            "It is not any more than Dred Scott was settled law to Abraham Lincoln, who, in his first inaugural address, said\" it wo n't stand."
           ]
         },
         "donald trump": {
@@ -251,13 +251,13 @@
       "emotionalLines": {
         "negative": {
           "score": -11,
-          "comparative": -0.19642857142857142,
-          "line": "How can we beat an enemy if our commander-in-chief does n't have the moral honesty and clarity to say that Islam has a problem , and that problem is radical Islam , to say they 've got to condemn not generic acts of violence , but the individual murderers who are committing these acts of violence."
+          "comparative": -0.21153846153846154,
+          "line": "How can we beat an enemy if our commander-in-chief does n't have the moral honesty and clarity to say that Islam has a problem, and that problem is radical Islam, to say they've got to condemn not generic acts of violence, but the individual murderers who are committing these acts of violence."
         },
         "positive": {
           "score": 11,
-          "comparative": 0.23404255319148937,
-          "line": "Planned Parenthood had better hope that Hillary Clinton wins this election , because I guarantee under President Jindal , January 2017 , the Department of Justice and the IRS and everybody else that we can send from the federal government will be going in to Planned Parenthood."
+          "comparative": 0.25,
+          "line": "Planned Parenthood had better hope that Hillary Clinton wins this election, because I guarantee under President Jindal, January 2017, the Department of Justice and the IRS and everybody else that we can send from the federal government will be going in to Planned Parenthood."
         }
       },
       "averageWordUsage": {
@@ -319,9 +319,9 @@
           "total": 3,
           "sentiment": 12,
           "lines": [
-            "Look , under President Obama and Secretary Clinton , they 're working hard to change the American dream into the European nightmare.",
-            "Barack Obama , Hillary Clinton , they 're no better.",
-            "Planned Parenthood had better hope that Hillary Clinton wins this election , because I guarantee under President Jindal , January 2017 , the Department of Justice and the IRS and everybody else that we can send from the federal government will be going in to Planned Parenthood."
+            "Look, under President Obama and Secretary Clinton, they're working hard to change the American dream into the European nightmare.",
+            "Barack Obama, Hillary Clinton, they're no better.",
+            "Planned Parenthood had better hope that Hillary Clinton wins this election, because I guarantee under President Jindal, January 2017, the Department of Justice and the IRS and everybody else that we can send from the federal government will be going in to Planned Parenthood."
           ]
         },
         "bernie sanders": {
@@ -335,14 +335,14 @@
           "total": 1,
           "sentiment": 11,
           "lines": [
-            "Planned Parenthood had better hope that Hillary Clinton wins this election , because I guarantee under President Jindal , January 2017 , the Department of Justice and the IRS and everybody else that we can send from the federal government will be going in to Planned Parenthood."
+            "Planned Parenthood had better hope that Hillary Clinton wins this election, because I guarantee under President Jindal, January 2017, the Department of Justice and the IRS and everybody else that we can send from the federal government will be going in to Planned Parenthood."
           ]
         },
         "jeb bush": {
           "total": 1,
           "sentiment": 4,
           "lines": [
-            "Jeb Bush says we 've got to be willing to lose the primary in order to win the general."
+            "Jeb Bush says we've got to be willing to lose the primary in order to win the general."
           ]
         }
       }
@@ -359,8 +359,8 @@
         },
         "positive": {
           "score": 4,
-          "comparative": 0.14814814814814814,
-          "line": "So to the people who are dying for a better America , you better change course , and she does n't represent the change that we need."
+          "comparative": 0.16,
+          "line": "So to the people who are dying for a better America, you better change course, and she does n't represent the change that we need."
         }
       },
       "averageWordUsage": {
@@ -442,15 +442,15 @@
       "callouts": {
         "hillary clinton": {
           "total": 7,
-          "sentiment": 3,
+          "sentiment": 1,
           "lines": [
-            "You can trust me to do the following : that when I get on change with Hillary Clinton , we wo n't be debating about the science , we 'll be debating about the solutions.",
-            "To all the Americans who want a better life , do n't vote for Hillary Clinton.",
-            "I 'm fluent in Clinton-speak ; I 've been dealing with this crowd for 20 years.",
-            "You know , when Bill Clinton says it depends on what the meaning of is is , that means is is whatever Bill wants it to mean.",
-            "When Hillary Clinton tells you I 've given you all the emails you need , that means she has n't.",
-            "In Hillary Clinton 's world , after two terms in the White House where her husband was president , she said she was flat broke.",
-            "Hillary , I 'll show you flat broke."
+            "You can trust me to do the following : that when I get on change with Hillary Clinton, we wo n't be debating about the science, we'll be debating about the solutions.",
+            "To all the Americans who want a better life, do n't vote for Hillary Clinton.",
+            "I'm fluent in Clinton-speak ; I've been dealing with this crowd for 20 years.",
+            "You know, when Bill Clinton says it depends on what the meaning of is is, that means is is whatever Bill wants it to mean.",
+            "When Hillary Clinton tells you I've given you all the emails you need, that means she has n't.",
+            "In Hillary Clinton's world, after two terms in the White House where her husband was president, she said she was flat broke.",
+            "Hillary, I'll show you flat broke."
           ]
         }
       }
@@ -462,8 +462,8 @@
       "emotionalLines": {
         "negative": {
           "score": -7,
-          "comparative": -0.11290322580645161,
-          "line": "That is like shouting \" fire \" in a crowded theater , and that is illegal , and I would do everything in our power not just to go after those who are here who we know who are here , before they can radicalize other Americans to carry out attacks , and it 's not just the ones they 've arrested."
+          "comparative": -0.12962962962962962,
+          "line": "That is like shouting\" fire\" in a crowded theater, and that is illegal, and I would do everything in our power not just to go after those who are here who we know who are here, before they can radicalize other Americans to carry out attacks, and it's not just the ones they've arrested."
         },
         "positive": {
           "score": 7,
@@ -521,8 +521,8 @@
           "total": 2,
           "sentiment": -3,
           "lines": [
-            "You know , Hillary Clinton 's always saying how Republicans do n't follow science ?",
-            "It is Hillary , it is Biden , it is the others who insist on allowing abortion well into viable ( inaudible ) wrong , and that should be stopped ."
+            "You know, Hillary Clinton's always saying how Republicans do n't follow science?",
+            "It is Hillary, it is Biden, it is the others who insist on allowing abortion well into viable ( inaudible ) wrong, and that should be stopped."
           ]
         }
       }
@@ -538,9 +538,9 @@
           "line": "The president has done an executive order with respect to illegal immigration that is illegal."
         },
         "positive": {
-          "score": 6,
-          "comparative": 0.18181818181818182,
-          "line": "I 'll tell them that we 're going to grow the economy so that we can give people better opportunities so they do n't have to rely exclusively on benefit types of programs."
+          "score": 5,
+          "comparative": 0.4166666666666667,
+          "line": "And I'm glad that I have a chance to answer this question."
         }
       },
       "averageWordUsage": {
@@ -611,8 +611,8 @@
           "total": 2,
           "sentiment": -1,
           "lines": [
-            "Because Obama and Clinton policies , the United States is moving further and further into a decline.",
-            "And first of all , we 've got to recognize that there is problem that Barack Obama and Hillary Clinton have caused."
+            "Because Obama and Clinton policies, the United States is moving further and further into a decline.",
+            "And first of all, we've got to recognize that there is problem that Barack Obama and Hillary Clinton have caused."
           ]
         }
       }

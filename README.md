@@ -9,17 +9,13 @@ Analyzing some language from the 2016 presidential debates. The reports can be v
 | August 6, 2015   | [Republican Debate #1](reports/republican-debate-2-2015-08-06.json) (2 of 2)|
 | September 16, 2015   | [Republican Debate #1](reports/republican-debate-1-2015-09-16.json) (1 of 2) |
 | September 16, 2015   | [Republican Debate #2](reports/republican-debate-2-2015-09-16.json) (2 of 2) |
-| October 13, 2015 | [Democratic Debate #2](reports/democratic-debate-2015-10-13.json) |
+| October 13, 2015 | [Democratic Debate #1](reports/democratic-debate-2015-10-13.json) |
 
 ### Points of Analysis:
 - Total words spoken
 - Articulation (unique words against total spoken)
 - Issue importance (per claimed issues, per debate presented issue via **TFIDF**)
 - Estimated speaking time
-
-### Log
-#### 10-18-2015
-In parsing Hillary's site was the by far the worst. I managed to get every other candidate in both the republican and democratic parties with a relatively similar standard selectors.
 
 ### TODO:
 - [x] Finish Democrat campaign website parser

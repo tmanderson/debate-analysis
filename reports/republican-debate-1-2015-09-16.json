@@ -52,13 +52,13 @@
       "emotionalLines": {
         "negative": {
           "score": -9,
-          "comparative": -0.42857142857142855,
-          "line": "If you are charged with a crime as an illegal alien , you should either be in jail or be deported."
+          "comparative": -0.45,
+          "line": "If you are charged with a crime as an illegal alien, you should either be in jail or be deported."
         },
         "positive": {
           "score": 8,
-          "comparative": 0.42105263157894735,
-          "line": "But we have to win and , once we win , we have to actually do what we say."
+          "comparative": 0.47058823529411764,
+          "line": "But we have to win and, once we win, we have to actually do what we say."
         }
       },
       "averageWordUsage": {
@@ -121,32 +121,32 @@
           "total": 1,
           "sentiment": 2,
           "lines": [
-            "Hi , I 'm George Pataki , and I am honored to be here this afternoon with all of you at the Reagan Library."
+            "Hi, I'm George Pataki, and I am honored to be here this afternoon with all of you at the Reagan Library."
           ]
         },
         "donald trump": {
           "total": 4,
           "sentiment": 1,
           "lines": [
-            "I have not broken the pledge because Donald Trump is not going to be the Republican nominee , period , flat out , I guarantee you that.",
+            "I have not broken the pledge because Donald Trump is not going to be the Republican nominee, period, flat out, I guarantee you that.",
             "And the first four questions are about Donald Trump.",
-            "But let me say this flat out , Donald Trump is unfit to be president of the United States or the Republican Party 's nominee.",
-            "It 's hard for me to say I 'm with Donald trump on anything , but on this issue , I agree with him."
+            "But let me say this flat out, Donald Trump is unfit to be president of the United States or the Republican Party's nominee.",
+            "It's hard for me to say I'm with Donald trump on anything, but on this issue, I agree with him."
           ]
         },
         "hillary clinton": {
           "total": 2,
           "sentiment": 0,
           "lines": [
-            "No , I would not vote for Hillary Clinton .",
-            "And let me point out that Hillary Clinton , supporting this deal , she was the senator from New York on September 11th , she saw what happened at the hands of radical Islam."
+            "No, I would not vote for Hillary Clinton.",
+            "And let me point out that Hillary Clinton, supporting this deal, she was the senator from New York on September 11th, she saw what happened at the hands of radical Islam."
           ]
         },
         "lindsey graham": {
           "total": 1,
           "sentiment": 0,
           "lines": [
-            "Lindsey , let me comment on this."
+            "Lindsey, let me comment on this."
           ]
         },
         "martin o'malley": {
@@ -160,7 +160,7 @@
           "total": 1,
           "sentiment": 1,
           "lines": [
-            "And , by the way , you know , I agree with Rick on manufacturing , but my approach is different."
+            "And, by the way, you know, I agree with Rick on manufacturing, but my approach is different."
           ]
         }
       }
@@ -172,13 +172,13 @@
       "emotionalLines": {
         "negative": {
           "score": -8,
-          "comparative": -0.4444444444444444,
-          "line": "By illegal immigrants coming to this country last year alone , 700,000 illegal immigrants came into this country."
+          "comparative": -0.47058823529411764,
+          "line": "By illegal immigrants coming to this country last year alone, 700,000 illegal immigrants came into this country."
         },
         "positive": {
           "score": 11,
-          "comparative": 0.2037037037037037,
-          "line": "But hopefully , most of you know me most because I 'm the proud father of seven children with particularly a special little disabled girl , who is the heart and core of my heart and married to a wonderful woman named Karen for 25 years , who is the love of my life."
+          "comparative": 0.22,
+          "line": "But hopefully, most of you know me most because I'm the proud father of seven children with particularly a special little disabled girl, who is the heart and core of my heart and married to a wonderful woman named Karen for 25 years, who is the love of my life."
         }
       },
       "averageWordUsage": {
@@ -257,53 +257,53 @@
           "total": 1,
           "sentiment": 0,
           "lines": [
-            "Hi , I 'm Rick Santorum."
+            "Hi, I'm Rick Santorum."
           ]
         },
         "hillary clinton": {
           "total": 3,
           "sentiment": 0,
           "lines": [
-            "I think personal attacks , just please one person , Hillary Clinton.",
-            "We fought , for the first time , to defeat justices and judges that Bill Clinton nominated and I fought with President Bush to defend his nominees , to push even a filibuster , breaking the filibuster.",
-            "The four people who opposed on the floor : Joe Biden , John Kerry , Hillary Clinton and Barack Obama."
+            "I think personal attacks, just please one person, Hillary Clinton.",
+            "We fought, for the first time, to defeat justices and judges that Bill Clinton nominated and I fought with President Bush to defend his nominees, to push even a filibuster, breaking the filibuster.",
+            "The four people who opposed on the floor : Joe Biden, John Kerry, Hillary Clinton and Barack Obama."
           ]
         },
         "donald trump": {
           "total": 1,
           "sentiment": 1,
           "lines": [
-            "Donald Trump has ever right to run for president as a Republican , as anybody else in this audience , and he may have positions I disagree with , but he has the right to do that and the people should be given the benefit of the doubt for people to see through these things."
+            "Donald Trump has ever right to run for president as a Republican, as anybody else in this audience, and he may have positions I disagree with, but he has the right to do that and the people should be given the benefit of the doubt for people to see through these things."
           ]
         },
         "bobby jindal": {
           "total": 2,
           "sentiment": 7,
           "lines": [
-            "There are just a few , Governor Jindal , Senator Cruz , Senator Rubio , Jeb Bush , a lot of others , Senator Graham , all support some sort of amnesty at some point in time or another.",
-            "Well , contrary to what Governor Jindal said , Governor -- Justice Roberts had a long record and it was a long , good record."
+            "There are just a few, Governor Jindal, Senator Cruz, Senator Rubio, Jeb Bush, a lot of others, Senator Graham, all support some sort of amnesty at some point in time or another.",
+            "Well, contrary to what Governor Jindal said, Governor -- Justice Roberts had a long record and it was a long, good record."
           ]
         },
         "marco rubio": {
           "total": 1,
           "sentiment": 2,
           "lines": [
-            "There are just a few , Governor Jindal , Senator Cruz , Senator Rubio , Jeb Bush , a lot of others , Senator Graham , all support some sort of amnesty at some point in time or another."
+            "There are just a few, Governor Jindal, Senator Cruz, Senator Rubio, Jeb Bush, a lot of others, Senator Graham, all support some sort of amnesty at some point in time or another."
           ]
         },
         "jeb bush": {
           "total": 2,
           "sentiment": 2,
           "lines": [
-            "There are just a few , Governor Jindal , Senator Cruz , Senator Rubio , Jeb Bush , a lot of others , Senator Graham , all support some sort of amnesty at some point in time or another.",
-            "We fought , for the first time , to defeat justices and judges that Bill Clinton nominated and I fought with President Bush to defend his nominees , to push even a filibuster , breaking the filibuster."
+            "There are just a few, Governor Jindal, Senator Cruz, Senator Rubio, Jeb Bush, a lot of others, Senator Graham, all support some sort of amnesty at some point in time or another.",
+            "We fought, for the first time, to defeat justices and judges that Bill Clinton nominated and I fought with President Bush to defend his nominees, to push even a filibuster, breaking the filibuster."
           ]
         },
         "lindsey graham": {
           "total": 1,
           "sentiment": 2,
           "lines": [
-            "There are just a few , Governor Jindal , Senator Cruz , Senator Rubio , Jeb Bush , a lot of others , Senator Graham , all support some sort of amnesty at some point in time or another."
+            "There are just a few, Governor Jindal, Senator Cruz, Senator Rubio, Jeb Bush, a lot of others, Senator Graham, all support some sort of amnesty at some point in time or another."
           ]
         },
         "martin o'malley": {
@@ -317,8 +317,8 @@
           "total": 2,
           "sentiment": -1,
           "lines": [
-            "And so I do n't -- I do n't regret at all standing up for John Roberts but , you know , it 's easy to sit out in Louisiana and talk about how , you know , well , I 'd be tougher.",
-            "The four people who opposed on the floor : Joe Biden , John Kerry , Hillary Clinton and Barack Obama."
+            "And so I do n't -- I do n't regret at all standing up for John Roberts but, you know, it's easy to sit out in Louisiana and talk about how, you know, well, I'd be tougher.",
+            "The four people who opposed on the floor : Joe Biden, John Kerry, Hillary Clinton and Barack Obama."
           ]
         }
       }
@@ -330,13 +330,13 @@
       "emotionalLines": {
         "negative": {
           "score": -6,
-          "comparative": -0.12,
-          "line": "The way to solve this problem is for us to be clear to our friends and allies that we 're going to replace Assad , we 're going to hunt down and destroy ISIS ; our friends do n't trust us , our enemies do n't fear and respect us."
+          "comparative": -0.13043478260869565,
+          "line": "The way to solve this problem is for us to be clear to our friends and allies that we're going to replace Assad, we're going to hunt down and destroy ISIS ; our friends do n't trust us, our enemies do n't fear and respect us."
         },
         "positive": {
           "score": 5,
-          "comparative": 0.17857142857142858,
-          "line": "Yeah , I wanted to clarify -- I want to make very clear that everybody understands my position is , we need to secure the border , period."
+          "comparative": 0.2,
+          "line": "Yeah, I wanted to clarify -- I want to make very clear that everybody understands my position is, we need to secure the border, period."
         }
       },
       "averageWordUsage": {
@@ -418,54 +418,54 @@
           "total": 1,
           "sentiment": 0,
           "lines": [
-            "Hi , I 'm Bobby Jindal."
+            "Hi, I'm Bobby Jindal."
           ]
         },
         "donald trump": {
           "total": 4,
           "sentiment": 4,
           "lines": [
-            "Well , Jake , I 'm in compliance with the 11th Commandment , and I would tell my fellow Republicans , let 's stop treating Donald Trump like a Republican.",
+            "Well, Jake, I'm in compliance with the 11th Commandment, and I would tell my fellow Republicans, let's stop treating Donald Trump like a Republican.",
             "He believes in Donald Trump.",
             "The best way for us to give this election back would be to nominate a Donald Trump.",
-            "One of the things I do agree -- and I want to thank Donald Trump after I 've criticized him for everything from being a narcissist to an egomaniac -- one of the things he was right about was to say nonsense to the D.C."
+            "One of the things I do agree -- and I want to thank Donald Trump after I've criticized him for everything from being a narcissist to an egomaniac -- one of the things he was right about was to say nonsense to the D.C."
           ]
         },
         "hillary clinton": {
           "total": 3,
           "sentiment": 4,
           "lines": [
-            "Absolutely. Look , the reality is , Hillary Clinton is gift-wrapping this election to us.",
+            "Absolutely. Look, the reality is, Hillary Clinton is gift-wrapping this election to us.",
             "They have got a socialist that is gaining on Hillary Clinton.",
-            "One of the things I 've said -- I know the left -- I know Hillary did n't like this -- immigration without assimilation is invasion."
+            "One of the things I've said -- I know the left -- I know Hillary did n't like this -- immigration without assimilation is invasion."
           ]
         },
         "rick santorum": {
           "total": 1,
           "sentiment": 0,
           "lines": [
-            "Now , Rick , if he wants to say that Rubio , Senator Rubio , or Jeb or others are for amnesty , that 's his right."
+            "Now, Rick, if he wants to say that Rubio, Senator Rubio, or Jeb or others are for amnesty, that's his right."
           ]
         },
         "marco rubio": {
           "total": 1,
           "sentiment": 0,
           "lines": [
-            "Now , Rick , if he wants to say that Rubio , Senator Rubio , or Jeb or others are for amnesty , that 's his right."
+            "Now, Rick, if he wants to say that Rubio, Senator Rubio, or Jeb or others are for amnesty, that's his right."
           ]
         },
         "jeb bush": {
           "total": 1,
           "sentiment": 0,
           "lines": [
-            "Now , Rick , if he wants to say that Rubio , Senator Rubio , or Jeb or others are for amnesty , that 's his right."
+            "Now, Rick, if he wants to say that Rubio, Senator Rubio, or Jeb or others are for amnesty, that's his right."
           ]
         },
         "bernie sanders": {
           "total": 1,
           "sentiment": 4,
           "lines": [
-            "You 've got a choice between honest Socialists on the Left , like Bernie Sanders , and lying conservatives on the Right."
+            "You've got a choice between honest Socialists on the Left, like Bernie Sanders, and lying conservatives on the Right."
           ]
         },
         "lindsey graham": {
@@ -473,8 +473,8 @@
           "sentiment": -1,
           "lines": [
             "I want to ask Lindsey a question.",
-            "Lindsey , well , that 's my frustration.",
-            "\" ... we ca n't get rid of Obamacare \" -- Lindsey , let me answer this question now."
+            "Lindsey, well, that's my frustration.",
+            "\"... we ca n't get rid of Obamacare\" -- Lindsey, let me answer this question now."
           ]
         }
       }
@@ -486,13 +486,13 @@
       "emotionalLines": {
         "negative": {
           "score": -11,
-          "comparative": -0.3548387096774194,
-          "line": "But you said no. I 'm not blaming Bobby , I 'm not blaming Rick , I 'm not blaming anybody , I 'm blaming Barack Obama for this mess ."
+          "comparative": -0.4782608695652174,
+          "line": "But you said no. I'm not blaming Bobby, I'm not blaming Rick, I'm not blaming anybody, I'm blaming Barack Obama for this mess."
         },
         "positive": {
           "score": 8,
-          "comparative": 0.5714285714285714,
-          "line": "I have a plan to win it , and I intend to win it."
+          "comparative": 0.6153846153846154,
+          "line": "I have a plan to win it, and I intend to win it."
         }
       },
       "averageWordUsage": {
@@ -563,17 +563,17 @@
           "total": 2,
           "sentiment": 0,
           "lines": [
-            "[ laughter ] I 'm Lindsey Graham from South Carolina , in case you ca n't tell.",
-            "If we pass the Cardin bill , Graham , Menendez , it would go to the president."
+            "[ laughter ] I'm Lindsey Graham from South Carolina, in case you ca n't tell.",
+            "If we pass the Cardin bill, Graham, Menendez, it would go to the president."
           ]
         },
         "rick santorum": {
           "total": 4,
           "sentiment": -9,
           "lines": [
-            "Number one , I like Rick.",
+            "Number one, I like Rick.",
             "I do n't remember the Santorum plan when I was in the Senate.",
-            "But you said no. I 'm not blaming Bobby , I 'm not blaming Rick , I 'm not blaming anybody , I 'm blaming Barack Obama for this mess .",
+            "But you said no. I'm not blaming Bobby, I'm not blaming Rick, I'm not blaming anybody, I'm blaming Barack Obama for this mess.",
             "George W. Bush set $ 40 billion aside and Rick Santorum helped him and President Bush wiped out an entire -- wiped out AIDS and malaria for an entire generation of young African children."
           ]
         },
@@ -581,8 +581,8 @@
           "total": 3,
           "sentiment": 1,
           "lines": [
-            "TAPPER ( ? ) : Governor Pataki , I 'd just want to..",
-            "...George W. Bush.. .",
+            "TAPPER (? ) : Governor Pataki, I'd just want to..",
+            "...George W. Bush...",
             "George W. Bush set $ 40 billion aside and Rick Santorum helped him and President Bush wiped out an entire -- wiped out AIDS and malaria for an entire generation of young African children."
           ]
         },
@@ -590,8 +590,8 @@
           "total": 4,
           "sentiment": 1,
           "lines": [
-            "...George W. Bush.. .",
-            "We were in a good spot in Iraq , President Bush made mistakes but he adjusted.",
+            "...George W. Bush...",
+            "We were in a good spot in Iraq, President Bush made mistakes but he adjusted.",
             "George W. Bush set $ 40 billion aside and Rick Santorum helped him and President Bush wiped out an entire -- wiped out AIDS and malaria for an entire generation of young African children.",
             "George W. Bush set $ 40 billion aside and Rick Santorum helped him and President Bush wiped out an entire -- wiped out AIDS and malaria for an entire generation of young African children."
           ]
@@ -600,19 +600,19 @@
           "total": 4,
           "sentiment": -4,
           "lines": [
-            "But you said no. I 'm not blaming Bobby , I 'm not blaming Rick , I 'm not blaming anybody , I 'm blaming Barack Obama for this mess .",
-            "Bobby , you were in the Congress , and all I can tell you , to everybody here , if you want to repeal Obamacare , get a new president.",
-            "So Bobby , he would veto the bill , we do n't have 67 votes , and you 're giving away a defense against Obama for the rest of his presidency.",
-            "[ applause ] You know , Bobby , we 're running to be president of the United States , the most important job in the free world."
+            "But you said no. I'm not blaming Bobby, I'm not blaming Rick, I'm not blaming anybody, I'm blaming Barack Obama for this mess.",
+            "Bobby, you were in the Congress, and all I can tell you, to everybody here, if you want to repeal Obamacare, get a new president.",
+            "So Bobby, he would veto the bill, we do n't have 67 votes, and you're giving away a defense against Obama for the rest of his presidency.",
+            "[ applause ] You know, Bobby, we're running to be president of the United States, the most important job in the free world."
           ]
         },
         "hillary clinton": {
           "total": 4,
           "sentiment": 6,
           "lines": [
-            "If it is Hillary Clinton , Joe Biden or Bernie Sanders , they are going to pick people that we will disagree with all the time.",
-            "I thought Secretary Clinton did a good job when it came to dealing with our problems in Africa , particularly among women.",
-            "Secretary Clinton -- [ applause ] -- Secretary Clinton did a good -- here 's my problem with Secretary Clinton.",
+            "If it is Hillary Clinton, Joe Biden or Bernie Sanders, they are going to pick people that we will disagree with all the time.",
+            "I thought Secretary Clinton did a good job when it came to dealing with our problems in Africa, particularly among women.",
+            "Secretary Clinton -- [ applause ] -- Secretary Clinton did a good -- here's my problem with Secretary Clinton.",
             "Hillary Clinton has a list a mile long to help the middle class."
           ]
         },
@@ -620,15 +620,15 @@
           "total": 1,
           "sentiment": 0,
           "lines": [
-            "If it is Hillary Clinton , Joe Biden or Bernie Sanders , they are going to pick people that we will disagree with all the time."
+            "If it is Hillary Clinton, Joe Biden or Bernie Sanders, they are going to pick people that we will disagree with all the time."
           ]
         },
         "john kasich": {
           "total": 2,
           "sentiment": 2,
           "lines": [
-            "We 're cutting our military ; we 're on track to have the smallest Army since 1940 , the smallest Navy since 1915 and John Kasich says he wants to close more bases.",
-            "John Kasich , a good friend of mine , said in New Hampshire , we 're going to close more bases on his watch."
+            "We're cutting our military ; we're on track to have the smallest Army since 1940, the smallest Navy since 1915 and John Kasich says he wants to close more bases.",
+            "John Kasich, a good friend of mine, said in New Hampshire, we're going to close more bases on his watch."
           ]
         }
       }

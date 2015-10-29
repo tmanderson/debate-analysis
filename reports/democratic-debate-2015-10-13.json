@@ -52,13 +52,13 @@
       "emotionalLines": {
         "negative": {
           "score": -8,
-          "comparative": -0.08,
-          "line": "So , as we look ahead , if you 're going to make those poor judgment calls , a critical time in our history , we just finished with the Vietnam era , getting back into another quagmire -- if you 're looking ahead , and you 're looking at someone who made that poor decision in 2002 to go into Iraq when there was no real evidence of weapons of mass destruction in Iraq -- I know because I did my homework , and , so , that 's an indication of how someone will perform in the future."
+          "comparative": -0.09195402298850575,
+          "line": "So, as we look ahead, if you're going to make those poor judgment calls, a critical time in our history, we just finished with the Vietnam era, getting back into another quagmire -- if you're looking ahead, and you're looking at someone who made that poor decision in 2002 to go into Iraq when there was no real evidence of weapons of mass destruction in Iraq -- I know because I did my homework, and, so, that's an indication of how someone will perform in the future."
         },
         "positive": {
           "score": 5,
-          "comparative": 0.3125,
-          "line": "I have the courage to take the long-term view , and I 've shown good judgment."
+          "comparative": 0.35714285714285715,
+          "line": "I have the courage to take the long-term view, and I've shown good judgment."
         }
       },
       "averageWordUsage": {
@@ -129,7 +129,7 @@
           "total": 2,
           "sentiment": 4,
           "lines": [
-            "As a senator , I earned a reputation for courageous votes against the Bush-Cheney tax cuts the favored the wealthy , against the tragedy of the Iraq war , for environmental stewardship , for protection of our civil liberties.",
+            "As a senator, I earned a reputation for courageous votes against the Bush-Cheney tax cuts the favored the wealthy, against the tragedy of the Iraq war, for environmental stewardship, for protection of our civil liberties.",
             "And it all started with the Bush tax cuts that favored the wealthy."
           ]
         },
@@ -137,16 +137,16 @@
           "total": 2,
           "sentiment": -5,
           "lines": [
-            "Well , we just heard Senator Sanders say that it 's the worst decision in American history.",
-            "That 's very significant , the worst decision in American history , I just heard from Senator Sanders."
+            "Well, we just heard Senator Sanders say that it's the worst decision in American history.",
+            "That's very significant, the worst decision in American history, I just heard from Senator Sanders."
           ]
         },
         "jim webb": {
           "total": 2,
           "sentiment": 3,
           "lines": [
-            "OK. I just have to answer one thing that Senator Webb said about the Iran deal , because I 'm a strong proponent of what President Obama -- and he said that because of that the Iran deal that enabled Russia to come in.",
-            "No , that 's not true , Senator Webb."
+            "OK. I just have to answer one thing that Senator Webb said about the Iran deal, because I'm a strong proponent of what President Obama -- and he said that because of that the Iran deal that enabled Russia to come in.",
+            "No, that's not true, Senator Webb."
           ]
         },
         "lincoln chafee": {
@@ -165,13 +165,13 @@
       "emotionalLines": {
         "negative": {
           "score": -7,
-          "comparative": -0.25925925925925924,
-          "line": "I also represented a so-called war criminal , an African American Marine who was wounded -- who was convicted of murder in Vietnam , for six years."
+          "comparative": -0.28,
+          "line": "I also represented a so-called war criminal, an African American Marine who was wounded -- who was convicted of murder in Vietnam, for six years."
         },
         "positive": {
           "score": 9,
-          "comparative": 0.17307692307692307,
-          "line": "I believe that the signal that we sent to the region when the Iran nuclear deal was concluded was that we are accepting Iran 's greater position on this very important balance of power , among our greatest ally Israel , and the Sunnis represented by the Saudi regime , and Iran."
+          "comparative": 0.1875,
+          "line": "I believe that the signal that we sent to the region when the Iran nuclear deal was concluded was that we are accepting Iran's greater position on this very important balance of power, among our greatest ally Israel, and the Sunnis represented by the Saudi regime, and Iran."
         }
       },
       "averageWordUsage": {
@@ -233,15 +233,15 @@
           "sentiment": -6,
           "lines": [
             "My son Jim fought as an infantry Marine on the bloody streets of Ramadi.",
-            "That 's the way the program was originally designed because of their unique history in this country , with slavery and the Jim Crow laws that followed."
+            "That's the way the program was originally designed because of their unique history in this country, with slavery and the Jim Crow laws that followed."
           ]
         },
         "jim webb": {
           "total": 2,
           "sentiment": 2,
           "lines": [
-            "You may be sure that in a Webb administration , the highest priority will be the working people who every day go out and make this country stronger at home , and who give us the right reputation and security overseas under a common sense foreign policy .",
-            "And in a Webb administration , we will do something about that ."
+            "You may be sure that in a Webb administration, the highest priority will be the working people who every day go out and make this country stronger at home, and who give us the right reputation and security overseas under a common sense foreign policy.",
+            "And in a Webb administration, we will do something about that."
           ]
         },
         "bernie sanders": {
@@ -249,8 +249,8 @@
           "sentiment": 6,
           "lines": [
             "And it would be for the voters to decide whether Senator Sanders or anyone else should be president.",
-            "Bernie , say my name so I can get into this .",
-            "I got a great deal of admiration and affection for Senator Sanders , but I -- Bernie , I do n't think the revolution 's going to come."
+            "Bernie, say my name so I can get into this.",
+            "I got a great deal of admiration and affection for Senator Sanders, but I -- Bernie, I do n't think the revolution's going to come."
           ]
         }
       }
@@ -261,14 +261,14 @@
       "speakingTime": 17,
       "emotionalLines": {
         "negative": {
-          "score": -12,
-          "comparative": -0.32432432432432434,
-          "line": "One of the things that was not reported during that heartbreaking night of unrest in Baltimore was that arrests had actually fallen to a 38-year low in the year prior to the Freddie Gray 's tragic death."
+          "score": -11,
+          "comparative": -0.3055555555555556,
+          "line": "One of the things that was not reported during that heartbreaking night of unrest in Baltimore was that arrests had actually fallen to a 38-year low in the year prior to the Freddie Gray's tragic death."
         },
         "positive": {
           "score": 7,
-          "comparative": 0.14893617021276595,
-          "line": "Whether it was raising the minimum wage , making our public schools the best in America , passing marriage equality , the DREAM Act , and comprehensive gun safety legislation , I have learned how to get things done because I am very clear about my principals."
+          "comparative": 0.16666666666666666,
+          "line": "Whether it was raising the minimum wage, making our public schools the best in America, passing marriage equality, the DREAM Act, and comprehensive gun safety legislation, I have learned how to get things done because I am very clear about my principals."
         }
       },
       "averageWordUsage": {
@@ -338,15 +338,15 @@
           "total": 1,
           "sentiment": 0,
           "lines": [
-            "My name is Martin O'Malley , former Mayor of Baltimore , former governor of Maryland , a life long democrat , and most importantly , a husband , and a father."
+            "My name is Martin O'Malley, former Mayor of Baltimore, former governor of Maryland, a life long democrat, and most importantly, a husband, and a father."
           ]
         },
         "bernie sanders": {
           "total": 3,
           "sentiment": -3,
           "lines": [
-            "What disturbed people so much about -- and I would agree with Senator Sanders on this -- leading us into Iraq under false pretenses and telling us , as a people , that there were weapons of mass destruction there was -- was one of the worst blunders in modern American history.",
-            "But there 's another piece that Senator Sanders left out tonight , but he 's been excellent about underscoring that.",
+            "What disturbed people so much about -- and I would agree with Senator Sanders on this -- leading us into Iraq under false pretenses and telling us, as a people, that there were weapons of mass destruction there was -- was one of the worst blunders in modern American history.",
+            "But there's another piece that Senator Sanders left out tonight, but he's been excellent about underscoring that.",
             "And I have to agree with Secretary Clinton and Senator Sanders."
           ]
         },
@@ -354,14 +354,14 @@
           "total": 1,
           "sentiment": -7,
           "lines": [
-            "\" Whenever we go -- and contrary to John Quincy Adams ' advice -- \" searching the world for monsters to destroy , \" and when we use political might to take a -- at the expense of democratic principle , we hurt ourselves , and we hurt our ( inaudible ) ."
+            "\" Whenever we go -- and contrary to John Quincy Adams' advice --\" searching the world for monsters to destroy,\" and when we use political might to take a -- at the expense of democratic principle, we hurt ourselves, and we hurt our ( inaudible )."
           ]
         },
         "chris christie": {
           "total": 1,
           "sentiment": 0,
           "lines": [
-            "And I believe that 's what Chris Stevens was trying to do."
+            "And I believe that's what Chris Stevens was trying to do."
           ]
         },
         "hillary clinton": {
@@ -369,7 +369,7 @@
           "sentiment": 3,
           "lines": [
             "Secretary Clinton mentioned my support eight years ago.",
-            "And -- ( inaudible ) right before this debate , Secretary Clinton 's campaign put out a lot of reversals on positions on Keystone and many other things.",
+            "And -- ( inaudible ) right before this debate, Secretary Clinton's campaign put out a lot of reversals on positions on Keystone and many other things.",
             "I respect what Secretary Clinton and her husband have done for our country.",
             "And I have to agree with Secretary Clinton and Senator Sanders."
           ]
@@ -385,7 +385,7 @@
           "total": 1,
           "sentiment": 1,
           "lines": [
-            "... And a lot of the xenophobes , the immigrant haters like some that we 've heard like , Donald Trump , that carnival barker in the Republican party.."
+            "... And a lot of the xenophobes, the immigrant haters like some that we've heard like, Donald Trump, that carnival barker in the Republican party.."
           ]
         }
       }
@@ -397,8 +397,8 @@
       "emotionalLines": {
         "negative": {
           "score": -12,
-          "comparative": -0.34285714285714286,
-          "line": "Let us be clear that the greed and recklessness and illegal behavior of Wall Street , where fraud is a business model , helped to destroy this economy and the lives of millions of people."
+          "comparative": -0.36363636363636365,
+          "line": "Let us be clear that the greed and recklessness and illegal behavior of Wall Street, where fraud is a business model, helped to destroy this economy and the lives of millions of people."
         },
         "positive": {
           "score": 8,
@@ -489,38 +489,38 @@
           "total": 3,
           "sentiment": 6,
           "lines": [
-            "Let 's begin , Anderson , by understanding that Bernie Sanders has a D-minus voting rating ( ph ) from the NRA.",
-            "Check the record. In the 1990s -- and all due respect -- in the 1990s , when I had the Republican leadership and Wall Street spending billions of dollars in lobbying , when the Clinton administration , when Alan Greenspan said , \" what a great idea it would be to allow these huge banks to merge , \" Bernie Sanders fought them , and helped lead the opposition to deregulation.",
-            "And if people want to help us out , Bernie Sanders.com."
+            "Let's begin, Anderson, by understanding that Bernie Sanders has a D-minus voting rating ( ph ) from the NRA.",
+            "Check the record. In the 1990s -- and all due respect -- in the 1990s, when I had the Republican leadership and Wall Street spending billions of dollars in lobbying, when the Clinton administration, when Alan Greenspan said,\" what a great idea it would be to allow these huge banks to merge,\" Bernie Sanders fought them, and helped lead the opposition to deregulation.",
+            "And if people want to help us out, Bernie Sanders.com."
           ]
         },
         "hillary clinton": {
           "total": 6,
           "sentiment": 4,
           "lines": [
-            "As a senator from a rural state , what I can tell Secretary Clinton , that all the shouting in the world is not going to do what I would hope all of us want , and that is keep guns out of the hands of people who should not have those guns and end this horrible violence that we are seeing.",
-            "Well , obviously , I voted , when President Clinton said , \" let 's stop ethnic cleansing in Kosovo , \" I voted for that.",
-            "I supported President Clinton 's effort to deal with ethnic cleansing in Kosovo.",
-            "Check the record. In the 1990s -- and all due respect -- in the 1990s , when I had the Republican leadership and Wall Street spending billions of dollars in lobbying , when the Clinton administration , when Alan Greenspan said , \" what a great idea it would be to allow these huge banks to merge , \" Bernie Sanders fought them , and helped lead the opposition to deregulation.",
-            "In my view , Secretary Clinton , you do not -- Congress does not regulate Wall Street.",
-            "Tom Harkin , a very good friend of Hillary Clinton 's and mine , one of the leading labor advocates , also voted against that ."
+            "As a senator from a rural state, what I can tell Secretary Clinton, that all the shouting in the world is not going to do what I would hope all of us want, and that is keep guns out of the hands of people who should not have those guns and end this horrible violence that we are seeing.",
+            "Well, obviously, I voted, when President Clinton said,\" let's stop ethnic cleansing in Kosovo,\" I voted for that.",
+            "I supported President Clinton's effort to deal with ethnic cleansing in Kosovo.",
+            "Check the record. In the 1990s -- and all due respect -- in the 1990s, when I had the Republican leadership and Wall Street spending billions of dollars in lobbying, when the Clinton administration, when Alan Greenspan said,\" what a great idea it would be to allow these huge banks to merge,\" Bernie Sanders fought them, and helped lead the opposition to deregulation.",
+            "In my view, Secretary Clinton, you do not -- Congress does not regulate Wall Street.",
+            "Tom Harkin, a very good friend of Hillary Clinton's and mine, one of the leading labor advocates, also voted against that."
           ]
         },
         "jeb bush": {
           "total": 2,
           "sentiment": -4,
           "lines": [
-            "Second of all , I heard the same evidence from President Bush and Dick Cheney and Don Rumsfeld about why we should overthrow Saddam Hussein and get involved in the -- I would urge people to go to berniesanders.com",
-            "Well , first of all , let 's remember where we were when Bush left office."
+            "Second of all, I heard the same evidence from President Bush and Dick Cheney and Don Rumsfeld about why we should overthrow Saddam Hussein and get involved in the -- I would urge people to go to berniesanders.com",
+            "Well, first of all, let's remember where we were when Bush left office."
           ]
         },
         "jim gilmore": {
           "total": 4,
           "sentiment": 9,
           "lines": [
-            "Well , first of all , let me applaud my good friend Jim Webb for his service to this country in so many ways .",
-            "Jim and I , under Jim 's leadership , as he indicated , passed the most significant veterans education bill in recent history.",
-            "Not the brave men like Jim who fought in that war , but the policy which got us involved in that war.",
+            "Well, first of all, let me applaud my good friend Jim Webb for his service to this country in so many ways.",
+            "Jim and I, under Jim's leadership, as he indicated, passed the most significant veterans education bill in recent history.",
+            "Not the brave men like Jim who fought in that war, but the policy which got us involved in that war.",
             "Jim Webb is right : Money is pouring in to this campaign through super PACs."
           ]
         },
@@ -528,7 +528,7 @@
           "total": 2,
           "sentiment": 8,
           "lines": [
-            "Well , first of all , let me applaud my good friend Jim Webb for his service to this country in so many ways .",
+            "Well, first of all, let me applaud my good friend Jim Webb for his service to this country in so many ways.",
             "Jim Webb is right : Money is pouring in to this campaign through super PACs."
           ]
         },
@@ -536,7 +536,7 @@
           "total": 1,
           "sentiment": -5,
           "lines": [
-            "Well , let me tell you , Donald Trump and his billionaire friends under my policies are going to pay a hell of a lot more in taxes today -- taxes in the future than they 're paying today ."
+            "Well, let me tell you, Donald Trump and his billionaire friends under my policies are going to pay a hell of a lot more in taxes today -- taxes in the future than they're paying today."
           ]
         }
       }
@@ -548,13 +548,13 @@
       "emotionalLines": {
         "negative": {
           "score": -5,
-          "comparative": -0.15625,
-          "line": "We had a murderous dictator , Gadhafi , who had American blood on his hands , as I 'm sure you remember , threatening to massacre large numbers of the Libyan people."
+          "comparative": -0.18518518518518517,
+          "line": "We had a murderous dictator, Gadhafi, who had American blood on his hands, as I'm sure you remember, threatening to massacre large numbers of the Libyan people."
         },
         "positive": {
           "score": 14,
-          "comparative": 0.2545454545454545,
-          "line": "And I want to make sure every single person in this country has the same opportunities that he and I have had , to make the most of their God-given potential and to have the chances that they should have in America for a good education , good job training , and then good jobs."
+          "comparative": 0.2692307692307692,
+          "line": "And I want to make sure every single person in this country has the same opportunities that he and I have had, to make the most of their God-given potential and to have the chances that they should have in America for a good education, good job training, and then good jobs."
         }
       },
       "averageWordUsage": {
@@ -639,7 +639,7 @@
           "total": 2,
           "sentiment": 0,
           "lines": [
-            "I 'm Hillary Clinton.",
+            "I'm Hillary Clinton.",
             "I certainly am not campaigning to become president because my last name is Clinton."
           ]
         },
@@ -649,17 +649,17 @@
           "lines": [
             "And I think what Senator Sanders is saying certainly makes sense in the terms of the inequality that we have.",
             "Senator Sanders did vote five times against the Brady bill.",
-            "Nobody does , Senator Sanders .",
-            "Thank you , Bernie.",
-            "So I 'm with both Senator Sanders and Governor O'Malley in putting a lot of attention onto the banks.",
-            "Therefore , we need more states , cities , and the federal government to begin to address this so that we do n't have this terrible result that Senator Sanders was talking about where we have a huge population in our prisons for nonviolent , low-level offenses that are primarily due to marijuana ."
+            "Nobody does, Senator Sanders.",
+            "Thank you, Bernie.",
+            "So I'm with both Senator Sanders and Governor O'Malley in putting a lot of attention onto the banks.",
+            "Therefore, we need more states, cities, and the federal government to begin to address this so that we do n't have this terrible result that Senator Sanders was talking about where we have a huge population in our prisons for nonviolent, low-level offenses that are primarily due to marijuana."
           ]
         },
         "jim webb": {
           "total": 1,
           "sentiment": 4,
           "lines": [
-            "But I think it 's important , since I understand Senator Webb 's very strong feelings about this , to explain where we were then and to point out that I think President Obama made the right decision at the time."
+            "But I think it's important, since I understand Senator Webb's very strong feelings about this, to explain where we were then and to point out that I think President Obama made the right decision at the time."
           ]
         },
         "jeb bush": {
@@ -667,7 +667,7 @@
           "sentiment": 0,
           "lines": [
             "\" I took on the Bush administration for the same thing.",
-            "What happened , however , is that the Bush administration began to chip away at that process."
+            "What happened, however, is that the Bush administration began to chip away at that process."
           ]
         }
       }
