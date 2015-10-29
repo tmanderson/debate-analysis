@@ -1,0 +1,22 @@
+{
+  "name": "Democratic",
+  "compiled": "2015-10-29",
+  "candidates": [
+    {
+      "name": "Hillary Clinton",
+      "website": "https://www.hillaryclinton.com/"
+    },
+    {
+      "name": "Lawrence Lessig",
+      "website": "https://lessigforpresident.com/"
+    },
+    {
+      "name": "Martin O'Malley",
+      "website": "https://martinomalley.com/"
+    },
+    {
+      "name": "Bernie Sanders",
+      "website": "https://berniesanders.com/"
+    }
+  ]
+}

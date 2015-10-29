@@ -1,0 +1,66 @@
+{
+  "name": "Republican",
+  "compiled": "2015-10-29",
+  "candidates": [
+    {
+      "name": "Jeb Bush",
+      "website": "https://jeb2016.com/?lang=en"
+    },
+    {
+      "name": "Ben Carson",
+      "website": "https://www.bencarson.com/"
+    },
+    {
+      "name": "Chris Christie",
+      "website": "https://www.chrischristie.com/"
+    },
+    {
+      "name": "Ted Cruz",
+      "website": "https://www.tedcruz.org/"
+    },
+    {
+      "name": "Carly Fiorina",
+      "website": "https://carlyforpresident.com/"
+    },
+    {
+      "name": "Jim Gilmore",
+      "website": "http://www.ontheissues.org/Jim_Gilmore.htm"
+    },
+    {
+      "name": "Lindsey Graham",
+      "website": "http://www.lindseygraham.com/"
+    },
+    {
+      "name": "Mike Huckabee",
+      "website": "https://www.mikehuckabee.com/"
+    },
+    {
+      "name": "Bobby Jindal",
+      "website": "https://www.bobbyjindal.com/"
+    },
+    {
+      "name": "John Kasich",
+      "website": "https://johnkasich.com/"
+    },
+    {
+      "name": "George Pataki",
+      "website": "http://www.georgepataki.com/"
+    },
+    {
+      "name": "Rand Paul",
+      "website": "https://www.randpaul.com/"
+    },
+    {
+      "name": "Marco Rubio",
+      "website": "https://marcorubio.com/"
+    },
+    {
+      "name": "Rick Santorum",
+      "website": "http://www.ricksantorum.com/"
+    },
+    {
+      "name": "Donald Trump",
+      "website": "https://www.donaldjtrump.com/"
+    }
+  ]
+}
