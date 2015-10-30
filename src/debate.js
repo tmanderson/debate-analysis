@@ -4,71 +4,75 @@ var _ = require('lodash');
 var fs = require('fs');
 var path = require('path');
 
-var transcripts = _.map(
-  fs.readdirSync(path.join('./', TRANSCRIPT_PATH)),
-  function(file) {
-    var dateComponents = file.match(/\d+/g).slice(-3);
+var transcripts = fs.readdirSync(path.join('./', TRANSCRIPT_PATH));
 
-    return {
-      filename: file,
+function Debate(transcriptFilename) {
+  _.extend(this, JSON.parse(
+    fs.readFileSync(
+      path.join(TRANSCRIPT_PATH, transcriptFilename))
+    )
+  );
 
-      date: {
-        year: dateComponents[0],
-        month: dateComponents[1],
-        day: dateComponents[2]
-      },
-
-      load: function() {
-        var filepath = path.join('./', TRANSCRIPT_PATH, file);
-        return (this.load = JSON.parse(fs.readFileSync(filepath)));
-      }
-    }
-  }
-);
-
-function Debate(transcript) {
-  this.name = transcript.filename.replace(/-/g, ' ').replace('json', '');
-  this.transcript = transcript;
-  this.speakers = {};
-
-  this.loadDebate();
+  this.loadPartyData();
+  this.assignParticipantLines();
 }
 
 _.extend(Debate.prototype, {
-  getCandidate: function getCandidate(name) {
-    if(this.speakers[name]) return this.speakers[name];
+  loadPartyData: function loadPartyData() {
+    var party = _.find(DEBATE_PARTIES, function(party) {
+      return (new RegExp(party, 'i')).test(this.name);
+    }, this);
 
-    var data, filepath = path.join('./', CANDIDATES_PATH, name + '.json');
+    var filepath = path.join('./', CANDIDATES_PATH, party + '-party.json');
 
-    if(!fs.existsSync(filepath)) {
-      data = { name: name, isCandidate: false };
-    }
-    else {
-      data = JSON.parse(fs.readFileSync(filepath));
-    }
+    if(!fs.existsSync(filepath)) return;
 
-    return (this.speakers[name] = data);
+    this.party = JSON.parse(fs.readFileSync(filepath));
+    
+    this.participants = _.mapKeys(
+      _.filter(this.party.candidates, function(candidate) {
+        return _.find(this.participants, function(name) {
+          return name.toLowerCase().indexOf(candidate.name.toLowerCase()) > -1;
+        }, this);
+      }, this),
+      function(participant) {
+        return participant.name.split(' ').pop().toLowerCase();
+      }
+    );
+
+    this.moderators = _.mapKeys(
+      _.map(this.moderators, function(name) {
+        return { name: name, isCandidate: false };
+      }),
+      function(moderator) {
+        return moderator.name.split(' ').slice(-2).shift().toLowerCase();
+      }
+    );
   },
 
-  loadDebate: function loadDebate() {
-    _.each(this.transcript.load(), function(line) {
-      var speaker = this.getCandidate(_.keys(line)[0]);
-      if(!speaker) return;
+  getParticipant: function getCandidate(name) {
+    return this.participants[name] || this.moderators[name];
+  },
 
-      if(!speaker.lines) speaker.lines = [];
-      speaker.lines.push(_.values(line)[0]);
+  assignParticipantLines: function assignParticipantLines() {
+    _.each(this.dialog, function(line) {
+      var participant = this.getParticipant(_.keys(line)[0]);
+      if(!participant) return;
+
+      if(!participant.lines) participant.lines = [];
+      participant.lines.push(_.values(line)[0]);
     }, this);
   },
 
   forEachSpeaker: function(process) {
-    _.each(this.speakers, process);
+    _.each(this.participants, process);
   }
 });
 
 Debate.getAllForParty = function(party) {
   return _.map(
     _.filter(transcripts, function(transcript) {
-      return transcript.filename.indexOf(party) >= 0;
+      return transcript.indexOf(party) >= 0;
     }),
     function(debate) {
       return new Debate(debate);

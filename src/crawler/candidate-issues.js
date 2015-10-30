@@ -15,6 +15,14 @@ var INVALID_ISSUE_TEXT = ['issue', 'donate', 'governor', 'senator', 'links'];
 
 var makeRequest = utils.request;
 
+function createPartyObj(party, candidates) {
+  return {
+    name: _.capitalize(party),
+    compiled: moment().format('YYYY-MM-DD'),
+    candidates: candidates
+  };
+}
+
 function loadPartyData() {
   return b.map(_.values(DEBATE_PARTIES), function(partyName) {
     var deferred = b.defer();
@@ -31,29 +39,23 @@ function loadPartyData() {
   });
 }
 
-function getPartyCandidateIssueUrls(parties) {
-  return b.map(parties, function(party) {
-    return b.map(party.candidates, function(candidate) {
-      if(candidate.issuesUrl) return candidate;
+function writePartyFilesTo(writePath, parties) {
+  var names = _.keys(parties);
 
-      return findIssuesUrl(candidate.website)
-        .then(function(url) {
+  return b.each(_.values(parties), function(info, i) {
+    var deferred = b.defer();
+    var partyData = createPartyObj(names[i], info);
 
-          return _.extend(candidate, {
-            issuesUrl: url
-          });
-        });
-    });
-  });
-}
+    fs.writeFile(
+      path.join(writePath, partyData.name.toLowerCase() + '-party.json'),
+      JSON.stringify(partyData, null, 2),
+      function(err) {
+        if(!err) return deferred.resolve(true);
+        deferred.reject(err);
+      }
+    );
 
-function getAndProcessCandidateIssues(parties) {
-  return b.map(parties, function(party) {
-    return b.map(party.candidates, function(candidate) {
-      return makeRequest(candidate.issuesUrl)
-        .then(_.partial(parseIssuesForCandidate, candidate))
-        .then(_.partial(_.set, candidate, 'issues'));
-    });
+    return deferred.promise;
   });
 }
 
@@ -115,6 +117,25 @@ function parseIssuesForCandidate(candidate, $) {
     $('h1, h2, h3').map(function() { return this.textContent; }).get(),
     candidate.name.split(' ')
   );
+
+  return issues.length && issues || [];
+}
+
+function getAndProcessCandidateIssues(parties) {
+  return b.all(
+    _.flatten(
+      _.map(parties, function(party) {
+        return _.map(party.candidates, function(candidate) {
+          return makeRequest(candidate.issuesUrl)
+            .then(function($) {
+              return _.extend(candidate, {
+                issues: parseIssuesForCandidate(candidate, $)
+              });
+            }, function(err) { console.log(err); });
+        });
+      })
+    )
+  );
 }
 
 module.exports = function getCandidateIssues() {
@@ -124,9 +145,8 @@ module.exports = function getCandidateIssues() {
     .then(function(parties) {
       return (partyData = parties);
     })
-    .then(getPartyCandidateIssueUrls)
     .then(getAndProcessCandidateIssues)
-    .then(function() {
-      console.log(arguments);
+    .then(function(candidates) {
+      return writePartyFilesTo(PARTY_INFO_PATH, _.groupBy(candidates, 'party'));
     });
 };

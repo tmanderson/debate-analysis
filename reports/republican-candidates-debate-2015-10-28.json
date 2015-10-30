@@ -1,0 +1,1179 @@
+{
+  "name": "Republican  Candidates Debate",
+  "estimatedLength": 85,
+  "totalWordsSpoken": 16132,
+  "mostUniqueWords": [
+    "trusting",
+    "deceived",
+    "comic",
+    "nicely",
+    "loves",
+    "reducing",
+    "inversions",
+    "outside",
+    "build",
+    "border",
+    "questioned",
+    "13",
+    "barriers",
+    "fat",
+    "beautiful",
+    "door",
+    "sharper",
+    "smarter",
+    "cunning",
+    "imbalance",
+    "peanuts",
+    "comparison",
+    "panel",
+    "hit",
+    "tubes",
+    "started",
+    "thirdly",
+    "poll",
+    "tanked",
+    "businessmen",
+    "obvious",
+    "chapter",
+    "successful",
+    "developer",
+    "businessman",
+    "royce",
+    "hotel",
+    "filed",
+    "disgraceful",
+    "boy"
+  ],
+  "candidates": [
+    {
+      "name": "Jeb Bush",
+      "totalWords": 1593,
+      "speakingTime": 8,
+      "emotionalLines": {
+        "negative": {
+          "score": -6,
+          "comparative": -1,
+          "line": "also, I ca n't fake anger."
+        },
+        "positive": {
+          "score": 5,
+          "comparative": 0.3333333333333333,
+          "line": "[ inaudible ], the great majority of Republicans and Americans believe in a hopeful future."
+        }
+      },
+      "averageWordUsage": {
+        "know": 0.011363636363636364,
+        "got": 0.017045454545454544,
+        "ca": 0.014204545454545454,
+        "believe": 0.014204545454545454,
+        "country": 0.028409090909090908,
+        "people": 0.03977272727272727,
+        "way": 0.019886363636363636,
+        "just": 0.03125,
+        "think": 0.014204545454545454,
+        "day": 0.011363636363636364,
+        "washington": 0.014204545454545454,
+        "state": 0.011363636363636364,
+        "culture": 0.011363636363636364,
+        "barack": 0.014204545454545454,
+        "obama": 0.014204545454545454,
+        "policy": 0.014204545454545454,
+        "deal": 0.011363636363636364,
+        "tax": 0.022727272727272728,
+        "spending": 0.022727272727272728,
+        "regulation": 0.014204545454545454,
+        "need": 0.022727272727272728,
+        "government": 0.022727272727272728,
+        "income": 0.014204545454545454,
+        "make": 0.017045454545454544,
+        "create": 0.011363636363636364,
+        "federal": 0.019886363636363636,
+        "social": 0.014204545454545454,
+        "security": 0.014204545454545454
+      },
+      "importantWords": {
+        "country": 6.897848952390782,
+        "gotta": 6.795790545596741,
+        "going": 5.984860329380412,
+        "know": 5.4094961844768505,
+        "believe": 5.4094961844768505,
+        "people": 3.5769147207285403,
+        "patient": 3.3978952727983707,
+        "stick": 3.3978952727983707,
+        "fake": 3.3978952727983707,
+        "anger": 3.3978952727983707,
+        "impatient": 3.3978952727983707,
+        "verge": 3.3978952727983707,
+        "fix": 3.3978952727983707,
+        "deeply": 3.3978952727983707,
+        "endeavor": 3.3978952727983707,
+        "troubles": 3.3978952727983707,
+        "rewards": 3.3978952727983707,
+        "rewarded": 3.3978952727983707,
+        "nature": 3.3978952727983707,
+        "tearing": 3.3978952727983707
+      },
+      "issueRelevance": {
+        "Additional Materials On This Policy:": 0.13523740461192127,
+        "Defeating ISIS": 0
+      },
+      "callouts": {
+        "marco rubio": {
+          "total": 2,
+          "sentiment": 0,
+          "lines": [
+            "Marco, when you signed up for this, this was a six-year term, and you should be showing up to work.",
+            "I have Ryan Tannehill, Marco, as my quarterback, he was 18 for 19 last week."
+          ]
+        },
+        "jeb bush": {
+          "total": 1,
+          "sentiment": 0,
+          "lines": [
+            "you can go get it at jeb2016.com"
+          ]
+        },
+        "hillary clinton": {
+          "total": 3,
+          "sentiment": 1,
+          "lines": [
+            "And now they see Hillary Clinton proposing a third term of economic policy for our country.We",
+            "Under — under Barack Obama and the proposals of Hillary Clinton and Bernie Sanders and others, they've tried it their way, and it has failed miserably.We",
+            "We ca n't just allow it to continue on its current path the way that Hillary Clinton wants to do because there'll be major reductions in benefits in the next decade if we do nothing.I"
+          ]
+        },
+        "bernie sanders": {
+          "total": 1,
+          "sentiment": -2,
+          "lines": [
+            "Under — under Barack Obama and the proposals of Hillary Clinton and Bernie Sanders and others, they've tried it their way, and it has failed miserably.We"
+          ]
+        },
+        "john kasich": {
+          "total": 1,
+          "sentiment": -1,
+          "lines": [
+            "trillion debt.In Florida, we have the lowest in-state tuition of any state, because there's accountability, just as John said."
+          ]
+        }
+      }
+    },
+    {
+      "name": "Ben Carson",
+      "totalWords": 1449,
+      "speakingTime": 8,
+      "emotionalLines": {
+        "negative": {
+          "score": -4,
+          "comparative": -0.17391304347826086,
+          "line": "Does n't hurt rich people if their bar of soap goes up ten cents, but it hurts the poor and the middle class.And"
+        },
+        "positive": {
+          "score": 6,
+          "comparative": 0.375,
+          "line": "I have...... the best results, would n't that be nice if the country could do that?"
+        }
+      },
+      "averageWordUsage": {
+        "15": 0.009146341463414634,
+        "terms": 0.009146341463414634,
+        "really": 0.009146341463414634,
+        "people": 0.06402439024390244,
+        "tell": 0.01524390243902439,
+        "believe": 0.012195121951219513,
+        "things": 0.012195121951219513,
+        "talking": 0.01524390243902439,
+        "america": 0.012195121951219513,
+        "government": 0.024390243902439025,
+        "say": 0.009146341463414634,
+        "rate": 0.012195121951219513,
+        "percent": 0.01524390243902439,
+        "rid": 0.012195121951219513,
+        "economy": 0.009146341463414634,
+        "right": 0.012195121951219513,
+        "regulations": 0.009146341463414634,
+        "just": 0.009146341463414634,
+        "trillion": 0.009146341463414634,
+        "product": 0.009146341463414634,
+        "make": 0.012195121951219513,
+        "comes": 0.009146341463414634,
+        "american": 0.009146341463414634,
+        "average": 0.009146341463414634,
+        "think": 0.009146341463414634,
+        "lot": 0.018292682926829267,
+        "want": 0.009146341463414634,
+        "going": 0.01524390243902439,
+        "know": 0.021341463414634148,
+        "lives": 0.012195121951219513,
+        "causing": 0.012195121951219513,
+        "society": 0.009146341463414634,
+        "speeches": 0.009146341463414634,
+        "good": 0.01524390243902439,
+        "country": 0.012195121951219513,
+        "better": 0.009146341463414634,
+        "bad": 0.009146341463414634,
+        "decisions": 0.009146341463414634,
+        "great": 0.012195121951219513,
+        "million": 0.009146341463414634
+      },
+      "importantWords": {
+        "america": 5.58351893845611,
+        "people": 3.386294361119891,
+        "president": 3.1972245773362196,
+        "weakness": 3.1972245773362196,
+        "probably": 3.1972245773362196,
+        "applying": 3.1972245773362196,
+        "seeing": 3.1972245773362196,
+        "myself": 3.1972245773362196,
+        "position": 3.1972245773362196,
+        "hundreds": 3.1972245773362196,
+        "thousands": 3.1972245773362196,
+        "versus": 3.1972245773362196,
+        "began": 3.1972245773362196,
+        "election": 3.1972245773362196,
+        "needed": 3.1972245773362196,
+        "important": 3.1972245773362196,
+        "recognizing": 3.1972245773362196,
+        "reagan": 3.1972245773362196,
+        "11th": 3.1972245773362196,
+        "commandment": 3.1972245773362196
+      },
+      "issueRelevance": {
+        "The American People Deserve a Better Tax Code": 0.555038721844634,
+        "Keep Faith in Our Society": 0.07512232190328821,
+        "Stand by Israel, Our Bulwark Middle East Ally": 0.0639444915467244,
+        "Balanced Budget Amendment": 0.0558351893845611,
+        "Protect the Second Amendment": 0,
+        "Russia and Lessons Learned": 0,
+        "Health Care": 0,
+        "Keep Gitmo Open": 0,
+        "Education": 0,
+        "Protecting Innocent Life": 0
+      },
+      "callouts": {
+        "bernie sanders": {
+          "total": 1,
+          "sentiment": 2,
+          "lines": [
+            "Bernie Sanders will tell them that it's because of the rich."
+          ]
+        }
+      }
+    },
+    {
+      "name": "Chris Christie",
+      "totalWords": 1736,
+      "speakingTime": 9,
+      "emotionalLines": {
+        "negative": {
+          "score": -5,
+          "comparative": -0.2631578947368421,
+          "line": "We're not — the American people — forget about anything else, they've already been lied to and stolen from."
+        },
+        "positive": {
+          "score": 7,
+          "comparative": 0.15217391304347827,
+          "line": "I will tell you, you could win a bet at a bar tonight, since we're talking about fantasy football, if you ask who the top three states in America are that produce solar energy : California and Arizona are easy, but number three is New Jersey.Why"
+        }
+      },
+      "averageWordUsage": {
+        "people": 0.03254437869822485,
+        "know": 0.026627218934911243,
+        "laughter": 0.011834319526627219,
+        "tell": 0.020710059171597635,
+        "going": 0.038461538461538464,
+        "say": 0.011834319526627219,
+        "taxes": 0.020710059171597635,
+        "hillary": 0.01775147928994083,
+        "clinton": 0.01775147928994083,
+        "question": 0.011834319526627219,
+        "years": 0.011834319526627219,
+        "let": 0.029585798816568046,
+        "government": 0.023668639053254437,
+        "stolen": 0.014792899408284023,
+        "social": 0.011834319526627219,
+        "security": 0.014792899408284023,
+        "money": 0.029585798816568046,
+        "talking": 0.011834319526627219,
+        "need": 0.023668639053254437,
+        "american": 0.011834319526627219,
+        "washington": 0.026627218934911243,
+        "stop": 0.014792899408284023,
+        "way": 0.014792899408284023,
+        "like": 0.01775147928994083,
+        "fantasy": 0.014792899408284023,
+        "justice": 0.01775147928994083,
+        "department": 0.014792899408284023,
+        "president": 0.023668639053254437,
+        "want": 0.026627218934911243,
+        "send": 0.01775147928994083,
+        "doing": 0.011834319526627219,
+        "law": 0.011834319526627219,
+        "does": 0.011834319526627219,
+        "make": 0.01775147928994083,
+        "john": 0.014792899408284023,
+        "support": 0.011834319526627219,
+        "states": 0.014792899408284023,
+        "football": 0.011834319526627219,
+        "energy": 0.020710059171597635
+      },
+      "importantWords": {
+        "stage": 8.615406530704774,
+        "pessimist": 5.743604353803183,
+        "socialist": 5.743604353803183,
+        "isolationist": 5.743604353803183,
+        "weakness": 5.743604353803183,
+        "know": 3.5463797764669636,
+        "don": 3.5463797764669636,
+        "going": 2.9710156315634015,
+        "quite": 2.8718021769015913,
+        "frankly": 2.8718021769015913,
+        "figure": 2.8718021769015913,
+        "house": 2.8718021769015913,
+        "white": 2.8718021769015913,
+        "left": 2.8718021769015913,
+        "miles": 2.8718021769015913,
+        "democratic": 2.8718021769015913,
+        "bank": 2.8718021769015913,
+        "lot": 2.8718021769015913,
+        "won": 2.8718021769015913,
+        "free": 2.8718021769015913
+      },
+      "issueRelevance": {
+        "Criminal Justice": 0.1723081306140955,
+        "Border Security and Immigration": 0.10893274981708231,
+        "Foreign Policy": 0.05743604353803183,
+        "Entitlements": 0.05743604353803183,
+        "Healthcare for America's Veterans": 0.049326741375868545,
+        "Economy": 0,
+        "Education": 0
+      },
+      "callouts": {
+        "hillary clinton": {
+          "total": 6,
+          "sentiment": 3,
+          "lines": [
+            "It's Hillary Clinton.",
+            "And, here's the difference between me and Hillary Clinton.",
+            "What Hillary Clinton's going to say, and has said before is, she wants to raise Social Security taxes.Now",
+            "We do n't need Hillary Clinton's price controls for — again, does anybody out there think that giving Washington, D.C.",
+            "Well, first off, what we do n't do is do what Hillary Clinton and John Kerry and Barack Obama want us to do, which is their solution for everything, put more taxes on it, give more money to Washington, D.C.",
+            "that's what you'll hear from Hillary Clinton — and I've already heard from her — is that, send more money in Social Security, send more money in Medicare taxes, send more money for Medicaid, and that's gon na solve the problem.What"
+          ]
+        },
+        "mike huckabee": {
+          "total": 1,
+          "sentiment": 0,
+          "lines": [
+            "is n't there anymore, Mike."
+          ]
+        },
+        "jim gilmore": {
+          "total": 1,
+          "sentiment": 0,
+          "lines": [
+            ", Jim, you know full well that in the seven years I was U.S."
+          ]
+        },
+        "ben carson": {
+          "total": 2,
+          "sentiment": 1,
+          "lines": [
+            "to expand on Mr. Carson's — or Dr. Carson's question, let's face it, we have laws already.",
+            "And — and — and I — you know, Ben is absolutely right in saying that what we do n't need to do is to send more money to Washington, D.C."
+          ]
+        },
+        "john kasich": {
+          "total": 4,
+          "sentiment": 1,
+          "lines": [
+            "John, I'll tell you something.",
+            "Well, first off, what we do n't do is do what Hillary Clinton and John Kerry and Barack Obama want us to do, which is their solution for everything, put more taxes on it, give more money to Washington, D.C.",
+            "What we should do is to be investing in all types of energy, John, all types of energy.",
+            "No, John. John, do you want me to answer or do you want to answer?"
+          ]
+        },
+        "jeb bush": {
+          "total": 1,
+          "sentiment": 1,
+          "lines": [
+            "need to make sure that people understand, as Jeb said before, that if you've done extraordinarily well in this country, do you want them to take more out of your taxes now and think they're gon na give it back to you later?"
+          ]
+        }
+      }
+    },
+    {
+      "name": "Carly Fiorina",
+      "totalWords": 1815,
+      "speakingTime": 10,
+      "emotionalLines": {
+        "negative": {
+          "score": -3,
+          "comparative": -0.23076923076923078,
+          "line": "Government causes a problem, and then government steps in to solve the problem."
+        },
+        "positive": {
+          "score": 10,
+          "comparative": 0.5,
+          "line": "There are loads of great ideas, great conservative ideas from wonderful think tanks about how to reform the tax code.The"
+        }
+      },
+      "averageWordUsage": {
+        "think": 0.014925373134328358,
+        "percent": 0.014925373134328358,
+        "people": 0.017412935323383085,
+        "federal": 0.017412935323383085,
+        "government": 0.05970149253731343,
+        "big": 0.03731343283582089,
+        "powerful": 0.02736318407960199,
+        "wealthy": 0.009950248756218905,
+        "connected": 0.009950248756218905,
+        "years": 0.009950248756218905,
+        "just": 0.017412935323383085,
+        "need": 0.01990049751243781,
+        "leader": 0.009950248756218905,
+        "say": 0.009950248756218905,
+        "talking": 0.012437810945273632,
+        "tax": 0.014925373134328358,
+        "reform": 0.012437810945273632,
+        "washington": 0.014925373134328358,
+        "decades": 0.009950248756218905,
+        "000": 0.017412935323383085,
+        "great": 0.01990049751243781,
+        "ideas": 0.009950248756218905,
+        "problem": 0.017412935323383085,
+        "single": 0.017412935323383085,
+        "election": 0.009950248756218905,
+        "talk": 0.012437810945273632,
+        "pages": 0.012437810945273632,
+        "know": 0.022388059701492536,
+        "business": 0.014925373134328358,
+        "going": 0.017412935323383085,
+        "size": 0.009950248756218905,
+        "jobs": 0.009950248756218905,
+        "companies": 0.012437810945273632,
+        "like": 0.009950248756218905,
+        "tough": 0.009950248756218905,
+        "actually": 0.012437810945273632,
+        "accountable": 0.009950248756218905,
+        "results": 0.009950248756218905,
+        "gets": 0.014925373134328358,
+        "banks": 0.009950248756218905,
+        "small": 0.014925373134328358,
+        "getting": 0.009950248756218905,
+        "businesses": 0.009950248756218905,
+        "clinton": 0.012437810945273632,
+        "women": 0.009950248756218905,
+        "hillary": 0.009950248756218905,
+        "good": 0.009950248756218905,
+        "year": 0.012437810945273632,
+        "lot": 0.017412935323383085
+      },
+      "importantWords": {
+        "gee": 3.4849066497880004,
+        "told": 3.4849066497880004,
+        "smile": 3.4849066497880004,
+        "debate": 3.0794415416798357,
+        "laughter": 2.791759469228055
+      },
+      "issueRelevance": {
+        "New Possibilities. \n Real Leadership.": 0.06969813299576001
+      },
+      "callouts": {
+        "hillary clinton": {
+          "total": 5,
+          "sentiment": -5,
+          "lines": [
+            "Becky, it is the height of hypocrisy for Mrs. Clinton to talk about being the first woman President, when every single policy she espouses, and every single policy of President Obama has been demonstrably bad for women.92",
+            "And then the Government steps in to try and solve the problem and we get a little further down to that progressive vision that Hillary Clinton is talking about.Companies",
+            "for 50 years.I may not be your dream candidate just yet, but I can assure you I am Hillary Clinton's worst nightmare.",
+            "And in your heart of hearts, you can not wait to see a debate between Hillary Clinton and Carly Fiorina.",
+            "I will tell you this, I will beat Hillary Clinton."
+          ]
+        },
+        "john kasich": {
+          "total": 1,
+          "sentiment": 0,
+          "lines": [
+            "John, I — if I — a lot of people have jumped in here."
+          ]
+        },
+        "marco rubio": {
+          "total": 1,
+          "sentiment": 4,
+          "lines": [
+            "I would just say this, we've heard a lot of great ideas up here, and I agree with what Senator Rubio said."
+          ]
+        },
+        "carly fiorina": {
+          "total": 1,
+          "sentiment": 0,
+          "lines": [
+            "And in your heart of hearts, you can not wait to see a debate between Hillary Clinton and Carly Fiorina."
+          ]
+        }
+      }
+    },
+    {
+      "name": "Mike Huckabee",
+      "totalWords": 1580,
+      "speakingTime": 8,
+      "emotionalLines": {
+        "negative": {
+          "score": -9,
+          "comparative": -0.17307692307692307,
+          "line": "mean, what we had was something the government made — basically a bag of gas — that cut loose, destroyed everything in its path, left thousands of people powerless, but they could n't get rid of it because we had too much money invested in it, so we had to keep it.That"
+        },
+        "positive": {
+          "score": 6,
+          "comparative": 0.2608695652173913,
+          "line": "If this country that does not keep its promise to seniors then what promise can this country hope to be trusted to keep?"
+        }
+      },
+      "averageWordUsage": {
+        "90": 0.009174311926605505,
+        "really": 0.009174311926605505,
+        "think": 0.012232415902140673,
+        "like": 0.012232415902140673,
+        "talk": 0.012232415902140673,
+        "rules": 0.012232415902140673,
+        "matter": 0.009174311926605505,
+        "way": 0.012232415902140673,
+        "play": 0.009174311926605505,
+        "tell": 0.021406727828746176,
+        "country": 0.027522935779816515,
+        "lot": 0.009174311926605505,
+        "people": 0.05504587155963303,
+        "sick": 0.009174311926605505,
+        "does": 0.012232415902140673,
+        "social": 0.01834862385321101,
+        "security": 0.01834862385321101,
+        "medicare": 0.01834862385321101,
+        "know": 0.03058103975535168,
+        "money": 0.024464831804281346,
+        "got": 0.012232415902140673,
+        "government": 0.04281345565749235,
+        "saw": 0.012232415902140673,
+        "going": 0.024464831804281346,
+        "today": 0.012232415902140673,
+        "dollars": 0.012232415902140673,
+        "everybody": 0.009174311926605505,
+        "say": 0.012232415902140673,
+        "fix": 0.009174311926605505,
+        "let": 0.03058103975535168,
+        "ought": 0.01529051987767584,
+        "just": 0.021406727828746176,
+        "need": 0.01529051987767584,
+        "time": 0.009174311926605505,
+        "fact": 0.012232415902140673,
+        "americans": 0.009174311926605505,
+        "percent": 0.01529051987767584,
+        "means": 0.012232415902140673,
+        "lives": 0.009174311926605505,
+        "paid": 0.009174311926605505,
+        "want": 0.01529051987767584,
+        "cut": 0.009174311926605505,
+        "economy": 0.009174311926605505,
+        "thing": 0.009174311926605505,
+        "tonight": 0.009174311926605505,
+        "big": 0.009174311926605505,
+        "cost": 0.009174311926605505,
+        "disease": 0.012232415902140673,
+        "trump": 0.009174311926605505,
+        "guy": 0.01834862385321101,
+        "stage": 0.012232415902140673,
+        "fight": 0.009174311926605505,
+        "health": 0.009174311926605505,
+        "america": 0.01529051987767584
+      },
+      "importantWords": {
+        "rules": 14.410758741777535,
+        "play": 10.808069056333151,
+        "live": 7.2053793708887675,
+        "try": 7.2053793708887675,
+        "weakness": 7.2053793708887675,
+        "people": 4.432790648648986,
+        "tired": 3.6026896854443837,
+        "weaknesses": 3.6026896854443837,
+        "wife": 3.6026896854443837,
+        "washington": 3.6026896854443837,
+        "later": 3.6026896854443837,
+        "really": 3.1972245773362196,
+        "able": 3.1972245773362196,
+        "care": 3.1972245773362196,
+        "kid": 3.1972245773362196,
+        "laughter": 3.1972245773362196,
+        "sure": 3.1972245773362196,
+        "john": 3.1972245773362196,
+        "brought": 3.1972245773362196,
+        "matter": 3.1972245773362196
+      },
+      "issueRelevance": {
+        "Get Involved. Join Mike's campaign for President.": 0.0639444915467244,
+        "Event List": 0,
+        "Connections": 0,
+        "Newsletter Signup": 0,
+        "Send Me Your Endorsement": 0,
+        "Endorse Mike": 0
+      },
+      "callouts": {
+        "john kasich": {
+          "total": 2,
+          "sentiment": 0,
+          "lines": [
+            "Well, John, I do n't really have any weaknesses that I can think of.",
+            "John, listen, let's keep in mind that for one-third of the 60 million Americans on Social Security it represents 90 percent of their income."
+          ]
+        },
+        "bernie sanders": {
+          "total": 1,
+          "sentiment": -3,
+          "lines": [
+            "And, if this government does n't pay it, than tell me what's different between the government and Bernie Madolf, who sits in prison today for doing less than what the government has done to the people on social security and Medicare in this country."
+          ]
+        },
+        "donald trump": {
+          "total": 3,
+          "sentiment": 5,
+          "lines": [
+            "I love Donald Trump.",
+            "I'm wearing a Trump tie tonight.",
+            "You're welcome. [ laughter ] Let me tell you, Donald Trump would be a president every day of the week and twice on Sunday, rather than Hillary."
+          ]
+        },
+        "hillary clinton": {
+          "total": 3,
+          "sentiment": 2,
+          "lines": [
+            "You're welcome. [ laughter ] Let me tell you, Donald Trump would be a president every day of the week and twice on Sunday, rather than Hillary.",
+            "I've spent a lifetime in politics fighting the Clinton machine.",
+            "\" Well, let me tell you one thing that I am the only guy : The only guy that has consistently fought the Clinton machine every election I was ever in over the past 26 years."
+          ]
+        }
+      }
+    },
+    {
+      "name": "John Kasich",
+      "totalWords": 1706,
+      "speakingTime": 9,
+      "emotionalLines": {
+        "negative": {
+          "score": -8,
+          "comparative": -0.6666666666666666,
+          "line": "And we're going to just fix everything with waste, fraud, and abuse?"
+        },
+        "positive": {
+          "score": 8,
+          "comparative": 0.26666666666666666,
+          "line": "Oh yeah, we want to elect a good president, but America is great from the bottom-up, and the bottom-up is us in our families, in our communities, in our neighborhoods."
+        }
+      },
+      "averageWordUsage": {
+        "10": 0.016172506738544475,
+        "want": 0.018867924528301886,
+        "tell": 0.01078167115902965,
+        "great": 0.013477088948787063,
+        "job": 0.013477088948787063,
+        "people": 0.026954177897574125,
+        "medicaid": 0.013477088948787063,
+        "talk": 0.01078167115902965,
+        "country": 0.03234501347708895,
+        "families": 0.013477088948787063,
+        "need": 0.03234501347708895,
+        "somebody": 0.013477088948787063,
+        "cut": 0.016172506738544475,
+        "taxes": 0.0215633423180593,
+        "know": 0.03234501347708895,
+        "washington": 0.026954177897574125,
+        "ohio": 0.0215633423180593,
+        "just": 0.03234501347708895,
+        "fantasy": 0.01078167115902965,
+        "federal": 0.01078167115902965,
+        "budget": 0.0215633423180593,
+        "plan": 0.01078167115902965,
+        "jobs": 0.018867924528301886,
+        "gon": 0.01078167115902965,
+        "na": 0.013477088948787063,
+        "got": 0.01078167115902965,
+        "billion": 0.01078167115902965,
+        "balanced": 0.013477088948787063,
+        "percent": 0.01078167115902965,
+        "going": 0.01078167115902965,
+        "growing": 0.016172506738544475,
+        "state": 0.01078167115902965,
+        "incentives": 0.01078167115902965,
+        "problem": 0.013477088948787063,
+        "america": 0.013477088948787063
+      },
+      "importantWords": {
+        "11": 3.3978952727983707,
+        "heard": 6.795790545596741,
+        "somebody": 5.984860329380412,
+        "need": 4.963209081848431,
+        "people": 4.290264608606005,
+        "country": 3.787635752044193,
+        "picking": 3.3978952727983707,
+        "add": 3.3978952727983707,
+        "deeper": 3.3978952727983707,
+        "question": 3.3978952727983707,
+        "watched": 3.3978952727983707,
+        "lead": 3.3978952727983707,
+        "say": 3.3978952727983707,
+        "dismantle": 3.3978952727983707,
+        "splitting": 3.3978952727983707,
+        "leave": 3.3978952727983707,
+        "concern": 3.3978952727983707,
+        "cold": 3.3978952727983707,
+        "verge": 3.3978952727983707,
+        "deporting": 3.3978952727983707
+      },
+      "issueRelevance": {
+        "CREATING JOBS AND STRENGTHENING THE ECONOMY": 0.25485476063184787,
+        "FISCAL RESPONSIBILITY AND BALANCING BUDGETS": 0.19626383826228924,
+        "A CONSERVATIVE APPROACH TO BETTER HEALTH CARE": 0.16989476363991854,
+        "DEFENDING THE SECOND AMENDMENT": 0.06795790545596742,
+        "EDUCATION": 0.06795790545596742,
+        "NATIONAL SECURITY": 0.05984860329380412,
+        "RESPECTING THE  SANCTITY OF HUMAN LIFE": 0.03397895272798371,
+        "LIFTING UP THE MOST VULNERABLE AMERICANS": 0.03397895272798371
+      },
+      "callouts": {
+        "john kasich": {
+          "total": 2,
+          "sentiment": 1,
+          "lines": [
+            ", let me just be clear, John.",
+            "John Harwood, there's a bigger issue here."
+          ]
+        },
+        "jeb bush": {
+          "total": 1,
+          "sentiment": 2,
+          "lines": [
+            "But I agree with Jeb, you ca n't just do this by growing the economy."
+          ]
+        }
+      }
+    },
+    {
+      "name": "Rand Paul",
+      "totalWords": 1500,
+      "speakingTime": 8,
+      "emotionalLines": {
+        "negative": {
+          "score": -4,
+          "comparative": -0.13793103448275862,
+          "line": "'s also bring the Fed forward and have them explain how they caused the housing boom and the crisis, and what they've done to make us better or worse."
+        },
+        "positive": {
+          "score": 4,
+          "comparative": 0.3076923076923077,
+          "line": "I would like to thank Ted for co-sponsoring my bill, audit the Fed."
+        }
+      },
+      "averageWordUsage": {
+        "know": 0.017482517482517484,
+        "left": 0.01048951048951049,
+        "debt": 0.024475524475524476,
+        "borrow": 0.01048951048951049,
+        "million": 0.01048951048951049,
+        "dollars": 0.01048951048951049,
+        "minute": 0.01048951048951049,
+        "congress": 0.013986013986013986,
+        "washington": 0.013986013986013986,
+        "establishment": 0.01048951048951049,
+        "forward": 0.017482517482517484,
+        "money": 0.04895104895104895,
+        "spend": 0.01048951048951049,
+        "tomorrow": 0.01048951048951049,
+        "say": 0.01048951048951049,
+        "spending": 0.017482517482517484,
+        "social": 0.02097902097902098,
+        "security": 0.02097902097902098,
+        "going": 0.02097902097902098,
+        "government": 0.03496503496503497,
+        "raised": 0.01048951048951049,
+        "people": 0.027972027972027972,
+        "need": 0.017482517482517484,
+        "right": 0.01048951048951049,
+        "ceiling": 0.01048951048951049,
+        "precisely": 0.017482517482517484,
+        "question": 0.01048951048951049,
+        "change": 0.01048951048951049,
+        "think": 0.055944055944055944,
+        "thank": 0.013986013986013986,
+        "like": 0.02097902097902098,
+        "audit": 0.013986013986013986,
+        "fed": 0.06293706293706294,
+        "really": 0.017482517482517484,
+        "problem": 0.024475524475524476,
+        "lobbying": 0.013986013986013986,
+        "want": 0.017482517482517484,
+        "income": 0.02097902097902098,
+        "inequality": 0.013986013986013986,
+        "let": 0.013986013986013986,
+        "bring": 0.013986013986013986,
+        "better": 0.017482517482517484,
+        "rates": 0.013986013986013986,
+        "price": 0.02097902097902098,
+        "follow": 0.013986013986013986,
+        "gets": 0.01048951048951049,
+        "just": 0.01048951048951049,
+        "tax": 0.03496503496503497,
+        "cut": 0.013986013986013986,
+        "medicare": 0.02097902097902098,
+        "smaller": 0.01048951048951049,
+        "fault": 0.017482517482517484,
+        "fix": 0.017482517482517484,
+        "gradually": 0.01048951048951049,
+        "raise": 0.013986013986013986,
+        "age": 0.01048951048951049,
+        "small": 0.01048951048951049
+      },
+      "importantWords": {
+        "18": 2.9459101490553135,
+        "tomorrow": 5.080890081894298,
+        "borrow": 5.080890081894298,
+        "debt": 4.505525936990736,
+        "congress": 4.505525936990736,
+        "trillion": 2.9459101490553135,
+        "practice": 2.9459101490553135,
+        "ran": 2.9459101490553135,
+        "office": 2.9459101490553135,
+        "parties": 2.9459101490553135,
+        "puts": 2.9459101490553135,
+        "medical": 2.9459101490553135,
+        "concerned": 2.9459101490553135,
+        "allows": 2.9459101490553135,
+        "obama": 2.9459101490553135,
+        "amounts": 2.9459101490553135,
+        "filibuster": 2.9459101490553135,
+        "stand": 2.9459101490553135,
+        "firm": 2.9459101490553135,
+        "ounce": 2.9459101490553135
+      },
+      "issueRelevance": {
+        "Audit the Fed": 0.5588979090083727,
+        "Spending and Debt": 0.30498891524744143,
+        "Social Security": 0.27033155621944416,
+        "Foreign Policy & Defense": 0.05080890081894298,
+        "Criminal Justice Reforms": 0.029459101490553134,
+        "Energy": 0.029459101490553134,
+        "Taxes": 0.029459101490553134,
+        "Take Action": 0,
+        "Sign Up For Updates": 0,
+        "Second Amendment": 0,
+        "Sanctity of Life": 0,
+        "Veterans": 0,
+        "Israel": 0,
+        "Education": 0,
+        "Civil Liberties": 0,
+        "Regulation": 0,
+        "Immigration": 0,
+        "Health Care": 0,
+        "Term Limits": 0,
+        "Ending NSA Spying": 0
+      },
+      "callouts": {
+        "ben carson": {
+          "total": 2,
+          "sentiment": 4,
+          "lines": [
+            "And I think it's precisely because of the arrogance of someone like Ben Bernanke, who now calls us all know-nothings, that is precisely why we need audit the Fed.I",
+            "And I think it's precisely because of the arrogance of someone like Ben Bernanke, who now calls us all know-nothings, that is precisely why we need audit the Fed.I"
+          ]
+        },
+        "john kasich": {
+          "total": 2,
+          "sentiment": 2,
+          "lines": [
+            "John, I'd like to address this?",
+            "John, could I follow up on this?"
+          ]
+        }
+      }
+    },
+    {
+      "name": "Marco Rubio",
+      "totalWords": 2810,
+      "speakingTime": 15,
+      "emotionalLines": {
+        "negative": {
+          "score": -5,
+          "comparative": -0.23809523809523808,
+          "line": "You know how many votes John McCain missed when he was carrying out that furious comeback that you're now modeling after?"
+        },
+        "positive": {
+          "score": 9,
+          "comparative": 0.5,
+          "line": "[ cheering and applause ] But she has her super PAC helping her out, the American mainstream media."
+        }
+      },
+      "averageWordUsage": {
+        "saying": 0.013257575757575758,
+        "america": 0.017045454545454544,
+        "today": 0.013257575757575758,
+        "people": 0.03787878787878788,
+        "country": 0.01893939393939394,
+        "does": 0.00946969696969697,
+        "going": 0.020833333333333332,
+        "american": 0.022727272727272728,
+        "running": 0.011363636363636364,
+        "time": 0.00946969696969697,
+        "years": 0.00946969696969697,
+        "like": 0.026515151515151516,
+        "tonight": 0.00946969696969697,
+        "hard": 0.013257575757575758,
+        "president": 0.00946969696969697,
+        "money": 0.011363636363636364,
+        "pay": 0.011363636363636364,
+        "let": 0.00946969696969697,
+        "media": 0.015151515151515152,
+        "percent": 0.011363636363636364,
+        "mainstream": 0.013257575757575758,
+        "said": 0.00946969696969697,
+        "way": 0.015151515151515152,
+        "know": 0.017045454545454544,
+        "tell": 0.00946969696969697,
+        "applause": 0.00946969696969697,
+        "hillary": 0.011363636363636364,
+        "clinton": 0.011363636363636364,
+        "just": 0.011363636363636364,
+        "better": 0.00946969696969697,
+        "life": 0.00946969696969697,
+        "work": 0.00946969696969697,
+        "family": 0.013257575757575758,
+        "able": 0.00946969696969697,
+        "good": 0.00946969696969697,
+        "families": 0.011363636363636364,
+        "tax": 0.020833333333333332,
+        "plan": 0.017045454545454544,
+        "week": 0.01893939393939394,
+        "talking": 0.00946969696969697,
+        "ideas": 0.00946969696969697
+      },
+      "importantWords": {
+        "sense": 7.481680047850402,
+        "takes": 7.481680047850402,
+        "willing": 7.481680047850402,
+        "days": 6.670749831634073,
+        "century": 6.095385686730511,
+        "today": 5.284455470514183,
+        "share": 3.740840023925201,
+        "optimism": 3.740840023925201,
+        "begin": 3.740840023925201,
+        "era": 3.740840023925201,
+        "eroding": 3.740840023925201,
+        "greater": 3.740840023925201,
+        "sure": 3.740840023925201,
+        "ahead": 3.740840023925201,
+        "lie": 3.740840023925201,
+        "weakness": 3.740840023925201,
+        "true": 3.740840023925201,
+        "nation": 3.3353749158170367,
+        "new": 3.3353749158170367,
+        "believe": 3.3353749158170367
+      },
+      "issueRelevance": {
+        "Small Business Owners": 0.24969484843151915,
+        "Higher Education": 0.2001224949490222,
+        "Families": 0.15853366411542547,
+        "Sharing Economy": 0.12190771373461022,
+        "K-12 Education": 0.1000612474745111,
+        "Jobs": 0.1000612474745111,
+        "Foreign Policy": 0.07481680047850402,
+        "Debt": 0.06670749831634074,
+        "The Military": 0.03740840023925201,
+        "Taxes": 0.03740840023925201,
+        "Second Amendment": 0.03740840023925201,
+        "Policy For You": 0.03740840023925201,
+        "The VA": 0,
+        "Sanctuary Cities": 0,
+        "Russia": 0,
+        "Israel": 0,
+        "ISIS": 0,
+        "Iran": 0,
+        "Energy": 0,
+        "Eminent Domain": 0,
+        "Cuba": 0,
+        "Common Core": 0,
+        "China": 0,
+        "Workers": 0,
+        "Veterans": 0,
+        "Seniors": 0,
+        "Farmers": 0
+      },
+      "callouts": {
+        "lindsey graham": {
+          "total": 1,
+          "sentiment": -2,
+          "lines": [
+            "Back in 2004, one of my predecessors to the Senate by the name of Bob Graham, a Democrat, ran for president missing over 30 percent of his votes."
+          ]
+        },
+        "john kasich": {
+          "total": 4,
+          "sentiment": -9,
+          "lines": [
+            "Later that year, in 2004, John Kerry ran for president missing close to 60 to 70 percent of his votes.",
+            "Over the last few weeks, I've listened to Jeb as he walked around the country and said that you're modeling your campaign after John McCain, that you're going to launch a furious comeback the way he did, by fighting hard in New Hampshire and places like that, carrying your own bag at the airport.",
+            "You know how many votes John McCain missed when he was carrying out that furious comeback that you're now modeling after?",
+            "I do n't remember you ever complaining about John McCain's vote record."
+          ]
+        },
+        "jeb bush": {
+          "total": 4,
+          "sentiment": -3,
+          "lines": [
+            "Over the last few weeks, I've listened to Jeb as he walked around the country and said that you're modeling your campaign after John McCain, that you're going to launch a furious comeback the way he did, by fighting hard in New Hampshire and places like that, carrying your own bag at the airport.",
+            "No Jeb, I do n't remember — well, let me tell you.",
+            "I will continue to have tremendous admiration and respect for Governor Bush.",
+            "I'm not running against Governor Bush, I'm not running against anyone on this stage."
+          ]
+        },
+        "hillary clinton": {
+          "total": 6,
+          "sentiment": 8,
+          "lines": [
+            "I'm running for president because there is no way we can elect Hillary Clinton to continue the policies of Barack Obama.",
+            "Which is what we're gon na get if we elect a big government liberal like Hillary Clinton to the White House.Thank",
+            "Last week, Hillary Clinton went before a committee.",
+            "And yet the mainstream media is going around saying it was the greatest week in Hillary Clinton's campaign.It",
+            "( CHEERING AND APPLAUSE ) And I'll tell you why, last week, Hillary Clinton went before a committee, she admitted she had sent emails to her family saying, hey, this attack in Benghazi was caused by al Qaeda-like elements.She",
+            "And yet the mainstream media is going around saying it was the greatest week in Hillary Clinton's campaign.It"
+          ]
+        },
+        "donald trump": {
+          "total": 1,
+          "sentiment": 1,
+          "lines": [
+            "[ laughter ] Look, in addition to what Donald was saying is we also need to talk about the legal immigration system for permanent residents."
+          ]
+        },
+        "ben carson": {
+          "total": 1,
+          "sentiment": 1,
+          "lines": [
+            "No. No. What I said was that I think that Dr. Carson's ideas are good ideas."
+          ]
+        }
+      }
+    },
+    {
+      "name": "Donald Trump",
+      "totalWords": 1943,
+      "speakingTime": 10,
+      "emotionalLines": {
+        "negative": {
+          "score": -5,
+          "comparative": -0.07692307692307693,
+          "line": "And if anything comes out of this whole thing with some of these nasty and ridiculous questions, I will tell you, you better get rid of the SuperPacs because they causing a big problem with this country, not only in dishonesty and what's going on, but also in a lot of bad decisions that have been made for the benefit of lobbyists and special interests."
+        },
+        "positive": {
+          "score": 8,
+          "comparative": 0.8888888888888888,
+          "line": "We used to win, we do n't win anymore."
+        }
+      },
+      "averageWordUsage": {
+        "people": 0.05013927576601671,
+        "let": 0.013927576601671309,
+        "know": 0.04178272980501393,
+        "said": 0.03064066852367688,
+        "right": 0.025069637883008356,
+        "way": 0.011142061281337047,
+        "say": 0.016713091922005572,
+        "lot": 0.019498607242339833,
+        "money": 0.011142061281337047,
+        "want": 0.011142061281337047,
+        "bring": 0.013927576601671309,
+        "far": 0.011142061281337047,
+        "wall": 0.016713091922005572,
+        "going": 0.055710306406685235,
+        "come": 0.022284122562674095,
+        "legally": 0.016713091922005572,
+        "great": 0.013927576601671309,
+        "000": 0.011142061281337047,
+        "mexico": 0.013927576601671309,
+        "just": 0.013927576601671309,
+        "lose": 0.011142061281337047,
+        "guy": 0.011142061281337047,
+        "got": 0.019498607242339833,
+        "doing": 0.013927576601671309,
+        "nice": 0.013927576601671309,
+        "nasty": 0.013927576601671309,
+        "like": 0.011142061281337047,
+        "biggest": 0.011142061281337047,
+        "used": 0.013927576601671309,
+        "laws": 0.013927576601671309,
+        "bankruptcy": 0.013927576601671309,
+        "atlantic": 0.011142061281337047,
+        "city": 0.011142061281337047,
+        "bad": 0.016713091922005572,
+        "times": 0.011142061281337047,
+        "country": 0.033426183844011144,
+        "putting": 0.011142061281337047,
+        "really": 0.011142061281337047,
+        "everybody": 0.011142061281337047,
+        "jobs": 0.019498607242339833,
+        "win": 0.011142061281337047
+      },
+      "importantWords": {
+        "let": 9.238324625039507,
+        "forgive": 7.545177444479562,
+        "weakness": 7.545177444479562,
+        "people": 4.537022650927014,
+        "trusting": 3.772588722239781,
+        "trust": 3.772588722239781,
+        "greatest": 3.772588722239781,
+        "hard": 3.772588722239781,
+        "deceived": 3.772588722239781,
+        "wife": 3.772588722239781,
+        "maybe": 3.367123614131617,
+        "think": 3.0794415416798357,
+        "laughter": 2.8562979903656265,
+        "don": 2.6739764335716716,
+        "know": 2.268511325463507
+      },
+      "issueRelevance": {
+        "Tax Reform": 0.06734247228263233,
+        "Second Amendment Rights": 0.03772588722239781,
+        "Immigration Reform": 0
+      },
+      "callouts": {
+        "john kasich": {
+          "total": 2,
+          "sentiment": 3,
+          "lines": [
+            "me, John.... of $ 50 billion..",
+            "First of all, John got lucky with a thing called fracking, OK?"
+          ]
+        },
+        "donald trump": {
+          "total": 1,
+          "sentiment": 6,
+          "lines": [
+            "Then you have to get rid of Larry Kudlow, who sits on your panel, who's a great guy, who came out the other day and said, I love Trump's tax plan."
+          ]
+        },
+        "ben carson": {
+          "total": 3,
+          "sentiment": 0,
+          "lines": [
+            "two, this was the man that was a managing general partner at Lehman Brothers when it went down the tubes and almost took every one of us with it, including Ben and myself, because I was there and I watched what happened.And",
+            "It was a back sacrifice, and I have to hand it to Ben.We",
+            "called Ben, he was with me 100 %."
+          ]
+        },
+        "chris christie": {
+          "total": 2,
+          "sentiment": -2,
+          "lines": [
+            "I mean, Chris will know about that.",
+            "I'm not blaming Chris, by the way, but he will know about that."
+          ]
+        }
+      }
+    }
+  ]
+}

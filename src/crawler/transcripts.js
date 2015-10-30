@@ -104,7 +104,33 @@ module.exports = function getTranscripts(electionYear, party, count) {
     .then(requestAndProcessTranscripts)
     .then(function(transcripts) {
       return _.map(transcripts, function(transcript) {
+
         transcript.dialog = parsers.transcript(transcript.dialog);
+        
+        transcript.participants = _.filter(
+          _.map(
+            transcript.dialog.shift().participants.split(';'),
+            function(name) {
+              if(!name) return;
+              
+              var chunks = name.split(' ');
+              var last = chunks.slice(-1)[0];
+
+              if(last.charAt(0) === '(') return chunks.slice(-3).join(' ');
+              return chunks.slice(-2).join(' ');
+            }
+          )
+        );
+
+        transcript.moderators = _.filter(
+          _.map(
+            transcript.dialog.shift().moderators.split(';'),
+            function(name) {
+              return _.trim(name.replace('and', ''));
+            }
+          )
+        );
+
         return transcript;
       });
     })

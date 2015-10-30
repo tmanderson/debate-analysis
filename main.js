@@ -9,14 +9,14 @@ var _ = require('lodash');
 _.extend(global, {
   WPM: 190,
   REPORTS_PATH: './reports',
-  CANDIDATES_PATH: './data/candidates',
-  TRANSCRIPT_PATH: './data/transcripts'
+  CANDIDATES_PATH: './data',
+  TRANSCRIPT_PATH: './data/transcripts',
+  DEBATE_PARTIES: ['democratic', 'republican']
 });
 
 var fs = require('fs');
 var path = require('path');
 var args = process.argv.slice(2);
-
 
 var natural = require('natural');
 var TfIdf = natural.TfIdf;
@@ -181,7 +181,7 @@ _.each(debates, function(debate) {
   });
   
   fs.writeFileSync(
-    path.join(REPORTS_PATH, _.kebabCase(debate.name) + '.json'),
+    path.join(REPORTS_PATH, _.kebabCase(debate.name.replace('#', '-') + '-' + debate.date) + '.json'),
     JSON.stringify({
       name: debate.name,
       estimatedLength: totalEstimatedTime,

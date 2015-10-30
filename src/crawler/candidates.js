@@ -35,22 +35,21 @@ function createPartyObj(party, candidates) {
 function resolveIssueUrl(website, paths, previous) {
   var url = URL.parse(website);
 
-  paths = arguments[1] || POTENTIAL_ISSUE_PATHS;
+  paths = arguments[1] || _.clone(POTENTIAL_ISSUE_PATHS);
   
-  if(!paths.length) return rejectedPromise();
+  if(!paths.length) return false;
 
   url.pathname = paths.shift();
 
   if(URL.format(url) === previous) return rejectedPromise();
-
+  
   // If the promise succeeds, we've resolved (200) an issue URL
   // If the promise is rejected, continue down our potential paths.
-  return pageExists(url).then(
-    function(val) {
-      console.log('found %s', val);
-      return val;
-    },
-    _.partial(resolveIssueUrl, URL.format(url), paths, URL.format(url))
+  return pageExists(url)
+    .then(
+      _.identity,
+      _.partial(resolveIssueUrl, URL.format(url), paths, URL.format(url)
+    )
   );
 }
 
@@ -79,26 +78,35 @@ function getPartyElectionInfoURL(party, year) {
 }
 
 function getCandidateInfo(party, $) {
-  return $('table.wikitable.sortable tbody').first().map(function() {
-    return $(this).children('tr').map(function() {
-      var $cells = $(this).find('td');
-      var deferred = b.defer();
+  return _.filter(
+    $('table.wikitable.sortable tbody').first().map(function() {
+      return $(this).children('tr').map(function() {
+        var $cells = $(this).find('td');
+        var deferred = b.defer();
 
-      var candidateInfo = {
-        name: _.trim($cells.first().find('a').last().text()),
-        website: $cells.eq($cells.length-2).find('a.external').attr('href'),
-        party: party
-      };
+        var candidateInfo = {
+          name: _.trim($cells.first().find('a').last().text()),
+          website: $cells.eq($cells.length-2).find('a.external').attr('href'),
+          party: party
+        };
 
-      if(candidateInfo.website) {
-        return resolveIssueUrl(candidateInfo.website)
-          .then(_.partial(_.set, candidateInfo, 'issuesUrl'));
-      }
-      else {
-        return rejectedPromise();
-      }
-    }).get();
-  }).get();
+        if(candidateInfo.website) {
+          return resolveIssueUrl(candidateInfo.website)
+            .then(function(url) {
+              return _.extend(candidateInfo, {
+                issuesUrl: url
+              });
+            }, function(err) {
+              console.log(err);
+            });
+        }
+        else {
+          return undefined;
+        }
+      }).get();
+    }).get(),
+    _.identity
+  );
 }
 
 module.exports = function getCandidates(electionYear) {
@@ -106,21 +114,16 @@ module.exports = function getCandidates(electionYear) {
     _.map(DEBATE_PARTIES, function(party) {
       return makeRequest(getPartyElectionInfoURL(party, electionYear));
     })
-  ).spread(function() {
-    var parties = _.toArray(arguments);
-    var requests = _.flatten(
-      _.map(parties, function($partyWikiPage, i) {
-        return getCandidateInfo(DEBATE_PARTIES[i], $partyWikiPage);
-      })
+  ).then(function(parties) {
+    return b.all(
+      _.flatten(
+        _.map(parties, function($partyWikiPage, i) {
+          return getCandidateInfo(DEBATE_PARTIES[i], $partyWikiPage);
+        })
+      )
     );
-    
-    return b.all(requests);
-  })
+  }, function(err) { console.log(err); })
   .then(function(candidates) {
-    console.log(candidates);
-    // return writePartyFilesTo(
-    //   PARTY_INFO_PATH,
-    //   _.values(_.groupBy(candidates, 'party'))
-    // );
+    return writePartyFilesTo(PARTY_INFO_PATH, _.groupBy(candidates, 'party'));
   }, function(err) { console.log(err); });
 };

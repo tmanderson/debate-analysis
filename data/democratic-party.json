@@ -4,19 +4,103 @@
   "candidates": [
     {
       "name": "Hillary Clinton",
-      "website": "https://www.hillaryclinton.com/"
+      "website": "https://www.hillaryclinton.com/",
+      "party": "democratic",
+      "issuesUrl": "https://www.hillaryclinton.com/issues",
+      "issues": [
+        "Campus sexual assault",
+        "Climate change and energy",
+        "College",
+        "Criminal justice reform",
+        "Disability rights",
+        "Early childhood education",
+        "Economy",
+        "Gun violence prevention",
+        "Health care",
+        "Immigration reform",
+        "K–12 education",
+        "Labor",
+        "LGBT equality",
+        "National security",
+        "Small business",
+        "Social Security and Medicare",
+        "Substance use disorder and addiction",
+        "Veterans, the armed forces, and their families",
+        "Voting rights",
+        "Wall Street and corporate America",
+        "Women’s rights and opportunity",
+        "Workforce and skills"
+      ]
     },
     {
       "name": "Lawrence Lessig",
-      "website": "https://lessigforpresident.com/"
+      "website": "https://lessigforpresident.com/",
+      "party": "democratic",
+      "issuesUrl": "https://lessigforpresident.com/issues",
+      "issues": [
+        "The First Reform",
+        "Achieving Equality",
+        "Criminal Justice Reform",
+        "The Economy",
+        "Education",
+        "The Emerging Surveillance Society",
+        "Health Care Reform",
+        "Immigration Reform",
+        "Innovation Policy",
+        "The Internet",
+        "National Security & Foreign Policy",
+        "Protecting Our Environment",
+        "Reforms to Support Work",
+        "The So-Called “War on Drugs”",
+        "Social & Financial Security",
+        "Tax Reform"
+      ]
     },
     {
       "name": "Martin O'Malley",
-      "website": "https://martinomalley.com/"
+      "website": "https://martinomalley.com/",
+      "party": "democratic",
+      "issuesUrl": "https://martinomalley.com/policy",
+      "issues": [
+        "Trade Policy",
+        "National Service",
+        "Homeland Security",
+        "Financial Reform",
+        "Clean Energy Future",
+        "Addiction Treatment",
+        "Campaign Finance Reform",
+        "Gun Reform",
+        "Expand Social Security",
+        "Criminal Justice Reform",
+        "Immigration Reform",
+        "Debt-Free College",
+        "Foreign Policy"
+      ]
     },
     {
       "name": "Bernie Sanders",
-      "website": "https://berniesanders.com/"
+      "website": "https://berniesanders.com/",
+      "party": "democratic",
+      "issuesUrl": "https://berniesanders.com/issues",
+      "issues": [
+        "Income and Wealth Inequality",
+        "It’s Time to Make College Tuition Free and Debt Free",
+        "Getting Big Money Out of Politics",
+        "Creating Decent Paying Jobs",
+        "A Living Wage",
+        "Climate Change & Environment",
+        "Racial Justice",
+        "A Fair and Humane Immigration Policy",
+        "Fighting for Women’s Rights",
+        "Fighting for LGBT Equality",
+        "Caring for our Veterans",
+        "Strengthen and Expand Social Security",
+        "Fighting to Lower Prescription Drug Prices",
+        "Reforming Wall Street",
+        "Real Family Values",
+        "War and Peace",
+        "War Should Be the Last Option: Why I Support the Iran Deal"
+      ]
     }
   ]
 }

@@ -13,6 +13,13 @@ _.extend(module.exports, {
       return line.replace(/(\"[A-Z']+\"\:)([\w\W]*)$/, '{ $1 "$2" }') + (i && i < lines.length-1 ? ',' : '');
     }).join('\n');
     
-    return JSON.parse('[' + output + ']', null, 2);
+    return _.map(
+      JSON.parse('[' + output + ']', null, 2),
+      function(lines) {
+        return _.mapKeys(lines, function(line, key) {
+          return key.toLowerCase();
+        });
+      }
+    );
   }
 });

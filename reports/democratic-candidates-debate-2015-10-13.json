@@ -1,0 +1,468 @@
+{
+  "name": "Democratic Candidates Debate",
+  "estimatedLength": 71,
+  "totalWordsSpoken": 13457,
+  "mostUniqueWords": [
+    "faces",
+    "series",
+    "unprecedented",
+    "longer",
+    "hours",
+    "created",
+    "supreme",
+    "decision",
+    "corrupt",
+    "undermining",
+    "unbelievable",
+    "fund",
+    "elect",
+    "represent",
+    "unanimous",
+    "activity",
+    "responsibility",
+    "efficiency",
+    "51",
+    "hispanic",
+    "36",
+    "jails",
+    "incarceration",
+    "mobilize",
+    "vibrant",
+    "explain",
+    "immoral",
+    "tenth",
+    "57",
+    "moms",
+    "newborn",
+    "principles",
+    "denmark",
+    "sweden",
+    "norway",
+    "accomplished",
+    "simple",
+    "november",
+    "eighty",
+    "consider"
+  ],
+  "candidates": [
+    {
+      "name": "Hillary Clinton",
+      "totalWords": 5530,
+      "speakingTime": 29,
+      "emotionalLines": {
+        "negative": {
+          "score": -5,
+          "comparative": -0.18518518518518517,
+          "line": "We had a murderous dictator, Gadhafi, who had American blood on his hands, as I'm sure you remember, threatening to massacre large numbers of the Libyan people."
+        },
+        "positive": {
+          "score": 14,
+          "comparative": 0.2692307692307692,
+          "line": "And I want to make sure every single person in this country has the same opportunities that he and I have had, to make the most of their God-given potential and to have the chances that they should have in America for a good education, good job training, and then good jobs."
+        }
+      },
+      "averageWordUsage": {
+        "senator": 0.011494252873563218,
+        "state": 0.009404388714733543,
+        "think": 0.04493207941483804,
+        "need": 0.02089864158829676,
+        "make": 0.024033437826541274,
+        "sure": 0.009404388714733543,
+        "time": 0.012539184952978056,
+        "people": 0.030303030303030304,
+        "country": 0.009404388714733543,
+        "going": 0.027168234064785787,
+        "good": 0.011494252873563218,
+        "want": 0.01671891327063741,
+        "work": 0.009404388714733543,
+        "american": 0.011494252873563218,
+        "applause": 0.011494252873563218,
+        "say": 0.013584117032392894,
+        "president": 0.027168234064785787,
+        "like": 0.009404388714733543,
+        "look": 0.009404388714733543,
+        "know": 0.035527690700104496,
+        "deal": 0.01044932079414838,
+        "america": 0.009404388714733543,
+        "republicans": 0.011494252873563218,
+        "let": 0.009404388714733543,
+        "states": 0.014629049111807733,
+        "said": 0.01044932079414838,
+        "got": 0.009404388714733543,
+        "lot": 0.012539184952978056,
+        "obama": 0.013584117032392894,
+        "big": 0.012539184952978056
+      },
+      "importantWords": {
+        "divides": 13.75055681536833,
+        "work": 13.323023879842967,
+        "ways": 11.671115273688493,
+        "pay": 11.001684619745864,
+        "going": 9.32890855939846,
+        "chance": 9.16703787691222,
+        "share": 9.16703787691222,
+        "family": 9.16703787691222,
+        "tax": 9.16703787691222,
+        "grow": 9.16703787691222,
+        "specific": 9.16703787691222,
+        "equal": 9.16703787691222,
+        "plans": 8.35610766069589,
+        "child": 7.780743515792329,
+        "wealthy": 7.780743515792329,
+        "yes": 7.780743515792329,
+        "raise": 7.780743515792329,
+        "help": 6.969813299576001,
+        "opportunity": 6.969813299576001,
+        "course": 6.969813299576001
+      },
+      "issueRelevance": {
+        "Health care": 0.5104039430820194,
+        "Climate change and energy": 0.4956570773105181,
+        "Wall Street and corporate America": 0.48310879483471114,
+        "Social Security and Medicare": 0.48122871457012883,
+        "Women’s rights and opportunity": 0.3647092693031266,
+        "National security": 0.3181612124372926,
+        "College": 0.27232602305273157,
+        "Veterans, the armed forces, and their families": 0.2331529178972519,
+        "Early childhood education": 0.2129573425984789,
+        "Small business": 0.20027222934384387,
+        "Gun violence prevention": 0.1833407575382444,
+        "Criminal justice reform": 0.1375055681536833,
+        "Substance use disorder and addiction": 0.12534161491043835,
+        "Immigration reform": 0.0916703787691222,
+        "K–12 education": 0.08356107660695891,
+        "Economy": 0.08356107660695891,
+        "LGBT equality": 0.0458351893845611,
+        "Workforce and skills": 0,
+        "Voting rights": 0,
+        "Labor": 0,
+        "Disability rights": 0,
+        "Campus sexual assault": 0
+      },
+      "callouts": {
+        "hillary clinton": {
+          "total": 2,
+          "sentiment": 0,
+          "lines": [
+            "I'm Hillary Clinton.",
+            "I certainly am not campaigning to become president because my last name is Clinton."
+          ]
+        },
+        "bernie sanders": {
+          "total": 6,
+          "sentiment": 0,
+          "lines": [
+            "And I think what Senator Sanders is saying certainly makes sense in the terms of the inequality that we have.",
+            "Senator Sanders did vote five times against the Brady bill.",
+            "Nobody does, Senator Sanders.",
+            "Thank you, Bernie.",
+            "So I'm with both Senator Sanders and Governor O'Malley in putting a lot of attention onto the banks.",
+            "Therefore, we need more states, cities, and the federal government to begin to address this so that we do n't have this terrible result that Senator Sanders was talking about where we have a huge population in our prisons for nonviolent, low-level offenses that are primarily due to marijuana."
+          ]
+        },
+        "jim webb": {
+          "total": 1,
+          "sentiment": 4,
+          "lines": [
+            "But I think it's important, since I understand Senator Webb's very strong feelings about this, to explain where we were then and to point out that I think President Obama made the right decision at the time."
+          ]
+        },
+        "jeb bush": {
+          "total": 2,
+          "sentiment": 0,
+          "lines": [
+            "\" I took on the Bush administration for the same thing.",
+            "What happened, however, is that the Bush administration began to chip away at that process."
+          ]
+        }
+      }
+    },
+    {
+      "name": "Martin O'Malley",
+      "totalWords": 3271,
+      "speakingTime": 17,
+      "emotionalLines": {
+        "negative": {
+          "score": -11,
+          "comparative": -0.3055555555555556,
+          "line": "One of the things that was not reported during that heartbreaking night of unrest in Baltimore was that arrests had actually fallen to a 38-year low in the year prior to the Freddie Gray's tragic death."
+        },
+        "positive": {
+          "score": 9,
+          "comparative": 0.32142857142857145,
+          "line": "[ applause ] That tells me we are moving to a more connected, generous, and compassionate place, and we need to speak to the goodness within our country."
+        }
+      },
+      "averageWordUsage": {
+        "kids": 0.009749303621169917,
+        "better": 0.012534818941504178,
+        "lives": 0.013927576601671309,
+        "things": 0.011142061281337047,
+        "years": 0.012534818941504178,
+        "america": 0.011142061281337047,
+        "president": 0.012534818941504178,
+        "country": 0.022284122562674095,
+        "percent": 0.01532033426183844,
+        "need": 0.019498607242339833,
+        "actually": 0.020891364902506964,
+        "make": 0.013927576601671309,
+        "american": 0.013927576601671309,
+        "people": 0.034818941504178275,
+        "believe": 0.013927576601671309,
+        "lot": 0.012534818941504178,
+        "anderson": 0.02924791086350975,
+        "city": 0.009749303621169917,
+        "think": 0.012534818941504178,
+        "senator": 0.013927576601671309,
+        "nra": 0.009749303621169917,
+        "nation": 0.013927576601671309,
+        "secretary": 0.009749303621169917
+      },
+      "importantWords": {
+        "kids": 13.681472514601717,
+        "better": 12.788898309344878,
+        "injustice": 11.12415060330663,
+        "learned": 11.12415060330663,
+        "country": 10.437751649736402,
+        "families": 10.261104385951288,
+        "president": 8.582257022145019,
+        "action": 8.227030618420748,
+        "itself": 8.227030618420748,
+        "future": 7.41610040220442,
+        "great": 7.41610040220442,
+        "debt": 7.41610040220442,
+        "solve": 7.41610040220442,
+        "need": 7.226301650915847,
+        "life": 6.8407362573008585,
+        "long": 6.8407362573008585,
+        "years": 6.029806041084529,
+        "things": 5.721504681430012,
+        "people": 4.19722457733622,
+        "shoulders": 4.113515309210374
+      },
+      "issueRelevance": {
+        "Debt-Free College": 0.3848709563251006,
+        "Clean Energy Future": 0.37371377875939016,
+        "Gun Reform": 0.27362945029203434,
+        "Immigration Reform": 0.24805623117908346,
+        "Criminal Justice Reform": 0.21908503133022467,
+        "Campaign Finance Reform": 0.17794987823812092,
+        "Financial Reform": 0.13681472514601717,
+        "National Service": 0.10261104385951288,
+        "Expand Social Security": 0.08227030618420748,
+        "Foreign Policy": 0.04113515309210374,
+        "Homeland Security": 0.04113515309210374,
+        "Trade Policy": 0.04113515309210374,
+        "Addiction Treatment": 0
+      },
+      "callouts": {
+        "martin o'malley": {
+          "total": 1,
+          "sentiment": 0,
+          "lines": [
+            "My name is Martin O'Malley, former Mayor of Baltimore, former governor of Maryland, a life long democrat, and most importantly, a husband, and a father."
+          ]
+        },
+        "bernie sanders": {
+          "total": 3,
+          "sentiment": -3,
+          "lines": [
+            "What disturbed people so much about — and I would agree with Senator Sanders on this — leading us into Iraq under false pretenses and telling us, as a people, that there were weapons of mass destruction there was — was one of the worst blunders in modern American history.",
+            "But there's another piece that Senator Sanders left out tonight, but he's been excellent about underscoring that.",
+            "And I have to agree with Secretary Clinton and Senator Sanders."
+          ]
+        },
+        "john kasich": {
+          "total": 1,
+          "sentiment": -7,
+          "lines": [
+            "\" Whenever we go — and contrary to John Quincy Adams' advice —\" searching the world for monsters to destroy,\" and when we use political might to take a — at the expense of democratic principle, we hurt ourselves, and we hurt our [ inaudible ]."
+          ]
+        },
+        "chris christie": {
+          "total": 1,
+          "sentiment": 0,
+          "lines": [
+            "And I believe that's what Chris Stevens was trying to do."
+          ]
+        },
+        "hillary clinton": {
+          "total": 4,
+          "sentiment": 3,
+          "lines": [
+            "Secretary Clinton mentioned my support eight years ago.",
+            "And — ( inaudible ) right before this debate, Secretary Clinton's campaign put out a lot of reversals on positions on Keystone and many other things.",
+            "I respect what Secretary Clinton and her husband have done for our country.",
+            "And I have to agree with Secretary Clinton and Senator Sanders."
+          ]
+        },
+        "rand paul": {
+          "total": 1,
+          "sentiment": -2,
+          "lines": [
+            "And we are still just as vulnerable Paul Volcker says today."
+          ]
+        },
+        "donald trump": {
+          "total": 1,
+          "sentiment": 1,
+          "lines": [
+            "...And a lot of the xenophobes, the immigrant haters like some that we've heard like, Donald Trump, that carnival barker in the Republican party..."
+          ]
+        }
+      }
+    },
+    {
+      "name": "Bernie Sanders",
+      "totalWords": 4656,
+      "speakingTime": 25,
+      "emotionalLines": {
+        "negative": {
+          "score": -12,
+          "comparative": -0.36363636363636365,
+          "line": "Let us be clear that the greed and recklessness and illegal behavior of Wall Street, where fraud is a business model, helped to destroy this economy and the lives of millions of people."
+        },
+        "positive": {
+          "score": 8,
+          "comparative": 0.25,
+          "line": "But you can have all of the growth that you want and it does n't mean anything if all of the new income and wealth is going to the top 1 percent."
+        }
+      },
+      "averageWordUsage": {
+        "think": 0.04,
+        "country": 0.05647058823529412,
+        "today": 0.01411764705882353,
+        "class": 0.009411764705882352,
+        "years": 0.010588235294117647,
+        "millions": 0.011764705882352941,
+        "working": 0.009411764705882352,
+        "income": 0.009411764705882352,
+        "going": 0.024705882352941175,
+        "percent": 0.012941176470588235,
+        "american": 0.011764705882352941,
+        "people": 0.04941176470588235,
+        "applause": 0.021176470588235293,
+        "know": 0.012941176470588235,
+        "economy": 0.010588235294117647,
+        "major": 0.015294117647058824,
+        "health": 0.010588235294117647,
+        "right": 0.012941176470588235,
+        "states": 0.009411764705882352,
+        "like": 0.010588235294117647,
+        "believe": 0.012941176470588235,
+        "let": 0.02,
+        "wall": 0.015294117647058824,
+        "street": 0.015294117647058824,
+        "got": 0.010588235294117647,
+        "want": 0.015294117647058824,
+        "need": 0.021176470588235293,
+        "make": 0.010588235294117647,
+        "way": 0.012941176470588235,
+        "gun": 0.011764705882352941,
+        "said": 0.011764705882352941,
+        "legislation": 0.009411764705882352,
+        "war": 0.009411764705882352,
+        "president": 0.010588235294117647,
+        "say": 0.012941176470588235,
+        "000": 0.009411764705882352
+      },
+      "importantWords": {
+        "energy": 12.036784726515604,
+        "percent": 10.504307855217633,
+        "interests": 8.835453367226732,
+        "thank": 8.835453367226732,
+        "youth": 8.835453367226732,
+        "americans": 8.835453367226732,
+        "unemployment": 8.835453367226732,
+        "today": 8.740947860511275,
+        "democracy": 8.024523151010403,
+        "planet": 7.449159006106841,
+        "maybe": 7.449159006106841,
+        "money": 7.002871903478422,
+        "campaign": 7.002871903478422,
+        "billionaires": 6.329927430235996,
+        "working": 6.06286464498695,
+        "country": 5.798460101476097,
+        "american": 5.616577542358531,
+        "people": 5.445110994506947,
+        "corrupt": 4.417726683613366,
+        "activity": 4.417726683613366
+      },
+      "issueRelevance": {
+        "It’s Time to Make College Tuition Free and Debt Free": 0.8608052017389941,
+        "War Should Be the Last Option: Why I Support the Iran Deal": 0.764765260960328,
+        "Reforming Wall Street": 0.7575488145776439,
+        "Strengthen and Expand Social Security": 0.6058938874068619,
+        "Income and Wealth Inequality": 0.49939804846680674,
+        "Getting Big Money Out of Politics": 0.4508218516346647,
+        "Creating Decent Paying Jobs": 0.4101780758682226,
+        "Climate Change & Environment": 0.3481300438188522,
+        "Real Family Values": 0.3392043017662838,
+        "Fighting for Women’s Rights": 0.3175829453045081,
+        "War and Peace": 0.29796636024427364,
+        "Fighting to Lower Prescription Drug Prices": 0.212777032018505,
+        "Caring for our Veterans": 0.17507179758696054,
+        "A Fair and Humane Immigration Policy": 0.16859976518237133,
+        "A Living Wage": 0.16049046302020806,
+        "Racial Justice": 0.12036784726515604,
+        "Fighting for LGBT Equality": 0.08835453367226732
+      },
+      "callouts": {
+        "bernie sanders": {
+          "total": 3,
+          "sentiment": 6,
+          "lines": [
+            "Let's begin, Anderson, by understanding that Bernie Sanders has a D-minus voting rating ( ph ) from the NRA.",
+            "In the 1990s — and all due respect — in the 1990s, when I had the Republican leadership and Wall Street spending billions of dollars in lobbying, when the Clinton administration, when Alan Greenspan said,\" what a great idea it would be to allow these huge banks to merge,\" Bernie Sanders fought them, and helped lead the opposition to deregulation.",
+            "And if people want to help us out, BernieSanders.com."
+          ]
+        },
+        "hillary clinton": {
+          "total": 6,
+          "sentiment": 4,
+          "lines": [
+            "As a senator from a rural state, what I can tell Secretary Clinton, that all the shouting in the world is not going to do what I would hope all of us want, and that is keep guns out of the hands of people who should not have those guns and end this horrible violence that we are seeing.",
+            "Well, obviously, I voted, when President Clinton said,\" let's stop ethnic cleansing in Kosovo,\" I voted for that.",
+            "I supported President Clinton's effort to deal with ethnic cleansing in Kosovo.",
+            "In the 1990s — and all due respect — in the 1990s, when I had the Republican leadership and Wall Street spending billions of dollars in lobbying, when the Clinton administration, when Alan Greenspan said,\" what a great idea it would be to allow these huge banks to merge,\" Bernie Sanders fought them, and helped lead the opposition to deregulation.",
+            "In my view, Secretary Clinton, you do not — Congress does not regulate Wall Street.",
+            "Tom Harkin, a very good friend of Hillary Clinton's and mine, one of the leading labor advocates, also voted against that."
+          ]
+        },
+        "jeb bush": {
+          "total": 2,
+          "sentiment": -4,
+          "lines": [
+            "Second of all, I heard the same evidence from President Bush and Dick Cheney and Don Rumsfeld about why we should overthrow Saddam Hussein and get involved in the — I would urge people to go to berniesanders.com",
+            "Well, first of all, let's remember where we were when Bush left office."
+          ]
+        },
+        "jim gilmore": {
+          "total": 4,
+          "sentiment": 11,
+          "lines": [
+            "Well, first of all, let me applaud my good friend Jim Webb for his service to this country in so many ways.",
+            "[ applause ] Jim and I, under Jim's leadership, as he indicated, passed the most significant veterans education bill in recent history.",
+            "Not the brave men like Jim who fought in that war, but the policy which got us involved in that war.",
+            "Jim Webb is right : Money is pouring in to this campaign through super PACs."
+          ]
+        },
+        "jim webb": {
+          "total": 2,
+          "sentiment": 8,
+          "lines": [
+            "Well, first of all, let me applaud my good friend Jim Webb for his service to this country in so many ways.",
+            "Jim Webb is right : Money is pouring in to this campaign through super PACs."
+          ]
+        },
+        "donald trump": {
+          "total": 1,
+          "sentiment": -5,
+          "lines": [
+            "Well, let me tell you, Donald Trump and his billionaire friends under my policies are going to pay a hell of a lot more in taxes today — taxes in the future than they're paying today."
+          ]
+        }
+      }
+    }
+  ]
+}
