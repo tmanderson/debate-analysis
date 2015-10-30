@@ -5,12 +5,12 @@ Analyzing some language from the 2016 presidential debates. The reports can be v
 ### Reports:
 | Debate Date      | Report   |
 | ---------------- | -------- |
-| August 6, 2015   | [Republican Debate #1](reports/republican-debate-1-2015-08-06.json) (1 of 2)|
-| August 6, 2015   | [Republican Debate #1](reports/republican-debate-2-2015-08-06.json) (2 of 2)|
-| September 16, 2015   | [Republican Debate #1](reports/republican-debate-1-2015-09-16.json) (1 of 2) |
-| September 16, 2015   | [Republican Debate #2](reports/republican-debate-2-2015-09-16.json) (2 of 2) |
-| October 13, 2015 | [Democratic Debate #1](reports/democratic-debate-2015-10-13.json) |
-| October 28, 2015 | [Republican Debate #3](reports/republican-debate-2015-10-28.json) |
+| August 6, 2015   | [Republican Debate #1](reports/republican-candidates-debate-1-2015-08-06.json) (1 of 2)|
+| August 6, 2015   | [Republican Debate #1](reports/republican-candidates-debate-2-2015-08-06.json) (2 of 2)|
+| September 16, 2015   | [Republican Debate #1](reports/republican-candidates-debate-1-2015-09-16.json) (1 of 2) |
+| September 16, 2015   | [Republican Debate #2](reports/republican-candidates-debate-2-2015-09-16.json) (2 of 2) |
+| October 13, 2015 | [Democratic Debate #1](reports/democratic-candidates-debate-2015-10-13.json) |
+| October 28, 2015 | [Republican Debate #3](reports/republican-candidates-debate-2015-10-28.json) |
 
 ### Points of Analysis:
 - Total words spoken
