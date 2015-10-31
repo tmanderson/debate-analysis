@@ -8,6 +8,7 @@ var _ = require('lodash');
  */
 _.extend(global, {
   WPM: 190,
+  RESULT_LIMIT: 20,
   REPORTS_PATH: './reports',
   CANDIDATES_PATH: './data',
   TRANSCRIPT_PATH: './data/transcripts',
@@ -18,15 +19,15 @@ var fs = require('fs');
 var path = require('path');
 var args = process.argv.slice(2);
 
-var natural = require('natural');
-var TfIdf = natural.TfIdf;
 var sentiment = require('sentiment');
 var sentenceTokenizer = require('./src/tokenizers').sentence;
 
-natural.PorterStemmer.attach();
-
 var Debate = require('./src/debate');
+
 var dictionaries = require('./src/dictionaries');
+var limiters = require('./src/limiters');
+var filters = require('./src/filters');
+
 var commonWords = dictionaries.common;
 var candidates = dictionaries.candidates;
 
@@ -39,144 +40,61 @@ function getNormalizedCandidateName(value) {
   });
 }
 
+var analysers = [
+  require('./src/analysers/total-words'),
+  require('./src/analysers/used-words'),
+  require('./src/analysers/unique-words'),
+  require('./src/analysers/callouts'),
+  require('./src/analysers/audience-reception'),
+  require('./src/analysers/speaking-time'),
+  require('./src/analysers/emotional-lines'),
+  require('./src/analysers/personal-issues'),
+  require('./src/analysers/average-words')
+];
+
 _.each(debates, function(debate) {
-  var tfidf, docs;
+  var value, stats, exclude = [];
   
   var collectiveTotalWords = 0;
   var collectiveUsedWords = {};
   var collectiveUniqueWords = [];
   var totalEstimatedTime = 0;
 
-  var data = [];
+  var data = _.mapValues(debate.participants, function(participant) {
+    stats = _.reduce(analysers, function(output, analyser) {
+      value = analyser.call(output, participant.lines, participant);
+      
+      if(output.include === false) {
+        exclude.push(analyser.name);
+        output.include = true;
+      }
 
-  debate.forEachSpeaker(function(speaker) {
-    if(!speaker) return;
+      return _.set(output, analyser.name, value);
+    }, {});
 
-    var totalWords = 0;   // total words spoken
-    var usedWords = {};   // [word] -> (# of times used)
-    var uniqueWords = []; // contains first occurance of word
-    var callouts = {};    // other candidates called out by this speaker
-    var mostSentimentalLines = {};
-
-    _.each(speaker.lines, function(line) {
-      // get each sentence
-      _.each(sentenceTokenizer(line), function(sentence) {
-        var sentimentality = sentiment(sentence);
-        var lastName, name;
-
-        // process each word within the sentence
-        _.each(_.words(sentence), function(word, i, words) {
-          name = getNormalizedCandidateName(word);
-
-          word = word.toLowerCase();
-          totalWords++;
-          
-          if(name && name !== lastName) {
-            if(!callouts[name]) {
-              callouts[name] = { total: 0, sentiment: 0, lines: [] };
-            }
-
-            callouts[name].total++;
-            callouts[name].sentiment += sentimentality.score;
-            callouts[name].lines.push(sentence);
-            lastName = name;
-          }
-
-          if(!usedWords[word]) usedWords[word] = 0;
-
-          // if the word isn't a letter, is not a common word, and is being
-          // said for the first time
-          if(word.length > 1 && commonWords.indexOf(word) < 0 && !usedWords[word]) {
-            uniqueWords.push(word);
-          }
-
-          usedWords[word]++;
-        });
-
-        // Naive attempt for most negative line
-        if(!mostSentimentalLines.negative ||
-          sentimentality.score < mostSentimentalLines.negative.score) {
-
-          _.extend(mostSentimentalLines, {
-            negative: _.extend(
-              _.pick(sentimentality, 'score', 'comparative'),
-              { line: sentence }
-            )
-          });
-        }
-
-        // Naive attempt for most positive line
-        if(!mostSentimentalLines.positive ||
-          sentimentality.score > mostSentimentalLines.positive.score) {
-          
-          _.extend(mostSentimentalLines, {
-            positive: _.extend(
-              _.pick(sentimentality, 'score', 'comparative'),
-              { line: sentence }
-            )
-          });
-        }
-      });
+    _.each(exclude, function(name) {
+      delete stats[name];
     });
-    
-    // create new tfidf corpus for speaker
-    tfidf = new TfIdf();
-    // each response from the speaker is considered a document
-    _.each(speaker.lines, tfidf.addDocument, tfidf);
 
-    // Update debate-wide values
-    totalEstimatedTime += Math.round(totalWords/WPM);
-    collectiveTotalWords += totalWords;
-    collectiveUniqueWords = _.uniq(_.merge(collectiveUniqueWords, uniqueWords));
-    _.each(usedWords, function(count, word) {
-      if(!collectiveUsedWords[word]) collectiveUsedWords[word] = 0;
-      collectiveUsedWords[word] += count;
-    });
-    
-    // not adding commentators and questioners to the report
-    if(speaker.isCandidate === false) return;
+    delete stats.include;
 
-    data.push({
-      name: speaker.name,
+    return _.mapValues(stats, function(val, k) {
+      if(k === 'uniqueWords') {
+        return {
+          total: val.length,
+          mostUnique: val.slice(0, 20)
+        };
+      }
 
-      totalWords: totalWords,
-      speakingTime: Math.round(totalWords/WPM),
-
-      emotionalLines: mostSentimentalLines,
-
-      averageWordUsage: _.pick(
-        _.mapValues(usedWords, function(count) {
-          return count / uniqueWords.length;
-        }),
-        function(val, key) {
-          return (uniqueWords.indexOf(key) > -1) && val > 0.009 && key;
+      if(_.isObject(val)) {
+        if(_.isNumber(_.values(val)[0])) {
+          return limiters.numberDict(val, RESULT_LIMIT);
         }
-      ),
+      }
 
-      importantWords: _.zipObject(
-        _.filter(
-          tfidf.listTerms(0).map(function(item, i) {
-            return [ item.term, item.tfidf ];
-          }),
-          function(line) {
-            return !_.includes(commonWords, line[0]);
-          }
-        ).slice(0, 20) // Most unique words via tfidf
-      ),
+      if(_.isArray(val)) return val.slice(0, RESULT_LIMIT);
 
-      issueRelevance: _.zipObject(
-        _.sortBy(
-          _.map(speaker.issues, function(issue) {
-            docs = tfidf.tfidfs(issue);
-            return [ issue, _.reduce(docs, _.add, 0) / 100 ];
-          }),
-          function(val) {
-            return val[1];
-          }
-        ).reverse() // issue relevance to most important terms (via website issue -> tfidf)
-      ),
-
-      callouts: callouts
+      return val;
     });
   });
   

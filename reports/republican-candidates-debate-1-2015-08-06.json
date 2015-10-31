@@ -1,627 +1,406 @@
 {
   "name": "Republican  Candidates Debate #1",
-  "estimatedLength": 44,
-  "totalWordsSpoken": 8466,
-  "mostUniqueWords": [
-    "iowa",
-    "pretty",
-    "overwhelming",
-    "odds",
-    "heap",
-    "corporate",
-    "interests",
-    "interested",
-    "74",
-    "college",
-    "degree",
-    "rise",
-    "enemies",
-    "lines",
-    "draw",
-    "host",
-    "effectively",
-    "shortly",
-    "grandfather",
-    "immigrated",
-    "spent",
-    "fascist",
-    "benito",
-    "mussolini",
-    "pleasant",
-    "obviously",
-    "resent",
-    "letting",
-    "formative",
-    "threatening",
-    "worth",
-    "wait",
-    "men",
-    "pen",
-    "thinks",
-    "compassion",
-    "live",
-    "treat",
-    "equally",
-    "forth"
-  ],
-  "candidates": [
-    {
-      "name": "Carly Fiorina",
-      "totalWords": 1514,
-      "speakingTime": 8,
-      "emotionalLines": {
-        "negative": {
-          "score": -6,
-          "comparative": -0.1875,
-          "line": "I do not believe that we need to wholesale destroy every American citizen's privacy in order to go after those that we know are suspect or are -- are already a problem."
-        },
-        "positive": {
-          "score": 12,
-          "comparative": 0.34285714285714286,
-          "line": "Well, I would begin by reminding people that at this point in previous presidential elections, Jimmy Carter could n't win, Ronald Reagan could n't win, Bill Clinton could n't win, and neither could've Barack Obama."
-        }
-      },
-      "averageWordUsage": {
-        "win": 0.010471204188481676,
-        "clinton": 0.013089005235602094,
-        "obama": 0.013089005235602094,
-        "technology": 0.010471204188481676,
-        "world": 0.010471204188481676,
-        "know": 0.020942408376963352,
-        "nation": 0.02356020942408377,
-        "understands": 0.010471204188481676,
-        "leadership": 0.010471204188481676,
-        "time": 0.010471204188481676,
-        "potential": 0.010471204188481676,
-        "need": 0.034031413612565446,
-        "lead": 0.010471204188481676,
-        "great": 0.013089005235602094,
-        "phone": 0.013089005235602094,
-        "money": 0.010471204188481676,
-        "right": 0.010471204188481676,
-        "just": 0.013089005235602094,
-        "say": 0.013089005235602094,
-        "let": 0.010471204188481676,
-        "support": 0.010471204188481676,
-        "china": 0.010471204188481676,
-        "believe": 0.010471204188481676,
-        "help": 0.010471204188481676,
-        "going": 0.013089005235602094
-      },
-      "importantWords": {
-        "understands": 10.437751649736402,
-        "couldn": 7.8283137373023015,
-        "world": 6.611918412977808,
-        "win": 6.611918412977808,
-        "unlock": 5.218875824868201,
-        "chief": 5.218875824868201,
-        "requires": 5.218875824868201,
-        "works": 5.218875824868201,
-        "tough": 5.218875824868201,
-        "think": 4.407945608651872,
-        "technology": 4.407945608651872,
-        "potential": 4.407945608651872,
-        "nation": 3.83258146374831,
-        "clinton": 3.83258146374831,
-        "leadership": 3.83258146374831,
-        "know": 3.386294361119891,
-        "economy": 2.6094379124341005,
-        "barack": 2.6094379124341005,
-        "calling": 2.6094379124341005,
-        "started": 2.6094379124341005
-      },
-      "issueRelevance": {
-        "New Possibilities. \n Real Leadership.": 0.12884038752364824
+  "estimatedLength": 0,
+  "totalWordsSpoken": 0,
+  "mostUniqueWords": [],
+  "candidates": {
+    "fiorina": {
+      "totalWords": 8124,
+      "uniqueWords": {
+        "total": 733,
+        "mostUnique": [
+          "reminding",
+          "previous",
+          "presidential",
+          "elections",
+          "Jimmy",
+          "Carter",
+          "Ronald",
+          "Reagan",
+          "neither",
+          "Barack",
+          "started",
+          "secretary",
+          "became",
+          "ultimately",
+          "executive",
+          "largest",
+          "company",
+          "almost",
+          "90",
+          "billion"
+        ]
       },
       "callouts": {
-        "hillary clinton": {
-          "total": 5,
-          "sentiment": 11,
-          "lines": [
-            "Well, I would begin by reminding people that at this point in previous presidential elections, Jimmy Carter could n't win, Ronald Reagan could n't win, Bill Clinton could n't win, and neither could've Barack Obama.",
-            "think to be commander in chief in the 21st century requires someone who understands how the economy works, someone who understands how the world works and who's in it ; I know more world leaders on the stage today than anyone running, with the possible exception of Hillary Clinton ; understands bureaucracies, how to cut them down to size and hold them accountable ; and understands technology, which is a tool, but it's also a weapon that's being used against us.",
-            "I did n't get a phone call from Bill Clinton before I jumped in the race.",
-            "Did any of you get a phone call from Bill Clinton?",
-            "Hillary Clinton lies about Benghazi, she lies about e- mails."
-          ]
-        },
-        "donald trump": {
-          "total": 2,
-          "sentiment": 0,
-          "lines": [
-            "Here's the thing that I would ask Donald Trump in all seriousness.",
-            "That's just a fact, and that's what Donald Trump taps into."
-          ]
-        }
+        "hillary clinton": [
+          " Well, I would begin by reminding people that at this point in previous presidential elections, Jimmy Carter couldn't win, Ronald Reagan couldn't win, Bill Clinton couldn't win, and neither could've Barack Obama. I started as a secretary and became ultimately the chief executive of the largest technology company in the world, almost $90 billion in over 150 countries. I know personally how extraordinary and unique this nation is.I think to be commander in chief in the 21st century requires someone who understands how the economy works, someone who understands how the world works and who's in it; I know more world leaders on the stage today than anyone running, with the possible exception of Hillary Clinton; understands bureaucracies, how to cut them down to size and hold them accountable; and understands technology, which is a tool, but it's also a weapon that's being used against us. Most importantly, I think I understand leadership, which sometimes requires a tough call in a tough time. But mostly, the highest calling of leadership is to challenge the status-quo and unlock the potential of others. We need a leader who will lead the resurgence of this great nation and unlock its potential once again. Thank you. ",
+          " Hillary Clinton lies about Benghazi, she lies about e- mails. She is still defending Planned Parenthood, and she is still her party's frontrunner. 2016 is going to be a fight between conservatism, and a Democrat party that is undermining the very character of this nation. We need a nominee who is going to throw every punch, not pull punches, and someone who cannot stumble before he even gets into the ring. I am not a member of the political class. I am a conservative; I can win this job, I can do this job, I need your help, I need your support. I will, with your help and support, lead the resurgence of this great nation. Thank you. "
+        ],
+        "donald trump": [
+          " Well, I don't know. I didn't get a phone call from Bill Clinton before I jumped in the race. Did any of you get a phone call from Bill Clinton? I didn't. Maybe it's because I hadn't given money to the foundation or donated to his wife's Senate campaign. Here's the thing that I would ask Donald Trump in all seriousness. He is the party's frontrunner right now, and good for him. I think he's tapped into an anger that people feel. They're sick of politics as usual. You know, whatever your issue, your cause, the festering problem you hoped would resolved, the political class has failed you. That's just a fact, and that's what Donald Trump taps into. I would also just say this. Since he has changed his mind on amnesty, on health care and on abortion, I would just ask, what are the principles by which he will govern? Mac"
+        ]
+      },
+      "audienceReception": {
+        "applause": [],
+        "laughter": []
+      },
+      "speakingTime": "7.94",
+      "emotionalLines": [
+        " I absolutely would call on them to collaborate and cooperate, yes. ",
+        " I agree with my colleagues. We need to begin by undoing -- I would begin by undoing a whole set of things that President Obama has done, whether it's illegal amnesty or this latest round of EPA regulations. But let me go back to something that's very important. We have been debating right here the core difference between conservatism and progressivism. Conservatives, I am a conservative because I believe no one of us is any better than any other one of us. Every one of us is gifted by God, whether it is those poor babies being picked over or it's someone whose life is tangled up in a web of dependence. Progressives don't believe that. They believe some are smarter than others, some are better than others, so some are going to need to take care of others. That is the fight we have to have, and we have to undo a whole set of things that President Obama has done that get at the heart of his disrespect and disregard for too many Americans. ",
+        " Not trustworthy. No accomplishment. ",
+        " Well, I don't know. I didn't get a phone call from Bill Clinton before I jumped in the race. Did any of you get a phone call from Bill Clinton? I didn't. Maybe it's because I hadn't given money to the foundation or donated to his wife's Senate campaign. Here's the thing that I would ask Donald Trump in all seriousness. He is the party's frontrunner right now, and good for him. I think he's tapped into an anger that people feel. They're sick of politics as usual. You know, whatever your issue, your cause, the festering problem you hoped would resolved, the political class has failed you. That's just a fact, and that's what Donald Trump taps into. I would also just say this. Since he has changed his mind on amnesty, on health care and on abortion, I would just ask, what are the principles by which he will govern? Mac",
+        " Yeah. Sometimes it's a complicated situation, but some things are black and white. On day one in the Oval Office, I would make two phone calls. The first one would be to my good friend, Bibi Netanyahu, to reassure him we will stand with the State of Israel. The second will be to the supreme leader of Iran. He might not take my phone call, but he would get the message, and the message is this: Until you open every nuclear and every military facility to full, open, anytime/anywhere, for real, inspections, we are going to make it as difficult as possible for you to move money around the global financial system. I hope Congress says no to this deal. But realistically, even if they do, the money is flowing. China and Russia have never been on our side of the table. The Europeans have moved on. We have to stop the money flow. And by the way, as important as those two phone calls are, they are also very important because they say this. America is back in the leadership business. And when America does not lead, the world is a dangerous and a tragic place. This is a bad deal. Obama broke every rule of negotiation. Yes, our allies are not perfect. But Iran is at the heart of most of the evil that is going on in the Middle East through their proxies. Mac",
+        " Let me tell you what I would do immediately, day two in the Oval Office. I would hold a Camp David summit with our Arab allies, not to talk them into this lousy deal with Iran, but to say to them, \"what is it that you need to defeat ISIL?\" You know, Obama has presented the American people with a false choice every time. It's what I've done or not done, or it's war. It is a false choice. King Abdullah of Jordan, a man I've known for a long time, has been asking for bombs and materiel. We have not provided them. He has gone to China. The Kurds have been asking us to arm them for three years. We haven't done so. The Egyptians have asked us to share intelligence. We're not doing it. We have Arab allies. They are not perfect. I know every one. But they need to see leadership, support and resolve from the United States of America, and we can help them defeat ISIS. ",
+        " This is a great nation. It is a unique nation in all of human history and on the face of the planet, because here, our founders believed that everyone has a right to fulfill their potential and that that right --they called it life, liberty, the pursuit of happiness -- comes from God and cannot be taken away by government. We have arrived at a point in our nation's history where the potential of this nation and too many Americans is being crushed by the weight, the power, the cost, the complexity, the ineptitude, the corruption of the federal government, and only someone who will challenge the status quo of Washington, D.C. can lead the resurgence of this great nation. I will do that. Mac",
+        " Let me say first that it is disturbing that every time one of these home-grown terrorist attacks occurs, and, as your question points out, they are occurring with far too great frequency, it turns out we had warning signals. It turns out we knew something was wrong. It turns out some dot wasn't connected, and so the first thing we have to do is make sure that everyone and every responsible agency is attuned to all of these possibilities and symptoms. We even had warnings about the Boston Marathon bombers, and yet the dots weren't connected. So we need to get on a different mindset. Secondly, I certainly support that we need to tear down cyber walls, not on a mass basis, but on a targeted basis. But let me just say that we also need down -- to tear down the cyber walls that China is erecting, that Russia is erecting. We need to be very well aware of the fact that China and Russia are using technology to attack us, just as ISIS is using technology to recruit those who would murder American citizens. I do not believe that we need to wholesale destroy every American citizen's privacy in order to go after those that we know are suspect or are -- are already a problem. But yes, there is more collaboration required between private sector companies and the public sector. And specifically, we know that we could have detected and repelled some of these cyber attacks if that collaboration had been permitted. A law has been sitting -- languishing, sadly, on Capitol Hill and has not yet been passed, and it would help. Mac",
+        " Hillary Clinton lies about Benghazi, she lies about e- mails. She is still defending Planned Parenthood, and she is still her party's frontrunner. 2016 is going to be a fight between conservatism, and a Democrat party that is undermining the very character of this nation. We need a nominee who is going to throw every punch, not pull punches, and someone who cannot stumble before he even gets into the ring. I am not a member of the political class. I am a conservative; I can win this job, I can do this job, I need your help, I need your support. I will, with your help and support, lead the resurgence of this great nation. Thank you. ",
+        " Well, I would begin by reminding people that at this point in previous presidential elections, Jimmy Carter couldn't win, Ronald Reagan couldn't win, Bill Clinton couldn't win, and neither could've Barack Obama. I started as a secretary and became ultimately the chief executive of the largest technology company in the world, almost $90 billion in over 150 countries. I know personally how extraordinary and unique this nation is.I think to be commander in chief in the 21st century requires someone who understands how the economy works, someone who understands how the world works and who's in it; I know more world leaders on the stage today than anyone running, with the possible exception of Hillary Clinton; understands bureaucracies, how to cut them down to size and hold them accountable; and understands technology, which is a tool, but it's also a weapon that's being used against us. Most importantly, I think I understand leadership, which sometimes requires a tough call in a tough time. But mostly, the highest calling of leadership is to challenge the status-quo and unlock the potential of others. We need a leader who will lead the resurgence of this great nation and unlock its potential once again. Thank you. "
+      ],
+      "personalIssues": {
+        "New Possibilities. \n Real Leadership.": "0.13"
+      },
+      "averageWordUsage": {
+        "know": "0.0109",
+        "nation": "0.0123",
+        "But": "0.0095",
+        "need": "0.0177"
       }
     },
-    {
-      "name": "Jim Gilmore",
-      "totalWords": 1094,
-      "speakingTime": 6,
-      "emotionalLines": {
-        "negative": {
-          "score": -6,
-          "comparative": -0.4,
-          "line": "The president has done an executive order with respect to illegal immigration that is illegal."
-        },
-        "positive": {
-          "score": 5,
-          "comparative": 0.4166666666666667,
-          "line": "And I'm glad that I have a chance to answer this question."
-        }
+    "gilmore": {
+      "totalWords": 5953,
+      "uniqueWords": {
+        "total": 561,
+        "mostUnique": [
+          "Because",
+          "policies",
+          "That",
+          "Former",
+          "those",
+          "offices",
+          "A",
+          "fact",
+          "from",
+          "prospective",
+          "running",
+          "agent",
+          "Cold",
+          "War",
+          "assigned",
+          "West",
+          "Germany",
+          "dealt",
+          "extensively",
+          "homeland"
+        ]
       },
-      "averageWordUsage": {
-        "11": 0.018726591760299626,
-        "think": 0.011235955056179775,
-        "united": 0.02247191011235955,
-        "states": 0.02247191011235955,
-        "want": 0.018726591760299626,
-        "experience": 0.0149812734082397,
-        "elected": 0.0149812734082397,
-        "prosecutor": 0.011235955056179775,
-        "attorney": 0.011235955056179775,
-        "general": 0.011235955056179775,
-        "governor": 0.0299625468164794,
-        "issues": 0.011235955056179775,
-        "intelligence": 0.011235955056179775,
-        "commission": 0.011235955056179775,
-        "homeland": 0.011235955056179775,
-        "security": 0.011235955056179775,
-        "attack": 0.018726591760299626,
-        "economy": 0.026217228464419477,
-        "going": 0.033707865168539325,
-        "law": 0.033707865168539325,
-        "people": 0.026217228464419477,
-        "country": 0.033707865168539325,
-        "stand": 0.011235955056179775,
-        "grow": 0.011235955056179775,
-        "create": 0.011235955056179775,
-        "code": 0.011235955056179775,
-        "tax": 0.0149812734082397,
-        "problem": 0.011235955056179775,
-        "supreme": 0.011235955056179775,
-        "court": 0.011235955056179775,
-        "justices": 0.011235955056179775,
-        "follow": 0.011235955056179775,
-        "thing": 0.0149812734082397,
-        "time": 0.011235955056179775,
-        "executive": 0.011235955056179775,
-        "order": 0.011235955056179775,
-        "president": 0.011235955056179775,
-        "illegal": 0.011235955056179775
-      },
-      "importantWords": {
-        "think": 7.158883083359672,
-        "issues": 7.158883083359672,
-        "governor": 6.772588722239782,
-        "race": 4.772588722239782,
-        "different": 4.772588722239782,
-        "policy": 4.772588722239782,
-        "decline": 4.772588722239782,
-        "foreign": 4.772588722239782,
-        "person": 4.772588722239782,
-        "entered": 4.772588722239782,
-        "times": 4.772588722239782,
-        "governors": 4.772588722239782,
-        "homeland": 3.9616585060234524,
-        "elected": 3.9616585060234524,
-        "experience": 3.9616585060234524,
-        "security": 3.9616585060234524,
-        "states": 2.9400072584914714,
-        "united": 2.9400072584914714,
-        "extensively": 2.386294361119891,
-        "germany": 2.386294361119891
-      },
-      "issueRelevance": {},
       "callouts": {
-        "hillary clinton": {
-          "total": 2,
-          "sentiment": -1,
-          "lines": [
-            "Because Obama and Clinton policies, the United States is moving further and further into a decline.",
-            "And first of all, we've got to recognize that there is problem that Barack Obama and Hillary Clinton have caused."
-          ]
-        }
+        "hillary clinton": [
+          " I'll tell them that we're going to grow the economy so that we can give people better opportunities so they don't have to rely exclusively on benefit types of programs. Some do, but many Americans are dying to have an opportunity to grow and to create something inside this economy. And I'm glad that I have a chance to answer this question. I've had the growth code (ph) there for about five years, and it's this specific program. We're going to do a tax cut for all Americans. We're going to have a three-bracket tax code, 10, 15 and 25 percent. We're going to combine all commercial activity in business into one place in the tax code and charge it 15 percent, which is going to suddenly make us competitive with the rest of the world. And we're going to eliminate the death tax. With a couple of additional tweaks, we know what this will do. It will cause the economy to grow, to explode, to create more jobs. And first of all, we've got to recognize that there is problem that Barack Obama and Hillary Clinton have caused. And that problem is too big regulations like the EPA, too much new taxes on business that we have seen and \"Obamacare.\" These are drags on the economy, it's a deliberate drag. I propose to reverse that and get this economy moving again. "
+        ]
+      },
+      "audienceReception": {
+        "applause": [],
+        "laughter": []
+      },
+      "speakingTime": "5.74",
+      "emotionalLines": [
+        " I think the times are different now. I think the times are much more serious. Because Obama and Clinton policies, the United States is moving further and further into a decline. I want to reverse that decline. That's why I've entered this race, and I think I have the experience to do it. Former elected prosecutor, attorney general, governor, I was elected to all of those offices. A person who, in fact, has a long experience in foreign-policy issues, which is different from many of the other governors and prospective governors who are running. I was an Army intelligence agent and a veteran during the Cold War, assigned to West Germany. I was the chairman of the National Commission on Homeland Security and Terrorism for the United States for five years. I was a person who has dealt extensively with these homeland security issues. I was a governor during the 9/11 attack. I understand both of these issues, how to build the economy and doing that as a governor who'd built jobs, had cut taxes and also a governor who understands foreign-policy, and that's why I entered this race. ",
+        " Well, as you know, I'm a former elected prosecutor, a former elected attorney general, trained at the University of Virginia in constitutional law, and I don't believe in litmus tests except this. I believe we should be appointing Supreme Court justices who will follow the law and not try to make the law. Now, the challenge we're seeing today is that the Supreme Court is being converted into some type of political body. They have to have some legal basis and precedence for being able to follow the law instead of making the law up, and my goal is -- in appointing Supreme Court justices, would be to point -- to appoint justices who would follow the law. Bill, I want to say one more thing about... ",
+        " Not -- not on that, no. But let me say one more thing. I want to -- before my time runs out I want to get back to this issue of ISIS versus Iran. It is Iran that's the expansionist power. ISIL is trying to create themselves into a new state. Our job has to be to recognize the conflict between the two. I have proposed there be a Middle East NATO so that we can combine our allies there to stand up to Iranian expansion, and at the same time join together to begin to stop and this ISIL thing before it becomes an actual state. ",
+        " Professional politician that can't be trusted. ",
+        " Well, I was a conservative governor of Virginia, I governed that way, and that's my track record. But the key thing that we're seeing now is serious challenges to this country that must change, the direction of this nation must change. And that's why I've offered a specific program to the people of America tonight to address the fundamental problem of getting our country growing again, getting our economy growing, wages up, opportunities for people. And second, the international crisis we are facing is most dreadful and most dangerous. I have the experience as a prosecutor, attorney general, governor, United States Army intelligence veteran, governor during the 9/11 attack, chairman of the Terrorism Commission for this country. It's time for real substance and real experience. And that's what I'll offer to the people of the United States in this candidacy for the presidency. Mac",
+        " Well, yes, indeed. I chaired the National Commission on Homeland Security Committee for United States. We warned about the 9/11 attack before the 9/11 attack occurred. I was the governor during the 9/11 attack when the Pentagon was struck. And I'm going to tell you this, we need to use the benefit of our law enforcement people across this country, combined with our intelligence people across this country. We need to use our technological advantages, because what we've warned of is an international guerrilla movement that threatens this country. It's going to happen in this country, there are going to be further attacks. We have to be prepared to defend the American people, prepare them for a long war, stand up for the defense of this country, and stand up for the values of this country... ",
+        " Well, it's not a matter of what the first executive order would be, Bill. The matter is what orders exist now that shouldn't exist? The president has done an executive order with respect to illegal immigration that is illegal. Illegal. And it creates a -- a contempt for the law, for the rule of law. If i were the president of the United States, I would go and look at every executive order that exists right now and determine which ones want to be voided, because the president shouldn't be legislating: not through that vehicle or any other. We should be relying upon the leadership of the Congress to pass the laws. ",
+        " I'll tell them that we're going to grow the economy so that we can give people better opportunities so they don't have to rely exclusively on benefit types of programs. Some do, but many Americans are dying to have an opportunity to grow and to create something inside this economy. And I'm glad that I have a chance to answer this question. I've had the growth code (ph) there for about five years, and it's this specific program. We're going to do a tax cut for all Americans. We're going to have a three-bracket tax code, 10, 15 and 25 percent. We're going to combine all commercial activity in business into one place in the tax code and charge it 15 percent, which is going to suddenly make us competitive with the rest of the world. And we're going to eliminate the death tax. With a couple of additional tweaks, we know what this will do. It will cause the economy to grow, to explode, to create more jobs. And first of all, we've got to recognize that there is problem that Barack Obama and Hillary Clinton have caused. And that problem is too big regulations like the EPA, too much new taxes on business that we have seen and \"Obamacare.\" These are drags on the economy, it's a deliberate drag. I propose to reverse that and get this economy moving again. "
+      ],
+      "personalIssues": {},
+      "averageWordUsage": {
+        "United": "0.0107",
+        "States": "0.0107",
+        "governor": "0.0143",
+        "economy": "0.0125",
+        "And": "0.0160",
+        "going": "0.0160",
+        "law": "0.0160",
+        "people": "0.0125",
+        "country": "0.0160"
       }
     },
-    {
-      "name": "Lindsey Graham",
-      "totalWords": 1351,
-      "speakingTime": 7,
-      "emotionalLines": {
-        "negative": {
-          "score": -5,
-          "comparative": -0.2777777777777778,
-          "line": "I am tired of sending $ 300 billion overseas to buy oil from people who hate our guts."
-        },
-        "positive": {
-          "score": 4,
-          "comparative": 0.16,
-          "line": "So to the people who are dying for a better America, you better change course, and she does n't represent the change that we need."
-        }
-      },
-      "averageWordUsage": {
-        "change": 0.02631578947368421,
-        "hillary": 0.01644736842105263,
-        "clinton": 0.019736842105263157,
-        "world": 0.009868421052631578,
-        "destroy": 0.009868421052631578,
-        "economy": 0.01644736842105263,
-        "environment": 0.013157894736842105,
-        "energy": 0.009868421052631578,
-        "going": 0.05592105263157895,
-        "time": 0.013157894736842105,
-        "people": 0.013157894736842105,
-        "choice": 0.009868421052631578,
-        "america": 0.023026315789473683,
-        "stand": 0.009868421052631578,
-        "want": 0.009868421052631578,
-        "president": 0.029605263157894735,
-        "united": 0.013157894736842105,
-        "states": 0.013157894736842105,
-        "need": 0.03289473684210526,
-        "american": 0.01644736842105263,
-        "ground": 0.013157894736842105,
-        "iraq": 0.013157894736842105,
-        "force": 0.009868421052631578,
-        "syria": 0.01644736842105263,
-        "isil": 0.01644736842105263,
-        "ready": 0.009868421052631578,
-        "commander": 0.013157894736842105,
-        "chief": 0.013157894736842105,
-        "know": 0.013157894736842105,
-        "nation": 0.023026315789473683,
-        "takes": 0.013157894736842105,
-        "long": 0.013157894736842105,
-        "dying": 0.009868421052631578,
-        "work": 0.009868421052631578,
-        "americans": 0.009868421052631578,
-        "better": 0.009868421052631578,
-        "failed": 0.009868421052631578,
-        "means": 0.009868421052631578,
-        "flat": 0.009868421052631578,
-        "broke": 0.009868421052631578,
-        "war": 0.009868421052631578,
-        "women": 0.013157894736842105,
-        "money": 0.009868421052631578,
-        "soldiers": 0.009868421052631578,
-        "defend": 0.009868421052631578,
-        "social": 0.013157894736842105,
-        "security": 0.013157894736842105
-      },
-      "importantWords": {
-        "environment": 10.016309587105097,
-        "choice": 7.512232190328822,
-        "energy": 7.512232190328822,
-        "economy": 6.29583686600433,
-        "hate": 5.008154793552548,
-        "guts": 5.008154793552548,
-        "debating": 5.008154793552548,
-        "fossil": 5.008154793552548,
-        "fuels": 5.008154793552548,
-        "strong": 5.008154793552548,
-        "independent": 5.008154793552548,
-        "world": 4.19722457733622,
-        "people": 3.6218604324326575,
-        "america": 3.175573329804238,
-        "going": 2.8109302162163288,
-        "healthy": 2.504077396776274,
-        "strangle": 2.504077396776274,
-        "helping": 2.504077396776274,
-        "break": 2.504077396776274,
-        "focus": 2.504077396776274
-      },
-      "issueRelevance": {
-        "Securing Our Nation": 0.12676511513514302,
-        "Securing Our Future": 0.02504077396776274,
-        "Securing Our Values": 0
+    "graham": {
+      "totalWords": 6824,
+      "uniqueWords": {
+        "total": 619,
+        "mostUnique": [
+          "following",
+          "won",
+          "science",
+          "solutions",
+          "cap",
+          "trade",
+          "dominate",
+          "name",
+          "helping",
+          "focus",
+          "independence",
+          "clean",
+          "use",
+          "less",
+          "Over",
+          "become",
+          "tired",
+          "sending",
+          "300",
+          "billion"
+        ]
       },
       "callouts": {
-        "hillary clinton": {
-          "total": 7,
-          "sentiment": 1,
-          "lines": [
-            "You can trust me to do the following : that when I get on change with Hillary Clinton, we wo n't be debating about the science, we'll be debating about the solutions.",
-            "To all the Americans who want a better life, do n't vote for Hillary Clinton.",
-            "I'm fluent in Clinton-speak ; I've been dealing with this crowd for 20 years.",
-            "You know, when Bill Clinton says it depends on what the meaning of is is, that means is is whatever Bill wants it to mean.",
-            "When Hillary Clinton tells you I've given you all the emails you need, that means she has n't.",
-            "In Hillary Clinton's world, after two terms in the White House where her husband was president, she said she was flat broke.",
-            "Hillary, I'll show you flat broke."
-          ]
-        }
+        "hillary clinton": [
+          " You can trust me to do the following: that when I get on change with Hillary Clinton, we won't be debating about the science, we'll be debating about the solutions. In her world, cap- and-trade would dominate, that we will destroy the economy in the name of helping the environment. In my world, we'll focus on energy independence and a clean environment.When it comes to fossil fuels, we're going to find more here and use less. Over time, we're going to become energy independent. I am tired of sending $300 billion overseas to buy oil from people who hate our guts. The choice between a weak economy and a strong environment is a false choice, that is not the choice I'll offer America. A healthy environment, a strong economy and energy independent America -- that would be the purpose of my presidency, is break the strangle hold that people enjoy on fossil fuels who hate our guts. ",
+          " I think America is dying to work, you just need to give them a chance. To all the Americans who want a better life, don't vote for Hillary Clinton. You're not going to get it. She's not going to repeal \"Obamacare\" and replace it. I will. She's not going to build the Keystone Pipeline. I will. She's not going to change Dodd-Frank. I will. Until you change the policies of Barack Obama, we're never going to grow this economy. Until you change the policies of Barack Obama, we're never going to be safe. She represents a third term of a failed presidency. I'm fluent in Clinton-speak; I've been dealing with this crowd for 20 years. You know, when Bill Clinton says it depends on what the meaning of is is, that means is is whatever Bill wants it to mean. When Hillary Clinton tells you I've given you all the emails you need, that means she hasn't. So to the people who are dying for a better America, you better change course, and she doesn't represent the change that we need. Do we all agree that ISIL is not the JV team? If I have to monitor a mosque, I'll monitor a mosque. If I have to take down a cyber wall, I'll take it. If I have to send more American troops to protect us here, I will do it. She will not. She has empowered a failed agenda. She is going to empower a failed solution to an American economy dying to grow. Elect me, I know the difference between being flat broke. Apparently, she doesn't. In Hillary Clinton's world, after two terms in the White House where her husband was president, she said she was flat broke. Hillary, I'll show you flat broke. That's not it. Mac"
+        ]
+      },
+      "audienceReception": {
+        "applause": [],
+        "laughter": []
+      },
+      "speakingTime": "7.06",
+      "emotionalLines": [
+        " Right. Mac",
+        " Not the change we need at a time we need it. ",
+        " You can trust me to do the following: that when I get on change with Hillary Clinton, we won't be debating about the science, we'll be debating about the solutions. In her world, cap- and-trade would dominate, that we will destroy the economy in the name of helping the environment. In my world, we'll focus on energy independence and a clean environment.When it comes to fossil fuels, we're going to find more here and use less. Over time, we're going to become energy independent. I am tired of sending $300 billion overseas to buy oil from people who hate our guts. The choice between a weak economy and a strong environment is a false choice, that is not the choice I'll offer America. A healthy environment, a strong economy and energy independent America -- that would be the purpose of my presidency, is break the strangle hold that people enjoy on fossil fuels who hate our guts. ",
+        " Change the Mexico City policy, not take one dime of taxpayer money to fund abortion organizations overseas, and restore the NSA that's been gutted. We're going dark when it comes to detecting the next attack. We have gutted our ability to detect the next attack. And I would not stand for that as president of the United States. I would take the fight to these guys, whatever it took, as long as it took. ",
+        " I think America is dying to work, you just need to give them a chance. To all the Americans who want a better life, don't vote for Hillary Clinton. You're not going to get it. She's not going to repeal \"Obamacare\" and replace it. I will. She's not going to build the Keystone Pipeline. I will. She's not going to change Dodd-Frank. I will. Until you change the policies of Barack Obama, we're never going to grow this economy. Until you change the policies of Barack Obama, we're never going to be safe. She represents a third term of a failed presidency. I'm fluent in Clinton-speak; I've been dealing with this crowd for 20 years. You know, when Bill Clinton says it depends on what the meaning of is is, that means is is whatever Bill wants it to mean. When Hillary Clinton tells you I've given you all the emails you need, that means she hasn't. So to the people who are dying for a better America, you better change course, and she doesn't represent the change that we need. Do we all agree that ISIL is not the JV team? If I have to monitor a mosque, I'll monitor a mosque. If I have to take down a cyber wall, I'll take it. If I have to send more American troops to protect us here, I will do it. She will not. She has empowered a failed agenda. She is going to empower a failed solution to an American economy dying to grow. Elect me, I know the difference between being flat broke. Apparently, she doesn't. In Hillary Clinton's world, after two terms in the White House where her husband was president, she said she was flat broke. Hillary, I'll show you flat broke. That's not it. Mac",
+        " If we don't stop them over there, they are coming here just as sure as I stand here in front of you. One thing I want to be clear about tonight. If you're running for president of the United States and you don't understand that we need more American ground forces in Iraq and that America has to be part of a regional ground force that will go into Syria and destroy ISIL in Syria, then you're not ready to be commander in chief. And you're not serious about destroying ISIL. According to the generals that I know and trust, this air campaign will not destroy ISIL. We need a ground force in Iraq and Syria, and America has to be part of that ground force. According to the FBI and the director of national intelligence, Syria's becoming a perfect platform to strike our nation. I've got a very simple strategy as your president against ISIL. Whatever it takes, as long as it takes, to defeat them. ",
+        " I don't think it's a war on women for all of us as Americans to stand up and stop harvesting organs from little babies. Let's take the money that we would give to Planned Parenthood and put it in women's health care without having to harvest the organs of the unborn. The only way we're going to defund Planned Parenthood is have a pro-life president. You want to see a war on women? Come with me to Iraq and Afghanistan, folks. I've been there 35 times. I will show you what they do to women. These mythical Arab armies that my friends talk about that are going to protect us don't exist. If I am president of the United States, we're going to send soldiers back to Iraq, back to Syria, to keep us from being attacked here and keep soldiers in Afghanistan because we must. I cannot tell you how much our nation is threatened and how we need a commander in chief who understands the threats to this nation. If you're running for president of the United States and you do not understand that we cannot defend this nation without more of our soldiers over there, you are not ready for this job. ",
+        " Thank you. First thing I'd tell the American people, whatever it takes to defend our nation, I would do. To the 1 percent who have been fighting this war for over a decade, I'd try my best to be a commander-in-chief worthy of your sacrifice. We're going to lose Social Security and Medicare if Republicans and Democrats do not come together and find a solution like Ronald Reagan and Tip O'Neill. I will be the Ronald Reagan if I can find a Tip O'Neill. When I was 21, my mom died. When I was 22, my dad died. We owned a liquor store, restaurant, bar and we lived in the back. Every penny we needed from -- every penny we got from Social Security, because my sister was a minor, we needed. Today, I'm 60, I'm not married, I don't have any kids. I would give up some Social Security to save a system that Americans are going to depend on now and in the future. Half of American seniors would be in poverty without a Social Security check. If you make your president, I'm going to put the country ahead of the party. I'm going to do what it takes to defend this nation. This nation has been great to me, and that's the only way I know to pay you back. Mac",
+        " We need somebody ready to be commander-in-chief on day one, who understands there are no moderates in Iran, they've been killed a long time ago. That the Ayatollah is a radical jihadist who really means it when he chants, \"Death to America, death to Israel.\" And this deal is giving him a pathway to a bomb, a missile to deliver it, and money to pay for it all. We need a president who can solve our problems, bring us together. We're becoming Greece if we don't work together. At the end of the day, ladies and gentlemen, our best days are ahead of us only if we work together, and I intend to put this country on a path of success by working together and doing the hard things that should have been done a very long time ago. "
+      ],
+      "personalIssues": {
+        "Securing Our Nation": "0.13",
+        "Securing Our Future": "0.03",
+        "Securing Our Values": "0.00"
+      },
+      "averageWordUsage": {
+        "change": "0.0113",
+        "Clinton": "0.0097",
+        "going": "0.0275",
+        "America": "0.0113",
+        "don": "0.0113",
+        "president": "0.0145",
+        "need": "0.0162",
+        "nation": "0.0113",
+        "She": "0.0113"
       }
     },
-    {
-      "name": "Bobby Jindal",
-      "totalWords": 1424,
-      "speakingTime": 7,
-      "emotionalLines": {
-        "negative": {
-          "score": -11,
-          "comparative": -0.21153846153846154,
-          "line": "How can we beat an enemy if our commander-in-chief does n't have the moral honesty and clarity to say that Islam has a problem, and that problem is radical Islam, to say they've got to condemn not generic acts of violence, but the individual murderers who are committing these acts of violence."
-        },
-        "positive": {
-          "score": 11,
-          "comparative": 0.25,
-          "line": "Planned Parenthood had better hope that Hillary Clinton wins this election, because I guarantee under President Jindal, January 2017, the Department of Justice and the IRS and everybody else that we can send from the federal government will be going in to Planned Parenthood."
-        }
-      },
-      "averageWordUsage": {
-        "know": 0.012658227848101266,
-        "time": 0.010126582278481013,
-        "state": 0.012658227848101266,
-        "got": 0.03291139240506329,
-        "louisiana": 0.012658227848101266,
-        "think": 0.02278481012658228,
-        "government": 0.02531645569620253,
-        "dollars": 0.010126582278481013,
-        "simply": 0.010126582278481013,
-        "people": 0.010126582278481013,
-        "president": 0.030379746835443037,
-        "obama": 0.010126582278481013,
-        "say": 0.015189873417721518,
-        "going": 0.017721518987341773,
-        "said": 0.012658227848101266,
-        "send": 0.010126582278481013,
-        "better": 0.012658227848101266,
-        "medicaid": 0.015189873417721518,
-        "money": 0.010126582278481013,
-        "need": 0.017721518987341773,
-        "planned": 0.010126582278481013,
-        "parenthood": 0.010126582278481013
-      },
-      "importantWords": {
-        "state": 8.39444915467244,
-        "cut": 7.512232190328822,
-        "won": 7.512232190328822,
-        "office": 7.512232190328822,
-        "result": 5.008154793552548,
-        "child": 5.008154793552548,
-        "politicians": 5.008154793552548,
-        "record": 5.008154793552548,
-        "ran": 5.008154793552548,
-        "elections": 5.008154793552548,
-        "changes": 5.008154793552548,
-        "think": 4.763359994706358,
-        "dollars": 4.19722457733622,
-        "louisiana": 3.6218604324326575,
-        "time": 3.6218604324326575,
-        "upgrades": 2.504077396776274,
-        "bad": 2.504077396776274,
-        "kiss": 2.504077396776274,
-        "babies": 2.504077396776274,
-        "leadership": 2.504077396776274
-      },
-      "issueRelevance": {
-        "Radical Islam": 0.10016309587105096,
-        "Religious Liberty": 0.07512232190328821,
-        "Foreign Policy": 0.05008154793552548,
-        "Obamacare": 0.0419722457733622,
-        "Education": 0,
-        "Economy": 0
+    "jindal": {
+      "totalWords": 7766,
+      "uniqueWords": {
+        "total": 736,
+        "mostUnique": [
+          "thank",
+          "Last",
+          "elected",
+          "governor",
+          "margin",
+          "Martha",
+          "kiss",
+          "babies",
+          "ribbons",
+          "whatever",
+          "takes",
+          "popular",
+          "why",
+          "generational",
+          "26",
+          "percent",
+          "30",
+          "000",
+          "fewer",
+          "bureaucrats"
+        ]
       },
       "callouts": {
-        "hillary clinton": {
-          "total": 3,
-          "sentiment": 12,
-          "lines": [
-            "Look, under President Obama and Secretary Clinton, they're working hard to change the American dream into the European nightmare.",
-            "Barack Obama, Hillary Clinton, they're no better.",
-            "Planned Parenthood had better hope that Hillary Clinton wins this election, because I guarantee under President Jindal, January 2017, the Department of Justice and the IRS and everybody else that we can send from the federal government will be going in to Planned Parenthood."
-          ]
-        },
-        "bernie sanders": {
-          "total": 1,
-          "sentiment": 0,
-          "lines": [
-            "Give Bernie Sanders credit."
-          ]
-        },
-        "bobby jindal": {
-          "total": 1,
-          "sentiment": 11,
-          "lines": [
-            "Planned Parenthood had better hope that Hillary Clinton wins this election, because I guarantee under President Jindal, January 2017, the Department of Justice and the IRS and everybody else that we can send from the federal government will be going in to Planned Parenthood."
-          ]
-        },
-        "jeb bush": {
-          "total": 1,
-          "sentiment": 4,
-          "lines": [
-            "Jeb Bush says we've got to be willing to lose the primary in order to win the general."
-          ]
-        }
+        "hillary clinton": [
+          " Well, this goes to the question you were just asking. Look, under President Obama and Secretary Clinton, they're working hard to change the American dream into the European nightmare. They do celebrate more dependence on the government. Give Bernie Sanders credit. At least he's honest enough to call himself a socialist. Barack Obama, Hillary Clinton, they're no better. If we were to expand Medicaid, for every uninsured person we would cover, we'd kick more than one person out of private insurance or remove their opportunity to get private insurance. We're going to have too many people in the cart rather than pulling the cart. This isn't free money. I know some people like to say, \"well, this is free money.\" We pay federal taxes. We are borrowing money from China today. Yesterday, the president stunningly admitted this. He said, \"we don't have leverage with China to get a better deal on Iran because we need them to lend us money to continue operating our government.\" The president of the United States admitting that he's weakening our government's position, our foreign policy standing, because he can't control spending in D.C.. There is a better way to provide health care. The Oregon study showed this. Simply expanding Medicaid does not improve health care outcomes. In Louisiana, instead we're helping people getting better paying jobs so they can provide for their own health care. ",
+          " Well, a couple of things. Planned Parenthood had better hope that Hillary Clinton wins this election, because I guarantee under President Jindal, January 2017, the Department of Justice and the IRS and everybody else that we can send from the federal government will be going in to Planned Parenthood. This is absolutely disgusting, and revolts the conscience of the nation. Absolutely, we need to defund Planned Parenthood. In my own state, for example, we launched an investigation, asked the FBI to cooperate. We just, earlier this week, kicked them out of Medicaid in Louisiana as well, canceled their provider contract. They don't provide any abortions in Louisiana. But in terms of shutting down the government, I don't think President Obama should choose to shut down the government simply to send taxpayer dollars to this group that has been caught, I believe, breaking the law, but also offending our values and our ethics. It is time for Republicans in D.C. to fight. Too often, they give up, they negotiate with themselves. They said they would get rid of the unconstitutional amnesty. They didn't do that. They said they would repeal Obamacare if we gave them the majority. They didn't do that either. They said they'd shrink and balance the budget. They haven't done that. Absolutely, they should fight to fund -- defund Planned Parenthood, and I don't think the president should shut down the government simply to send our taxpayer dollars to this group. Mac"
+        ],
+        "bernie sanders": [
+          " Well, this goes to the question you were just asking. Look, under President Obama and Secretary Clinton, they're working hard to change the American dream into the European nightmare. They do celebrate more dependence on the government. Give Bernie Sanders credit. At least he's honest enough to call himself a socialist. Barack Obama, Hillary Clinton, they're no better. If we were to expand Medicaid, for every uninsured person we would cover, we'd kick more than one person out of private insurance or remove their opportunity to get private insurance. We're going to have too many people in the cart rather than pulling the cart. This isn't free money. I know some people like to say, \"well, this is free money.\" We pay federal taxes. We are borrowing money from China today. Yesterday, the president stunningly admitted this. He said, \"we don't have leverage with China to get a better deal on Iran because we need them to lend us money to continue operating our government.\" The president of the United States admitting that he's weakening our government's position, our foreign policy standing, because he can't control spending in D.C.. There is a better way to provide health care. The Oregon study showed this. Simply expanding Medicaid does not improve health care outcomes. In Louisiana, instead we're helping people getting better paying jobs so they can provide for their own health care. "
+        ],
+        "jeb bush": [
+          " You know, we've got a lot of great talkers running for president. We've already got a great talker in the White House. We cannot afford four more years of on the job training. We need a doer, not a talker. We also need a nominee, a candidate who will endorse our own principles. Jeb Bush says we've got to be willing to lose the primary in order to win the general. Let me translate that for you. That's the establishment telling us to hide our conservative principles to get the left and the media to like us. That never works. If we do that again, we will lose again, we will deserve to lose again. One principle, for example, we've got to embrace is on immigration. We must insist on assimilation -- immigration without assimilation is an invasion. We need to tell folks who want to come here, they need to come here legally. They need to learn English, adopt our values, roll up their sleeves and get to work. I'm tired of the hyphenated Americans and the division. I've got the backbone, I've got the band width, I've got the experience to get us through this. I'm asking folks not just to join my campaign, but join a cause. It is time to believe in America again.Mac"
+        ]
+      },
+      "audienceReception": {
+        "applause": [],
+        "laughter": []
+      },
+      "speakingTime": "7.40",
+      "emotionalLines": [
+        " Socialist and government dependent. ",
+        " I'll say this. I don't think anybody should expand Medicaid. I think it was a mistake to expand Medicaid everywhere in Ohio and across the country. ",
+        " Well, first of all, thank you all for having us. You know, I won two record elections. Last time I was elected governor, won a record margin in my state. Martha, we got a lot of politicians that will kiss babies, cut ribbons, do whatever it takes to be popular. That's not why I ran for office. I ran for office to make the generational changes in Louisiana. We've cut 26 percent of our budget. We have 30,000 fewer state bureaucrats than the day I took office. I don't think anybody has cut that much government anywhere, at any time. As a result, eight credit upgrades; as a result, a top ten state for private sector job creation. And we fought for statewide school choice, where the dollars follow the child, instead of the child following the dollars. We've been the most pro-life state six years in a row. My point is this: I won two landslide elections, I made big changes. I think our country is tired of the politicians who simply read the polls and fail to lead. Both Democrats and Republicans have gotten us in the mess we're in -- $18 trillion of debt, a bad deal with Iran, we're not staying with Israel. I think the American people are look for real leadership. That's what I've done in Louisiana, that's what I'll do in America. ",
+        " I don't -- look, I don't think anybody should be expanding Medicaid. I think it's a mistake to create new and more expensive entitlement programs when we can't afford the ones we've got today. We've got to stop this culture of government dependence. ",
+        " Well, a couple of things. Planned Parenthood had better hope that Hillary Clinton wins this election, because I guarantee under President Jindal, January 2017, the Department of Justice and the IRS and everybody else that we can send from the federal government will be going in to Planned Parenthood. This is absolutely disgusting, and revolts the conscience of the nation. Absolutely, we need to defund Planned Parenthood. In my own state, for example, we launched an investigation, asked the FBI to cooperate. We just, earlier this week, kicked them out of Medicaid in Louisiana as well, canceled their provider contract. They don't provide any abortions in Louisiana. But in terms of shutting down the government, I don't think President Obama should choose to shut down the government simply to send taxpayer dollars to this group that has been caught, I believe, breaking the law, but also offending our values and our ethics. It is time for Republicans in D.C. to fight. Too often, they give up, they negotiate with themselves. They said they would get rid of the unconstitutional amnesty. They didn't do that. They said they would repeal Obamacare if we gave them the majority. They didn't do that either. They said they'd shrink and balance the budget. They haven't done that. Absolutely, they should fight to fund -- defund Planned Parenthood, and I don't think the president should shut down the government simply to send our taxpayer dollars to this group. Mac",
+        " To repeal these unconstitutional illegal orders, whether it's amnesty or whether it's this president going around the Congress, whether it's in Obamacare, to restore the rule of law. I'd also go after these sanctuary cities, do everything we can to make sure that we are not -- that we are actually prosecuting and cutting off funding for cities that are harboring illegal aliens, and then finally making sure the IRS is not going after conservative or religious groups. I would sign an executive order protecting religious liberty, our first amendment rights, so Christian business owners and individuals don't face discrimination for having a traditional view of marriage. ",
+        " You know, we've got a lot of great talkers running for president. We've already got a great talker in the White House. We cannot afford four more years of on the job training. We need a doer, not a talker. We also need a nominee, a candidate who will endorse our own principles. Jeb Bush says we've got to be willing to lose the primary in order to win the general. Let me translate that for you. That's the establishment telling us to hide our conservative principles to get the left and the media to like us. That never works. If we do that again, we will lose again, we will deserve to lose again. One principle, for example, we've got to embrace is on immigration. We must insist on assimilation -- immigration without assimilation is an invasion. We need to tell folks who want to come here, they need to come here legally. They need to learn English, adopt our values, roll up their sleeves and get to work. I'm tired of the hyphenated Americans and the division. I've got the backbone, I've got the band width, I've got the experience to get us through this. I'm asking folks not just to join my campaign, but join a cause. It is time to believe in America again.Mac",
+        " Well, to start with, unlike President Obama, I'll actually name the enemy that we confront. We've got a president who cannot bring himself to say the words \"radical Islamic terrorism.\" Now, Bill, he loves to criticize America, apologize for us, criticize medieval Christians. How can we beat an enemy if our commander-in-chief doesn't have the moral honesty and clarity to say that Islam has a problem, and that problem is radical Islam, to say they've got to condemn not generic acts of violence, but the individual murderers who are committing these acts of violence. We've got a president who instead says, we're going to change hearts and minds. Well, you know what? Sometimes you win a war by killing murderous, evil terrorists. We're going to take the political handcuffs off the military. We will arm and train the Kurds. We will work with our Sunni allies. They know we will be committed to victory. We had this failed red line with Assad and it discouraged folks that want to help us on the ground. Finally, we'll take off the political handcuffs. We'll go to the Congress. This president has gone to Congress and said give me a three-year deadline, give me a ban on ground troops. I'm going to go to the commanders and say give me a plan to win. You can't send your troops into harm's way unless you give them every opportunity to be successful. ",
+        " Well, this goes to the question you were just asking. Look, under President Obama and Secretary Clinton, they're working hard to change the American dream into the European nightmare. They do celebrate more dependence on the government. Give Bernie Sanders credit. At least he's honest enough to call himself a socialist. Barack Obama, Hillary Clinton, they're no better. If we were to expand Medicaid, for every uninsured person we would cover, we'd kick more than one person out of private insurance or remove their opportunity to get private insurance. We're going to have too many people in the cart rather than pulling the cart. This isn't free money. I know some people like to say, \"well, this is free money.\" We pay federal taxes. We are borrowing money from China today. Yesterday, the president stunningly admitted this. He said, \"we don't have leverage with China to get a better deal on Iran because we need them to lend us money to continue operating our government.\" The president of the United States admitting that he's weakening our government's position, our foreign policy standing, because he can't control spending in D.C.. There is a better way to provide health care. The Oregon study showed this. Simply expanding Medicaid does not improve health care outcomes. In Louisiana, instead we're helping people getting better paying jobs so they can provide for their own health care. "
+      ],
+      "personalIssues": {
+        "Radical Islam": "0.10",
+        "Religious Liberty": "0.08",
+        "Foreign Policy": "0.05",
+        "Obamacare": "0.04",
+        "Education": "0.00",
+        "Economy": "0.00"
+      },
+      "averageWordUsage": {
+        "got": "0.0177",
+        "don": "0.0122",
+        "think": "0.0122",
+        "government": "0.0136",
+        "president": "0.0109",
+        "going": "0.0095",
+        "They": "0.0136",
+        "need": "0.0095"
       }
     },
-    {
-      "name": "George Pataki",
-      "totalWords": 1371,
-      "speakingTime": 7,
-      "emotionalLines": {
-        "negative": {
-          "score": -7,
-          "comparative": -0.12962962962962962,
-          "line": "That is like shouting\" fire\" in a crowded theater, and that is illegal, and I would do everything in our power not just to go after those who are here who we know who are here, before they can radicalize other Americans to carry out attacks, and it's not just the ones they've arrested."
-        },
-        "positive": {
-          "score": 7,
-          "comparative": 0.1346153846153846,
-          "line": "\" But I knew that good people who wanted to be a part of the American dream have become trapped in dependency because the federal government and the state government had made it in their economic interest not to take a job because the benefits that they did n't work were better."
-        }
-      },
-      "averageWordUsage": {
-        "think": 0.02654867256637168,
-        "years": 0.014749262536873156,
-        "government": 0.017699115044247787,
-        "look": 0.017699115044247787,
-        "today": 0.011799410029498525,
-        "new": 0.04129793510324484,
-        "york": 0.032448377581120944,
-        "people": 0.035398230088495575,
-        "state": 0.032448377581120944,
-        "washington": 0.02064896755162242,
-        "need": 0.02064896755162242,
-        "american": 0.02064896755162242,
-        "just": 0.017699115044247787,
-        "know": 0.014749262536873156,
-        "got": 0.011799410029498525,
-        "destroy": 0.011799410029498525,
-        "place": 0.014749262536873156,
-        "life": 0.014749262536873156,
-        "welfare": 0.011799410029498525,
-        "executive": 0.011799410029498525
-      },
-      "importantWords": {
-        "need": 9.581453659370776,
-        "tax": 7.8283137373023015,
-        "look": 7.66516292749662,
-        "new": 5.42669977575493,
-        "problems": 5.218875824868201,
-        "ready": 5.218875824868201,
-        "think": 5.079441541679836,
-        "state": 4.532476871297972,
-        "yes": 4.407945608651872,
-        "bring": 4.407945608651872,
-        "today": 3.83258146374831,
-        "washington": 3.83258146374831,
-        "people": 3.386294361119891,
-        "years": 3.386294361119891,
-        "york": 2.713349887877465,
-        "means": 2.6094379124341005,
-        "awhile": 2.6094379124341005,
-        "lead": 2.6094379124341005,
-        "wasn": 2.6094379124341005,
-        "congress": 2.6094379124341005
-      },
-      "issueRelevance": {
-        "People Over Politics.": 0.20317766166719345,
-        "We have to fall in love with America again.": 0.06611918412977807,
-        "News & Updates": 0
+    "pataki": {
+      "totalWords": 7223,
+      "uniqueWords": {
+        "total": 700,
+        "mostUnique": [
+          "means",
+          "somebody",
+          "hasn",
+          "career",
+          "politician",
+          "awhile",
+          "last",
+          "eight",
+          "outside",
+          "positive",
+          "thought",
+          "running",
+          "four",
+          "ago",
+          "lead",
+          "wasn",
+          "divided",
+          "politicians",
+          "posturing",
+          "issuing"
+        ]
       },
       "callouts": {
-        "hillary clinton": {
-          "total": 2,
-          "sentiment": -3,
-          "lines": [
-            "You know, Hillary Clinton's always saying how Republicans do n't follow science?",
-            "It is Hillary, it is Biden, it is the others who insist on allowing abortion well into viable ( inaudible ) wrong, and that should be stopped."
-          ]
-        }
+        "hillary clinton": [
+          " My heart has not changed, because I've always been appalled by abortion. I'm a Catholic, I believe life begins at conception. But as Bill said earlier, Roe v. Wade, it's has been the law for 42 years, and I don't think we should continue to try to change it. But we can do is defund Planned Parenthood, and by the way, put in place an absolute permanent ban on any taxpayer dollars ever being used to fund abortions. Also, when you look at these videos, they are horrific and show just a hideous disrespect for life. What else we can do is that we should believe in science. You know, Hillary Clinton's always saying how Republicans don't follow science? Well, they're the ones not listening to the scientists today, because doctors say that at 20 weeks that is a viable life inside the womb. And at that point, it's a life that we have the right to protect, and I think we should protect. So, I would pass legislation outlawing abortion after 20 weeks. It is Hillary, it is Biden, it is the others who insist on allowing abortion well into viable (inaudible) wrong, and that should be stopped. Mac"
+        ]
+      },
+      "audienceReception": {
+        "applause": [],
+        "laughter": []
+      },
+      "speakingTime": "7.18",
+      "emotionalLines": [
+        " Divisive and with no vision. No vision at all.",
+        " No, it should be repealed. And by the way, when I left, there were over 1 million fewer people on welfare in New York state than when I took office... ",
+        " Yes. Mac",
+        " ... replacing dependency with opportunity. ",
+        " Bill, I defeated Mario Cuomo. In the first day in office, my first executive order, I revoked every one of the executive orders that he had -- he had enacted over the prior 12 years. I would do that to Barack Obama's executive orders. But I'd sign a second one, as I did in New York, as well, having a hard hiring freeze on adding new employees except for the military or defense-related positions. I'd sign that executive order. When I left the workforce, New York State had been reduced by over 15 percent. We can do that in Washington. I will do that in Washington. ",
+        " I think he means somebody who hasn't been a career politician, and who's been out of office for awhile. I think the last eight years in the private sector have allowed me to see government from the outside, and I think that is a positive thing. Yes, I thought about running four years ago. I was ready to lead, but I wasn't ready to run. But I look at this country today, and I look at how divided we are, I look at how politicians are always posturing and issuing sound bites but never solving problems. What I did in New York was bring people together, an overwhelmingly Democratic state. But I was able to get Democrats to support the most conservative sweeping policy changes in any state in America. And when I look at Washington today, we need to bring us together. We need to solve problems, we need to rebuild our military so we can stand up to radical Islam, we need to get our economy growing much faster by throwing out the corrupt tax code and lowering the rates. We have to end crony capitalism in Washington, where the lobbyists and the powerful can get tax breaks and tax credits, and the American people don't get laws in their interest. I can do that. And I can do it regardless of what the makeup of Congress is because I did it in New York state. So we need new leadership -- yes. I will be that new leader. Mac",
+        " My heart has not changed, because I've always been appalled by abortion. I'm a Catholic, I believe life begins at conception. But as Bill said earlier, Roe v. Wade, it's has been the law for 42 years, and I don't think we should continue to try to change it. But we can do is defund Planned Parenthood, and by the way, put in place an absolute permanent ban on any taxpayer dollars ever being used to fund abortions. Also, when you look at these videos, they are horrific and show just a hideous disrespect for life. What else we can do is that we should believe in science. You know, Hillary Clinton's always saying how Republicans don't follow science? Well, they're the ones not listening to the scientists today, because doctors say that at 20 weeks that is a viable life inside the womb. And at that point, it's a life that we have the right to protect, and I think we should protect. So, I would pass legislation outlawing abortion after 20 weeks. It is Hillary, it is Biden, it is the others who insist on allowing abortion well into viable (inaudible) wrong, and that should be stopped. Mac",
+        " With all the candidates, why me? My background is different. I look at Washington, and I hear the talk, and I see the promises and it seems nothing ever changes. Washington gets bigger, taxes get higher, and the American people feel more distance from our government. I have the opportunity not just to run, but to win in the deep blue state of New York three times. And not only did I win, but I then worked with a Democratic legislature to put in place the most sweeping conservative reforms of any state in America, taking us from the most dangerous state in America to the fourth safest; reducing our welfare rolls by over 1 million, and replacing over 700,000 private sector jobs. I can govern by bringing people together. And also, I've been tested in a way no one else has. I was governor on September 11th, and I'm proud of my leadership in bringing New York through that time. And when I left, we were stronger, we were safer, and we were more united than at any time in my lifetime. We need to bring people together in Washington. The talk has got to stop, the action has got to begin. People can promise you something, I delivered in the blue state of New York. I will deliver for the American people if I have the privilege of leading this country. ",
+        " I think he is right. I don't think you expand entitlements when so many people are dependent on government and when the money the federal government is offering is going to be taken away from you after just a couple of years. But getting back to Martha's question about how we end dependency, do we have to have a cultural change? The answer is no. And I know this, because when I ran for governor of New York, one in 11 of every man, woman, and child in the state of New York was on welfare. On welfare. Think about that. And people said \"you can't win, you can't change the culture.\" But I knew that good people who wanted to be a part of the American dream have become trapped in dependency because the federal government and the state government had made it in their economic interest not to take a job because the benefits that they didn't work were better. I changed that. We put in place mandatory work fair (ph). But we allowed people to keep health care. We put in place child care support. ",
+        " Martha, religious liberty doesn't include encouraging a fellow American to engage in violent jihad and kill an American here. That is not protected free speech. That is not protected religious belief. That is like shouting \"fire\" in a crowded theater, and that is illegal, and I would do everything in our power not just to go after those who are here who we know who are here, before they can radicalize other Americans to carry out attacks, and it's not just the ones they've arrested. Think back to Garland, Texas. But for that Texas police officer, we could have had a mass murder. We have to shut down their internet capability. We have to shut down, whether or not they're in prisons preaching or on -- in mosques preaching. No radical Islam that is allowed to engage in encouraging violence against Americans, that is not protected speech. Let me just add one thing about ISIS over there. We have got to destroy their training camps and recruiting centers. I was governor of New York on September 11. I know that we are at greater risk today than at any time since then of another attack. We have got to destroy their training camps over there before they can attack us here. I don't agree that we're going to occupy and spend another decade or a trillion dollars. What we need to do is destroy their ability to attack us here over there, and then get out. You know, I have two sons. Both served. One as a marine officer in Iraq, one as an army officer in Afghanistan. I do not see -- want to see one parent or loved one worrying about getting a call in the middle of the night. I would not place one American life at risk unless it was absolutely necessary. But to destroy ISIS, it is necessary. Mac"
+      ],
+      "personalIssues": {
+        "People Over Politics.": "0.20",
+        "We have to fall in love with America again.": "0.07",
+        "News & Updates": "0.00"
+      },
+      "averageWordUsage": {
+        "think": "0.0100",
+        "But": "0.0143",
+        "New": "0.0157",
+        "York": "0.0157",
+        "people": "0.0157",
+        "state": "0.0143",
+        "And": "0.0129",
+        "Washington": "0.0100",
+        "need": "0.0100",
+        "American": "0.0100"
       }
     },
-    {
-      "name": "Rick Santorum",
-      "totalWords": 1712,
-      "speakingTime": 9,
-      "emotionalLines": {
-        "negative": {
-          "score": -4,
-          "comparative": -0.2222222222222222,
-          "line": "I am, but people are upset, and they're upset for a reason about the future of this country."
-        },
-        "positive": {
-          "score": 7,
-          "comparative": 0.12280701754385964,
-          "line": "Iran sanctions -- the Iran sanctions that brought them to the table, those are sanctions that we put in place when I was in the United States Senate, and a whole host of other things that put me in a position of saying, I not only have a great vision, but I can govern effectively in Washington."
-        }
-      },
-      "averageWordUsage": {
-        "got": 0.010554089709762533,
-        "going": 0.044854881266490766,
-        "know": 0.013192612137203167,
-        "years": 0.023746701846965697,
-        "americans": 0.010554089709762533,
-        "washington": 0.026385224274406333,
-        "just": 0.026385224274406333,
-        "looking": 0.013192612137203167,
-        "manufacturing": 0.0158311345646438,
-        "stand": 0.0158311345646438,
-        "reason": 0.0158311345646438,
-        "time": 0.010554089709762533,
-        "things": 0.018469656992084433,
-        "place": 0.010554089709762533,
-        "country": 0.026385224274406333,
-        "laws": 0.0158311345646438,
-        "seven": 0.013192612137203167,
-        "said": 0.021108179419525065,
-        "america": 0.021108179419525065,
-        "people": 0.021108179419525065,
-        "president": 0.013192612137203167,
-        "immigration": 0.018469656992084433,
-        "worker": 0.010554089709762533,
-        "plan": 0.010554089709762533,
-        "actually": 0.013192612137203167,
-        "create": 0.013192612137203167,
-        "jobs": 0.010554089709762533,
-        "make": 0.013192612137203167,
-        "american": 0.018469656992084433,
-        "government": 0.010554089709762533,
-        "welfare": 0.010554089709762533,
-        "passed": 0.013192612137203167,
-        "supreme": 0.018469656992084433,
-        "court": 0.021108179419525065,
-        "like": 0.010554089709762533,
-        "able": 0.010554089709762533,
-        "care": 0.010554089709762533
-      },
-      "importantWords": {
-        "10": 2.252762968495368,
-        "message": 6.758288905486104,
-        "sanctions": 6.758288905486104,
-        "going": 5,
-        "washington": 4.678847363806268,
-        "iran": 4.505525936990736,
-        "stuck": 4.505525936990736,
-        "track": 4.505525936990736,
-        "americans": 3.6945957207744073,
-        "things": 3.6945957207744073,
-        "vision": 3.6945957207744073,
-        "record": 3.6945957207744073,
-        "states": 3.6945957207744073,
-        "looking": 3.1192315758708453,
-        "stand": 3.1192315758708453,
-        "win": 2.252762968495368,
-        "heap": 2.252762968495368,
-        "table": 2.252762968495368,
-        "iowa": 2.252762968495368,
-        "fact": 2.252762968495368
-      },
-      "issueRelevance": {
-        "Immigration Reform That Protects American Workers": 0.3008104722871589,
-        "Fighting for the American worker": 0.16744497097897304,
-        "End the Immoral Spending in Washington": 0.15596157879354228,
-        "Valuing the dignity of every human life": 0.10047419518152348,
-        "Economic Freedom Agenda": 0.07794656549656978,
-        "Common Sense Instead of Common Core": 0,
-        "Fighting for Conservative Values": 0,
-        "Fighting Radical Islam": 0
+    "santorum": {
+      "totalWords": 9122,
+      "uniqueWords": {
+        "total": 779,
+        "mostUnique": [
+          "would",
+          "win",
+          "Iowa",
+          "10",
+          "states",
+          "against",
+          "pretty",
+          "overwhelming",
+          "odds",
+          "deliver",
+          "election",
+          "start",
+          "top",
+          "heap",
+          "behind",
+          "fact",
+          "tired",
+          "corporate",
+          "interests",
+          "interested"
+        ]
       },
       "callouts": {
-        "hillary clinton": {
-          "total": 1,
-          "sentiment": 0,
-          "lines": [
-            "You're looking at the -- at the man who introduced and fought on the floor as a freshman senator and passed the Welfare Reform Act of 1996 over two President Clinton vetoes."
-          ]
-        },
-        "lincoln chafee": {
-          "total": 1,
-          "sentiment": 0,
-          "lines": [
-            "It is not any more than Dred Scott was settled law to Abraham Lincoln, who, in his first inaugural address, said\" it wo n't stand."
-          ]
-        },
-        "donald trump": {
-          "total": 1,
-          "sentiment": 0,
-          "lines": [
-            "Donald Trump actually seized on it when he talked about immigration."
-          ]
-        }
+        "donald trump": [
+          " I'll tell you how optimistic I am about America. Karen and I have seven children. You don't have seven children and bring them into this world if you're not optimistic about the future of this country. I am, but people are upset, and they're upset for a reason about the future of this country. Donald Trump actually seized on it when he talked about immigration. And I think the reason he did is because immigration is sort of an example of what's broken and what's wrong in Washington, D..C. You see, you have one side, the Democrats, and with immigration, all they care about is votes. They don't care about American workers, they just care about bringing as many people in so they can get as many votes as they can. ON the other side, you have so many Republicans, and what do they care about? Helping business make profits. There's nobody out there looking out for the American worker. I'm looking out for the American worker. I'm the only one on this stage who has a plan that's actually reduced -- actually going to reduce immigration. Actually going to do something to help the American worker. And you combine that with a plan to make manufacturing -- this country number one in manufacturing, you've got someone who's going to help revitalize and give hope to America, the place -- the place is that is the most hopeless today. That's why I ask for your support for president. "
+        ]
+      },
+      "audienceReception": {
+        "applause": [],
+        "laughter": []
+      },
+      "speakingTime": "8.95",
+      "emotionalLines": [
+        " It is not any more than Dred Scott was settled law to Abraham Lincoln, who, in his first inaugural address, said \"it won't stand.\" And they went ahead and passed laws in direct contravention to a rogue Supreme Court. This is a rogue Supreme Court decision, just like Justice Roberts said. There is no constitutional basis for the Supreme Court's decision, and I know something about this. The -- one of the times the Supreme Court spoke that I thought they were acting outside of their authority was in a partial-birth abortion case. You know, these Planned Parenthood tapes, what they're showing are partial-birth abortions. Abortions being done where the baby's being delivered first, to preserve those organs, and then they crush the skull. Well, the Supreme Court found a bill that I was the author of unconstitutional. What did I do? I didn't stop. I didn't say \"oh, well we lost. It's the law of the land.\" We worked together. The House and Senate, under my leadership, and we passed a bill, and we said, \"Supreme Court, you're wrong.\" We're a coequal branch of the government. We have every right to be able to stand up and say what is constitutional. We passed a bill, bipartisan support, and the Supreme Court, they -- they sided with us. Sometimes it just takes someone to lead and stand up to the court. ",
+        " Just ditto to that. We're going to suspend -- I've -- I've said this for four years. We're going to suspend and repeal every executive order, every regulation that cost American jobs and is -- is -- is impacting our freedom. And second, the First Amendment Defense Act, which is protecting religious liberty, if it's not passed by then, which I suspect it won't, because the president will veto it, I will institute an executive order to make sure that people of faith are not being -- not being harassed and persecuted by the federal government for standing up for the religious beliefs. ",
+        " I think it's -- yeah, I think it's a one-two punch. Number one, we have to create better paying jobs. I mean, that's just the bottom line. We haven't. And that's the reason that I've said under my presidency, we'll create jobs and make American the number one manufacturing country in the world. If we want to create jobs for the folks that you're talking about, who are having trouble getting off government benefits, primarily because of their low skill level, there is no better way -- it's worked for 100 years in America -- putting people back to work in manufacturing is it. I'm going to be introducing a plan which I call the 2020 Perfect Vision for America. It's a 20 percent flat rate tax, it'll take a blowtorch to the -- to the IRS. It will create a manufacturing juggernaut in this country. And you combine that with reforms of our welfare system. You're looking at the -- at the man who introduced and fought on the floor as a freshman senator and passed the Welfare Reform Act of 1996 over two President Clinton vetoes. Got 70 votes in the United States Senate. Bipartisan issue. And I ended a federal entitlement. Never been done before, never been done since. What we need to do is take the rest of the federal entitlements, not just welfare, but food stamps and Medicaid and housing programs and do the same thing we did with welfare. Work requirements and time limits. That will change everything. Mac",
+        " I came to Washington, D.C. in 1990. That sounds like a long time ago. It was. It was 25 years ago, and I came by defeating the Democratic incumbent. I came as a reformer. I started the Gang of Seven, and it led to the overtaking of the 40-year Democratic rule of Congress, because I didn't -- I stood up to the old-boy network in Washington, D.C. because I believed that Washington was not the solution, that Washington was the problem, just like Ronald Reagan said. I was a child of Ronald Reagan. And I went there, and for 16 years, I fought the insiders and was able to get things done. That's the difference. We need to elect someone who will stand with the American people, who understands its greatness, who understands what an open economy and freedom is all about, but at the same time, has a record of being able to get things done in Washington like we've never seen before. Reforms, everything from moral and cultural issues to economic issues. Those of you health savings accounts. Health savings accounts are something that we introduced. It's a private-sector solution that believes in freedom, not Obamacare that believes in government control. Those are the things we brought, and we were able to get things done. If you want someone who's not going to divide Washington, but gets things done, then you should make me your president. ",
+        " I'll tell you how optimistic I am about America. Karen and I have seven children. You don't have seven children and bring them into this world if you're not optimistic about the future of this country. I am, but people are upset, and they're upset for a reason about the future of this country. Donald Trump actually seized on it when he talked about immigration. And I think the reason he did is because immigration is sort of an example of what's broken and what's wrong in Washington, D..C. You see, you have one side, the Democrats, and with immigration, all they care about is votes. They don't care about American workers, they just care about bringing as many people in so they can get as many votes as they can. ON the other side, you have so many Republicans, and what do they care about? Helping business make profits. There's nobody out there looking out for the American worker. I'm looking out for the American worker. I'm the only one on this stage who has a plan that's actually reduced -- actually going to reduce immigration. Actually going to do something to help the American worker. And you combine that with a plan to make manufacturing -- this country number one in manufacturing, you've got someone who's going to help revitalize and give hope to America, the place -- the place is that is the most hopeless today. That's why I ask for your support for president. ",
+        " I would say the message that got us the win in Iowa and 10 other states against pretty overwhelming odds, is the message that's going to deliver us in this election.You know, we didn't start out four years ago at the top of the heap. We were behind where we were today. But we stuck to our message. We stuck to the fact that Americans are tired of Washington corporate interests and Democrats who are interested in just politics and power and they're looking for someone who's going to fight for them; looking for someone who's going to grow manufacturing sector of our economy, so those 74 percent of Americans who don't have a college degree have a chance to rise again. Someone who's going to stand up, and be very clear with our enemies as to the lines their going to draw and stand with them. I've got a track record. The reason I did so well last time is not just because of the vision, it's because I have a track record in Washington, D.C. of getting things done. Iran sanctions -- the Iran sanctions that brought them to the table, those are sanctions that we put in place when I was in the United States Senate, and a whole host of other things that put me in a position of saying, I not only have a great vision, but I can govern effectively in Washington.",
+        " My father was born in Italy, and shortly after he was born my grandfather immigrated to this country. And under the laws of this country, he wasn't allowed to be with his father for seven years. Spent the first seven years of his life in Fascist Italy, under Benito Mussolini. Not a very pleasant place to be. I asked my dad after -- obviously, when I found out about this. And I said, \"Didn't you resent America for not letting you be with your father in those formative and very threatening years?\" You know what he said to me? \"America was worth the wait.\" We're a country of laws, Bill. We're a country of laws, not of men, not of people who do whatever they want to do. I know we have a president who wants to do whatever he wants to do, and take his pen and his phone and just tell everybody what he thinks is best. But the reason America is a great country, the reason is because our compassion is in our laws. And when we live by those laws and we treat everybody equally under the law, that's when people feel good about being Americans. And I put forth an immigration policy that is as strong in favor of the folks who are struggling in America the most than anybody else. It's the strongest pro-worker immigration plan. It says that after 35 million people have come here over the last 20 years, almost all of whom are unskilled workers, flattening wages, creating horrible opportunity -- a lack of opportunities for unskilled workers, we're going to do something about reducing the level of immigration by 25 percent. We're going to be tough at the border, we're going to be tough on all of the illegal immigrants that everybody else in this field -- we're going to be different. We're going to be actually out there trying to create a better life for hard-working Americans. "
+      ],
+      "personalIssues": {
+        "Immigration Reform That Protects American Workers": "0.30",
+        "Fighting for the American worker": "0.17",
+        "End the Immoral Spending in Washington": "0.16",
+        "Valuing the dignity of every human life": "0.10",
+        "Economic Freedom Agenda": "0.08",
+        "Common Sense Instead of Common Core": "0.00",
+        "Fighting for Conservative Values": "0.00",
+        "Fighting Radical Islam": "0.00"
+      },
+      "averageWordUsage": {
+        "going": "0.0218",
+        "years": "0.0116",
+        "Washington": "0.0128",
+        "just": "0.0116",
+        "country": "0.0128",
+        "And": "0.0154",
+        "said": "0.0103",
+        "America": "0.0103",
+        "people": "0.0103"
       }
     }
-  ]
+  }
 }

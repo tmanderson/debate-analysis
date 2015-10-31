@@ -1,882 +1,690 @@
 {
   "name": "Republican  Candidates Debate #2",
-  "estimatedLength": 59,
-  "totalWordsSpoken": 11384,
-  "mostUniqueWords": [
-    "wins",
-    "quite",
-    "bit",
-    "discussing",
-    "leverage",
-    "plenty",
-    "challenged",
-    "correctness",
-    "oftentimes",
-    "fun",
-    "kidding",
-    "honestly",
-    "sorry",
-    "quickness",
-    "announcement",
-    "reporters",
-    "dishonest",
-    "generally",
-    "speaking",
-    "cover",
-    "statement",
-    "killings",
-    "murders",
-    "crime",
-    "pouring",
-    "quickly",
-    "beautiful",
-    "door",
-    "mexican",
-    "smarter",
-    "sharper",
-    "cunning",
-    "complete",
-    "july",
-    "2004",
-    "strongly",
-    "destabilize",
-    "knew",
-    "vision",
-    "destabilized"
-  ],
-  "candidates": [
-    {
-      "name": "Jeb Bush",
-      "totalWords": 1550,
-      "speakingTime": 8,
-      "emotionalLines": {
-        "negative": {
-          "score": -6,
-          "comparative": -0.24,
-          "line": "And, every one of them said that their child did not die in vain, or their wife, of their husband did not die in vain."
-        },
-        "positive": {
-          "score": 8,
-          "comparative": 0.6153846153846154,
-          "line": "We're going to win when we unite people with a hopeful, optimistic message."
-        }
-      },
-      "averageWordUsage": {
-        "win": 0.013054830287206266,
-        "florida": 0.015665796344647518,
-        "billion": 0.010443864229765013,
-        "states": 0.013054830287206266,
-        "applause": 0.010443864229765013,
-        "million": 0.010443864229765013,
-        "created": 0.013054830287206266,
-        "left": 0.015665796344647518,
-        "state": 0.015665796344647518,
-        "way": 0.013054830287206266,
-        "people": 0.03655352480417755,
-        "believe": 0.010443864229765013,
-        "want": 0.013054830287206266,
-        "need": 0.02349869451697128,
-        "country": 0.02610966057441253,
-        "barack": 0.010443864229765013,
-        "obama": 0.010443864229765013,
-        "president": 0.013054830287206266,
-        "high": 0.015665796344647518,
-        "economic": 0.013054830287206266,
-        "growth": 0.010443864229765013,
-        "things": 0.010443864229765013,
-        "time": 0.010443864229765013,
-        "standards": 0.013054830287206266,
-        "percent": 0.010443864229765013,
-        "today": 0.010443864229765013,
-        "world": 0.013054830287206266,
-        "going": 0.015665796344647518
-      },
-      "importantWords": {
-        "run": 8.114244276715276,
-        "billion": 6.897848952390782,
-        "budget": 5.4094961844768505,
-        "reserves": 5.4094961844768505,
-        "proud": 5.4094961844768505,
-        "gonna": 4.598565968260521,
-        "conservative": 4.598565968260521,
-        "went": 4.598565968260521,
-        "called": 4.598565968260521,
-        "state": 3.5769147207285403,
-        "florida": 3.5769147207285403,
-        "applause": 2.9039702474861144,
-        "certainly": 2.7047480922384253,
-        "brother": 2.7047480922384253,
-        "purple": 2.7047480922384253,
-        "jeb": 2.7047480922384253,
-        "bar": 2.7047480922384253,
-        "year": 2.7047480922384253,
-        "totaling": 2.7047480922384253,
-        "barrier": 2.7047480922384253
-      },
-      "issueRelevance": {
-        "Defeating ISIS": 0.0540949618447685,
-        "Additional Materials On This Policy:": 0
+  "estimatedLength": 0,
+  "totalWordsSpoken": 0,
+  "mostUniqueWords": [],
+  "candidates": {
+    "bush": {
+      "totalWords": 8308,
+      "uniqueWords": {
+        "total": 692,
+        "mostUnique": [
+          "Absolutely",
+          "heart",
+          "earn",
+          "Maybe",
+          "barrier",
+          "bar",
+          "record",
+          "dad",
+          "certainly",
+          "brother",
+          "In",
+          "Jeb",
+          "year",
+          "totaling",
+          "balanced",
+          "9",
+          "keep",
+          "Veto",
+          "Corleone",
+          "vetoed"
+        ]
       },
       "callouts": {
-        "jeb bush": {
-          "total": 1,
-          "sentiment": 0,
-          "lines": [
-            "In Florida, they called me Jeb, because I earned it."
-          ]
-        },
-        "hillary clinton": {
-          "total": 2,
-          "sentiment": 4,
-          "lines": [
-            "This president and Hillary Clinton, who ca n't even say she's for the XL pipeline even after she's left?",
-            "We're not going on win by doing what Barack Obama and Hillary Clinton do each and every day."
-          ]
-        },
-        "donald trump": {
-          "total": 1,
-          "sentiment": 0,
-          "lines": [
-            "But I have said that Mr. Trump's language is divisive."
-          ]
-        }
+        "hillary clinton": [
+          " We've done it 27 times since World War II. I think we need to lift our spirits and have high, lofty expectations for this great country of ours. The new normal of two percent that the left is saying you can't do anything about is so dangerous for our country. There's 6 million people living in poverty today, more than when Barack Obama got elected. 6.5 million people are working part-time, most of whom want to work full-time. We've created rules and taxes on top of every aspiration of people, and the net result is we're not growing fast, income's not growing. A four percent growth strategy means you fix a convoluted tax code. You get in and you change every aspect of regulations that are job killers. You get rid of Obamacare and replace it with something that doesn't suppress wages and kill jobs. [applause] You embrace the energy revolution in our country. This president and Hillary Clinton, who can't even say she's for the XL pipeline even after she's left? Give me a break. Of course we're for it. We should be for these things to create high sustained economic growth. And frankly, [timer sounds] fixing our immigration system and turning it into an economic driver is part of this as well. We can do this. [applause] ",
+          " No. It's not true. But I have said that Mr. Trump's language is divisive. I want to win. I want one of these people here or the ones at 5:00, to be the next president of the United States. We're not going on win by doing what Barack Obama and Hillary Clinton do each and every day. Dividing the country. Saying, creating a grievance kind of environment. We're going to win when we unite people with a hopeful, optimistic message. I have that message because I was a governor of a state that saw people lifted up, because we had high sustained economic growth. Our economy grew at double the rate of the nation. We created 1.3 million jobs. We led the nation seven out of those eight years. We were only one of two states that went to AAA bond rating. I cut taxes, $19 billion. If you do that and apply conservative principles the right way, you create an environment where everybody rises up. That's how we're going to win. Campaigning in places to give people hope that their life is better because too many people are suffering today in America. "
+        ]
+      },
+      "audienceReception": {
+        "applause": [
+          " Absolutely, I do, and I'm gonna run hard, run with heart, and run to win. I'm gonna have to earn this. Maybe the barrier -- the bar's even higher for me. That's fine. I've got a record in Florida. I'm proud of my dad, and I'm certainly proud of my brother. In Florida, they called me Jeb, because I earned it. I cut taxes every year, totaling $19 billion. We were -- we had -- we balanced every budget. We went from $1 billion of reserves to $9 billion of reserves. We were one of two states that went to AAA bond rating. They keep -- they called me Veto Corleone. Because I vetoed 2,500 separate line-items in the budget. [applause] I am my own man. I governed as a conservative, and I govern effectively. And the net effect was, during my eight years, 1.3 million jobs were created. We left the state better off because I applied conservative principles in a purple state the right way, and people rose up. [applause] ",
+          " I do. I believe that the great majority of people coming here illegally have no other option. They want to provide for their family. But we need to control our border. It's not -- it's our responsibility to pick and choose who comes in. So I -- I've written a book about this and yet this week, I did come up with a comprehensive strategy that -- that really mirrored what we said in the book, which is that we need to deal with E-Verify, we need to deal with people that come with a legal visa and overstay. We need to be much more strategic on how we deal with border enforcement, border security. We need to eliminate the sanctuary cities in this country. It is ridiculous and tragic...[applause]...that people are dying because of the fact that -- that local governments are not following the federal law. There's much to do. And I think rather than talking about this as a wedge issue, which Barack Obama has done now for six long years, the next president -- and I hope to be that president -- will fix this once and for all so that we can turn this into a driver for high sustained economic growth. And there should be a path to earned legal status...[timer sounds] ...for those that are here. Not -- not amnesty, earned legal status, which means you pay a fine and do many things over an extended period of time. ",
+          " Knowing what we know now, with faulty intelligence, and not having security be the first priority when -- when we invaded, it was a mistake. I wouldn't have gone in, however, for the people that did lose their lives, and the families that suffer because of it -- I know this full well because as governor of the state of Florida, I called every one of them. Every one of them that I could find to tell them that I was praying for them, that I cared about them, and it was really hard to do. And, every one of them said that their child did not die in vain, or their wife, of their husband did not die in vain. So, why it was difficult for me to do it was based on that. Here's the lesson that we should take from this, which relates to this whole subject. Barack Obama became president, and he abandoned Iraq. He left, and when he left Al Qaida was done for. ISIS was created because [timer sounds] of the void that we left, and that void now exists as a caliphate the size of Indiana. To honor the people that died, we need to -- we need to --- stop the -- Iran agreement, for sure, because the Iranian mullahs have their blood on their hands, and we need to take out ISIS with every tool at our disposal. [applause] ",
+          " No, I don't. And I don't believe the federal government should be involved in the creation of standards directly or indirectly, the creation of curriculum or content. It is clearly a state responsibility. I'm for higher standards... [applause] ...measured in an intellectually honest way, with abundant school choice, ending social promotion. And I know how to do this because as governor of the state of Florida I created the first statewide voucher program in the country, the second statewide voucher program, in the country and the third statewide voucher program in the country. And we had rising student achievement across the board, because high standards, robust accountability, ending social promotion in third grade, real school choice across the board, challenging the teachers union and beating them is the way to go. And Florida's low income kids had the greatest gains inside the country. Our graduation rate improved by 50 percent. That's what I'm for. ",
+          " He is definitely my friend. And I think the states ought to create these standards. And if states want to opt out of Common Core, fine. Just make sure your standards are high. Because today in America, a third of our kids, after we spend more per student than any country in the world other than a couple rounding errors, to be honest with you, 30 percent are college- and/or career-ready. If we are going to compete in this world we're in today, there is no possible way we can do it with lowering expectations and dumbing down everything. Children are going to suffer and families' hearts are going to be broken that their kids won't be able to get a job in the 21st Century. [applause] ",
+          " We've done it 27 times since World War II. I think we need to lift our spirits and have high, lofty expectations for this great country of ours. The new normal of two percent that the left is saying you can't do anything about is so dangerous for our country. There's 6 million people living in poverty today, more than when Barack Obama got elected. 6.5 million people are working part-time, most of whom want to work full-time. We've created rules and taxes on top of every aspiration of people, and the net result is we're not growing fast, income's not growing. A four percent growth strategy means you fix a convoluted tax code. You get in and you change every aspect of regulations that are job killers. You get rid of Obamacare and replace it with something that doesn't suppress wages and kill jobs. [applause] You embrace the energy revolution in our country. This president and Hillary Clinton, who can't even say she's for the XL pipeline even after she's left? Give me a break. Of course we're for it. We should be for these things to create high sustained economic growth. And frankly, [timer sounds] fixing our immigration system and turning it into an economic driver is part of this as well. We can do this. [applause] "
+        ],
+        "laughter": [
+          " ...I remember, Megyn. [laughter] "
+        ]
+      },
+      "speakingTime": "8.14",
+      "emotionalLines": [
+        " ...I remember... ",
+        " ...I remember, Megyn. [laughter] ",
+        " He is definitely my friend. And I think the states ought to create these standards. And if states want to opt out of Common Core, fine. Just make sure your standards are high. Because today in America, a third of our kids, after we spend more per student than any country in the world other than a couple rounding errors, to be honest with you, 30 percent are college- and/or career-ready. If we are going to compete in this world we're in today, there is no possible way we can do it with lowering expectations and dumbing down everything. Children are going to suffer and families' hearts are going to be broken that their kids won't be able to get a job in the 21st Century. [applause] ",
+        " None of which is true. ",
+        " I do. I believe that the great majority of people coming here illegally have no other option. They want to provide for their family. But we need to control our border. It's not -- it's our responsibility to pick and choose who comes in. So I -- I've written a book about this and yet this week, I did come up with a comprehensive strategy that -- that really mirrored what we said in the book, which is that we need to deal with E-Verify, we need to deal with people that come with a legal visa and overstay. We need to be much more strategic on how we deal with border enforcement, border security. We need to eliminate the sanctuary cities in this country. It is ridiculous and tragic...[applause]...that people are dying because of the fact that -- that local governments are not following the federal law. There's much to do. And I think rather than talking about this as a wedge issue, which Barack Obama has done now for six long years, the next president -- and I hope to be that president -- will fix this once and for all so that we can turn this into a driver for high sustained economic growth. And there should be a path to earned legal status...[timer sounds] ...for those that are here. Not -- not amnesty, earned legal status, which means you pay a fine and do many things over an extended period of time. ",
+        " Here's what I believe. I believe we're at the verge of the greatest time to be alive in this world. But Washington is holding us back. How we tax, how we regulate. We're not embracing the energy revolution in our midst, a broken immigration system that has been politicized rather than turning it into an economic driver. We're not protecting and preserving our entitlement system or reforming for the next generation. All these things languish while we have politicians in Washington using these as wedge issues. Here's my commitment to you, because I did it as Florida. We can fix these things. We can grow economically and restore America's leadership in the world, so that everybody has a chance to rise up. I humbly ask for your vote, whenever you're gonna get to vote, whenever the primary is. Thank you all very much. ",
+        " We've done it 27 times since World War II. I think we need to lift our spirits and have high, lofty expectations for this great country of ours. The new normal of two percent that the left is saying you can't do anything about is so dangerous for our country. There's 6 million people living in poverty today, more than when Barack Obama got elected. 6.5 million people are working part-time, most of whom want to work full-time. We've created rules and taxes on top of every aspiration of people, and the net result is we're not growing fast, income's not growing. A four percent growth strategy means you fix a convoluted tax code. You get in and you change every aspect of regulations that are job killers. You get rid of Obamacare and replace it with something that doesn't suppress wages and kill jobs. [applause] You embrace the energy revolution in our country. This president and Hillary Clinton, who can't even say she's for the XL pipeline even after she's left? Give me a break. Of course we're for it. We should be for these things to create high sustained economic growth. And frankly, [timer sounds] fixing our immigration system and turning it into an economic driver is part of this as well. We can do this. [applause] ",
+        " Knowing what we know now, with faulty intelligence, and not having security be the first priority when -- when we invaded, it was a mistake. I wouldn't have gone in, however, for the people that did lose their lives, and the families that suffer because of it -- I know this full well because as governor of the state of Florida, I called every one of them. Every one of them that I could find to tell them that I was praying for them, that I cared about them, and it was really hard to do. And, every one of them said that their child did not die in vain, or their wife, of their husband did not die in vain. So, why it was difficult for me to do it was based on that. Here's the lesson that we should take from this, which relates to this whole subject. Barack Obama became president, and he abandoned Iraq. He left, and when he left Al Qaida was done for. ISIS was created because [timer sounds] of the void that we left, and that void now exists as a caliphate the size of Indiana. To honor the people that died, we need to -- we need to --- stop the -- Iran agreement, for sure, because the Iranian mullahs have their blood on their hands, and we need to take out ISIS with every tool at our disposal. [applause] ",
+        " No, I don't. And I don't believe the federal government should be involved in the creation of standards directly or indirectly, the creation of curriculum or content. It is clearly a state responsibility. I'm for higher standards... [applause] ...measured in an intellectually honest way, with abundant school choice, ending social promotion. And I know how to do this because as governor of the state of Florida I created the first statewide voucher program in the country, the second statewide voucher program, in the country and the third statewide voucher program in the country. And we had rising student achievement across the board, because high standards, robust accountability, ending social promotion in third grade, real school choice across the board, challenging the teachers union and beating them is the way to go. And Florida's low income kids had the greatest gains inside the country. Our graduation rate improved by 50 percent. That's what I'm for. ",
+        " Absolutely, I do, and I'm gonna run hard, run with heart, and run to win. I'm gonna have to earn this. Maybe the barrier -- the bar's even higher for me. That's fine. I've got a record in Florida. I'm proud of my dad, and I'm certainly proud of my brother. In Florida, they called me Jeb, because I earned it. I cut taxes every year, totaling $19 billion. We were -- we had -- we balanced every budget. We went from $1 billion of reserves to $9 billion of reserves. We were one of two states that went to AAA bond rating. They keep -- they called me Veto Corleone. Because I vetoed 2,500 separate line-items in the budget. [applause] I am my own man. I governed as a conservative, and I govern effectively. And the net effect was, during my eight years, 1.3 million jobs were created. We left the state better off because I applied conservative principles in a purple state the right way, and people rose up. [applause] ",
+        " No. It's not true. But I have said that Mr. Trump's language is divisive. I want to win. I want one of these people here or the ones at 5:00, to be the next president of the United States. We're not going on win by doing what Barack Obama and Hillary Clinton do each and every day. Dividing the country. Saying, creating a grievance kind of environment. We're going to win when we unite people with a hopeful, optimistic message. I have that message because I was a governor of a state that saw people lifted up, because we had high sustained economic growth. Our economy grew at double the rate of the nation. We created 1.3 million jobs. We led the nation seven out of those eight years. We were only one of two states that went to AAA bond rating. I cut taxes, $19 billion. If you do that and apply conservative principles the right way, you create an environment where everybody rises up. That's how we're going to win. Campaigning in places to give people hope that their life is better because too many people are suffering today in America. "
+      ],
+      "personalIssues": {
+        "Defeating ISIS": "0.05",
+        "Additional Materials On This Policy:": "0.00"
+      },
+      "averageWordUsage": {
+        "applause": "0.0116",
+        "And": "0.0159",
+        "people": "0.0202",
+        "need": "0.0130",
+        "country": "0.0145"
       }
     },
-    {
-      "name": "Ben Carson",
-      "totalWords": 1162,
-      "speakingTime": 6,
-      "emotionalLines": {
-        "negative": {
-          "score": -6,
-          "comparative": -0.1111111111111111,
-          "line": "If I was trying to destroy this country, what I would do is find a way to drive wedges between all the people, drive the debt to an unsustainable level, and then step off the stage as a world leader and let our enemies increase while we decreased our capacity as a military person."
-        },
-        "positive": {
-          "score": 6,
-          "comparative": 0.15789473684210525,
-          "line": "[ laughter ] But I -- but I'm very hopeful that I'm not the only one who's willing to pick up the baton of freedom, because freedom is not free, and we must fight for it every day."
-        }
+    "carson": {
+      "totalWords": 6040,
+      "uniqueWords": {
+        "total": 514,
+        "mostUnique": [
+          "could",
+          "issue",
+          "debate",
+          "here",
+          "tonight",
+          "opportunity",
+          "explore",
+          "areas",
+          "looking",
+          "forward",
+          "demonstrating",
+          "probably",
+          "most",
+          "important",
+          "having",
+          "figure",
+          "learn",
+          "rapidly",
+          "experience",
+          "from"
+        ]
+      },
+      "callouts": {},
+      "audienceReception": {
+        "applause": [
+          " Well, thank you, Megyn, I wasn't sure I was going to get to talk again. [applause] ",
+          " Alright. You know, what we do in order to get the information that we need is our business, and I wouldn't necessarily be broadcasting what we're going to do. [applause] We. . .uh. . .we've gotten into this -- this mindset of fighting politically correct wars. There is no such thing as a politically correct war. [applause] And, the left, of course, will say Carson doesn't believe in the Geneva Convention. Carson doesn't believe in fighting stupid wars. And -- and what we have to remember is we want to utilize the tremendous intellect that we have in the military to win wars. And I've talked to a lot of the generals, a lot of our advanced people. And believe me, if we gave them the mission, which is what the commander-in-chief does, they would be able to carry it out. And if we don't tie their hands behind their back, they will do it...[timer sounds]...extremely effectively. [applause] ",
+          " If Hillary is the candidate, which I doubt, that would be a dream come true. [laughter] But you know, the fact of the matter is, she is the epitome of the progressive -- the secular progressive movement. And she counts on the fact that people are uninformed, the Alinsky Model, taking advantage of useful idiots. Well, I just happen to believe that people are not stupid. [applause] And the way I will come at it is to educate people, help people to actually understand that it is that progressive movement that is causing them the problems. You know, you look at the -- the national debt and how it's being driven up. If I was trying to destroy this country, what I would do is find a way to drive wedges between all the people, drive the debt to an unsustainable level, and then step off the stage as a world leader and let our enemies increase while we decreased our capacity as a military person. And that's what she's doing. [applause] ",
+          " Well, what we have to stop and think about is that we have weakened ourselves militarily to such an extent that if affects all of our military policies. Our Navy is at its smallest size since 1917; our Air Force, since 1940. In recent testimony, the commandant of the Marine Corps said half of the non-deployed units were not ready and you know, the sequester is cutting the heart out of our personnel. Our generals are retiring because they don't want to be part of this, and at the same time, our enemies are increasing. Our -- our friends can't trust us anymore. You know, Ukraine was a nuclear-armed state. They gave away their nuclear arms with the understanding that we would protect them. We won't even give them offensive weapons. You know, we turned our back on Israel, our ally. You know, in a situation like that, of course Obama's not going to be able to do anything. I would shore up our military first, because if you don't get the military right, nothing else is going to work. [applause] ",
+          " Well, I think the bully pulpit is a wonderful place to start healing that divide. You know, we have the purveyors of hatred who take every single incident between people of two races and try to make a race war out of it, and drive wedges into people. And this does not need to be done. What we need to think about instead -- you know, I was asked by an NPR reporter once, why don't I talk about race that often. I said it's because I'm a neurosurgeon. And she thought that was a strange response. And you say -- I said, you see, when I take someone to the operating room, I'm actually operating on the thing that makes them who they are. The skin doesn't make them who they are. The hair doesn't make them who they are. And it's time for us to move beyond that. [applause] Because...[applause]...our strength as a nation comes in our unity. We are the United States of America, not the divided states. And those who want to destroy us are trying to divide us, and we shouldn't let them do it. [applause] ",
+          " Well, I haven't said anything about me being the only one to do anything, so let me try that. I'm the only one to separate Siamese twins...[laughter] The -- the only one to operate on babies while they were still in mother's womb, the only one to take out half of a brain, although you would think, if you go to Washington, that someone had beat me to it. [laughter] But I -- but I'm very hopeful that I'm not the only one who's willing to pick up the baton of freedom, because freedom is not free, and we must fight for it every day. Every one of us must fight for it, because we're fighting for our children and the next generation. [applause] "
+        ],
+        "laughter": [
+          " If Hillary is the candidate, which I doubt, that would be a dream come true. [laughter] But you know, the fact of the matter is, she is the epitome of the progressive -- the secular progressive movement. And she counts on the fact that people are uninformed, the Alinsky Model, taking advantage of useful idiots. Well, I just happen to believe that people are not stupid. [applause] And the way I will come at it is to educate people, help people to actually understand that it is that progressive movement that is causing them the problems. You know, you look at the -- the national debt and how it's being driven up. If I was trying to destroy this country, what I would do is find a way to drive wedges between all the people, drive the debt to an unsustainable level, and then step off the stage as a world leader and let our enemies increase while we decreased our capacity as a military person. And that's what she's doing. [applause] ",
+          " Well, I haven't said anything about me being the only one to do anything, so let me try that. I'm the only one to separate Siamese twins...[laughter] The -- the only one to operate on babies while they were still in mother's womb, the only one to take out half of a brain, although you would think, if you go to Washington, that someone had beat me to it. [laughter] But I -- but I'm very hopeful that I'm not the only one who's willing to pick up the baton of freedom, because freedom is not free, and we must fight for it every day. Every one of us must fight for it, because we're fighting for our children and the next generation. [applause] "
+        ]
+      },
+      "speakingTime": "6.07",
+      "emotionalLines": [
+        " And I have a lot more to say about it. ",
+        " If Hillary is the candidate, which I doubt, that would be a dream come true. [laughter] But you know, the fact of the matter is, she is the epitome of the progressive -- the secular progressive movement. And she counts on the fact that people are uninformed, the Alinsky Model, taking advantage of useful idiots. Well, I just happen to believe that people are not stupid. [applause] And the way I will come at it is to educate people, help people to actually understand that it is that progressive movement that is causing them the problems. You know, you look at the -- the national debt and how it's being driven up. If I was trying to destroy this country, what I would do is find a way to drive wedges between all the people, drive the debt to an unsustainable level, and then step off the stage as a world leader and let our enemies increase while we decreased our capacity as a military person. And that's what she's doing. [applause] ",
+        " Well, what we have to stop and think about is that we have weakened ourselves militarily to such an extent that if affects all of our military policies. Our Navy is at its smallest size since 1917; our Air Force, since 1940. In recent testimony, the commandant of the Marine Corps said half of the non-deployed units were not ready and you know, the sequester is cutting the heart out of our personnel. Our generals are retiring because they don't want to be part of this, and at the same time, our enemies are increasing. Our -- our friends can't trust us anymore. You know, Ukraine was a nuclear-armed state. They gave away their nuclear arms with the understanding that we would protect them. We won't even give them offensive weapons. You know, we turned our back on Israel, our ally. You know, in a situation like that, of course Obama's not going to be able to do anything. I would shore up our military first, because if you don't get the military right, nothing else is going to work. [applause] ",
+        " Well, thank you, Megyn, I wasn't sure I was going to get to talk again. [applause] ",
+        " What I agree with is that we need a significantly changed taxation system. And the one that I've advocated is based on tithing, because I think God is a pretty fair guy. And he said, you know, if you give me a tithe, it doesn't matter how much you made. If you've had a bumper crop, you don't owe me triple tithes. And if you've had no crops at all, you don't owe me no tithes. So there must be something inherently fair about that. And that's why I've advocated a proportional tax system. You make $10 billion, you pay a billion. You make $10, you pay one. And everybody gets treated the same way. And you get rid of the deductions, you get rid of all the loopholes, and...[timer sounds]",
+        " Well, I think the bully pulpit is a wonderful place to start healing that divide. You know, we have the purveyors of hatred who take every single incident between people of two races and try to make a race war out of it, and drive wedges into people. And this does not need to be done. What we need to think about instead -- you know, I was asked by an NPR reporter once, why don't I talk about race that often. I said it's because I'm a neurosurgeon. And she thought that was a strange response. And you say -- I said, you see, when I take someone to the operating room, I'm actually operating on the thing that makes them who they are. The skin doesn't make them who they are. The hair doesn't make them who they are. And it's time for us to move beyond that. [applause] Because...[applause]...our strength as a nation comes in our unity. We are the United States of America, not the divided states. And those who want to destroy us are trying to divide us, and we shouldn't let them do it. [applause] ",
+        " Well, I could take issue with -- with all of those things, but we don't have time. But I will say, we have a debate here tonight, and we will have an opportunity to explore those areas, and I'm looking very much forward to demonstrating that, in fact, the thing that is probably most important is having a brain, and to be able to figure things out and learn things very rapidly. So, you know, experience comes from a large number of different arenas, and America became a great nation early on not because it was flooded with politicians, but because it was flooded with people who understood the value of personal responsibility, hard work, creativity, innovation, and that's what will get us on the right track now, as well. ",
+        " Well, I haven't said anything about me being the only one to do anything, so let me try that. I'm the only one to separate Siamese twins...[laughter] The -- the only one to operate on babies while they were still in mother's womb, the only one to take out half of a brain, although you would think, if you go to Washington, that someone had beat me to it. [laughter] But I -- but I'm very hopeful that I'm not the only one who's willing to pick up the baton of freedom, because freedom is not free, and we must fight for it every day. Every one of us must fight for it, because we're fighting for our children and the next generation. [applause] ",
+        " Alright. You know, what we do in order to get the information that we need is our business, and I wouldn't necessarily be broadcasting what we're going to do. [applause] We. . .uh. . .we've gotten into this -- this mindset of fighting politically correct wars. There is no such thing as a politically correct war. [applause] And, the left, of course, will say Carson doesn't believe in the Geneva Convention. Carson doesn't believe in fighting stupid wars. And -- and what we have to remember is we want to utilize the tremendous intellect that we have in the military to win wars. And I've talked to a lot of the generals, a lot of our advanced people. And believe me, if we gave them the mission, which is what the commander-in-chief does, they would be able to carry it out. And if we don't tie their hands behind their back, they will do it...[timer sounds]...extremely effectively. [applause] "
+      ],
+      "personalIssues": {
+        "The American People Deserve a Better Tax Code": "0.17",
+        "Stand by Israel, Our Bulwark Middle East Ally": "0.05",
+        "Protect the Second Amendment": "0.03",
+        "Russia and Lessons Learned": "0.00",
+        "Keep Faith in Our Society": "0.00",
+        "Health Care": "0.00",
+        "Keep Gitmo Open": "0.00",
+        "Education": "0.00",
+        "Balanced Budget Amendment": "0.00",
+        "Protecting Innocent Life": "0.00"
       },
       "averageWordUsage": {
-        "things": 0.010638297872340425,
-        "time": 0.010638297872340425,
-        "say": 0.014184397163120567,
-        "fact": 0.010638297872340425,
-        "thing": 0.010638297872340425,
-        "able": 0.010638297872340425,
-        "know": 0.03900709219858156,
-        "people": 0.031914893617021274,
-        "going": 0.014184397163120567,
-        "need": 0.014184397163120567,
-        "applause": 0.01773049645390071,
-        "fighting": 0.010638297872340425,
-        "wars": 0.010638297872340425,
-        "does": 0.024822695035460994,
-        "believe": 0.014184397163120567,
-        "want": 0.010638297872340425,
-        "military": 0.01773049645390071,
-        "lot": 0.010638297872340425,
-        "think": 0.01773049645390071,
-        "said": 0.01773049645390071,
-        "make": 0.01773049645390071,
-        "way": 0.010638297872340425,
-        "laughter": 0.010638297872340425,
-        "progressive": 0.010638297872340425,
-        "drive": 0.010638297872340425,
-        "let": 0.010638297872340425
-      },
-      "importantWords": {
-        "things": 7.512232190328822,
-        "flooded": 5.008154793552548,
-        "experience": 2.504077396776274,
-        "issue": 2.504077396776274,
-        "hard": 2.504077396776274,
-        "debate": 2.504077396776274,
-        "tonight": 2.504077396776274,
-        "opportunity": 2.504077396776274,
-        "explore": 2.504077396776274,
-        "areas": 2.504077396776274,
-        "looking": 2.504077396776274,
-        "forward": 2.504077396776274,
-        "demonstrating": 2.504077396776274,
-        "responsibility": 2.504077396776274,
-        "personal": 2.504077396776274,
-        "probably": 2.504077396776274,
-        "important": 2.504077396776274,
-        "having": 2.504077396776274,
-        "value": 2.504077396776274,
-        "understood": 2.504077396776274
-      },
-      "issueRelevance": {
-        "The American People Deserve a Better Tax Code": 0.16794157380895347,
-        "Stand by Israel, Our Bulwark Middle East Ally": 0.05008154793552548,
-        "Protect the Second Amendment": 0.02504077396776274,
-        "Russia and Lessons Learned": 0,
-        "Keep Faith in Our Society": 0,
-        "Health Care": 0,
-        "Keep Gitmo Open": 0,
-        "Education": 0,
-        "Balanced Budget Amendment": 0,
-        "Protecting Innocent Life": 0
-      },
-      "callouts": {
-        "ben carson": {
-          "total": 2,
-          "sentiment": 0,
-          "lines": [
-            "[ applause ] And, the left, of course, will say Carson does n't believe in the Geneva Convention.",
-            "Carson does n't believe in fighting stupid wars."
-          ]
-        },
-        "hillary clinton": {
-          "total": 1,
-          "sentiment": 2,
-          "lines": [
-            "If Hillary is the candidate, which I doubt, that would be a dream come true."
-          ]
-        }
+        "Well": "0.0117",
+        "don": "0.0136",
+        "know": "0.0214",
+        "people": "0.0175",
+        "applause": "0.0214",
+        "You": "0.0156",
+        "And": "0.0389",
+        "doesn": "0.0097",
+        "military": "0.0097",
+        "think": "0.0097",
+        "said": "0.0097",
+        "make": "0.0097"
       }
     },
-    {
-      "name": "Chris Christie",
-      "totalWords": 1418,
-      "speakingTime": 7,
-      "emotionalLines": {
-        "negative": {
-          "score": -6,
-          "comparative": -0.125,
-          "line": "And I'll tell you why : because I'm the only person on this stage who's actually filed applications under the Patriot Act, who has gone before the federal -- the Foreign Intelligence Service court, who has prosecuted and investigated and jailed terrorists in this country after September 11th."
-        },
-        "positive": {
-          "score": 4,
-          "comparative": 0.16666666666666666,
-          "line": "[ applause ] When you're responsible for protecting the lives of the American people, then what you need to do is to make sure.."
-        }
+    "christie": {
+      "totalWords": 7532,
+      "uniqueWords": {
+        "total": 695,
+        "mostUnique": [
+          "think",
+          "should",
+          "seen",
+          "laught",
+          "become",
+          "Governor",
+          "zero",
+          "net",
+          "job",
+          "growth",
+          "Zero",
+          "For",
+          "So",
+          "deficit",
+          "800",
+          "programs",
+          "balance",
+          "vetoed",
+          "during",
+          "business"
+        ]
+      },
+      "callouts": {},
+      "audienceReception": {
+        "applause": [
+          " If you think it's bad now, you should've seen it when I got there. [laught and applause] The fact is -- the fact is, in the eight years before I became governor, taxes and fees were raised at the state level 115 times. In the eight years before I became governor, spending was increased 56 percent. And in the eight years before I become governor, taxes and fees were raised at the state level 115 times. In the eight years before I became Governor, spending was increased 56 percent, and in the eight years before I became governor, there was zero net private sector job growth in New Jersey. Zero. For eight years. So, what did we do? We came in, we balanced an $11 billion deficit on a $29 billion budget by cutting over 800 programs in the state budget. We brought the budget into balance with no tax increases. In fact, we vetoed five income tax increases during my time as governor. We cut business taxes $2.3 billion, and we cut regulation by one-third of what my predecessor put in place. And, what's happened since? A hundred ninety-two thousand private sector jobs in the five and a half years I've been governor. We have a lot of work to do in New Jersey, but I am darn proud we've brought our state back. [applause] ",
+          " Listen, senator, you know, when you're sitting in a subcommittee, just blowing hot air about this, you can say things like that. [applause] When you're responsible for protecting the lives of the American people, then what you need to do is to make sure... ",
+          " No, he's not lying, he's just wrong. I mean, so, there's a difference -- I'm the only guy on this stage who's put out a detailed, 12 point plan on entitlement reform and here's why -- because 71% of federal spending right now is on entitlements, and debt service, 71%. And we have spent the last hour and five minutes talking about the other 29%, and no time on the 71%, and that makes no sense. Now, let me tell you exactly what we would do on Social Security. Yes, we'd raise the retirement age two years, and phase it in over 25 years, that means we'd raise it one month a year for 25 years when we're all living longer, and living better lives. Secondly, we would means test Social Security for those who are making over $200,000 dollars a year in retirement income, and have $4 to $5 million dollars in liquid assets saved. They don't need that Social Security check. Social Security is meant to be -- to make sure that no one who's worked hard, and played by the rules, and paid into the system grows old in poverty in America. If we don't deal with this problem, it will bankrupt our country, or lead to massive tax increases, neither one that we want in this country. [applause] ",
+          " Well, listen. You know, if we want to deal with these issues, we have to deal with them in a way that makes sense. I agree with what Dr. Carson said earlier. The first thing we need to do to make America stronger is to strengthen our military, and I put out a really specific plan: no less than 500,000 active duty soldiers in the Army. No less than 185,000 active duty marines in the Marine Corps. Bring us to a 350 ship Navy again, and modernize the Ohio class of submarines, and bring our Air Force back to 2,600 aircraft that are ready to go. Those are the kind of things that are going to send a clear message around the world. Those are the things that we need to start working on immediately to make our country stronger and make it better. Those are the things that we need to be able to be doing. And as we move towards dealing with foreign aid, I don't disagree with Senator Paul's position that we shouldn't be funding our enemies. But I absolutely believe that Israel is a priority to be able to fund and keep them strong and safe after eight years of this administration. [applause] ",
+          " Well, thank you, Megyn. Listen, I was born into a middle class family in New Jersey. My dad came home from serving in the Army after having lost his father, worked in the Breyers ice cream plant in Newark, New Jersey. Was the first person to graduate from college. He put himself through college at night. My mom was a secretary. I was appointed United States attorney on September 10, 2001. And I spent the next seven years of my career fighting terrorism and putting terrorists in jail. I'm a conservative, pro-life governor in a state where it is really tough to be both. A state like New Jersey, with lots of Democrats, but still we cut taxes, we balanced budgets. We fought [timer sounds] the teacher's union. This president has had weak leadership, which has led to bad choices. We have got to stop worrying about being loved and start worrying about being respected. And that's exactly how I'll lead our country. [applause] "
+        ],
+        "laughter": []
+      },
+      "speakingTime": "7.46",
+      "emotionalLines": [
+        " What are you supposed to... ",
+        " Let me tell you something, you go... ",
+        " When you -- you know, senator... [crosstalk] ",
+        " ...is to make sure that you use the system the way it's supposed to work. ",
+        " You know what, Megyn, can I... ",
+        " Chris... ",
+        " If you think it's bad now, you should've seen it when I got there. [laught and applause] The fact is -- the fact is, in the eight years before I became governor, taxes and fees were raised at the state level 115 times. In the eight years before I became governor, spending was increased 56 percent. And in the eight years before I become governor, taxes and fees were raised at the state level 115 times. In the eight years before I became Governor, spending was increased 56 percent, and in the eight years before I became governor, there was zero net private sector job growth in New Jersey. Zero. For eight years. So, what did we do? We came in, we balanced an $11 billion deficit on a $29 billion budget by cutting over 800 programs in the state budget. We brought the budget into balance with no tax increases. In fact, we vetoed five income tax increases during my time as governor. We cut business taxes $2.3 billion, and we cut regulation by one-third of what my predecessor put in place. And, what's happened since? A hundred ninety-two thousand private sector jobs in the five and a half years I've been governor. We have a lot of work to do in New Jersey, but I am darn proud we've brought our state back. [applause] ",
+        " There is no... ",
+        " And -- and, Megyn? Megyn, that's a -- that, you know, that's a completely ridiculous answer. \"I want to collect more records from terrorists, but less records from other people.\" How are you supposed to know, Megyn? ",
+        " And you know -- you know, Senator Paul? Senator Paul, you know, the hugs that I remember are the hugs that I gave to the families who lost their people on September 11th. Those are the hugs I remember, and those had nothing to do -- and those had nothing to do with politics, unlike what you're doing by cutting speeches on the floor of the Senate, then putting them on the Internet within half an hour to raise money for your campaign... ",
+        " ...and while still putting our country at risk. [crosstalk] ",
+        " ...how are you supposed to -- no, I'll tell you how you, look... ",
+        " No, he's not lying, he's just wrong. I mean, so, there's a difference -- I'm the only guy on this stage who's put out a detailed, 12 point plan on entitlement reform and here's why -- because 71% of federal spending right now is on entitlements, and debt service, 71%. And we have spent the last hour and five minutes talking about the other 29%, and no time on the 71%, and that makes no sense. Now, let me tell you exactly what we would do on Social Security. Yes, we'd raise the retirement age two years, and phase it in over 25 years, that means we'd raise it one month a year for 25 years when we're all living longer, and living better lives. Secondly, we would means test Social Security for those who are making over $200,000 dollars a year in retirement income, and have $4 to $5 million dollars in liquid assets saved. They don't need that Social Security check. Social Security is meant to be -- to make sure that no one who's worked hard, and played by the rules, and paid into the system grows old in poverty in America. If we don't deal with this problem, it will bankrupt our country, or lead to massive tax increases, neither one that we want in this country. [applause] ",
+        " Yeah, sure. And, I don't disagree with ending Congress' retirement program. I'm a governor, I don't have a retirement program in my state, and I don't disagree with that. But, here's the news to the American people, he's complaining about the lying and stealing. The lying and stealing has already occurred. The trust fund is filled with IOU's. We can't fix the problem just by ending Congress's retirement, that's worth about, \"this\" much. We need to go at the fundamental problem, and the fundamental problem is that this system is broken. It has been stolen from. We have been lied to, [timer sounds] and we need a strong leader to tell the truth and fix... ",
+        " Listen, senator, you know, when you're sitting in a subcommittee, just blowing hot air about this, you can say things like that. [applause] When you're responsible for protecting the lives of the American people, then what you need to do is to make sure... ",
+        " Well, thank you, Megyn. Listen, I was born into a middle class family in New Jersey. My dad came home from serving in the Army after having lost his father, worked in the Breyers ice cream plant in Newark, New Jersey. Was the first person to graduate from college. He put himself through college at night. My mom was a secretary. I was appointed United States attorney on September 10, 2001. And I spent the next seven years of my career fighting terrorism and putting terrorists in jail. I'm a conservative, pro-life governor in a state where it is really tough to be both. A state like New Jersey, with lots of Democrats, but still we cut taxes, we balanced budgets. We fought [timer sounds] the teacher's union. This president has had weak leadership, which has led to bad choices. We have got to stop worrying about being loved and start worrying about being respected. And that's exactly how I'll lead our country. [applause] ",
+        " Yes, I do. And I'll tell you why: because I'm the only person on this stage who's actually filed applications under the Patriot Act, who has gone before the federal -- the Foreign Intelligence Service court, who has prosecuted and investigated and jailed terrorists in this country after September 11th. I was appointed U.S. attorney by President Bush on September 10th, 2001, and the world changed enormously the next day, and that happened in my state. This is not theoretical to me. I went to the funerals. We lost friends of ours in the Trade Center that day. My own wife was two blocks from the Trade Center that day, at her office, having gone through it that morning. When you actually have to be responsible for doing this, you can do it, and we did it, for seven years in my office, respecting civil liberties and protecting the homeland. And I will make no apologies, ever, for protecting the lives and the safety of the American people. We have to give more tools to our folks to be able to do that, not fewer, and then trust those people and oversee them to do it the right way. As president, that is exactly what I'll do. ",
+        " Well, listen. You know, if we want to deal with these issues, we have to deal with them in a way that makes sense. I agree with what Dr. Carson said earlier. The first thing we need to do to make America stronger is to strengthen our military, and I put out a really specific plan: no less than 500,000 active duty soldiers in the Army. No less than 185,000 active duty marines in the Marine Corps. Bring us to a 350 ship Navy again, and modernize the Ohio class of submarines, and bring our Air Force back to 2,600 aircraft that are ready to go. Those are the kind of things that are going to send a clear message around the world. Those are the things that we need to start working on immediately to make our country stronger and make it better. Those are the things that we need to be able to be doing. And as we move towards dealing with foreign aid, I don't disagree with Senator Paul's position that we shouldn't be funding our enemies. But I absolutely believe that Israel is a priority to be able to fund and keep them strong and safe after eight years of this administration. [applause] "
+      ],
+      "personalIssues": {
+        "Border Security and Immigration": "0.13",
+        "Healthcare for America's Veterans": "0.06",
+        "Foreign Policy": "0.06",
+        "Entitlements": "0.03",
+        "Economy": "0.00",
+        "Education": "0.00",
+        "Criminal Justice": "0.00"
       },
       "averageWordUsage": {
-        "years": 0.0377906976744186,
-        "governor": 0.02616279069767442,
-        "taxes": 0.011627906976744186,
-        "state": 0.023255813953488372,
-        "new": 0.014534883720930232,
-        "jersey": 0.014534883720930232,
-        "tell": 0.014534883720930232,
-        "country": 0.01744186046511628,
-        "september": 0.011627906976744186,
-        "make": 0.020348837209302327,
-        "people": 0.01744186046511628,
-        "megyn": 0.014534883720930232,
-        "know": 0.02616279069767442,
-        "supposed": 0.011627906976744186,
-        "senator": 0.014534883720930232,
-        "things": 0.011627906976744186,
-        "need": 0.020348837209302327,
-        "sure": 0.011627906976744186,
-        "social": 0.011627906976744186,
-        "security": 0.011627906976744186,
-        "retirement": 0.014534883720930232,
-        "problem": 0.011627906976744186
-      },
-      "importantWords": {
-        "56": 6.394449154672439,
-        "115": 6.394449154672439,
-        "governor": 17.52854177743392,
-        "years": 14.69028602067677,
-        "budget": 9.591673732008658,
-        "fact": 9.591673732008658,
-        "billion": 9.591673732008658,
-        "state": 9.123735381848256,
-        "taxes": 8.375278407684165,
-        "level": 6.394449154672439,
-        "fees": 6.394449154672439,
-        "times": 6.394449154672439,
-        "increased": 6.394449154672439,
-        "percent": 6.394449154672439,
-        "zero": 6.394449154672439,
-        "private": 6.394449154672439,
-        "raised": 6.394449154672439,
-        "sector": 6.394449154672439,
-        "brought": 6.394449154672439,
-        "jersey": 5.58351893845611
-      },
-      "issueRelevance": {
-        "Border Security and Immigration": 0.1278889830934488,
-        "Healthcare for America's Veterans": 0.0558351893845611,
-        "Foreign Policy": 0.0558351893845611,
-        "Entitlements": 0.0319722457733622,
-        "Economy": 0,
-        "Education": 0,
-        "Criminal Justice": 0
-      },
-      "callouts": {
-        "jeb bush": {
-          "total": 1,
-          "sentiment": 0,
-          "lines": [
-            "attorney by President Bush on September 10th, 2001, and the world changed enormously the next day, and that happened in my state."
-          ]
-        },
-        "rand paul": {
-          "total": 3,
-          "sentiment": -1,
-          "lines": [
-            "And you know -- you know, Senator Paul?",
-            "Senator Paul, you know, the hugs that I remember are the hugs that I gave to the families who lost their people on September 11th.",
-            "And as we move towards dealing with foreign aid, I do n't disagree with Senator Paul's position that we should n't be funding our enemies."
-          ]
-        },
-        "ben carson": {
-          "total": 1,
-          "sentiment": 1,
-          "lines": [
-            "I agree with what Dr. Carson said earlier."
-          ]
-        }
+        "years": "0.0187",
+        "governor": "0.0115",
+        "state": "0.0115",
+        "And": "0.0158",
+        "make": "0.0101",
+        "know": "0.0129",
+        "need": "0.0101"
       }
     },
-    {
-      "name": "Mike Huckabee",
-      "totalWords": 1279,
-      "speakingTime": 7,
-      "emotionalLines": {
-        "negative": {
-          "score": -4,
-          "comparative": -0.19047619047619047,
-          "line": "It was the federal government, who continually put mandates on the states that we had to suck up and pay for."
-        },
-        "positive": {
-          "score": 5,
-          "comparative": 0.38461538461538464,
-          "line": "I'll be my best to do that, and thank you for your support."
-        }
-      },
-      "averageWordUsage": {
-        "lot": 0.011976047904191617,
-        "people": 0.03293413173652695,
-        "think": 0.014970059880239521,
-        "president": 0.011976047904191617,
-        "ought": 0.011976047904191617,
-        "person": 0.014970059880239521,
-        "power": 0.011976047904191617,
-        "federal": 0.011976047904191617,
-        "government": 0.020958083832335328,
-        "applause": 0.011976047904191617,
-        "tax": 0.011976047904191617,
-        "social": 0.020958083832335328,
-        "security": 0.017964071856287425,
-        "country": 0.014970059880239521,
-        "said": 0.011976047904191617,
-        "got": 0.014970059880239521,
-        "military": 0.014970059880239521
-      },
-      "importantWords": {
-        "amendment": 5.218875824868201,
-        "parts": 5.218875824868201,
-        "time": 5.218875824868201,
-        "fifth": 5.218875824868201,
-        "know": 5.218875824868201,
-        "supreme": 5.218875824868201,
-        "process": 4.407945608651872,
-        "think": 3.386294361119891,
-        "womb": 2.6094379124341005,
-        "idea": 2.6094379124341005,
-        "buick": 2.6094379124341005,
-        "actually": 2.6094379124341005,
-        "taken": 2.6094379124341005,
-        "position": 2.6094379124341005,
-        "bolder": 2.6094379124341005,
-        "sell": 2.6094379124341005,
-        "real": 2.6094379124341005,
-        "body": 2.6094379124341005,
-        "defunding": 2.6094379124341005,
-        "planned": 2.6094379124341005
-      },
-      "issueRelevance": {
-        "Get Involved. Join Mike's campaign for President.": 0.06772588722239782,
-        "Event List": 0,
-        "Connections": 0,
-        "Newsletter Signup": 0,
-        "Send Me Your Endorsement": 0,
-        "Endorse Mike": 0
+    "huckabee": {
+      "totalWords": 6832,
+      "uniqueWords": {
+        "total": 638,
+        "mostUnique": [
+          "Chris",
+          "idea",
+          "real",
+          "issue",
+          "constitutional",
+          "amendment",
+          "long",
+          "difficult",
+          "actually",
+          "taken",
+          "position",
+          "bolder",
+          "defunding",
+          "planned",
+          "parenthood",
+          "huge",
+          "game",
+          "changer",
+          "something",
+          "bold"
+        ]
       },
       "callouts": {
-        "chris christie": {
-          "total": 1,
-          "sentiment": 0,
-          "lines": [
-            "Chris, I disagree with the idea that the real issue is a constitutional amendment."
-          ]
-        },
-        "donald trump": {
-          "total": 1,
-          "sentiment": 4,
-          "lines": [
-            "Not me. [ laughter ] But you're welcome to give me a check, Donald if you'd like."
-          ]
-        },
-        "hillary clinton": {
-          "total": 1,
-          "sentiment": -3,
-          "lines": [
-            "A person who has been filled with scandals, and who could not lead, and, of course, I'm talking about Hillary Clinton."
-          ]
-        }
+        "hillary clinton": [
+          " It seems like this election has been a whole lot about a person who's very high in the polls, that doesn't have a clue about how to govern. A person who has been filled with scandals, and who could not lead, and, of course, I'm talking about Hillary Clinton. [laughter] I think America... "
+        ]
+      },
+      "audienceReception": {
+        "applause": [
+          " Chris, I disagree with the idea that the real issue is a constitutional amendment. That's a long and difficult process. I've actually taken the position that's bolder than that. A lot of people are talking about defunding planned parenthood, as if that's a huge game changer. I think it's time to do something even more bold. I think the next president ought to invoke the Fifth, and Fourteenth Amendments to the constitution now that we clearly know that that baby inside the mother's womb is a person at the moment of conception. The reason we know that it is is because of the DNA schedule that we now have clear scientific evidence on. And, this notion that we just continue to ignore the personhood of the individual is a violation of that unborn child's Fifth and 14th Amendment rights for due process and equal protection under the law. It's time that we recognize the Supreme Court is not the Supreme Being, and we change the policy to be pro-life and protect children instead of rip up their body parts and sell them like they're parts to a Buick. [applause] ",
+          " Well, let's all be reminded, 60 million Americans are on Social Security, 60 million. A third of those people depend on 90% of their income from Social Security. Nobody in this country is on Social Security because they made the decision when they were starting work at 14 that they wanted to trust some of their money with the government. The government took it out of their check whether they wanted them to or not. And, if person goes to 65, they're going to spend 51 years with the government reaching into their pocket at every paycheck. Now, here's the point, whose fault is it that the system is screwed up? Is it the recipients, or is it the government? And, if Congress wants to mess with the retirement program, why don't we let them start by changing their retirement program, and not have one, instead of talking about getting rid of Social Security and Medicare that was robbed $700 billion dollars to pay for Obamacare. It's always that the government figures that they can do this off the backs of people, many of whom are poor, and depend on that money, and I just think it's fundamentally lying to the people and stealing from them, and we shouldn't be doing it. [applause] ",
+          " Well, you ask about how we fund it. One of the reasons that Social Security is in so much trouble is that the only funding stream comes from people who get a wage. The people who get wages is declining dramatically. Most of the income in this country is made by people at the top who get dividends and -- and capital gains. The FairTax transforms the process by which we fund Social Security and Medicare because the money paid in consumption is paid by everybody, including illegals, prostitutes, pimps, drug dealers, all the people [timer sounds] that are freeloading off the system now. [applause] That's why it ought to be a transformed system. [applause] ",
+          " Ronald Reagan said \"trust, but verify.\" President Obama is \"trust, but vilify.\" He trusts our enemies and vilifies everyone who disagrees with him. And the reason we disagree with him has nothing to do with party. [applause] [crosstalk] ",
+          " The military is not a social experiment. The purpose of the military is kill people and break things. [applause] It's not to transform the culture by trying out some ideas that some people think would make us a different country and more diverse. The purpose is to protect America. I'm not sure how paying for transgender surgery for soldiers, sailors, airmen, marines makes our country safer. We've reduced the military by 25 percent... [applause] ... under President Obama. The disaster is that we've forgotten why we have a military. The purpose of it is to make sure that we protect every American, wherever that American is, and if an American is calling out for help, whether it's in Benghazi or at the border, then we ought to be able to answer it. We've not done that because we've decimated our military. We're flying B-52s. The most recent one that was put in service was November of 1962. A lot of the B-52s we're flying, we've only got 44 that are in service combat ready, and the fact is, most of them are older than me. And that's pretty scary.[laughter and applause] ",
+          " ...is in trouble, but it's not beyond repair. But it's going to take leadership who sees the greatness of this country, and who believes that once again we can be one nation, under God. I'll be my best to do that, and thank you for your support. [applause] "
+        ],
+        "laughter": [
+          " Not me. [laughter]But you're welcome to give me a check, Donald if you'd like. ",
+          " It seems like this election has been a whole lot about a person who's very high in the polls, that doesn't have a clue about how to govern. A person who has been filled with scandals, and who could not lead, and, of course, I'm talking about Hillary Clinton. [laughter] I think America... "
+        ]
+      },
+      "speakingTime": "6.73",
+      "emotionalLines": [
+        " It seems like this election has been a whole lot about a person who's very high in the polls, that doesn't have a clue about how to govern. A person who has been filled with scandals, and who could not lead, and, of course, I'm talking about Hillary Clinton. [laughter] I think America... ",
+        " Well, let's all be reminded, 60 million Americans are on Social Security, 60 million. A third of those people depend on 90% of their income from Social Security. Nobody in this country is on Social Security because they made the decision when they were starting work at 14 that they wanted to trust some of their money with the government. The government took it out of their check whether they wanted them to or not. And, if person goes to 65, they're going to spend 51 years with the government reaching into their pocket at every paycheck. Now, here's the point, whose fault is it that the system is screwed up? Is it the recipients, or is it the government? And, if Congress wants to mess with the retirement program, why don't we let them start by changing their retirement program, and not have one, instead of talking about getting rid of Social Security and Medicare that was robbed $700 billion dollars to pay for Obamacare. It's always that the government figures that they can do this off the backs of people, many of whom are poor, and depend on that money, and I just think it's fundamentally lying to the people and stealing from them, and we shouldn't be doing it. [applause] ",
+        " Ronald Reagan said \"trust, but verify.\" President Obama is \"trust, but vilify.\" He trusts our enemies and vilifies everyone who disagrees with him. And the reason we disagree with him has nothing to do with party. [applause] [crosstalk] ",
+        " It's not too big to shrink. But the problem is we have a Wall Street-to-Washington axis of power that has controlled the political climate. The donor class feeds the political class who does the dance that the donor class wants. And the result is federal government keeps getting bigger. Every person on this stage who has been a governor will tell that you the biggest fight they had was not the other party. Wasn't even the legislature. It was the federal government, who continually put mandates on the states that we had to suck up and pay for. And the fact is there are a lot of things happening at the federal level that are absolutely beyond the jurisdiction of the Constitution. This is power that should be shifted back to the states, whether it's the EPA, there is no role at the federal level for the Department of Education. [cheering and applause] And I'm still one who says that we can get rid of the Internal Revenue Service if we would pass the FairTax, which is a tax on consumption rather than a tax on people's income, and move power back where the founders believed it should have been all along. ",
+        " Not me. [laughter]But you're welcome to give me a check, Donald if you'd like. ",
+        " The military is not a social experiment. The purpose of the military is kill people and break things. [applause] It's not to transform the culture by trying out some ideas that some people think would make us a different country and more diverse. The purpose is to protect America. I'm not sure how paying for transgender surgery for soldiers, sailors, airmen, marines makes our country safer. We've reduced the military by 25 percent... [applause] ... under President Obama. The disaster is that we've forgotten why we have a military. The purpose of it is to make sure that we protect every American, wherever that American is, and if an American is calling out for help, whether it's in Benghazi or at the border, then we ought to be able to answer it. We've not done that because we've decimated our military. We're flying B-52s. The most recent one that was put in service was November of 1962. A lot of the B-52s we're flying, we've only got 44 that are in service combat ready, and the fact is, most of them are older than me. And that's pretty scary.[laughter and applause] ",
+        " It has to do with the incredibly dangerous place that this world is gonna be as a result of a deal in which we got nothing. We didn't even get four hostages out. We got nothing, and Iran gets everything they want. We said we would have anywhere, anytime negotiations and inspections, we gave that up. We said that we would make sure that they didn't have any nuclear capacity, we gave that up. The president can't tell us what we got. I'll tell you what the world got. The world has a burgeoning nuclear power that didn't, as the Soviets, say \"we might defend ourselves in a war.\" What the Iranians have said is, \"we will wipe Israel off the face of the map, and we will bring death to America.\" When someone points a gun at your head [timer sounds] and loads it, by God, you ought to take them seriously, and we need to take that seriously. ",
+        " Well, you ask about how we fund it. One of the reasons that Social Security is in so much trouble is that the only funding stream comes from people who get a wage. The people who get wages is declining dramatically. Most of the income in this country is made by people at the top who get dividends and -- and capital gains. The FairTax transforms the process by which we fund Social Security and Medicare because the money paid in consumption is paid by everybody, including illegals, prostitutes, pimps, drug dealers, all the people [timer sounds] that are freeloading off the system now. [applause] That's why it ought to be a transformed system. [applause] ",
+        " ...is in trouble, but it's not beyond repair. But it's going to take leadership who sees the greatness of this country, and who believes that once again we can be one nation, under God. I'll be my best to do that, and thank you for your support. [applause] ",
+        " Chris, I disagree with the idea that the real issue is a constitutional amendment. That's a long and difficult process. I've actually taken the position that's bolder than that. A lot of people are talking about defunding planned parenthood, as if that's a huge game changer. I think it's time to do something even more bold. I think the next president ought to invoke the Fifth, and Fourteenth Amendments to the constitution now that we clearly know that that baby inside the mother's womb is a person at the moment of conception. The reason we know that it is is because of the DNA schedule that we now have clear scientific evidence on. And, this notion that we just continue to ignore the personhood of the individual is a violation of that unborn child's Fifth and 14th Amendment rights for due process and equal protection under the law. It's time that we recognize the Supreme Court is not the Supreme Being, and we change the policy to be pro-life and protect children instead of rip up their body parts and sell them like they're parts to a Buick. [applause] "
+      ],
+      "personalIssues": {
+        "Get Involved. Join Mike's campaign for President.": "0.07",
+        "Event List": "0.00",
+        "Connections": "0.00",
+        "Newsletter Signup": "0.00",
+        "Send Me Your Endorsement": "0.00",
+        "Endorse Mike": "0.00"
+      },
+      "averageWordUsage": {
+        "people": "0.0172",
+        "The": "0.0204",
+        "And": "0.0125",
+        "applause": "0.0157",
+        "government": "0.0110",
+        "Social": "0.0094",
+        "Security": "0.0094"
       }
     },
-    {
-      "name": "John Kasich",
-      "totalWords": 1368,
-      "speakingTime": 7,
-      "emotionalLines": {
-        "negative": {
-          "score": -4,
-          "comparative": -0.09523809523809523,
-          "line": "And, finally, the working poor, instead of them having come into the emergency rooms where it costs more, where they're sicker and we end up paying, we brought a program in here to make sure that people could get on their feet."
-        },
-        "positive": {
-          "score": 9,
-          "comparative": 0.1836734693877551,
-          "line": "I think the simple fact of the matter is, and this is where I would agree with Jeb, and I've been saying it all along, we need to give everybody a chance, treat everybody with respect, and let them share in this great American dream that we have, Megan."
-        }
-      },
-      "averageWordUsage": {
-        "350": 0.009584664536741214,
-        "applause": 0.01597444089456869,
-        "megyn": 0.009584664536741214,
-        "know": 0.03514376996805112,
-        "ohio": 0.01597444089456869,
-        "treat": 0.009584664536741214,
-        "prisons": 0.009584664536741214,
-        "lead": 0.009584664536741214,
-        "people": 0.051118210862619806,
-        "everybody": 0.019169329073482427,
-        "country": 0.025559105431309903,
-        "finally": 0.009584664536741214,
-        "come": 0.009584664536741214,
-        "billion": 0.01597444089456869,
-        "cut": 0.009584664536741214,
-        "taxes": 0.009584664536741214,
-        "timer": 0.012779552715654952,
-        "sounds": 0.012779552715654952,
-        "000": 0.009584664536741214,
-        "jobs": 0.009584664536741214,
-        "just": 0.009584664536741214,
-        "saying": 0.009584664536741214,
-        "donald": 0.012779552715654952,
-        "trump": 0.012779552715654952,
-        "going": 0.019169329073482427,
-        "nerve": 0.009584664536741214,
-        "think": 0.01597444089456869,
-        "want": 0.019169329073482427,
-        "got": 0.012779552715654952,
-        "solutions": 0.009584664536741214,
-        "look": 0.009584664536741214,
-        "balanced": 0.009584664536741214,
-        "budget": 0.012779552715654952,
-        "state": 0.012779552715654952,
-        "surplus": 0.009584664536741214,
-        "tonight": 0.009584664536741214,
-        "let": 0.009584664536741214,
-        "father": 0.009584664536741214,
-        "way": 0.009584664536741214,
-        "big": 0.009584664536741214,
-        "growth": 0.019169329073482427,
-        "committee": 0.009584664536741214,
-        "time": 0.009584664536741214,
-        "great": 0.009584664536741214,
-        "economic": 0.01597444089456869,
-        "america": 0.01597444089456869,
-        "united": 0.009584664536741214,
-        "believe": 0.009584664536741214,
-        "love": 0.01597444089456869,
-        "issues": 0.009584664536741214,
-        "like": 0.009584664536741214,
-        "respect": 0.009584664536741214,
-        "movement": 0.012779552715654952,
-        "wants": 0.009584664536741214
-      },
-      "importantWords": {
-        "10": 2.7047480922384253,
-        "finally": 8.114244276715276,
-        "prisons": 8.114244276715276,
-        "billion": 6.897848952390782,
-        "costs": 5.4094961844768505,
-        "feet": 5.4094961844768505,
-        "percent": 5.4094961844768505,
-        "medicaid": 5.4094961844768505,
-        "secondly": 5.4094961844768505,
-        "applause": 5.3653720810928105,
-        "treat": 4.598565968260521,
-        "everybody": 4.02320182335696,
-        "country": 3.5769147207285403,
-        "know": 2.9039702474861144,
-        "expanded": 2.7047480922384253,
-        "mentally": 2.7047480922384253,
-        "thousand": 2.7047480922384253,
-        "sit": 2.7047480922384253,
-        "year": 2.7047480922384253,
-        "prison": 2.7047480922384253
-      },
-      "issueRelevance": {
-        "RESPECTING THE  SANCTITY OF HUMAN LIFE": 0.07303314060498947,
-        "FISCAL RESPONSIBILITY AND BALANCING BUDGETS": 0.07303314060498947,
-        "CREATING JOBS AND STRENGTHENING THE ECONOMY": 0.0603480273503544,
-        "NATIONAL SECURITY": 0.0540949618447685,
-        "A CONSERVATIVE APPROACH TO BETTER HEALTH CARE": 0.02704748092238425,
-        "LIFTING UP THE MOST VULNERABLE AMERICANS": 0,
-        "DEFENDING THE SECOND AMENDMENT": 0,
-        "EDUCATION": 0
+    "kasich": {
+      "totalWords": 7122,
+      "uniqueWords": {
+        "total": 624,
+        "mostUnique": [
+          "should",
+          "President",
+          "Reagan",
+          "expanded",
+          "three",
+          "four",
+          "times",
+          "opportunity",
+          "bring",
+          "resources",
+          "back",
+          "mentally",
+          "ill",
+          "Ten",
+          "thousand",
+          "sit",
+          "22",
+          "500",
+          "year",
+          "prison"
+        ]
       },
       "callouts": {
-        "chris christie": {
-          "total": 1,
-          "sentiment": 0,
-          "lines": [
-            "Chris, first of all, I was just saying to Chris Christie, they say we're outspoken, we need to take lessons from Donald Trump if we're really going to learn it."
-          ]
-        },
-        "donald trump": {
-          "total": 5,
-          "sentiment": 1,
-          "lines": [
-            "Chris, first of all, I was just saying to Chris Christie, they say we're outspoken, we need to take lessons from Donald Trump if we're really going to learn it.",
-            "Here is the thing about Donald Trump.",
-            "Donald Trump is hitting a nerve in this country.",
-            "Mr. Trump is touching a nerve because people want the wall to be built.",
-            "Donald, if you..."
-          ]
-        },
-        "jeb bush": {
-          "total": 1,
-          "sentiment": 9,
-          "lines": [
-            "I think the simple fact of the matter is, and this is where I would agree with Jeb, and I've been saying it all along, we need to give everybody a chance, treat everybody with respect, and let them share in this great American dream that we have, Megan."
-          ]
-        }
+        "chris christie": [
+          " Chris, first of all, I was just saying to Chris Christie, they say we're outspoken, we need to take lessons from Donald Trump if we're really going to learn it. Here is the thing about Donald Trump. Donald Trump is hitting a nerve in this country. He is. He's hitting a nerve. People are frustrated. They're fed up. They don't think the government is working for them. And for people who want to just tune him out, they're making a mistake. Now, he's got his solutions. Some of us have other solutions. You know, look, I balanced the federal budget as one of the chief architects when I was in Washington. Hasn't been done since. I was a military reformer. I took the state of Ohio from an $8 billion hole and a 350,000 job loss to a $2 billion surplus and a gain of 350,000 jobs. "
+        ],
+        "donald trump": [
+          " Chris, first of all, I was just saying to Chris Christie, they say we're outspoken, we need to take lessons from Donald Trump if we're really going to learn it. Here is the thing about Donald Trump. Donald Trump is hitting a nerve in this country. He is. He's hitting a nerve. People are frustrated. They're fed up. They don't think the government is working for them. And for people who want to just tune him out, they're making a mistake. Now, he's got his solutions. Some of us have other solutions. You know, look, I balanced the federal budget as one of the chief architects when I was in Washington. Hasn't been done since. I was a military reformer. I took the state of Ohio from an $8 billion hole and a 350,000 job loss to a $2 billion surplus and a gain of 350,000 jobs. "
+        ]
+      },
+      "audienceReception": {
+        "applause": [
+          " Well, first of all... [applause] ...first of all, Megyn, you should know that -- that President Reagan expanded Medicaid three or four times. Secondly, I had an opportunity to bring resources back to Ohio to do what? To treat the mentally ill. Ten thousand of them sit in our prisons. It costs $22,500 a year... [applause] ...to keep them in prison. I'd rather get them their medication so they could lead a decent life. Secondly, we are rehabbing the drug-addicted. Eighty percent of the people in our prisons have addictions or problems. We now treat them in the prisons, release them in the community and the recidivism rate is 10 percent and everybody across this country knows that the tsunami of drugs is -- is threatening their very families. So we're treating them and getting them on their feet. And, finally, the working poor, instead of them having come into the emergency rooms where it costs more, where they're sicker and we end up paying, we brought a program in here to make sure that people could get on their feet. And do you know what? Everybody has a right to their God-given purpose. And finally, our Medicaid is growing at one of the lowest rates in the country. And, finally, we went from $8 billion in the hole to $2 billion in the black. We've cut $5 billion in taxes... [timer sounds] ...and we've grown 350,000 jobs. [applause] ",
+          " Wait, Megyn, the court has ruled, and I said we'll accept it. And guess what, I just went to a wedding of a friend of mine who happens to be gay. Because somebody doesn't think the way I do, doesn't mean that I can't care about them or can't love them. So if one of my daughters happened to be that, of course I would love them and I would accept them. Because you know what? [applause] That's what we're taught when we have strong faith. [applause] So the issues like that, issues like that are planted to divide us. I think the simple fact of the matter is, and this is where I would agree with Jeb, and I've been saying it all along, we need to give everybody a chance, treat everybody with respect, and let them share in this great American dream that we have, Megan. So, look, I'm going to love my daughters, I'm going to love them no matter what they do. Because, you know what, [timer sounds] God gives me unconditional love. I'm going to give it to my family and my friends and the people around me. ",
+          " You know, tonight we hear about what people want to do. I want to tell you what I've done. I was a member of the Armed Services Committee for 18 years. I spent a big chunk of my life studying national security issues and our role in the world. No. 2. I was the chairman of the House Budget Committee and one of the chief architects the last time we balanced a budget, and it was the first time we had done it since man walked on the moon. We had a $5 trillion surplus and we cut taxes. I spent ten years in the private sector, actually learning how business works. And now I'm the governor of Ohio, and I inherited a state that was on the brink [timer sounds] of dying. And we turned it all around with jobs and balanced budgets and rising credit and tax cuts, and the state is unified, and people have hope again in Ohio. [applause] "
+        ],
+        "laughter": []
+      },
+      "speakingTime": "7.24",
+      "emotionalLines": [
+        " Donald, if you...[crosstalk] ",
+        " OK. ",
+        " Well, look, I'm an old-fashioned person here, and I happen to believe in traditional marriage. But I've also said the court has ruled -- ",
+        " But the point is that we all have solutions. Mr. Trump is touching a nerve because people want the wall to be built. They want to see an end to illegal immigration. They want to see it, and we all do. But we all have different ways of getting there. And you're going to hear from all of us tonight about what our ideas are. ",
+        " Chris, first of all, I was just saying to Chris Christie, they say we're outspoken, we need to take lessons from Donald Trump if we're really going to learn it. Here is the thing about Donald Trump. Donald Trump is hitting a nerve in this country. He is. He's hitting a nerve. People are frustrated. They're fed up. They don't think the government is working for them. And for people who want to just tune him out, they're making a mistake. Now, he's got his solutions. Some of us have other solutions. You know, look, I balanced the federal budget as one of the chief architects when I was in Washington. Hasn't been done since. I was a military reformer. I took the state of Ohio from an $8 billion hole and a 350,000 job loss to a $2 billion surplus and a gain of 350,000 jobs. ",
+        "-- this campaign, I hope you will give to me. ",
+        " Well, first of all... [applause] ...first of all, Megyn, you should know that -- that President Reagan expanded Medicaid three or four times. Secondly, I had an opportunity to bring resources back to Ohio to do what? To treat the mentally ill. Ten thousand of them sit in our prisons. It costs $22,500 a year... [applause] ...to keep them in prison. I'd rather get them their medication so they could lead a decent life. Secondly, we are rehabbing the drug-addicted. Eighty percent of the people in our prisons have addictions or problems. We now treat them in the prisons, release them in the community and the recidivism rate is 10 percent and everybody across this country knows that the tsunami of drugs is -- is threatening their very families. So we're treating them and getting them on their feet. And, finally, the working poor, instead of them having come into the emergency rooms where it costs more, where they're sicker and we end up paying, we brought a program in here to make sure that people could get on their feet. And do you know what? Everybody has a right to their God-given purpose. And finally, our Medicaid is growing at one of the lowest rates in the country. And, finally, we went from $8 billion in the hole to $2 billion in the black. We've cut $5 billion in taxes... [timer sounds] ...and we've grown 350,000 jobs. [applause] ",
+        " You know, tonight we hear about what people want to do. I want to tell you what I've done. I was a member of the Armed Services Committee for 18 years. I spent a big chunk of my life studying national security issues and our role in the world. No. 2. I was the chairman of the House Budget Committee and one of the chief architects the last time we balanced a budget, and it was the first time we had done it since man walked on the moon. We had a $5 trillion surplus and we cut taxes. I spent ten years in the private sector, actually learning how business works. And now I'm the governor of Ohio, and I inherited a state that was on the brink [timer sounds] of dying. And we turned it all around with jobs and balanced budgets and rising credit and tax cuts, and the state is unified, and people have hope again in Ohio. [applause] ",
+        " Well, Megyn, my father was a mailman. His father was a coal miner. My mother's mother could barely speak English. And their son today stands on this podium in the great state of Ohio not only as the governor, but a candidate for president of the United States. [cheering and applause] I do believe in miracles. You know, I've had a lot of elections. But my elections are really not about campaigns. I tell my people that these are about a movement. And a movement to do what? To restore common sense. A movement to do things like provide economic growth. And a movement not to let anybody be behind. You know, today the country is divided. You asked a question about the police and the difficulty in communities. We've got to unite our country again, because we're stronger when we are united and we are weaker when we are divided. And we've got to listen to other people's voices, respect them, but keep in mind, and I believe in terms of the things that I've read in my lifetime, the Lord'is not picking us. But because of how we respect human rights, because that we are a good force in the world, he wants America to be strong. He wants America to succeed. And he wants America to lead. And nothing is more important to me than my family, my faith, and my friends. [cheering and applause] ",
+        " Let's start off with my father being a mailman. So I understand the concerns of all the folks across this country, some of whom have trouble, you know, making ends meet. But I think she will come in a narrow way. The nominee of this party, if they're going to win, has got to come at it in a big way, which is pro-growth. Which is balancing budgets. You know, we were talking about it. People were saying, could we do it? I was the chairman of the Budget Committee and the lead architect the last time it happened in Washington, and when we did it we had great economic growth, we cut taxes, and we had a big surplus. Economic growth is the key. Economic growth is the key to everything. But once you have economic growth, it is important that we reach out to people who live in the shadows, the people who don't seem to ever think that they get a fair deal. And that includes people in our minority community; that includes people who feel as though they don't have a chance to move up. You know, America is a miracle country. And we have to restore the sense that the \"Amiracle\" will apply to you. Each and every one of the people in this country who's watching tonight, lift everybody, [timer sounds] unite everybody and build a stronger United States of America again. It will be and can be done. ",
+        " Wait, Megyn, the court has ruled, and I said we'll accept it. And guess what, I just went to a wedding of a friend of mine who happens to be gay. Because somebody doesn't think the way I do, doesn't mean that I can't care about them or can't love them. So if one of my daughters happened to be that, of course I would love them and I would accept them. Because you know what? [applause] That's what we're taught when we have strong faith. [applause] So the issues like that, issues like that are planted to divide us. I think the simple fact of the matter is, and this is where I would agree with Jeb, and I've been saying it all along, we need to give everybody a chance, treat everybody with respect, and let them share in this great American dream that we have, Megan. So, look, I'm going to love my daughters, I'm going to love them no matter what they do. Because, you know what, [timer sounds] God gives me unconditional love. I'm going to give it to my family and my friends and the people around me. "
+      ],
+      "personalIssues": {
+        "RESPECTING THE  SANCTITY OF HUMAN LIFE": "0.07",
+        "FISCAL RESPONSIBILITY AND BALANCING BUDGETS": "0.07",
+        "CREATING JOBS AND STRENGTHENING THE ECONOMY": "0.06",
+        "NATIONAL SECURITY": "0.05",
+        "A CONSERVATIVE APPROACH TO BETTER HEALTH CARE": "0.03",
+        "LIFTING UP THE MOST VULNERABLE AMERICANS": "0.00",
+        "DEFENDING THE SECOND AMENDMENT": "0.00",
+        "EDUCATION": "0.00"
+      },
+      "averageWordUsage": {
+        "applause": "0.0128",
+        "know": "0.0176",
+        "people": "0.0224",
+        "country": "0.0128",
+        "And": "0.0272",
+        "going": "0.0096",
+        "want": "0.0096",
+        "You": "0.0112",
+        "But": "0.0112",
+        "growth": "0.0096"
       }
     },
-    {
-      "name": "Rand Paul",
-      "totalWords": 1001,
-      "speakingTime": 5,
-      "emotionalLines": {
-        "negative": {
-          "score": -4,
-          "comparative": -0.14814814814814814,
-          "line": "Each one of my budgets has taken a meat axe to foreign aid, because I think we ought to quit sending it to countries that hate us."
-        },
-        "positive": {
-          "score": 7,
-          "comparative": 0.3181818181818182,
-          "line": "I know you gave him a big hug, and if you want to give him a big hug again, go right ahead."
-        }
-      },
-      "averageWordUsage": {
-        "wrong": 0.01195219123505976,
-        "look": 0.01195219123505976,
-        "republican": 0.01593625498007968,
-        "clinton": 0.01195219123505976,
-        "say": 0.01593625498007968,
-        "isis": 0.03187250996015936,
-        "going": 0.01593625498007968,
-        "got": 0.02390438247011952,
-        "allies": 0.01195219123505976,
-        "applause": 0.0199203187250996,
-        "send": 0.01195219123505976,
-        "stop": 0.01593625498007968,
-        "want": 0.01593625498007968,
-        "records": 0.01593625498007968,
-        "fourth": 0.01195219123505976,
-        "amendment": 0.01195219123505976,
-        "said": 0.03187250996015936,
-        "rights": 0.01195219123505976,
-        "warrant": 0.01195219123505976,
-        "problem": 0.01195219123505976,
-        "president": 0.01593625498007968,
-        "obama": 0.01195219123505976,
-        "think": 0.0199203187250996,
-        "position": 0.01195219123505976,
-        "opinion": 0.01593625498007968,
-        "government": 0.01195219123505976,
-        "exactly": 0.01195219123505976,
-        "israel": 0.01195219123505976,
-        "money": 0.01195219123505976
-      },
-      "importantWords": {
-        "wrong": 2.749199854809259
-      },
-      "issueRelevance": {
-        "Israel": 0.0911064578178312,
-        "Second Amendment": 0.08247599564427777,
-        "Sign Up For Updates": 0.034423470353692046,
-        "Foreign Policy & Defense": 0.034423470353692046,
-        "Spending and Debt": 0.034423470353692046,
-        "Take Action": 0,
-        "Sanctity of Life": 0,
-        "Veterans": 0,
-        "Social Security": 0,
-        "Education": 0,
-        "Civil Liberties": 0,
-        "Criminal Justice Reforms": 0,
-        "Regulation": 0,
-        "Immigration": 0,
-        "Energy": 0,
-        "Health Care": 0,
-        "Audit the Fed": 0,
-        "Taxes": 0,
-        "Term Limits": 0,
-        "Ending NSA Spying": 0
+    "paul": {
+      "totalWords": 5256,
+      "uniqueWords": {
+        "total": 464,
+        "mostUnique": [
+          "This",
+          "mean",
+          "buys",
+          "sells",
+          "stripes",
+          "Hey",
+          "bet",
+          "Clintons",
+          "OK",
+          "doesn",
+          "run",
+          "supports",
+          "runs",
+          "d",
+          "bets",
+          "used",
+          "buying",
+          "First",
+          "terrorism",
+          "Only"
+        ]
       },
       "callouts": {
-        "hillary clinton": {
-          "total": 3,
-          "sentiment": 10,
-          "lines": [
-            "So if he does n't run as a Republican, maybe he supports Clinton, or maybe he runs as an independent..",
-            "[ applause ] I've been fighting amidst a lot of opposition from both Hillary Clinton, as well as some Republicans who wanted to send arms to the allies of ISIS.",
-            "I've been to Ferguson, I've been to Baltimore, because I want our party to be bigger, better and bolder, and I'm the only one that leads Hillary Clinton in five states that were won by President Obama."
-          ]
-        },
-        "john kasich": {
-          "total": 2,
-          "sentiment": 1,
-          "lines": [
-            "John Adams said it was the spark that led to our war for independence, and I'm proud of standing for the Bill of Rights, and I will continue to stand for the Bill of Rights.",
-            "And I asked this question to John Kerry, I said\" do you believe they're trustworthy?"
-          ]
-        }
+        "hillary clinton": [
+          " First of all, only ISIS is responsible for the terrorism. Only ISIS is responsible for the depravity. But, we do have to examine, how are we going to defeat ISIS? I've got a proposal. I'm the leading voice in America for not arming the allies of ISIS. [applause]I've been fighting amidst a lot of opposition from both Hillary Clinton, as well as some Republicans who wanted to send arms to the allies of ISIS. ISIS rides around in a billion dollars worth of U.S. Humvees. It's a disgrace. We've got to stop -- we shouldn't fund our enemies, for goodness sakes. So, we didn't create ISIS -- ISIS created themselves, but we will stop them, and one of the ways we stop them is by not funding them, and not arming them. [applause] ",
+          " I'm a different kind of Republican. I've introduced a five-year balanced budget. I've introduced the largest tax cut in our history. I stood for ten and a half hours on the Senate floor to defend your right to be left alone. [applause] But I've also gone to Chicago. I've gone to Detroit. I've been to Ferguson, I've been to Baltimore, because I want our party to be bigger, better and bolder, and I'm the only one that leads Hillary Clinton in five states that were won by President Obama. I'm a different kind of Republican. [applause] "
+        ]
+      },
+      "audienceReception": {
+        "applause": [
+          " First of all, only ISIS is responsible for the terrorism. Only ISIS is responsible for the depravity. But, we do have to examine, how are we going to defeat ISIS? I've got a proposal. I'm the leading voice in America for not arming the allies of ISIS. [applause]I've been fighting amidst a lot of opposition from both Hillary Clinton, as well as some Republicans who wanted to send arms to the allies of ISIS. ISIS rides around in a billion dollars worth of U.S. Humvees. It's a disgrace. We've got to stop -- we shouldn't fund our enemies, for goodness sakes. So, we didn't create ISIS -- ISIS created themselves, but we will stop them, and one of the ways we stop them is by not funding them, and not arming them. [applause] ",
+          " Megyn, may I respond? [applause] May I respond? ",
+          " I want to collect more records from terrorists, but less records from innocent Americans. The Fourth Amendment was what we fought the Revolution over! John Adams said it was the spark that led to our war for independence, and I'm proud of standing for the Bill of Rights, and I will continue to stand for the Bill of Rights. [applause] ",
+          " ...indiscriminately, of all Americans' records, and that's what I fought to end. I don't trust President Obama with our records. I know you gave him a big hug, and if you want to give him a big hug again, go right ahead. [applause] ",
+          " ... and I've said -- and I've said I would cut spending, and I've said exactly where. Each one of my budgets has taken a meat axe to foreign aid, because I think we ought to quit sending it to countries that hate us. [applause] I think we ought to quit sending it to countries that burn our flag. Israel is not one of those. But even Benjamin Netanyahu said that ultimately, they will be stronger when they're independent. My position is exactly the same. We shouldn't borrow money from China to send it anywhere, but why don't we start with eliminating aid to our enemies. ",
+          " I still say exactly what my original opinion is. Do you borrow money from China to send it to anyone? Out of your surplus, you can help your allies, and Israel is a great ally. And this is no particular animus of Israel, but what I will say, and I will say over and over again, we cannot give away money we don't have. We do not project power from bankruptcy court. We're borrowing a million dollars a minute. [applause] It's got to stop somewhere. ",
+          " I'm a different kind of Republican. I've introduced a five-year balanced budget. I've introduced the largest tax cut in our history. I stood for ten and a half hours on the Senate floor to defend your right to be left alone. [applause] But I've also gone to Chicago. I've gone to Detroit. I've been to Ferguson, I've been to Baltimore, because I want our party to be bigger, better and bolder, and I'm the only one that leads Hillary Clinton in five states that were won by President Obama. I'm a different kind of Republican. [applause] "
+        ],
+        "laughter": []
+      },
+      "speakingTime": "5.23",
+      "emotionalLines": [
+        " ...but I'd say that he's already hedging his bets because he's used to buying politicians. ",
+        " Use the Fourth Amendment! ",
+        " Use the Fourth Amendment! ",
+        " Get a warrant! ",
+        " Get a judge to sign the warrant! ",
+        " I've got a news flash... ",
+        " News flash, the Republican Party's been fighting against a single-payer system... ",
+        " Look, I don't want my marriage or my guns registered in Washington. And if people have an opinion, it's a religious opinion that is heartly felt, obviously they should be allowed to practice that and no government should interfere with them. One of the things, one of the things that really got to me was the thing in Houston where you had the government, the mayor actually, trying to get the sermons of ministers. When the government tries to invade the church to enforce its own opinion on marriage, that's when it's time to resist. ",
+        " Well, let's be clear, I'm the only one on the stage who actually has a five-year budget that balances. I've put pencil to paper... ",
+        " This is what's wrong! ",
+        " I mean, this is what's wrong. He buys and sells politicians of all stripes, he's already... ",
+        " Hey, look, look! He's already hedging his bet on the Clintons, OK? So if he doesn't run as a Republican, maybe he supports Clinton, or maybe he runs as an independent... ",
+        " Megyn, may I respond? [applause] May I respond? ",
+        " See, here's the problem. ",
+        " -- for a decade. So I think you're on the wrong side of this if you're still arguing for a single-payer system. ",
+        " I oppose the Iranian deal, and will vote against it. I don't think that the president negotiated from a position of strength, but I don't immediately discount negotiations. I'm a Reagan conservative. Reagan did negotiate with the Soviets. But you have to negotiate from a position of strength, and I think President Obama gave away too much, too early. If there's going to be a negotiation, you're going to have to believe somehow that the Iranians are going to comply. And I asked this question to John Kerry, I said \"do you believe they're trustworthy?\" and he said \"No.\" And I said, \"well, how are we gonna get them to comply?\" I would have never released the sanctions before there was consistent evidence of compliance. ",
+        " ... and I've said -- and I've said I would cut spending, and I've said exactly where. Each one of my budgets has taken a meat axe to foreign aid, because I think we ought to quit sending it to countries that hate us. [applause] I think we ought to quit sending it to countries that burn our flag. Israel is not one of those. But even Benjamin Netanyahu said that ultimately, they will be stronger when they're independent. My position is exactly the same. We shouldn't borrow money from China to send it anywhere, but why don't we start with eliminating aid to our enemies. ",
+        " First of all, only ISIS is responsible for the terrorism. Only ISIS is responsible for the depravity. But, we do have to examine, how are we going to defeat ISIS? I've got a proposal. I'm the leading voice in America for not arming the allies of ISIS. [applause]I've been fighting amidst a lot of opposition from both Hillary Clinton, as well as some Republicans who wanted to send arms to the allies of ISIS. ISIS rides around in a billion dollars worth of U.S. Humvees. It's a disgrace. We've got to stop -- we shouldn't fund our enemies, for goodness sakes. So, we didn't create ISIS -- ISIS created themselves, but we will stop them, and one of the ways we stop them is by not funding them, and not arming them. [applause] ",
+        " I want to collect more records from terrorists, but less records from innocent Americans. The Fourth Amendment was what we fought the Revolution over! John Adams said it was the spark that led to our war for independence, and I'm proud of standing for the Bill of Rights, and I will continue to stand for the Bill of Rights. [applause] ",
+        " I still say exactly what my original opinion is. Do you borrow money from China to send it to anyone? Out of your surplus, you can help your allies, and Israel is a great ally. And this is no particular animus of Israel, but what I will say, and I will say over and over again, we cannot give away money we don't have. We do not project power from bankruptcy court. We're borrowing a million dollars a minute. [applause] It's got to stop somewhere. "
+      ],
+      "personalIssues": {
+        "Israel": "0.09",
+        "Second Amendment": "0.08",
+        "Sign Up For Updates": "0.03",
+        "Foreign Policy & Defense": "0.03",
+        "Spending and Debt": "0.03",
+        "Take Action": "0.00",
+        "Sanctity of Life": "0.00",
+        "Veterans": "0.00",
+        "Social Security": "0.00",
+        "Education": "0.00",
+        "Civil Liberties": "0.00",
+        "Criminal Justice Reforms": "0.00",
+        "Regulation": "0.00",
+        "Immigration": "0.00",
+        "Energy": "0.00",
+        "Health Care": "0.00",
+        "Audit the Fed": "0.00",
+        "Taxes": "0.00",
+        "Term Limits": "0.00",
+        "Ending NSA Spying": "0.00"
+      },
+      "averageWordUsage": {
+        "ISIS": "0.0172",
+        "got": "0.0129",
+        "applause": "0.0194",
+        "said": "0.0172",
+        "don": "0.0129",
+        "think": "0.0108"
       }
     },
-    {
-      "name": "Marco Rubio",
-      "totalWords": 1517,
-      "speakingTime": 8,
-      "emotionalLines": {
-        "negative": {
-          "score": -4,
-          "comparative": -0.16,
-          "line": "And that's why you need an e-verify system and you need an entry-exit tracking system and all sorts of other things to prevent illegal immigration."
-        },
-        "positive": {
-          "score": 6,
-          "comparative": 0.2608695652173913,
-          "line": "There are a million people a year who legally immigrate to the United States, and people feel like we're being taken advantage of."
-        }
-      },
-      "averageWordUsage": {
-        "let": 0.013888888888888888,
-        "country": 0.025,
-        "election": 0.011111111111111112,
-        "gon": 0.011111111111111112,
-        "na": 0.011111111111111112,
-        "president": 0.011111111111111112,
-        "world": 0.011111111111111112,
-        "today": 0.011111111111111112,
-        "economy": 0.011111111111111112,
-        "people": 0.03611111111111111,
-        "need": 0.041666666666666664,
-        "paycheck": 0.011111111111111112,
-        "just": 0.011111111111111112,
-        "years": 0.013888888888888888,
-        "things": 0.011111111111111112,
-        "believe": 0.013888888888888888,
-        "united": 0.011111111111111112,
-        "states": 0.013888888888888888,
-        "like": 0.016666666666666666,
-        "applause": 0.011111111111111112,
-        "century": 0.011111111111111112,
-        "small": 0.019444444444444445,
-        "businesses": 0.013888888888888888,
-        "america": 0.011111111111111112,
-        "law": 0.011111111111111112,
-        "blessed": 0.013888888888888888,
-        "va": 0.011111111111111112
-      },
-      "importantWords": {
-        "paycheck": 11.16703787691222,
-        "election": 11.16703787691222,
-        "gonna": 11.16703787691222,
-        "better": 8.375278407684165,
-        "nominee": 8.375278407684165,
-        "lecture": 8.375278407684165,
-        "clinton": 5.58351893845611,
-        "resume": 5.58351893845611,
-        "facing": 5.58351893845611,
-        "hillary": 5.58351893845611,
-        "largest": 5.58351893845611,
-        "country": 5.079441541679836,
-        "tonight": 4.772588722239782,
-        "competition": 4.772588722239782,
-        "future": 4.772588722239782,
-        "issues": 4.772588722239782,
-        "world": 4.19722457733622,
-        "today": 4.19722457733622,
-        "senate": 2.791759469228055,
-        "owed": 2.791759469228055
-      },
-      "issueRelevance": {
-        "Small Business Owners": 0.25125835223052495,
-        "The VA": 0.1116703787691222,
-        "Common Core": 0.1116703787691222,
-        "Sharing Economy": 0.09545177444479563,
-        "Higher Education": 0.07564348191467836,
-        "K-12 Education": 0.04772588722239782,
-        "Jobs": 0.04772588722239782,
-        "Foreign Policy": 0.02791759469228055,
-        "Cuba": 0.02791759469228055,
-        "Veterans": 0.02791759469228055,
-        "Families": 0.02791759469228055,
-        "Policy For You": 0.02791759469228055,
-        "The Military": 0,
-        "Taxes": 0,
-        "Second Amendment": 0,
-        "Sanctuary Cities": 0,
-        "Russia": 0,
-        "Israel": 0,
-        "ISIS": 0,
-        "Iran": 0,
-        "Energy": 0,
-        "Eminent Domain": 0,
-        "Debt": 0,
-        "China": 0,
-        "Workers": 0,
-        "Seniors": 0,
-        "Farmers": 0
+    "rubio": {
+      "totalWords": 8180,
+      "uniqueWords": {
+        "total": 743,
+        "mostUnique": [
+          "thank",
+          "Chris",
+          "saying",
+          "political",
+          "process",
+          "making",
+          "contribution",
+          "speaker",
+          "third",
+          "diverse",
+          "well",
+          "got",
+          "Senate",
+          "cannot",
+          "qualified",
+          "then",
+          "government",
+          "longer",
+          "anybody",
+          "else"
+        ]
       },
       "callouts": {
-        "chris christie": {
-          "total": 1,
-          "sentiment": 5,
-          "lines": [
-            "Well, thank you for the question, Chris, and it's great to be here tonight."
-          ]
-        },
-        "hillary clinton": {
-          "total": 2,
-          "sentiment": 2,
-          "lines": [
-            "It's important to be qualified, but if this election is a resume competition, then Hillary Clinton's gon na be the next president, because she's been in office and in government longer than anybody else running here tonight.",
-            "If I'm our nominee, how is Hillary Clinton gon na lecture me about living paycheck to paycheck?"
-          ]
-        },
-        "john kasich": {
-          "total": 1,
-          "sentiment": 1,
-          "lines": [
-            "But I agree with what Governor Kasich just said."
-          ]
-        }
+        "hillary clinton": [
+          " Well, thank you for the question, Chris, and it's great to be here tonight. Let me begin by saying this: I'm not new to the political process; I was making a contribution as the speaker of the third largest and most diverse state in the country well before I even got into the Senate. I would add to that that this election cannot be a resume competition. It's important to be qualified, but if this election is a resume competition, then Hillary Clinton's gonna be the next president, because she's been in office and in government longer than anybody else running here tonight. Here's what this election better be about: This election better be about the future, not the past. It better be about the issues our nation and the world is facing today, not simply the issues we once faced. This country is facing an economy that has been radically transformed. You know, the largest retailer in the country and the world today, Amazon, doesn't even own a single store? And these changes have been disruptive. They have changed people's lives. The jobs that once sustained our middle class, they either don't pay enough or they are gone, and we need someone that understands that as our nominee. If I'm our nominee, how is Hillary Clinton gonna lecture me about living paycheck to paycheck? I was raised paycheck to paycheck. How is she -- how is she gonna lecture me -- how is she gonna lecture me about student loans? I owed over $100,000 just four years ago. If I'm our nominee, we will be the party of the future. [applause] "
+        ]
+      },
+      "audienceReception": {
+        "applause": [
+          " Well, thank you for the question, Chris, and it's great to be here tonight. Let me begin by saying this: I'm not new to the political process; I was making a contribution as the speaker of the third largest and most diverse state in the country well before I even got into the Senate. I would add to that that this election cannot be a resume competition. It's important to be qualified, but if this election is a resume competition, then Hillary Clinton's gonna be the next president, because she's been in office and in government longer than anybody else running here tonight. Here's what this election better be about: This election better be about the future, not the past. It better be about the issues our nation and the world is facing today, not simply the issues we once faced. This country is facing an economy that has been radically transformed. You know, the largest retailer in the country and the world today, Amazon, doesn't even own a single store? And these changes have been disruptive. They have changed people's lives. The jobs that once sustained our middle class, they either don't pay enough or they are gone, and we need someone that understands that as our nominee. If I'm our nominee, how is Hillary Clinton gonna lecture me about living paycheck to paycheck? I was raised paycheck to paycheck. How is she -- how is she gonna lecture me -- how is she gonna lecture me about student loans? I owed over $100,000 just four years ago. If I'm our nominee, we will be the party of the future. [applause] ",
+          " Let me set the record straight on a couple of things. The first is, the evidence is now clear that the majority of people coming across the border are not from Mexico. They're coming from Guatemala, El Salvador, Honduras. Those countries are the source of the people that are now coming in its majority. I also believe we need a fence. The problem is if El Chapo builds a tunnel under the fence, we have to be able to deal with that too. And that's why you need an e-verify system and you need an entry-exit tracking system and all sorts of other things to prevent illegal immigration. But I agree with what Governor Kasich just said. People are frustrated. This is the most generous country in the world when it comes to immigration. There are a million people a year who legally immigrate to the United States, and people feel like we're being taken advantage of. We feel like despite our generosity, we're being taken advantage of. And let me tell you who never gets talked about in these debates. The people that call my office, who have been waiting for 15 years to come to the United States. And they've paid their fees, and they hired a lawyer, and they can't get in. And they're wondering, maybe they should come illegally. [applause] And so these are important issues, and we should address it. It's a serious problem that needs to be addressed, and otherwise we're going to keep talking about this for the next 30 years, like we have for the last 30 years. ",
+          " Well, first off, I too believe in curriculum reform. It is critically important in the 21st Century. We do need curriculum reform. And it should happen at the state and local level. That's. . . that's. . . that is where educational policy belongs, because if a parent is unhappy with what their child is being taught in school, they can go to that local school board or their state legislature, or their governor and get it changed. Here's the problem with Common Core. The Department of Education, like every federal agency, will never be satisfied. They will not stop with it being a suggestion. They will turn it into a mandate. In fact, what they will begin to say to local communities is, you will not get federal money unless do you things the way we want you to do it. And they will use Common Core or any other requirements that exists nationally to force it down the throats of our people in our states. [applause] ",
+          " That's a great question.First of all, it begins by having leaders that recognize that the economy we live in today is dramatically different from the one we had five years ago. It's an economy that now has placed us in global competition with dozens of other countries around the world.Now, the big companies that have connections with Washington, they can affect policies to help them, but the small companies like the one Tania is talking about, they're the ones that are struggling.The first thing we need to do is we need to even out the tax code for small businesses so that we lower their tax rate to 25 percent, just as we need to lower it for all businesses.We need to have a regulatory budget in America that limits the amount of regulations on our economy. We need to repeal and replace Obamacare and we need to improve higher education so that people can have access to the skills they need for 21st century jobs.And last but not least, we need to repeal Dodd-Frank. It is eviscerating small businesses and small banks. [applause] 20 � over 40 percent of small and mid-size banks that loan money to small businesses have been wiped out over the � since Dodd-Frank has passed. We need to repeal and replace Dodd-Frank. We need to make America fair again for all businesses, but especially those being run by small business owners.",
+          " I have never said that. And I have never advocated that. What I have advocated is that we pass law in this country that says all human life at every stage of its development is worthy of protection. In fact, I think that law already exists. It is called the Constitution of the United States. [applause] And let me go further. I believe that every single human being is entitled to the protection of our laws, whether they can vote or not. Whether they can speak or not. Whether they can hire a lawyer or not. Whether they have a birth certificate or not. And I think future generations will look back at this history of our country and call us barbarians for murdering millions of babies who we never gave them a chance to live. [applause] ",
+          " Thank you. You know, both of my parents were born into poor families on the island of Cuba. They came to America because it was the only place where people like them could have a chance. Here in this country, they never made it big, but the very purpose of their life was to give us the chance to do all the things they never could. My father was a bartender. And the journey from the back of that bar to this stage tonight, to me, that is the essence of the American dream. It is what makes our nation different. And I'm running for president because I want that to still be possible for the people trying to do that now. I run for president because I believe that we can't just save the American dream; we can expand it to reach more people and change more lives than ever before. And that's why I'm asking for your vote. So we can make America greater than it has ever been. And make of this century a new American century. [applause] "
+        ],
+        "laughter": [
+          " Well, first, let me say I think God has blessed us. He has blessed the Republican Party with some very good candidates. The Democrats can't even find one. [laughter] [cheering and applause] And I believe God has blessed our country. This country has been extraordinarily blessed. And we have honored that blessing. And that's why God has continued to bless us. And he has blessed us with young men and women willing to risk their lives and sometimes die in uniform for the safety and security of our people. Unfortunately today we have a VA that does not do enough for them. I am proud that last year we helped change the law. We changed the law to give the power to the VA secretary the ability to fire any executive that isn't doing their job. And it is outrageous they've only fired one person to date. When I'm president of the United States, we're going to have a VA that cares more about our veterans than about the bureaucrats who work at the VA. [cheering and applause] "
+        ]
+      },
+      "speakingTime": "8.04",
+      "emotionalLines": [
+        " Not me. ",
+        " Hey, Charlie...[crosstalk] ",
+        " Well, Megyn, first of all, I'm not sure that that's a correct assessment of my record. I would go on to add that I believe all-- ",
+        " Actually, to be clear...[crosstalk]...he supported Charlie Crist. ",
+        " That's a great question.",
+        " Well, first off, I too believe in curriculum reform. It is critically important in the 21st Century. We do need curriculum reform. And it should happen at the state and local level. That's. . . that's. . . that is where educational policy belongs, because if a parent is unhappy with what their child is being taught in school, they can go to that local school board or their state legislature, or their governor and get it changed. Here's the problem with Common Core. The Department of Education, like every federal agency, will never be satisfied. They will not stop with it being a suggestion. They will turn it into a mandate. In fact, what they will begin to say to local communities is, you will not get federal money unless do you things the way we want you to do it. And they will use Common Core or any other requirements that exists nationally to force it down the throats of our people in our states. [applause] ",
+        " I have never said that. And I have never advocated that. What I have advocated is that we pass law in this country that says all human life at every stage of its development is worthy of protection. In fact, I think that law already exists. It is called the Constitution of the United States. [applause] And let me go further. I believe that every single human being is entitled to the protection of our laws, whether they can vote or not. Whether they can speak or not. Whether they can hire a lawyer or not. Whether they have a birth certificate or not. And I think future generations will look back at this history of our country and call us barbarians for murdering millions of babies who we never gave them a chance to live. [applause] ",
+        " Well, thank you for the question, Chris, and it's great to be here tonight. Let me begin by saying this: I'm not new to the political process; I was making a contribution as the speaker of the third largest and most diverse state in the country well before I even got into the Senate. I would add to that that this election cannot be a resume competition. It's important to be qualified, but if this election is a resume competition, then Hillary Clinton's gonna be the next president, because she's been in office and in government longer than anybody else running here tonight. Here's what this election better be about: This election better be about the future, not the past. It better be about the issues our nation and the world is facing today, not simply the issues we once faced. This country is facing an economy that has been radically transformed. You know, the largest retailer in the country and the world today, Amazon, doesn't even own a single store? And these changes have been disruptive. They have changed people's lives. The jobs that once sustained our middle class, they either don't pay enough or they are gone, and we need someone that understands that as our nominee. If I'm our nominee, how is Hillary Clinton gonna lecture me about living paycheck to paycheck? I was raised paycheck to paycheck. How is she -- how is she gonna lecture me -- how is she gonna lecture me about student loans? I owed over $100,000 just four years ago. If I'm our nominee, we will be the party of the future. [applause] ",
+        " Let me set the record straight on a couple of things. The first is, the evidence is now clear that the majority of people coming across the border are not from Mexico. They're coming from Guatemala, El Salvador, Honduras. Those countries are the source of the people that are now coming in its majority. I also believe we need a fence. The problem is if El Chapo builds a tunnel under the fence, we have to be able to deal with that too. And that's why you need an e-verify system and you need an entry-exit tracking system and all sorts of other things to prevent illegal immigration. But I agree with what Governor Kasich just said. People are frustrated. This is the most generous country in the world when it comes to immigration. There are a million people a year who legally immigrate to the United States, and people feel like we're being taken advantage of. We feel like despite our generosity, we're being taken advantage of. And let me tell you who never gets talked about in these debates. The people that call my office, who have been waiting for 15 years to come to the United States. And they've paid their fees, and they hired a lawyer, and they can't get in. And they're wondering, maybe they should come illegally. [applause] And so these are important issues, and we should address it. It's a serious problem that needs to be addressed, and otherwise we're going to keep talking about this for the next 30 years, like we have for the last 30 years. ",
+        " That's a great question.First of all, it begins by having leaders that recognize that the economy we live in today is dramatically different from the one we had five years ago. It's an economy that now has placed us in global competition with dozens of other countries around the world.Now, the big companies that have connections with Washington, they can affect policies to help them, but the small companies like the one Tania is talking about, they're the ones that are struggling.The first thing we need to do is we need to even out the tax code for small businesses so that we lower their tax rate to 25 percent, just as we need to lower it for all businesses.We need to have a regulatory budget in America that limits the amount of regulations on our economy. We need to repeal and replace Obamacare and we need to improve higher education so that people can have access to the skills they need for 21st century jobs.And last but not least, we need to repeal Dodd-Frank. It is eviscerating small businesses and small banks. [applause] 20 � over 40 percent of small and mid-size banks that loan money to small businesses have been wiped out over the � since Dodd-Frank has passed. We need to repeal and replace Dodd-Frank. We need to make America fair again for all businesses, but especially those being run by small business owners.",
+        " Thank you. You know, both of my parents were born into poor families on the island of Cuba. They came to America because it was the only place where people like them could have a chance. Here in this country, they never made it big, but the very purpose of their life was to give us the chance to do all the things they never could. My father was a bartender. And the journey from the back of that bar to this stage tonight, to me, that is the essence of the American dream. It is what makes our nation different. And I'm running for president because I want that to still be possible for the people trying to do that now. I run for president because I believe that we can't just save the American dream; we can expand it to reach more people and change more lives than ever before. And that's why I'm asking for your vote. So we can make America greater than it has ever been. And make of this century a new American century. [applause] ",
+        " Well, first, let me say I think God has blessed us. He has blessed the Republican Party with some very good candidates. The Democrats can't even find one. [laughter] [cheering and applause] And I believe God has blessed our country. This country has been extraordinarily blessed. And we have honored that blessing. And that's why God has continued to bless us. And he has blessed us with young men and women willing to risk their lives and sometimes die in uniform for the safety and security of our people. Unfortunately today we have a VA that does not do enough for them. I am proud that last year we helped change the law. We changed the law to give the power to the VA secretary the ability to fire any executive that isn't doing their job. And it is outrageous they've only fired one person to date. When I'm president of the United States, we're going to have a VA that cares more about our veterans than about the bureaucrats who work at the VA. [cheering and applause] "
+      ],
+      "personalIssues": {
+        "Small Business Owners": "0.25",
+        "The VA": "0.11",
+        "Common Core": "0.11",
+        "Sharing Economy": "0.10",
+        "Higher Education": "0.08",
+        "K-12 Education": "0.05",
+        "Jobs": "0.05",
+        "Foreign Policy": "0.03",
+        "Cuba": "0.03",
+        "Veterans": "0.03",
+        "Families": "0.03",
+        "Policy For You": "0.03",
+        "The Military": "0.00",
+        "Taxes": "0.00",
+        "Second Amendment": "0.00",
+        "Sanctuary Cities": "0.00",
+        "Russia": "0.00",
+        "Israel": "0.00",
+        "ISIS": "0.00",
+        "Iran": "0.00",
+        "Energy": "0.00",
+        "Eminent Domain": "0.00",
+        "Debt": "0.00",
+        "China": "0.00",
+        "Workers": "0.00",
+        "Seniors": "0.00",
+        "Farmers": "0.00"
+      },
+      "averageWordUsage": {
+        "country": "0.0121",
+        "And": "0.0283",
+        "people": "0.0162",
+        "The": "0.0094",
+        "need": "0.0202",
+        "applause": "0.0121",
+        "small": "0.0094"
       }
     },
-    {
-      "name": "Donald Trump",
-      "totalWords": 2089,
-      "speakingTime": 11,
-      "emotionalLines": {
-        "negative": {
-          "score": -7,
-          "comparative": -0.1206896551724138,
-          "line": "But when you have people that are cutting Christians' heads off, when you have a world that the border and at so many places, that it is medieval times, we've never -- it almost has to be as bad as it ever was in terms of the violence and the horror, we do n't have time for tone."
-        },
-        "positive": {
-          "score": 9,
-          "comparative": 0.28125,
-          "line": "I have to respect the person that, if it's not me, the person that wins, if I do win, and I'm leading by quite a bit, that's what I want to do."
-        }
-      },
-      "averageWordUsage": {
-        "understand": 0.010810810810810811,
-        "say": 0.03513513513513514,
-        "win": 0.016216216216216217,
-        "want": 0.03783783783783784,
-        "make": 0.013513513513513514,
-        "everybody": 0.010810810810810811,
-        "know": 0.02972972972972973,
-        "talking": 0.010810810810810811,
-        "lot": 0.016216216216216217,
-        "money": 0.013513513513513514,
-        "time": 0.016216216216216217,
-        "think": 0.010810810810810811,
-        "big": 0.013513513513513514,
-        "country": 0.032432432432432434,
-        "applause": 0.01891891891891892,
-        "people": 0.032432432432432434,
-        "frankly": 0.010810810810810811,
-        "total": 0.010810810810810811,
-        "trade": 0.010810810810810811,
-        "border": 0.01891891891891892,
-        "good": 0.01891891891891892,
-        "like": 0.02702702702702703,
-        "way": 0.016216216216216217,
-        "need": 0.02702702702702703,
-        "tell": 0.024324324324324326,
-        "right": 0.013513513513513514,
-        "chris": 0.010810810810810811,
-        "said": 0.013513513513513514,
-        "world": 0.013513513513513514,
-        "going": 0.024324324324324326,
-        "politicians": 0.010810810810810811,
-        "care": 0.010810810810810811,
-        "just": 0.01891891891891892,
-        "company": 0.016216216216216217,
-        "timer": 0.010810810810810811,
-        "sounds": 0.016216216216216217,
-        "great": 0.021621621621621623,
-        "ca": 0.010810810810810811,
-        "gave": 0.010810810810810811,
-        "years": 0.013513513513513514,
-        "used": 0.010810810810810811,
-        "laws": 0.016216216216216217,
-        "hundreds": 0.013513513513513514,
-        "deals": 0.010810810810810811,
-        "proud": 0.010810810810810811,
-        "atlantic": 0.010810810810810811,
-        "city": 0.013513513513513514
-      },
-      "importantWords": {
-        "fully": 3.4849066497880004,
-        "understand": 2.9740810260220094
-      },
-      "issueRelevance": {
-        "Immigration Reform": 0.03890371757896165,
-        "Second Amendment Rights": 0,
-        "Tax Reform": 0
+    "trump": {
+      "totalWords": 10675,
+      "uniqueWords": {
+        "total": 723,
+        "mostUnique": [
+          "cannot",
+          "respect",
+          "wins",
+          "leading",
+          "quite",
+          "bit",
+          "independent",
+          "discussing",
+          "leverage",
+          "plenty",
+          "Only",
+          "Rosie",
+          "O",
+          "Donnell",
+          "Yes",
+          "sure",
+          "problem",
+          "politically",
+          "correct",
+          "challenged"
+        ]
       },
       "callouts": {
-        "chris christie": {
-          "total": 4,
-          "sentiment": -3,
-          "lines": [
-            "So, if it were n't for me, you would n't even be talking about illegal immigration, Chris.",
-            "Chris, hundreds and hundreds of deals.",
-            "[ laughter and applause ] You know, I mean you're living in a world of the make-believe, Chris, you want to know the truth.",
-            "Every company, Chris can tell you, every company virtually in Atlantic City went bankrupt."
-          ]
-        },
-        "jeb bush": {
-          "total": 2,
-          "sentiment": 3,
-          "lines": [
-            "But we need, Jeb, to build a wall, we need to keep illegals out.",
-            "First of all, Jeb, I am very happy that you denied that, and I appreciate that very much."
-          ]
-        },
-        "hillary clinton": {
-          "total": 1,
-          "sentiment": -2,
-          "lines": [
-            "Well, I'll tell you what, with Hillary Clinton, I said be at my wedding and she came to my wedding."
-          ]
-        },
-        "donald trump": {
-          "total": 1,
-          "sentiment": 0,
-          "lines": [
-            "When I use it, they say,\" Trump, Trump, Trump."
-          ]
-        }
+        "hillary clinton": [
+          " Well, I'll tell you what, with Hillary Clinton, I said be at my wedding and she came to my wedding. You know why? She didn't have a choice because I gave. I gave to a foundation that, frankly, that foundation is supposed to do good. I didn't know her money would be used on private jets going all over the world. It was. But...[timer sounds] [crosstalk] "
+        ]
+      },
+      "audienceReception": {
+        "applause": [
+          " I think the big problem this country has is being politically correct. [applause] I've been challenged by so many people, and I don't frankly have time for total political correctness. And to be honest with you, this country doesn't have time either. This country is in big trouble. We don't win anymore. We lose to China. We lose to Mexico both in trade and at the border. We lose to everybody. And frankly, what I say, and oftentimes it's fun, it's kidding. We have a good time. What I say is what I say. And honestly Megyn, if you don't like it, I'm sorry. I've been very nice to you, although I could probably maybe not be, based on the way you have treated me. But I wouldn't do that. [applause] But you know what, we -- we need strength, we need energy, we need quickness and we need brain in this country to turn it around. That, I can tell you right now. ",
+          " So, if it weren't for me, you wouldn't even be talking about illegal immigration, Chris. You wouldn't even be talking about it. [applause] This was not a subject that was on anybody's mind until I brought it up at my announcement. And I said, Mexico is sending. Except the reporters, because they're a very dishonest lot, generally speaking, in the world of politics, they didn't cover my statement the way I said it. The fact is, since then, many killings ,murders, crime, drugs pouring across the border, are money going out and the drugs coming in. And I said we need to build a wall, and it has to be built quickly. And I don't mind having a big beautiful door in that wall so that people can come into this country legally. But we need, Jeb, to build a wall, we need to keep illegals out. [cheering and applause] ",
+          " Let me just tell you about the lenders. First of all, these lenders aren't babies. These are total killers. These are not the nice, sweet little people that you think, OK? [laughter and applause] You know, I mean you're living in a world of the make-believe, Chris, you want to know the truth. [applause] And I had the good sense to leave Atlantic City, which by the way, Caesars just went bankrupt. Every company, Chris can tell you, every company virtually in Atlantic City went bankrupt. [laughter] Every company.And let me just tell you. I had the good sense, and I've gotten a lot of credit in the financial pages, seven years ago I left Atlantic City before it totally cratered, and I made a lot of money in Atlantic City, and I'm very proud of it. I want to tell you that. Very, very proud of it.",
+          " And by the way, this country right now owes $19 trillion. And they need somebody like me to straighten out that mess.[applause]",
+          " I don't think they like me very much. I'll tell you what. I've evolved on many issues over the years. And you know who else has? Is Ronald Reagan evolved on many issues. And I am pro-life. And if you look at the question, I was in business. They asked me a question as to pro-life or choice. And I said if you let it run, that I hate the concept of abortion. I hate the concept of abortion. And then since then, I've very much evolved. And what happened is friends of mine years ago were going to have a child, and it was going to be aborted. And it wasn't aborted. And that child today is a total superstar, a great, great child. And I saw that. And I saw other instances. And I am very, very proud to say that I am pro-life. As far as being a Republican is concerned, I come from a place, New York City, which is virtually, I mean, it is almost exclusively Democrat. And I have really started to see some of the negatives -- as an example, and I have a lot of liking for this man, but the last number of months of [timer sounds] his brother's administration were a catastrophe. And unfortunately, those few months gave us President Obama. And you can't be happy about that. [applause] ",
+          " First of all, Jeb, I am very happy that you denied that, and I appreciate that very much. He is a true gentleman. He really is. One thing he did say, and I mean that. The one thing he did say about me, however, was my tone. And I also understand that. But when you have people that are cutting Christians' heads off, when you have a world that the border and at so many places, that it is medieval times, we've never -- it almost has to be as bad as it ever was in terms of the violence and the horror, we don't have time for tone. [timer sounds] We have to go out and get the job done. [applause] ",
+          " I would be so different from what you have right now. Like, the polar opposite. We have a president who doesn't have a clue. I would say he's incompetent, but I don't want to do that because that's not nice. [laughter] But if you look at the deals we make, whether it's the nuclear deal with 24 hour periods -- and by the way, before you get to the 24 hours, you have to go through a system. You look at Sgt. Bergdahl, we get Bergdahl, a traitor, and they get five of the big, great killers leaders that they want. We have people in Washington that don't know what they're doing. Now... [applause; scream from audience] I agree. [applause] Now, with Iran, we're making a deal, you would say, we want him. We want out our prisoners. We want all these things, and we don't get anything. We're giving them $150 billion dollars plus, they are going to be -- I'll tell you what, if Iran was a stock, you folks should go out and buy it right now because you'll quadruple -- this, what's happening [timer sounds] in Iran, is a disgrace, and it's going to lead to destruction in large portions of the world. [applause] "
+        ],
+        "laughter": [
+          " Only Rosie O'Donnell. [laughter] ",
+          " Let me just tell you about the lenders. First of all, these lenders aren't babies. These are total killers. These are not the nice, sweet little people that you think, OK? [laughter and applause] You know, I mean you're living in a world of the make-believe, Chris, you want to know the truth. [applause] And I had the good sense to leave Atlantic City, which by the way, Caesars just went bankrupt. Every company, Chris can tell you, every company virtually in Atlantic City went bankrupt. [laughter] Every company.And let me just tell you. I had the good sense, and I've gotten a lot of credit in the financial pages, seven years ago I left Atlantic City before it totally cratered, and I made a lot of money in Atlantic City, and I'm very proud of it. I want to tell you that. Very, very proud of it.",
+          " I would be so different from what you have right now. Like, the polar opposite. We have a president who doesn't have a clue. I would say he's incompetent, but I don't want to do that because that's not nice. [laughter] But if you look at the deals we make, whether it's the nuclear deal with 24 hour periods -- and by the way, before you get to the 24 hours, you have to go through a system. You look at Sgt. Bergdahl, we get Bergdahl, a traitor, and they get five of the big, great killers leaders that they want. We have people in Washington that don't know what they're doing. Now... [applause; scream from audience] I agree. [applause] Now, with Iran, we're making a deal, you would say, we want him. We want out our prisoners. We want all these things, and we don't get anything. We're giving them $150 billion dollars plus, they are going to be -- I'll tell you what, if Iran was a stock, you folks should go out and buy it right now because you'll quadruple -- this, what's happening [timer sounds] in Iran, is a disgrace, and it's going to lead to destruction in large portions of the world. [applause] "
+        ]
+      },
+      "speakingTime": "11.02",
+      "emotionalLines": [
+        " I fully understand. ",
+        " I fully understand. ",
+        " Well, I've given him plenty of money. ",
+        " I will not make the pledge at this time. ",
+        " Only Rosie O'Donnell. [laughter] ",
+        " Correct. ",
+        " If I ask them, if I need them, you know, most of the people on this stage I've given to, just so you understand, a lot of money. ",
+        " Many of them. ",
+        " Not much. ",
+        " But I...[crosstalk]",
+        " Well, I...",
+        " First of all, Jeb, I am very happy that you denied that, and I appreciate that very much. He is a true gentleman. He really is. One thing he did say, and I mean that. The one thing he did say about me, however, was my tone. And I also understand that. But when you have people that are cutting Christians' heads off, when you have a world that the border and at so many places, that it is medieval times, we've never -- it almost has to be as bad as it ever was in terms of the violence and the horror, we don't have time for tone. [timer sounds] We have to go out and get the job done. [applause] ",
+        " Yes, I'm sure it was. ",
+        " So, if it weren't for me, you wouldn't even be talking about illegal immigration, Chris. You wouldn't even be talking about it. [applause] This was not a subject that was on anybody's mind until I brought it up at my announcement. And I said, Mexico is sending. Except the reporters, because they're a very dishonest lot, generally speaking, in the world of politics, they didn't cover my statement the way I said it. The fact is, since then, many killings ,murders, crime, drugs pouring across the border, are money going out and the drugs coming in. And I said we need to build a wall, and it has to be built quickly. And I don't mind having a big beautiful door in that wall so that people can come into this country legally. But we need, Jeb, to build a wall, we need to keep illegals out. [cheering and applause] ",
+        " A complete disaster, yes. ",
+        " First of all, I'd like to just go back to one. In July of 2004, I came out strongly against the war with Iraq, because it was going to destabilize the Middle East. And I'm the only one on this stage that knew that and had the vision to say it. And that's exactly what happened. ",
+        " I'm not -- I'm not are -- I don't think you heard me. You're having a hard time tonight. ",
+        " And that's a broken system. UNIDENTIFIED ",
+        " Well, I'll tell you what, with Hillary Clinton, I said be at my wedding and she came to my wedding. You know why? She didn't have a choice because I gave. I gave to a foundation that, frankly, that foundation is supposed to do good. I didn't know her money would be used on private jets going all over the world. It was. But...[timer sounds] [crosstalk] ",
+        " Thank you. "
+      ],
+      "personalIssues": {
+        "Immigration Reform": "0.04",
+        "Second Amendment Rights": "0.00",
+        "Tax Reform": "0.00"
+      },
+      "averageWordUsage": {
+        "say": "0.0180",
+        "want": "0.0194",
+        "But": "0.0152",
+        "know": "0.0152",
+        "country": "0.0166",
+        "applause": "0.0180",
+        "people": "0.0166",
+        "don": "0.0207",
+        "And": "0.0526",
+        "good": "0.0097",
+        "like": "0.0124",
+        "need": "0.0138",
+        "tell": "0.0124",
+        "You": "0.0097",
+        "going": "0.0124",
+        "just": "0.0097",
+        "great": "0.0111"
       }
     }
-  ]
+  }
 }
