@@ -59,6 +59,7 @@ _.each(debates, function(debate) {
   var collectiveUsedWords = {};
   var collectiveUniqueWords = [];
   var totalEstimatedTime = 0;
+  var totalUniqueWords = 0;
 
   var data = _.mapValues(debate.participants, function(participant) {
     stats = _.reduce(analysers, function(output, analyser) {
@@ -72,6 +73,12 @@ _.each(debates, function(debate) {
       return _.set(output, analyser.name, value);
     }, {});
 
+    totalEstimatedTime += parseFloat(stats.speakingTime);
+    totalUniqueWords += stats.uniqueWords.length;
+    collectiveTotalWords += _.reduce(stats.usedWords, function(total, val) {
+      return total + (val || 0);
+    }, 0);
+
     _.each(exclude, function(name) {
       delete stats[name];
     });
@@ -79,38 +86,33 @@ _.each(debates, function(debate) {
     delete stats.include;
 
     return _.mapValues(stats, function(val, k) {
-      if(k === 'uniqueWords') {
-        return {
-          total: val.length,
-          mostUnique: val.slice(0, 20)
-        };
+      switch(k) {
+        case 'uniqueWords':
+          return {
+            total: val.length,
+            mostUnique: val.slice(0, 20)
+          };
+        default:
+          if(_.isObject(val)) {
+            if(_.isNumber(_.values(val)[0])) {
+              return limiters.numberDict(val, RESULT_LIMIT);
+            }
+          }
+
+          if(_.isArray(val)) return val.slice(0, RESULT_LIMIT);
+
+          return val;
       }
-
-      if(_.isObject(val)) {
-        if(_.isNumber(_.values(val)[0])) {
-          return limiters.numberDict(val, RESULT_LIMIT);
-        }
-      }
-
-      if(_.isArray(val)) return val.slice(0, RESULT_LIMIT);
-
-      return val;
     });
   });
-  
+
   fs.writeFileSync(
     path.join(REPORTS_PATH, _.kebabCase(debate.name.replace('#', '-') + '-' + debate.date) + '.json'),
     JSON.stringify({
       name: debate.name,
       estimatedLength: totalEstimatedTime,
       totalWordsSpoken: collectiveTotalWords,
-      mostUniqueWords: _.map(
-        _.sortBy(
-          _.map(collectiveUniqueWords, function(val, key) { return [val, key]; }),
-          function(data) { return collectiveUsedWords[data[0]]; }
-        ).slice(0,40),
-        _.first
-      ),
+      totalUniqueWords: totalUniqueWords,
       candidates: data
     }, null, 2)
   );
