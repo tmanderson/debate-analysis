@@ -25,6 +25,8 @@ var sentenceTokenizer = require('./src/tokenizers').sentence;
 var Debate = require('./src/debate');
 
 var dictionaries = require('./src/dictionaries');
+var tokenizers = require('./src/tokenizers');
+var analysers = require('./src/analysers');
 var limiters = require('./src/limiters');
 var filters = require('./src/filters');
 
@@ -40,80 +42,80 @@ function getNormalizedCandidateName(value) {
   });
 }
 
-var analysers = [
-  require('./src/analysers/total-words'),
-  require('./src/analysers/used-words'),
-  require('./src/analysers/unique-words'),
-  require('./src/analysers/callouts'),
-  require('./src/analysers/audience-reception'),
-  require('./src/analysers/speaking-time'),
-  require('./src/analysers/emotional-lines'),
-  require('./src/analysers/personal-issues'),
-  require('./src/analysers/average-words')
-];
+_.mixin({
+  filterValues: function(object, predicate) {
+    var output = _.clone(object);
+
+    _.each(object, function(val, key, object) {
+      if((predicate && !predicate(val, key, object)) ||
+        (val === null || val === undefined || _.isArray(val) && !val.length)) {
+        delete output[key];
+      }
+    });
+
+    return output;
+  },
+
+  sortByValue: function(object, iteratee, limit, dir, thisArg) {
+    if(_.isNumber(iteratee)) {
+      thisArg = dir;
+      dir = limit;
+      limit = iteratee;
+      iteratee = null;
+    }
+    else if(_.isString(iteratee)) {
+      thisArg = limit;
+      dir = iteratee;
+    }
+
+    _.zipObject(
+        _.sortBy(
+          _.pairs(object), function(pair) {
+            return iteratee && iteratee.apply(this, pair.reverse()) : pair[1];
+          }, thisArg || this
+        )
+      ).slice(0, limit)
+    }
+  }
+});
+
+function writeJSONSync(path, obj) {
+  return fs.writeFileSync(path, JSON.stringify(obj, null, 2));
+}
 
 _.each(debates, function(debate) {
-  var value, stats, exclude = [];
-  
-  var collectiveTotalWords = 0;
-  var collectiveUsedWords = {};
-  var collectiveUniqueWords = [];
-  var totalEstimatedTime = 0;
-  var totalUniqueWords = 0;
+  var stats = {
+    name: debate.name,
+    
+    estimatedLength: 0,
+    totalWordsSpoken: 0,
+    totalUniqueWords: 0,
+    words: []
+  };
 
-  var data = _.mapValues(debate.participants, function(participant) {
-    stats = _.reduce(analysers, function(output, analyser) {
-      value = analyser.call(output, participant.lines, participant);
-      
-      if(output.include === false) {
-        exclude.push(analyser.name);
-        output.include = true;
-      }
+  debate
+    .tokenize(tokenizers.sentences)
+    .analyse(analysers);
 
-      return _.set(output, analyser.name, value);
-    }, {});
-
-    totalEstimatedTime += parseFloat(stats.speakingTime);
-    totalUniqueWords += stats.uniqueWords.length;
-    collectiveTotalWords += _.reduce(stats.usedWords, function(total, val) {
-      return total + (val || 0);
-    }, 0);
-
-    _.each(exclude, function(name) {
-      delete stats[name];
-    });
-
-    delete stats.include;
-
-    return _.mapValues(stats, function(val, k) {
-      switch(k) {
-        case 'uniqueWords':
-          return {
-            total: val.length,
-            mostUnique: val.slice(0, 20)
-          };
-        default:
-          if(_.isObject(val)) {
-            if(_.isNumber(_.values(val)[0])) {
-              return limiters.numberDict(val, RESULT_LIMIT);
-            }
-          }
-
-          if(_.isArray(val)) return val.slice(0, RESULT_LIMIT);
-
-          return val;
-      }
-    });
-  });
-
-  fs.writeFileSync(
+  writeJSONSync(
     path.join(REPORTS_PATH, _.kebabCase(debate.name.replace('#', '-') + '-' + debate.date) + '.json'),
-    JSON.stringify({
-      name: debate.name,
-      estimatedLength: totalEstimatedTime,
-      totalWordsSpoken: collectiveTotalWords,
-      totalUniqueWords: totalUniqueWords,
-      candidates: data
-    }, null, 2)
+    _.extend(stats, {
+      candidates: _.mapValues(debate.participants, function(participant) {
+        return _.filterValues(
+          _.reduce(analysers, function(data, a) {
+            _.set(data.output, a.name, a(data.context));
+            return data;
+          }, {
+            context: {
+              debate: stats,
+              participant: participant,
+              lines: participant.lines,
+              sentences: _.flatten(_.map(participant.lines, tokenizers.sentence))
+            },
+            output: {}
+          }).output
+        );
+      })
+    })
   );
 });

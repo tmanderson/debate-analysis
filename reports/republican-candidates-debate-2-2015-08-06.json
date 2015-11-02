@@ -1,35 +1,36 @@
 {
   "name": "Republican  Candidates Debate #2",
-  "estimatedLength": 59.93000000000001,
-  "totalWordsSpoken": 11386,
-  "totalUniqueWords": 5093,
+  "estimatedLength": "08.146.077.466.737.245.238.0411.02",
+  "totalWordsSpoken": 0,
+  "totalUniqueWords": 0,
+  "words": [],
   "candidates": {
     "bush": {
       "totalWords": 8308,
       "uniqueWords": {
-        "total": 692,
-        "mostUnique": [
-          "Absolutely",
+        "leastUsed": [
+          "absolutely",
           "heart",
           "earn",
-          "Maybe",
+          "maybe",
           "barrier",
           "bar",
           "record",
           "dad",
           "certainly",
           "brother",
-          "In",
-          "Jeb",
+          "jeb",
           "year",
           "totaling",
           "balanced",
-          "9",
           "keep",
-          "Veto",
-          "Corleone",
-          "vetoed"
-        ]
+          "veto",
+          "corleone",
+          "vetoed",
+          "separate",
+          "line"
+        ],
+        "totalUniqueWords": 523
       },
       "callouts": {
         "hillary clinton": [
@@ -43,35 +44,56 @@
       },
       "speakingTime": "8.14",
       "emotionalLines": [
-        "I'm proud of my dad, and I'm certainly proud of my brother.",
-        "It is ridiculous and tragic...",
-        null,
-        "...I remember, Megyn.",
-        "And, every one of them said that their child did not die in vain, or their wife, of their husband did not die in vain.",
-        "And Florida's low income kids had the greatest gains inside the country.",
-        "Children are going to suffer and families' hearts are going to be broken that their kids wo n't be able to get a job in the 21st Century.",
-        "We've created rules and taxes on top of every aspiration of people, and the net result is we're not growing fast, income's not growing.",
-        "None of which is true.",
         "We're going to win when we unite people with a hopeful, optimistic message.",
-        "I believe we're at the verge of the greatest time to be alive in this world."
+        "And, every one of them said that their child did not die in vain, or their wife, of their husband did not die in vain.",
+        "I want to win.",
+        "And Florida's low income kids had the greatest gains inside the country.",
+        "It is ridiculous and tragic...",
+        "I believe we're at the verge of the greatest time to be alive in this world.",
+        "That's how we're going to win.",
+        "We're not going on win by doing what Barack Obama and Hillary Clinton do each and every day.",
+        "We've created rules and taxes on top of every aspiration of people, and the net result is we're not growing fast, income's not growing.",
+        "And I think rather than talking about this as a wedge issue, which Barack Obama has done now for six long years, the next president -- and I hope to be that president -- will fix this once and for all so that we can turn this into a driver for high sustained economic growth.",
+        "I'm proud of my dad, and I'm certainly proud of my brother.",
+        "We can grow economically and restore America's leadership in the world, so that everybody has a chance to rise up.",
+        "[ applause ] You embrace the energy revolution in our country.",
+        "You get rid of Obamacare and replace it with something that does n't suppress wages and kill jobs.",
+        "I think we need to lift our spirits and have high, lofty expectations for this great country of ours.",
+        "Children are going to suffer and families' hearts are going to be broken that their kids wo n't be able to get a job in the 21st Century.",
+        "And if states want to opt out of Common Core, fine.",
+        "So I -- I've written a book about this and yet this week, I did come up with a comprehensive strategy that -- that really mirrored what we said in the book, which is that we need to deal with E-Verify, we need to deal with people that come with a legal visa and overstay.",
+        "Absolutely, I do, and I'm gon na run hard, run with heart, and run to win.",
+        "Thank you all very much."
       ],
       "personalIssues": {
         "Defeating ISIS": "0.05",
         "Additional Materials On This Policy:": "0.00"
       },
       "averageWordUsage": {
-        "applause": "0.0116",
-        "And": "0.0159",
-        "people": "0.0202",
-        "need": "0.0130",
-        "country": "0.0145"
+        "win": "0.0096",
+        "florida": "0.0115",
+        "states": "0.0096",
+        "applause": "0.0153",
+        "created": "0.0096",
+        "left": "0.0115",
+        "state": "0.0115",
+        "way": "0.0096",
+        "people": "0.0268",
+        "want": "0.0096",
+        "need": "0.0172",
+        "country": "0.0191",
+        "president": "0.0096",
+        "high": "0.0115",
+        "economic": "0.0096",
+        "standards": "0.0096",
+        "world": "0.0096",
+        "going": "0.0115"
       }
     },
     "carson": {
       "totalWords": 6040,
       "uniqueWords": {
-        "total": 514,
-        "mostUnique": [
+        "leastUsed": [
           "could",
           "issue",
           "debate",
@@ -92,7 +114,8 @@
           "rapidly",
           "experience",
           "from"
-        ]
+        ],
+        "totalUniqueWords": 402
       },
       "callouts": {},
       "audienceReception": {
@@ -101,15 +124,26 @@
       },
       "speakingTime": "6.07",
       "emotionalLines": [
-        "But I will say, we have a debate here tonight, and we will have an opportunity to explore those areas, and I'm looking very much forward to demonstrating that, in fact, the thing that is probably most important is having a brain, and to be able to figure things out and learn things very rapidly.",
-        "Well, thank you, Megyn, I was n't sure I was going to get to talk again.",
-        "And -- and what we have to remember is we want to utilize the tremendous intellect that we have in the military to win wars.",
-        "And the one that I've advocated is based on tithing, because I think God is a pretty fair guy.",
-        "And I have a lot more to say about it.",
+        "[ laughter ] But I -- but I'm very hopeful that I'm not the only one who's willing to pick up the baton of freedom, because freedom is not free, and we must fight for it every day.",
         "If I was trying to destroy this country, what I would do is find a way to drive wedges between all the people, drive the debt to an unsustainable level, and then step off the stage as a world leader and let our enemies increase while we decreased our capacity as a military person.",
-        "You know, in a situation like that, of course Obama's not going to be able to do anything.",
+        "And -- and what we have to remember is we want to utilize the tremendous intellect that we have in the military to win wars.",
+        "And she counts on the fact that people are uninformed, the Alinsky Model, taking advantage of useful idiots.",
+        "And the one that I've advocated is based on tithing, because I think God is a pretty fair guy.",
+        "But I will say, we have a debate here tonight, and we will have an opportunity to explore those areas, and I'm looking very much forward to demonstrating that, in fact, the thing that is probably most important is having a brain, and to be able to figure things out and learn things very rapidly.",
+        "There is no such thing as a politically correct war.",
+        "So, you know, experience comes from a large number of different arenas, and America became a great nation early on not because it was flooded with politicians, but because it was flooded with people who understood the value of personal responsibility, hard work, creativity, innovation, and that's what will get us on the right track now, as well.",
         "And those who want to destroy us are trying to divide us, and we should n't let them do it.",
-        "[ laughter ] But I -- but I'm very hopeful that I'm not the only one who's willing to pick up the baton of freedom, because freedom is not free, and we must fight for it every day."
+        "strength as a nation comes in our unity.",
+        "[ applause ]...our",
+        "[ applause ] Because...",
+        "You know, we have the purveyors of hatred who take every single incident between people of two races and try to make a race war out of it, and drive wedges into people.",
+        "Well, I think the bully pulpit is a wonderful place to start healing that divide.",
+        "You know, in a situation like that, of course Obama's not going to be able to do anything.",
+        "You know, you look at the -- the national debt and how it's being driven up.",
+        "[ applause ] And the way I will come at it is to educate people, help people to actually understand that it is that progressive movement that is causing them the problems.",
+        "Well, I just happen to believe that people are not stupid.",
+        "If Hillary is the candidate, which I doubt, that would be a dream come true.",
+        "So there must be something inherently fair about that."
       ],
       "personalIssues": {
         "The American People Deserve a Better Tax Code": "0.17",
@@ -124,46 +158,47 @@
         "Protecting Innocent Life": "0.00"
       },
       "averageWordUsage": {
-        "Well": "0.0117",
-        "don": "0.0136",
-        "know": "0.0214",
-        "people": "0.0175",
-        "applause": "0.0214",
-        "You": "0.0156",
-        "And": "0.0389",
-        "doesn": "0.0097",
-        "military": "0.0097",
-        "think": "0.0097",
-        "said": "0.0097",
-        "make": "0.0097"
+        "don": "0.0174",
+        "say": "0.0100",
+        "know": "0.0274",
+        "people": "0.0224",
+        "going": "0.0100",
+        "applause": "0.0274",
+        "need": "0.0100",
+        "doesn": "0.0124",
+        "believe": "0.0100",
+        "military": "0.0124",
+        "think": "0.0124",
+        "said": "0.0124",
+        "make": "0.0124"
       }
     },
     "christie": {
       "totalWords": 7532,
       "uniqueWords": {
-        "total": 695,
-        "mostUnique": [
+        "leastUsed": [
           "think",
           "should",
           "seen",
           "laught",
           "become",
-          "Governor",
-          "zero",
           "net",
           "job",
           "growth",
-          "Zero",
-          "For",
-          "So",
           "deficit",
-          "800",
           "programs",
           "balance",
           "vetoed",
           "during",
-          "business"
-        ]
+          "business",
+          "regulation",
+          "third",
+          "predecessor",
+          "place",
+          "since",
+          "hundred"
+        ],
+        "totalUniqueWords": 477
       },
       "callouts": {},
       "audienceReception": {
@@ -172,24 +207,26 @@
       },
       "speakingTime": "7.46",
       "emotionalLines": [
-        "We came in, we balanced an $ 11 billion deficit on a $ 29 billion budget by cutting over 800 programs in the state budget.",
         "And I'll tell you why : because I'm the only person on this stage who's actually filed applications under the Patriot Act, who has gone before the federal -- the Foreign Intelligence Service court, who has prosecuted and investigated and jailed terrorists in this country after September 11th.",
-        "Megyn, that's a -- that, you know, that's a completely ridiculous answer.",
-        "What are you supposed to..",
-        "...how are you supposed to -- no, I'll tell you how you, look..",
-        "Let me tell you something, you go..",
-        "When you -- you know, senator...",
-        "[ applause ] When you're responsible for protecting the lives of the American people, then what you need to do is to make sure..",
-        "...is to make sure that you use the system the way it's supposed to work.",
-        "There is no...",
-        "Those are the hugs I remember, and those had nothing to do -- and those had nothing to do with politics, unlike what you're doing by cutting speeches on the floor of the Senate, then putting them on the Internet within half an hour to raise money for your campaign..",
-        "...and while still putting our country at risk.",
-        "You know what, Megyn, can I..",
-        "If we do n't deal with this problem, it will bankrupt our country, or lead to massive tax increases, neither one that we want in this country.",
-        null,
+        "This president has had weak leadership, which has led to bad choices.",
         "We need to go at the fundamental problem, and the fundamental problem is that this system is broken.",
         "Those are the things that we need to start working on immediately to make our country stronger and make it better.",
-        "This president has had weak leadership, which has led to bad choices."
+        "The first thing we need to do to make America stronger is to strengthen our military, and I put out a really specific plan : no less than 500,000 active duty soldiers in the Army.",
+        "If we do n't deal with this problem, it will bankrupt our country, or lead to massive tax increases, neither one that we want in this country.",
+        "Secondly, we would means test Social Security for those who are making over $ 200,000 dollars a year in retirement income, and have $ 4 to $ 5 million dollars in liquid assets saved.",
+        "[ applause ] When you're responsible for protecting the lives of the American people, then what you need to do is to make sure..",
+        "My dad came home from serving in the Army after having lost his father, worked in the Breyers ice cream plant in Newark, New Jersey.",
+        "But I absolutely believe that Israel is a priority to be able to fund and keep them strong and safe after eight years of this administration.",
+        "Those are the kind of things that are going to send a clear message around the world.",
+        "Social Security is meant to be -- to make sure that no one who's worked hard, and played by the rules, and paid into the system grows old in poverty in America.",
+        "Yes, we'd raise the retirement age two years, and phase it in over 25 years, that means we'd raise it one month a year for 25 years when we're all living longer, and living better lives.",
+        "No, he's not lying, he's just wrong.",
+        "...how are you supposed to -- no, I'll tell you how you, look..",
+        "Megyn, that's a -- that, you know, that's a completely ridiculous answer.",
+        "We lost friends of ours in the Trade Center that day.",
+        "We came in, we balanced an $ 11 billion deficit on a $ 29 billion budget by cutting over 800 programs in the state budget.",
+        "In the eight years before I became Governor, spending was increased 56 percent, and in the eight years before I became governor, there was zero net private sector job growth in New Jersey.",
+        "If you think it's bad now, you should've seen it when I got there."
       ],
       "personalIssues": {
         "Border Security and Immigration": "0.13",
@@ -201,26 +238,33 @@
         "Criminal Justice": "0.00"
       },
       "averageWordUsage": {
-        "years": "0.0187",
-        "governor": "0.0115",
-        "state": "0.0115",
-        "And": "0.0158",
-        "make": "0.0101",
-        "know": "0.0129",
-        "need": "0.0101"
+        "applause": "0.0126",
+        "years": "0.0273",
+        "governor": "0.0189",
+        "state": "0.0168",
+        "new": "0.0105",
+        "jersey": "0.0105",
+        "tell": "0.0105",
+        "country": "0.0126",
+        "make": "0.0147",
+        "people": "0.0126",
+        "megyn": "0.0105",
+        "know": "0.0189",
+        "senator": "0.0105",
+        "need": "0.0147",
+        "retirement": "0.0105",
+        "don": "0.0126"
       }
     },
     "huckabee": {
       "totalWords": 6832,
       "uniqueWords": {
-        "total": 638,
-        "mostUnique": [
-          "Chris",
+        "leastUsed": [
+          "chris",
           "idea",
           "real",
           "issue",
           "constitutional",
-          "amendment",
           "long",
           "difficult",
           "actually",
@@ -234,8 +278,10 @@
           "game",
           "changer",
           "something",
-          "bold"
-        ]
+          "bold",
+          "next"
+        ],
+        "totalUniqueWords": 469
       },
       "callouts": {
         "hillary clinton": [
@@ -248,16 +294,26 @@
       },
       "speakingTime": "6.73",
       "emotionalLines": [
-        "It's time that we recognize the Supreme Court is not the Supreme Being, and we change the policy to be pro-life and protect children instead of rip up their body parts and sell them like they're parts to a Buick.",
-        "Not me. [ laughter ] But you're welcome to give me a check, Donald if you'd like.",
-        "[ cheering and applause ] And I'm still one who says that we can get rid of the Internal Revenue Service if we would pass the FairTax, which is a tax on consumption rather than a tax on people's income, and move power back where the founders believed it should have been all along.",
-        "And, if Congress wants to mess with the retirement program, why do n't we let them start by changing their retirement program, and not have one, instead of talking about getting rid of Social Security and Medicare that was robbed $ 700 billion dollars to pay for Obamacare.",
+        "I'll be my best to do that, and thank you for your support.",
         "Most of the income in this country is made by people at the top who get dividends and -- and capital gains.",
-        "\" He trusts our enemies and vilifies everyone who disagrees with him.",
-        "\" What the Iranians have said is,\" we will wipe Israel off the face of the map, and we will bring death to America.",
-        "The purpose of it is to make sure that we protect every American, wherever that American is, and if an American is calling out for help, whether it's in Benghazi or at the border, then we ought to be able to answer it.",
+        "[ cheering and applause ] And I'm still one who says that we can get rid of the Internal Revenue Service if we would pass the FairTax, which is a tax on consumption rather than a tax on people's income, and move power back where the founders believed it should have been all along.",
+        "It was the federal government, who continually put mandates on the states that we had to suck up and pay for.",
+        "Not me. [ laughter ] But you're welcome to give me a check, Donald if you'd like.",
         "A person who has been filled with scandals, and who could not lead, and, of course, I'm talking about Hillary Clinton.",
-        "I'll be my best to do that, and thank you for your support."
+        "The purpose of it is to make sure that we protect every American, wherever that American is, and if an American is calling out for help, whether it's in Benghazi or at the border, then we ought to be able to answer it.",
+        "under President Obama. The disaster is that we've forgotten why we have a military.",
+        "The purpose of the military is kill people and break things.",
+        "And, if Congress wants to mess with the retirement program, why do n't we let them start by changing their retirement program, and not have one, instead of talking about getting rid of Social Security and Medicare that was robbed $ 700 billion dollars to pay for Obamacare.",
+        "It's time that we recognize the Supreme Court is not the Supreme Being, and we change the policy to be pro-life and protect children instead of rip up their body parts and sell them like they're parts to a Buick.",
+        "...is in trouble, but it's not beyond repair.",
+        "It seems like this election has been a whole lot about a person who's very high in the polls, that does n't have a clue about how to govern.",
+        "[ applause ]...",
+        "[ applause ] It's not to transform the culture by trying out some ideas that some people think would make us a different country and more diverse.",
+        "\" What the Iranians have said is,\" we will wipe Israel off the face of the map, and we will bring death to America.",
+        "The world has a burgeoning nuclear power that did n't, as the Soviets, say\" we might defend ourselves in a war.",
+        "I'll tell you what the world got.",
+        "\" He trusts our enemies and vilifies everyone who disagrees with him.",
+        "[ applause ] That's why it ought to be a transformed system."
       ],
       "personalIssues": {
         "Get Involved. Join Mike's campaign for President.": "0.07",
@@ -268,23 +324,24 @@
         "Endorse Mike": "0.00"
       },
       "averageWordUsage": {
-        "people": "0.0172",
-        "The": "0.0204",
-        "And": "0.0125",
-        "applause": "0.0157",
-        "government": "0.0110",
-        "Social": "0.0094",
-        "Security": "0.0094"
+        "people": "0.0235",
+        "think": "0.0107",
+        "person": "0.0107",
+        "applause": "0.0213",
+        "government": "0.0149",
+        "social": "0.0149",
+        "security": "0.0128",
+        "country": "0.0107",
+        "got": "0.0107",
+        "military": "0.0107"
       }
     },
     "kasich": {
       "totalWords": 7122,
       "uniqueWords": {
-        "total": 624,
-        "mostUnique": [
+        "leastUsed": [
           "should",
-          "President",
-          "Reagan",
+          "reagan",
           "expanded",
           "three",
           "four",
@@ -295,14 +352,16 @@
           "back",
           "mentally",
           "ill",
-          "Ten",
           "thousand",
           "sit",
-          "22",
-          "500",
           "year",
-          "prison"
-        ]
+          "prison",
+          "rather",
+          "medication",
+          "decent",
+          "rehabbing"
+        ],
+        "totalUniqueWords": 436
       },
       "callouts": {
         "chris christie": [
@@ -319,16 +378,25 @@
       },
       "speakingTime": "7.24",
       "emotionalLines": [
-        "And, finally, the working poor, instead of them having come into the emergency rooms where it costs more, where they're sicker and we end up paying, we brought a program in here to make sure that people could get on their feet.",
-        "People are frustrated. They're fed up.",
-        "They want to see an end to illegal immigration.",
-        "Donald, if you...",
-        "-- this campaign, I hope you will give to me.",
-        null,
-        "But once you have economic growth, it is important that we reach out to people who live in the shadows, the people who do n't seem to ever think that they get a fair deal.",
-        "Well, look, I'm an old-fashioned person here, and I happen to believe in traditional marriage.",
         "I think the simple fact of the matter is, and this is where I would agree with Jeb, and I've been saying it all along, we need to give everybody a chance, treat everybody with respect, and let them share in this great American dream that we have, Megan.",
+        "But once you have economic growth, it is important that we reach out to people who live in the shadows, the people who do n't seem to ever think that they get a fair deal.",
+        "So, look, I'm going to love my daughters, I'm going to love them no matter what they do.",
+        "[ applause ] So the issues like that, issues like that are planted to divide us.",
         "But because of how we respect human rights, because that we are a good force in the world, he wants America to be strong.",
+        "[ applause ] That's what we're taught when we have strong faith.",
+        "Because somebody does n't think the way I do, does n't mean that I ca n't care about them or ca n't love them.",
+        "I was the chairman of the Budget Committee and the lead architect the last time it happened in Washington, and when we did it we had great economic growth, we cut taxes, and we had a big surplus.",
+        "The nominee of this party, if they're going to win, has got to come at it in a big way, which is pro-growth.",
+        "A movement to do things like provide economic growth.",
+        "[ cheering and applause ] I do believe in miracles.",
+        "And their son today stands on this podium in the great state of Ohio not only as the governor, but a candidate for president of the United States.",
+        "Because, you know what, [ timer sounds ] God gives me unconditional love.",
+        "So if one of my daughters happened to be that, of course I would love them and I would accept them.",
+        "You know, America is a miracle country.",
+        "And, finally, the working poor, instead of them having come into the emergency rooms where it costs more, where they're sicker and we end up paying, we brought a program in here to make sure that people could get on their feet.",
+        "And nothing is more important to me than my family, my faith, and my friends.",
+        "We've got to unite our country again, because we're stronger when we are united and we are weaker when we are divided.",
+        "Each and every one of the people in this country who's watching tonight, lift everybody, [ timer sounds ] unite everybody and build a stronger United States of America again.",
         "And we turned it all around with jobs and balanced budgets and rising credit and tax cuts, and the state is unified, and people have hope again in Ohio."
       ],
       "personalIssues": {
@@ -342,44 +410,56 @@
         "EDUCATION": "0.00"
       },
       "averageWordUsage": {
-        "applause": "0.0128",
-        "know": "0.0176",
-        "people": "0.0224",
-        "country": "0.0128",
-        "And": "0.0272",
-        "going": "0.0096",
-        "want": "0.0096",
-        "You": "0.0112",
-        "But": "0.0112",
-        "growth": "0.0096"
+        "applause": "0.0183",
+        "know": "0.0252",
+        "ohio": "0.0115",
+        "people": "0.0367",
+        "everybody": "0.0138",
+        "country": "0.0183",
+        "billion": "0.0115",
+        "timer": "0.0092",
+        "sounds": "0.0092",
+        "donald": "0.0092",
+        "trump": "0.0092",
+        "going": "0.0138",
+        "think": "0.0115",
+        "want": "0.0138",
+        "got": "0.0092",
+        "budget": "0.0092",
+        "state": "0.0092",
+        "growth": "0.0138",
+        "economic": "0.0115",
+        "america": "0.0115",
+        "love": "0.0115",
+        "movement": "0.0092"
       }
     },
     "paul": {
       "totalWords": 5256,
       "uniqueWords": {
-        "total": 464,
-        "mostUnique": [
-          "This",
+        "leastUsed": [
           "mean",
           "buys",
           "sells",
           "stripes",
-          "Hey",
+          "hey",
           "bet",
-          "Clintons",
-          "OK",
+          "clintons",
           "doesn",
           "run",
           "supports",
           "runs",
-          "d",
           "bets",
           "used",
           "buying",
-          "First",
+          "first",
           "terrorism",
-          "Only"
-        ]
+          "depravity",
+          "examine",
+          "defeat",
+          "proposal"
+        ],
+        "totalUniqueWords": 367
       },
       "callouts": {
         "hillary clinton": [
@@ -393,26 +473,26 @@
       },
       "speakingTime": "5.23",
       "emotionalLines": [
-        "This is what's wrong !",
-        "I mean, this is what's wrong.",
-        "So if he does n't run as a Republican, maybe he supports Clinton, or maybe he runs as an independent..",
-        "...but I'd say that he's already hedging his bets because he's used to buying politicians.",
-        "So, we did n't create ISIS -- ISIS created themselves, but we will stop them, and one of the ways we stop them is by not funding them, and not arming them.",
-        "[ applause ] May I respond?",
-        "John Adams said it was the spark that led to our war for independence, and I'm proud of standing for the Bill of Rights, and I will continue to stand for the Bill of Rights.",
-        "Use the Fourth Amendment !",
-        "Use the Fourth Amendment !",
-        "Get a warrant !",
-        "Get a judge to sign the warrant !",
-        "See, here's the problem.",
-        "You fundamentally misunderstand the Bill of Rights.",
         "I know you gave him a big hug, and if you want to give him a big hug again, go right ahead.",
-        "I've got a news flash..",
-        "News flash, the Republican Party's been fighting against a single-payer system..",
-        "So I think you're on the wrong side of this if you're still arguing for a single-payer system.",
+        "I've been to Ferguson, I've been to Baltimore, because I want our party to be bigger, better and bolder, and I'm the only one that leads Hillary Clinton in five states that were won by President Obama.",
+        "Out of your surplus, you can help your allies, and Israel is a great ally.",
+        "Each one of my budgets has taken a meat axe to foreign aid, because I think we ought to quit sending it to countries that hate us.",
+        "I'm a different kind of Republican.",
+        "[ applause ] But I've also gone to Chicago.",
+        "I stood for ten and a half hours on the Senate floor to defend your right to be left alone.",
+        "I'm a different kind of Republican.",
+        "We should n't borrow money from China to send it anywhere, but why do n't we start with eliminating aid to our enemies.",
+        "But even Benjamin Netanyahu said that ultimately, they will be stronger when they're independent.",
+        "[ applause ] I think we ought to quit sending it to countries that burn our flag.",
         "But you have to negotiate from a position of strength, and I think President Obama gave away too much, too early.",
-        "And if people have an opinion, it's a religious opinion that is heartly felt, obviously they should be allowed to practice that and no government should interfere with them.",
-        "Well, let's be clear, I'm the only one on the stage who actually has a five-year budget that balances."
+        "I do n't think that the president negotiated from a position of strength, but I do n't immediately discount negotiations.",
+        "So I think you're on the wrong side of this if you're still arguing for a single-payer system.",
+        "You fundamentally misunderstand the Bill of Rights.",
+        "Here's the problem, governor.",
+        "Here's the problem, governor.",
+        "See, here's the problem.",
+        "[ applause ] May I respond?",
+        "So, we did n't create ISIS -- ISIS created themselves, but we will stop them, and one of the ways we stop them is by not funding them, and not arming them."
       ],
       "personalIssues": {
         "Israel": "0.09",
@@ -437,21 +517,27 @@
         "Ending NSA Spying": "0.00"
       },
       "averageWordUsage": {
-        "ISIS": "0.0172",
-        "got": "0.0129",
-        "applause": "0.0194",
-        "said": "0.0172",
-        "don": "0.0129",
-        "think": "0.0108"
+        "republican": "0.0109",
+        "say": "0.0109",
+        "isis": "0.0218",
+        "going": "0.0109",
+        "got": "0.0163",
+        "applause": "0.0245",
+        "stop": "0.0109",
+        "want": "0.0109",
+        "records": "0.0109",
+        "said": "0.0218",
+        "don": "0.0163",
+        "president": "0.0109",
+        "think": "0.0136",
+        "opinion": "0.0109"
       }
     },
     "rubio": {
       "totalWords": 8180,
       "uniqueWords": {
-        "total": 743,
-        "mostUnique": [
-          "thank",
-          "Chris",
+        "leastUsed": [
+          "chris",
           "saying",
           "political",
           "process",
@@ -460,17 +546,19 @@
           "speaker",
           "third",
           "diverse",
-          "well",
           "got",
-          "Senate",
+          "senate",
           "cannot",
           "qualified",
           "then",
           "government",
           "longer",
           "anybody",
-          "else"
-        ]
+          "else",
+          "past",
+          "simply"
+        ],
+        "totalUniqueWords": 496
       },
       "callouts": {
         "hillary clinton": [
@@ -484,18 +572,26 @@
       },
       "speakingTime": "8.04",
       "emotionalLines": [
-        "Well, thank you for the question, Chris, and it's great to be here tonight.",
         "There are a million people a year who legally immigrate to the United States, and people feel like we're being taken advantage of.",
-        null,
-        "supported Charlie Crist.",
-        null,
-        "The Department of Education, like every federal agency, will never be satisfied.",
-        "That's a great question.",
-        ", the big companies that have connections with Washington, they can affect policies to help them, but the small companies like the one Tania is talking about, they're the ones that are struggling.The",
-        "Well, Megyn, first of all, I'm not sure that that's a correct assessment of my record.",
-        "[ applause ] And let me go further.",
+        "I run for president because I believe that we ca n't just save the American dream ; we can expand it to reach more people and change more lives than ever before.",
         "And we have honored that blessing.",
-        "I run for president because I believe that we ca n't just save the American dream ; we can expand it to reach more people and change more lives than ever before."
+        "[ laughter ] [ cheering and applause ] And I believe God has blessed our country.",
+        ", the big companies that have connections with Washington, they can affect policies to help them, but the small companies like the one Tania is talking about, they're the ones that are struggling.The",
+        "Well, thank you for the question, Chris, and it's great to be here tonight.",
+        "They came to America because it was the only place where people like them could have a chance.",
+        "And he has blessed us with young men and women willing to risk their lives and sometimes die in uniform for the safety and security of our people.",
+        "The Department of Education, like every federal agency, will never be satisfied.",
+        "[ applause ] And so these are important issues, and we should address it.",
+        "We feel like despite our generosity, we're being taken advantage of.",
+        "And that's why you need an e-verify system and you need an entry-exit tracking system and all sorts of other things to prevent illegal immigration.",
+        "Here's what this election better be about : This election better be about the future, not the past.",
+        "So we can make America greater than it has ever been.",
+        "Here in this country, they never made it big, but the very purpose of their life was to give us the chance to do all the things they never could.",
+        "When I'm president of the United States, we're going to have a VA that cares more about our veterans than about the bureaucrats who work at the VA.",
+        "And that's why God has continued to bless us.",
+        "He has blessed the Republican Party with some very good candidates.",
+        "That's a great question.First",
+        "That's a great question."
       ],
       "personalIssues": {
         "Small Business Owners": "0.25",
@@ -527,20 +623,24 @@
         "Farmers": "0.00"
       },
       "averageWordUsage": {
-        "country": "0.0121",
-        "And": "0.0283",
-        "people": "0.0162",
-        "The": "0.0094",
-        "need": "0.0202",
-        "applause": "0.0121",
-        "small": "0.0094"
+        "let": "0.0101",
+        "country": "0.0181",
+        "people": "0.0262",
+        "need": "0.0302",
+        "years": "0.0101",
+        "applause": "0.0181",
+        "believe": "0.0121",
+        "states": "0.0101",
+        "like": "0.0121",
+        "small": "0.0141",
+        "businesses": "0.0101",
+        "blessed": "0.0101"
       }
     },
     "trump": {
       "totalWords": 10675,
       "uniqueWords": {
-        "total": 723,
-        "mostUnique": [
+        "leastUsed": [
           "cannot",
           "respect",
           "wins",
@@ -551,17 +651,18 @@
           "discussing",
           "leverage",
           "plenty",
-          "Only",
-          "Rosie",
-          "O",
-          "Donnell",
-          "Yes",
+          "rosie",
+          "donnell",
           "sure",
           "problem",
           "politically",
-          "correct",
-          "challenged"
-        ]
+          "challenged",
+          "political",
+          "correctness",
+          "honest",
+          "either"
+        ],
+        "totalUniqueWords": 525
       },
       "callouts": {
         "hillary clinton": [
@@ -574,26 +675,26 @@
       },
       "speakingTime": "11.02",
       "emotionalLines": [
-        "I fully understand.",
-        "I fully understand.",
         "We want to win, and we will win.",
-        "Well, I've given him plenty of money.",
-        "I will not make the pledge at this time.",
-        null,
-        null,
-        "Yes, I'm sure it was.",
-        "[ applause ] But you know what, we -- we need strength, we need energy, we need quickness and we need brain in this country to turn it around.",
-        "And I do n't mind having a big beautiful door in that wall so that people can come into this country legally.",
-        "They do n't want to take care of them.",
-        "A complete disaster, yes.",
-        null,
-        "In July of 2004, I came out strongly against the war with Iraq, because it was going to destabilize the Middle East.",
+        "I have to respect the person that, if it's not me, the person that wins, if I do win, and I'm leading by quite a bit, that's what I want to do.",
+        "Because I have used the laws of this country just like the greatest people that you read about every day in business have used the laws of this country, the chapter laws, to do a great job for my company, for myself, for my employees, for my family, et cetera.I",
+        "We're giving them $ 150 billion dollars plus, they are going to be -- I'll tell you what, if Iran was a stock, you folks should go out and buy it right now because you'll quadruple -- this, what's happening [ timer sounds ] in Iran, is a disgrace, and it's going to lead to destruction in large portions of the world.",
+        "But when you have people that are cutting Christians' heads off, when you have a world that the border and at so many places, that it is medieval times, we've never -- it almost has to be as bad as it ever was in terms of the violence and the horror, we do n't have time for tone.",
         "great plans. And then we have to take care of the people that ca n't take care of themselves.",
-        "You're having a hard time tonight.",
-        "You'd better believe it.",
-        "If I ask them, if I need them, you know, most of the people on this stage I've given to, just so you understand, a lot of money.",
-        "Many of them.",
-        null
+        "And that child today is a total superstar, a great, great child.",
+        "I have a great, great company.",
+        "Sounds good. Sounds good to me, Governor.",
+        "Bergdahl, we get Bergdahl, a traitor, and they get five of the big, great killers leaders that they want.",
+        "I had the good sense, and I've gotten a lot of credit in the financial pages, seven years ago I left Atlantic City before it totally cratered, and I made a lot of money in Atlantic City, and I'm very proud of it.",
+        "These are not the nice, sweet little people that you think, OK?",
+        "And I do n't mind having a big beautiful door in that wall so that people can come into this country legally.",
+        "But I want to win as the Republican.",
+        "We do n't win anymore.",
+        "Out of hundreds of deals that I've done, hundreds, on four occasions I've taken advantage of the laws of this country, like other people.",
+        "[ applause ] But you know what, we -- we need strength, we need energy, we need quickness and we need brain in this country to turn it around.",
+        "And frankly, what I say, and oftentimes it's fun, it's kidding.",
+        "We do n't win anymore.",
+        "We have to end Obamacare, and we have to make our country great again, and I will do that."
       ],
       "personalIssues": {
         "Immigration Reform": "0.04",
@@ -601,23 +702,38 @@
         "Tax Reform": "0.00"
       },
       "averageWordUsage": {
-        "say": "0.0180",
-        "want": "0.0194",
-        "But": "0.0152",
-        "know": "0.0152",
-        "country": "0.0166",
-        "applause": "0.0180",
-        "people": "0.0166",
-        "don": "0.0207",
-        "And": "0.0526",
-        "good": "0.0097",
-        "like": "0.0124",
-        "need": "0.0138",
-        "tell": "0.0124",
-        "You": "0.0097",
-        "going": "0.0124",
-        "just": "0.0097",
-        "great": "0.0111"
+        "say": "0.0248",
+        "win": "0.0114",
+        "want": "0.0267",
+        "make": "0.0095",
+        "know": "0.0210",
+        "lot": "0.0114",
+        "money": "0.0095",
+        "time": "0.0114",
+        "big": "0.0095",
+        "country": "0.0229",
+        "applause": "0.0248",
+        "people": "0.0229",
+        "don": "0.0286",
+        "border": "0.0133",
+        "good": "0.0152",
+        "like": "0.0190",
+        "way": "0.0114",
+        "need": "0.0190",
+        "tell": "0.0171",
+        "right": "0.0095",
+        "said": "0.0095",
+        "world": "0.0095",
+        "going": "0.0171",
+        "just": "0.0133",
+        "company": "0.0114",
+        "timer": "0.0095",
+        "sounds": "0.0133",
+        "great": "0.0152",
+        "years": "0.0095",
+        "laws": "0.0114",
+        "hundreds": "0.0095",
+        "city": "0.0095"
       }
     }
   }

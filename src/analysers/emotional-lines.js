@@ -4,13 +4,10 @@ var _ = require('lodash');
 var sentiment = require('sentiment');
 var tokenizers = require('../tokenizers');
 
-module.exports = function emotionalLines(lines) {
-  return _.map(lines, function(line) {
-    return _.sortBy(
-      tokenizers.sentence(line),
-      function(sentence) {
-        return Math.abs(sentiment(sentence).score);  
-      }
-    ).reverse()[0];
-  });
+var getScore = _.partialRight(_.get, 'score');
+
+module.exports = function emotionalLines(context) {
+  return _.sortBy(context.sentences, function(sentence) {
+    return Math.abs(sentiment(sentence).score);
+  }).reverse().slice(0, 20);
 };

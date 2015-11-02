@@ -1,24 +1,24 @@
 {
   "name": "Republican  Candidates Debate #1",
-  "estimatedLength": 44.269999999999996,
-  "totalWordsSpoken": 8413,
-  "totalUniqueWords": 4128,
+  "estimatedLength": "07.945.747.067.407.188.95",
+  "totalWordsSpoken": 0,
+  "totalUniqueWords": 0,
+  "words": [],
   "candidates": {
     "fiorina": {
       "totalWords": 8124,
       "uniqueWords": {
-        "total": 733,
-        "mostUnique": [
+        "leastUsed": [
           "reminding",
           "previous",
           "presidential",
           "elections",
-          "Jimmy",
-          "Carter",
-          "Ronald",
-          "Reagan",
+          "jimmy",
+          "carter",
+          "ronald",
+          "reagan",
           "neither",
-          "Barack",
+          "barack",
           "started",
           "secretary",
           "became",
@@ -27,9 +27,10 @@
           "largest",
           "company",
           "almost",
-          "90",
-          "billion"
-        ]
+          "billion",
+          "countries"
+        ],
+        "totalUniqueWords": 534
       },
       "callouts": {
         "hillary clinton": [
@@ -48,52 +49,68 @@
       "speakingTime": "7.94",
       "emotionalLines": [
         "Well, I would begin by reminding people that at this point in previous presidential elections, Jimmy Carter could n't win, Ronald Reagan could n't win, Bill Clinton could n't win, and neither could've Barack Obama.",
-        "I think he's tapped into an anger that people feel.",
-        "I do not believe that we need to wholesale destroy every American citizen's privacy in order to go after those that we know are suspect or are -- are already a problem.",
-        "I absolutely would call on them to collaborate and cooperate, yes.",
-        "Yes, our allies are not perfect.",
+        "I am a conservative ; I can win this job, I can do this job, I need your help, I need your support.",
+        "I will, with your help and support, lead the resurgence of this great nation.",
         "But they need to see leadership, support and resolve from the United States of America, and we can help them defeat ISIS.",
-        "They believe some are smarter than others, some are better than others, so some are going to need to take care of others.",
         "It is a unique nation in all of human history and on the face of the planet, because here, our founders believed that everyone has a right to fulfill their potential and that that right --they called it life, liberty, the pursuit of happiness -- comes from God and can not be taken away by government.",
-        "Not trustworthy. No accomplishment.",
-        "I am a conservative ; I can win this job, I can do this job, I need your help, I need your support."
+        "They believe some are smarter than others, some are better than others, so some are going to need to take care of others.",
+        "I do not believe that we need to wholesale destroy every American citizen's privacy in order to go after those that we know are suspect or are -- are already a problem.",
+        "That is the fight we have to have, and we have to undo a whole set of things that President Obama has done that get at the heart of his disrespect and disregard for too many Americans.",
+        "Yes, our allies are not perfect.",
+        "And by the way, as important as those two phone calls are, they are also very important because they say this.",
+        "The first one would be to my good friend, Bibi Netanyahu, to reassure him we will stand with the State of Israel.",
+        "2016 is going to be a fight between conservatism, and a Democrat party that is undermining the very character of this nation.",
+        "can lead the resurgence of this great nation.",
+        "We have arrived at a point in our nation's history where the potential of this nation and too many Americans is being crushed by the weight, the power, the cost, the complexity, the ineptitude, the corruption of the federal government, and only someone who will challenge the status quo of Washington, D.C.",
+        "This is a great nation.",
+        "We need to begin by undoing -- I would begin by undoing a whole set of things that President Obama has done, whether it's illegal amnesty or this latest round of EPA regulations.",
+        "They are not perfect.",
+        "But Iran is at the heart of most of the evil that is going on in the Middle East through their proxies.",
+        "This is a bad deal.",
+        "We need to be very well aware of the fact that China and Russia are using technology to attack us, just as ISIS is using technology to recruit those who would murder American citizens."
       ],
       "personalIssues": {
         "New Possibilities. \n Real Leadership.": "0.13"
       },
       "averageWordUsage": {
-        "know": "0.0109",
-        "nation": "0.0123",
-        "But": "0.0095",
-        "need": "0.0177"
+        "clinton": "0.0094",
+        "obama": "0.0094",
+        "know": "0.0150",
+        "nation": "0.0169",
+        "need": "0.0243",
+        "great": "0.0094",
+        "phone": "0.0094",
+        "just": "0.0094",
+        "say": "0.0094",
+        "going": "0.0094"
       }
     },
     "gilmore": {
       "totalWords": 5953,
       "uniqueWords": {
-        "total": 561,
-        "mostUnique": [
-          "Because",
+        "leastUsed": [
           "policies",
-          "That",
-          "Former",
           "those",
           "offices",
-          "A",
           "fact",
           "from",
           "prospective",
           "running",
           "agent",
-          "Cold",
-          "War",
+          "cold",
           "assigned",
-          "West",
-          "Germany",
+          "west",
+          "germany",
           "dealt",
           "extensively",
-          "homeland"
-        ]
+          "understand",
+          "both",
+          "how",
+          "build",
+          "doing",
+          "built"
+        ],
+        "totalUniqueWords": 379
       },
       "callouts": {
         "hillary clinton": [
@@ -106,33 +123,49 @@
       },
       "speakingTime": "5.74",
       "emotionalLines": [
-        "I was an Army intelligence agent and a veteran during the Cold War, assigned to West Germany.",
-        "We warned about the 9/11 attack before the 9/11 attack occurred.",
-        "And I'm glad that I have a chance to answer this question.",
-        "Bill, I want to say one more thing about..",
-        "Our job has to be to recognize the conflict between the two.",
+        "And second, the international crisis we are facing is most dreadful and most dangerous.",
         "The president has done an executive order with respect to illegal immigration that is illegal.",
+        "Illegal. And it creates a -- a contempt for the law, for the rule of law.",
+        "And I'm glad that I have a chance to answer this question.",
+        "I'll tell them that we're going to grow the economy so that we can give people better opportunities so they do n't have to rely exclusively on benefit types of programs.",
+        "We warned about the 9/11 attack before the 9/11 attack occurred.",
+        "And that's why I've offered a specific program to the people of America tonight to address the fundamental problem of getting our country growing again, getting our economy growing, wages up, opportunities for people.",
         "Professional politician that ca n't be trusted.",
-        "And second, the international crisis we are facing is most dreadful and most dangerous."
+        "If i were the president of the United States, I would go and look at every executive order that exists right now and determine which ones want to be voided, because the president should n't be legislating : not through that vehicle or any other.",
+        "Our job has to be to recognize the conflict between the two.",
+        "I want to -- before my time runs out I want to get back to this issue of ISIS versus Iran.",
+        "\" These are drags on the economy, it's a deliberate drag.",
+        "And first of all, we've got to recognize that there is problem that Barack Obama and Hillary Clinton have caused.",
+        "And we're going to eliminate the death tax.",
+        "We're going to combine all commercial activity in business into one place in the tax code and charge it 15 percent, which is going to suddenly make us competitive with the rest of the world.",
+        "I've had the growth code ( ph ) there for about five years, and it's this specific program.",
+        "Some do, but many Americans are dying to have an opportunity to grow and to create something inside this economy.",
+        "We need to use our technological advantages, because what we've warned of is an international guerrilla movement that threatens this country.",
+        "And I'm going to tell you this, we need to use the benefit of our law enforcement people across this country, combined with our intelligence people across this country.",
+        "I was the governor during the 9/11 attack when the Pentagon was struck."
       ],
       "personalIssues": {},
       "averageWordUsage": {
-        "United": "0.0107",
-        "States": "0.0107",
-        "governor": "0.0143",
-        "economy": "0.0125",
-        "And": "0.0160",
-        "going": "0.0160",
-        "law": "0.0160",
-        "people": "0.0125",
-        "country": "0.0160"
+        "united": "0.0158",
+        "states": "0.0158",
+        "want": "0.0132",
+        "experience": "0.0106",
+        "elected": "0.0106",
+        "governor": "0.0211",
+        "attack": "0.0132",
+        "economy": "0.0185",
+        "going": "0.0237",
+        "law": "0.0237",
+        "people": "0.0185",
+        "country": "0.0237",
+        "tax": "0.0106",
+        "thing": "0.0106"
       }
     },
     "graham": {
       "totalWords": 6824,
       "uniqueWords": {
-        "total": 619,
-        "mostUnique": [
+        "leastUsed": [
           "following",
           "won",
           "science",
@@ -147,13 +180,14 @@
           "clean",
           "use",
           "less",
-          "Over",
           "become",
           "tired",
           "sending",
-          "300",
-          "billion"
-        ]
+          "billion",
+          "buy",
+          "oil"
+        ],
+        "totalUniqueWords": 425
       },
       "callouts": {
         "hillary clinton": [
@@ -170,14 +204,25 @@
       "speakingTime": "7.06",
       "emotionalLines": [
         "I am tired of sending $ 300 billion overseas to buy oil from people who hate our guts.",
-        "And you're not serious about destroying ISIL.",
-        null,
-        "So to the people who are dying for a better America, you better change course, and she does n't represent the change that we need.",
+        "At the end of the day, ladies and gentlemen, our best days are ahead of us only if we work together, and I intend to put this country on a path of success by working together and doing the hard things that should have been done a very long time ago.",
+        "That the Ayatollah is a radical jihadist who really means it when he chants,\" Death to America, death to Israel.",
+        "We need somebody ready to be commander-in-chief on day one, who understands there are no moderates in Iran, they've been killed a long time ago.",
         "I can not tell you how much our nation is threatened and how we need a commander in chief who understands the threats to this nation.",
-        "I would take the fight to these guys, whatever it took, as long as it took.",
+        "So to the people who are dying for a better America, you better change course, and she does n't represent the change that we need.",
         "When I was 22, my dad died.",
-        "Not the change we need at a time we need it.",
-        "At the end of the day, ladies and gentlemen, our best days are ahead of us only if we work together, and I intend to put this country on a path of success by working together and doing the hard things that should have been done a very long time ago."
+        "When I was 21, my mom died.",
+        "We're going to lose Social Security and Medicare if Republicans and Democrats do not come together and find a solution like Ronald Reagan and Tip O'Neill.",
+        "To the 1 percent who have been fighting this war for over a decade, I'd try my best to be a commander-in-chief worthy of your sacrifice.",
+        "I do n't think it's a war on women for all of us as Americans to stand up and stop harvesting organs from little babies.",
+        "Hillary, I'll show you flat broke.",
+        "To all the Americans who want a better life, do n't vote for Hillary Clinton.",
+        "And you're not serious about destroying ISIL.",
+        "A healthy environment, a strong economy and energy independent America -- that would be the purpose of my presidency, is break the strangle hold that people enjoy on fossil fuels who hate our guts.",
+        "\" And this deal is giving him a pathway to a bomb, a missile to deliver it, and money to pay for it all.",
+        "This nation has been great to me, and that's the only way I know to pay you back.",
+        "I would give up some Social Security to save a system that Americans are going to depend on now and in the future.",
+        "Thank you. First thing I'd tell the American people, whatever it takes to defend our nation, I would do.",
+        "Let's take the money that we would give to Planned Parenthood and put it in women's health care without having to harvest the organs of the unborn."
       ],
       "personalIssues": {
         "Securing Our Nation": "0.13",
@@ -185,28 +230,46 @@
         "Securing Our Values": "0.00"
       },
       "averageWordUsage": {
-        "change": "0.0113",
-        "Clinton": "0.0097",
-        "going": "0.0275",
-        "America": "0.0113",
-        "don": "0.0113",
-        "president": "0.0145",
-        "need": "0.0162",
-        "nation": "0.0113",
-        "She": "0.0113"
+        "change": "0.0188",
+        "hillary": "0.0118",
+        "clinton": "0.0141",
+        "economy": "0.0118",
+        "environment": "0.0094",
+        "going": "0.0400",
+        "time": "0.0094",
+        "people": "0.0094",
+        "america": "0.0165",
+        "don": "0.0165",
+        "president": "0.0212",
+        "united": "0.0094",
+        "states": "0.0094",
+        "need": "0.0235",
+        "american": "0.0118",
+        "ground": "0.0094",
+        "iraq": "0.0094",
+        "syria": "0.0118",
+        "isil": "0.0118",
+        "commander": "0.0094",
+        "chief": "0.0094",
+        "know": "0.0094",
+        "nation": "0.0165",
+        "takes": "0.0094",
+        "long": "0.0094",
+        "women": "0.0094",
+        "social": "0.0094",
+        "security": "0.0094"
       }
     },
     "jindal": {
       "totalWords": 7766,
       "uniqueWords": {
-        "total": 736,
-        "mostUnique": [
+        "leastUsed": [
           "thank",
-          "Last",
+          "last",
           "elected",
           "governor",
           "margin",
-          "Martha",
+          "martha",
           "kiss",
           "babies",
           "ribbons",
@@ -215,13 +278,14 @@
           "popular",
           "why",
           "generational",
-          "26",
           "percent",
-          "30",
-          "000",
           "fewer",
-          "bureaucrats"
-        ]
+          "bureaucrats",
+          "day",
+          "took",
+          "much"
+        ],
+        "totalUniqueWords": 530
       },
       "callouts": {
         "bernie sanders": [
@@ -241,15 +305,26 @@
       },
       "speakingTime": "7.40",
       "emotionalLines": [
-        "Both Democrats and Republicans have gotten us in the mess we're in -- $ 18 trillion of debt, a bad deal with Iran, we're not staying with Israel.",
-        "How can we beat an enemy if our commander-in-chief does n't have the moral honesty and clarity to say that Islam has a problem, and that problem is radical Islam, to say they've got to condemn not generic acts of violence, but the individual murderers who are committing these acts of violence.",
-        "In Louisiana, instead we're helping people getting better paying jobs so they can provide for their own health care.",
-        "I think it's a mistake to create new and more expensive entitlement programs when we ca n't afford the ones we've got today.",
-        "I'll say this.",
         "Planned Parenthood had better hope that Hillary Clinton wins this election, because I guarantee under President Jindal, January 2017, the Department of Justice and the IRS and everybody else that we can send from the federal government will be going in to Planned Parenthood.",
+        "How can we beat an enemy if our commander-in-chief does n't have the moral honesty and clarity to say that Islam has a problem, and that problem is radical Islam, to say they've got to condemn not generic acts of violence, but the individual murderers who are committing these acts of violence.",
+        "Sometimes you win a war by killing murderous, evil terrorists.",
+        "Both Democrats and Republicans have gotten us in the mess we're in -- $ 18 trillion of debt, a bad deal with Iran, we're not staying with Israel.",
+        "In Louisiana, instead we're helping people getting better paying jobs so they can provide for their own health care.",
+        "\" Now, Bill, he loves to criticize America, apologize for us, criticize medieval Christians.",
+        "Jeb Bush says we've got to be willing to lose the primary in order to win the general.",
         "I'd also go after these sanctuary cities, do everything we can to make sure that we are not -- that we are actually prosecuting and cutting off funding for cities that are harboring illegal aliens, and then finally making sure the IRS is not going after conservative or religious groups.",
-        "Socialist and government dependent.",
-        "Jeb Bush says we've got to be willing to lose the primary in order to win the general."
+        "Simply expanding Medicaid does not improve health care outcomes.",
+        "There is a better way to provide health care.",
+        "I'm going to go to the commanders and say give me a plan to win.",
+        "Well, to start with, unlike President Obama, I'll actually name the enemy that we confront.",
+        "I think our country is tired of the politicians who simply read the polls and fail to lead.",
+        "My point is this : I won two landslide elections, I made big changes.",
+        "Martha, we got a lot of politicians that will kiss babies, cut ribbons, do whatever it takes to be popular.",
+        "We've already got a great talker in the White House.",
+        "You know, we've got a lot of great talkers running for president.",
+        "This is absolutely disgusting, and revolts the conscience of the nation.",
+        "I know some people like to say,\" well, this is free money.",
+        "If we were to expand Medicaid, for every uninsured person we would cover, we'd kick more than one person out of private insurance or remove their opportunity to get private insurance."
       ],
       "personalIssues": {
         "Radical Islam": "0.10",
@@ -260,21 +335,26 @@
         "Economy": "0.00"
       },
       "averageWordUsage": {
-        "got": "0.0177",
-        "don": "0.0122",
-        "think": "0.0122",
-        "government": "0.0136",
-        "president": "0.0109",
-        "going": "0.0095",
-        "They": "0.0136",
-        "need": "0.0095"
+        "know": "0.0094",
+        "state": "0.0094",
+        "got": "0.0245",
+        "louisiana": "0.0094",
+        "don": "0.0170",
+        "think": "0.0170",
+        "government": "0.0189",
+        "president": "0.0226",
+        "say": "0.0113",
+        "going": "0.0132",
+        "said": "0.0094",
+        "better": "0.0094",
+        "medicaid": "0.0113",
+        "need": "0.0132"
       }
     },
     "pataki": {
       "totalWords": 7223,
       "uniqueWords": {
-        "total": 700,
-        "mostUnique": [
+        "leastUsed": [
           "means",
           "somebody",
           "hasn",
@@ -295,7 +375,8 @@
           "politicians",
           "posturing",
           "issuing"
-        ]
+        ],
+        "totalUniqueWords": 472
       },
       "callouts": {
         "hillary clinton": [
@@ -308,16 +389,26 @@
       },
       "speakingTime": "7.18",
       "emotionalLines": [
-        "We have to end crony capitalism in Washington, where the lobbyists and the powerful can get tax breaks and tax credits, and the American people do n't get laws in their interest.",
-        "That is like shouting\" fire\" in a crowded theater, and that is illegal, and I would do everything in our power not just to go after those who are here who we know who are here, before they can radicalize other Americans to carry out attacks, and it's not just the ones they've arrested.",
         "\" But I knew that good people who wanted to be a part of the American dream have become trapped in dependency because the federal government and the state government had made it in their economic interest not to take a job because the benefits that they did n't work were better.",
-        "No, it should be repealed.",
-        "... replacing dependency with opportunity.",
-        null,
+        "That is like shouting\" fire\" in a crowded theater, and that is illegal, and I would do everything in our power not just to go after those who are here who we know who are here, before they can radicalize other Americans to carry out attacks, and it's not just the ones they've arrested.",
+        "I have the opportunity not just to run, but to win in the deep blue state of New York three times.",
         "Also, when you look at these videos, they are horrific and show just a hideous disrespect for life.",
+        "Martha, religious liberty does n't include encouraging a fellow American to engage in violent jihad and kill an American here.",
+        "And not only did I win, but I then worked with a Democratic legislature to put in place the most sweeping conservative reforms of any state in America, taking us from the most dangerous state in America to the fourth safest ; reducing our welfare rolls by over 1 million, and replacing over 700,000 private sector jobs.",
+        "We put in place child care support.",
+        "And people said\" you ca n't win, you ca n't change the culture.",
+        "We have got to destroy their training camps over there before they can attack us here.",
+        "And when I left, we were stronger, we were safer, and we were more united than at any time in my lifetime.",
+        "It is Hillary, it is Biden, it is the others who insist on allowing abortion well into viable ( inaudible ) wrong, and that should be stopped.",
+        "But to destroy ISIS, it is necessary.",
+        "We have got to destroy their training camps and recruiting centers.",
+        "We have to end crony capitalism in Washington, where the lobbyists and the powerful can get tax breaks and tax credits, and the American people do n't get laws in their interest.",
+        "I was governor on September 11th, and I'm proud of my leadership in bringing New York through that time.",
         "Bill, I defeated Mario Cuomo.",
-        "No vision at all.",
-        "I have the opportunity not just to run, but to win in the deep blue state of New York three times."
+        "And at that point, it's a life that we have the right to protect, and I think we should protect.",
+        "But we can do is defund Planned Parenthood, and by the way, put in place an absolute permanent ban on any taxpayer dollars ever being used to fund abortions.",
+        "My heart has not changed, because I've always been appalled by abortion.",
+        "... replacing dependency with opportunity."
       ],
       "personalIssues": {
         "People Over Politics.": "0.20",
@@ -325,28 +416,31 @@
         "News & Updates": "0.00"
       },
       "averageWordUsage": {
-        "think": "0.0100",
-        "But": "0.0143",
-        "New": "0.0157",
-        "York": "0.0157",
-        "people": "0.0157",
-        "state": "0.0143",
-        "And": "0.0129",
-        "Washington": "0.0100",
-        "need": "0.0100",
-        "American": "0.0100"
+        "think": "0.0191",
+        "years": "0.0106",
+        "government": "0.0127",
+        "look": "0.0127",
+        "new": "0.0297",
+        "york": "0.0233",
+        "people": "0.0254",
+        "state": "0.0233",
+        "washington": "0.0148",
+        "need": "0.0148",
+        "american": "0.0148",
+        "don": "0.0106",
+        "just": "0.0127",
+        "know": "0.0106",
+        "place": "0.0106",
+        "life": "0.0106"
       }
     },
     "santorum": {
       "totalWords": 9122,
       "uniqueWords": {
-        "total": 779,
-        "mostUnique": [
+        "leastUsed": [
           "would",
           "win",
-          "Iowa",
-          "10",
-          "states",
+          "iowa",
           "against",
           "pretty",
           "overwhelming",
@@ -361,8 +455,11 @@
           "tired",
           "corporate",
           "interests",
-          "interested"
-        ]
+          "interested",
+          "politics",
+          "power"
+        ],
+        "totalUniqueWords": 513
       },
       "callouts": {
         "donald trump": [
@@ -376,12 +473,25 @@
       "speakingTime": "8.95",
       "emotionalLines": [
         "Iran sanctions -- the Iran sanctions that brought them to the table, those are sanctions that we put in place when I was in the United States Senate, and a whole host of other things that put me in a position of saying, I not only have a great vision, but I can govern effectively in Washington.",
-        "We're going to be tough at the border, we're going to be tough on all of the illegal immigrants that everybody else in this field -- we're going to be different.",
-        "I'm going to be introducing a plan which I call the 2020 Perfect Vision for America.",
-        "This is a rogue Supreme Court decision, just like Justice Roberts said.",
-        "And second, the First Amendment Defense Act, which is protecting religious liberty, if it's not passed by then, which I suspect it wo n't, because the president will veto it, I will institute an executive order to make sure that people of faith are not being -- not being harassed and persecuted by the federal government for standing up for the religious beliefs.",
+        "I would say the message that got us the win in Iowa and 10 other states against pretty overwhelming odds, is the message that's going to deliver us in this election.You",
+        "They do n't care about American workers, they just care about bringing as many people in so they can get as many votes as they can.",
+        "I am, but people are upset, and they're upset for a reason about the future of this country.",
         "We need to elect someone who will stand with the American people, who understands its greatness, who understands what an open economy and freedom is all about, but at the same time, has a record of being able to get things done in Washington like we've never seen before.",
-        "They do n't care about American workers, they just care about bringing as many people in so they can get as many votes as they can."
+        "This is a rogue Supreme Court decision, just like Justice Roberts said.",
+        "I'm going to be introducing a plan which I call the 2020 Perfect Vision for America.",
+        "And I think the reason he did is because immigration is sort of an example of what's broken and what's wrong in Washington, D..C.",
+        "It's a private-sector solution that believes in freedom, not Obamacare that believes in government control.",
+        "I did n't say\" oh, well we lost.",
+        "We're going to be tough at the border, we're going to be tough on all of the illegal immigrants that everybody else in this field -- we're going to be different.",
+        "And when we live by those laws and we treat everybody equally under the law, that's when people feel good about being Americans.",
+        "But the reason America is a great country, the reason is because our compassion is in our laws.",
+        "I know we have a president who wants to do whatever he wants to do, and take his pen and his phone and just tell everybody what he thinks is best.",
+        "Not a very pleasant place to be.",
+        "That's why I ask for your support for president.",
+        "And you combine that with a plan to make manufacturing -- this country number one in manufacturing, you've got someone who's going to help revitalize and give hope to America, the place -- the place is that is the most hopeless today.",
+        "Actually going to do something to help the American worker.",
+        "Helping business make profits.",
+        "ON the other side, you have so many Republicans, and what do they care about?"
       ],
       "personalIssues": {
         "Immigration Reform That Protects American Workers": "0.30",
@@ -394,15 +504,31 @@
         "Fighting Radical Islam": "0.00"
       },
       "averageWordUsage": {
-        "going": "0.0218",
-        "years": "0.0116",
-        "Washington": "0.0128",
-        "just": "0.0116",
-        "country": "0.0128",
-        "And": "0.0154",
-        "said": "0.0103",
-        "America": "0.0103",
-        "people": "0.0103"
+        "going": "0.0331",
+        "know": "0.0097",
+        "years": "0.0175",
+        "washington": "0.0195",
+        "just": "0.0195",
+        "looking": "0.0097",
+        "manufacturing": "0.0117",
+        "stand": "0.0117",
+        "reason": "0.0117",
+        "things": "0.0136",
+        "country": "0.0195",
+        "laws": "0.0117",
+        "seven": "0.0097",
+        "said": "0.0156",
+        "america": "0.0156",
+        "people": "0.0156",
+        "president": "0.0097",
+        "immigration": "0.0136",
+        "actually": "0.0097",
+        "create": "0.0097",
+        "make": "0.0097",
+        "american": "0.0136",
+        "passed": "0.0097",
+        "supreme": "0.0136",
+        "court": "0.0156"
       }
     }
   }

@@ -6,7 +6,7 @@ var dictionaries = require('./dictionaries');
 var wordTokenizer = new natural.TreebankWordTokenizer();
 
 _.extend(module.exports, {
-  sentence: function(line) {
+  sentence: function sentences(line) {
     var lastSentenceEnd = 0;
     var sentences = [];
 

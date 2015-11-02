@@ -6,7 +6,7 @@ var path = require('path');
 
 var transcripts = fs.readdirSync(path.join('./', TRANSCRIPT_PATH));
 
-function Debate(transcriptFilename) {
+function Debate(transcriptFilename, options) {
   _.extend(this, JSON.parse(
     fs.readFileSync(
       path.join(TRANSCRIPT_PATH, transcriptFilename))
@@ -64,8 +64,29 @@ _.extend(Debate.prototype, {
     }, this);
   },
 
-  forEachSpeaker: function(process) {
-    _.each(this.participants, process);
+  /**
+   *  Add another property to the participant (e.g. `sentences`)
+   */
+  tokenize: function() {
+    var tokenizers = _.flatten(_.toArray(arguments));
+
+    _.each(tokenizers, function(tokenizer) {
+      _.each(this.participants, function(participant) {
+        participant[tokenizer.name] = tokenizer(participant.lines.join(' '));
+      });
+    });
+  },
+
+  analyse: function(/*analyser, analyser..*/) {
+    var analysers = _.flatten(_.toArray(arguments).slice(1));
+
+    return _.map(this.participants, function(participant) {
+      return _.reduce(analysers, function(output, analyser) {
+        return _.merge(output,
+          (_.isFunction(analyser) ? analyser({}, participant) : analyser(participant)).run()
+        );
+      }, {});
+    });
   }
 });
 

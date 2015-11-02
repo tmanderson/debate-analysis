@@ -11,17 +11,13 @@ var candidateMatchers = _.reduce(dictionaries.candidates, function(matchers, nam
   return matchers;
 }, {});
 
-module.exports = function callouts(lines) {
-  var matches;
-
-  return _.reduce(lines, function(callouts, line) {
-    _.each(tokenizers.sentence(line), function(sentence) {
-      _.each(candidateMatchers, function(matcher, name) {
-        if(matcher.test(sentence)) {
-          if(!callouts[name]) callouts[name] = [];
-          callouts[name].push(sentence);
-        }
-      });
+module.exports = function callouts(context) {
+  return _.reduce(context.sentences, function(callouts, sentence) {
+    _.each(candidateMatchers, function(matcher, name) {
+      if(matcher.test(sentence)) {
+        if(!callouts[name]) callouts[name] = [];
+        callouts[name].push(sentence);
+      }
     });
 
     return callouts;
