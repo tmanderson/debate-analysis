@@ -35,7 +35,7 @@ debate-critic/ $> node src/crawler
      -i, --issues         - Get election year issues
 
 
-debate-critic/ $> node src/crawler 2016
+debate-critic/ $> node -t -c src/crawler 2016
 
 ```
 
