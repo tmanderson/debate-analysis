@@ -1,0 +1,111 @@
+{
+  "name": "Republican Candidates Debate",
+  "estimatedLength": 33.37,
+  "totalWordsSpoken": 6341,
+  "totalUniqueWords": 1437,
+  "candidates": {
+    "trump": {
+      "totalWords": 32322,
+      "uniqueWords": {
+        "total": 1437,
+        "mostUnique": [
+          "candidate",
+          "miserably",
+          "embarrassment",
+          "party",
+          "looked",
+          "away",
+          "vacation",
+          "month",
+          "relevant",
+          "domestic",
+          "policy",
+          "Both",
+          "crushed",
+          "505",
+          "trades",
+          "58",
+          "109",
+          "concerned",
+          "reduce",
+          "redo"
+        ]
+      },
+      "callouts": {
+        "hillary clinton": [
+          "... I beat Hillary Clinton.",
+          "I beat Hillary Clinton in many polls..",
+          "... I beat Hillary Clinton..",
+          "... I beat Hillary Clinton in many polls.",
+          "I beat Hillary Clinton in a recent Fox poll, I beat Hillary Clinton in USA Today, I beat her today in a poll in Ohio.",
+          "I beat — I'm the only one that beats Hillary Clinton.I",
+          "support politicians. In 2008, I supported Hillary Clinton.",
+          "The last person that Hillary Clinton wants to face is Donald Trump.",
+          "... I know, but your recent polls have me beating Hillary Clinton, and very, very easily."
+        ],
+        "donald trump": [
+          "A recent article somewhere said Donald Trump is a world-class businessman who goes out and he does get along with everybody.",
+          "The last person that Hillary Clinton wants to face is Donald Trump."
+        ],
+        "marco rubio": [
+          "The real con artist is Senator Marco Rubio who was elected in Florida and who has the worst voting record in the United States Senate.He"
+        ]
+      },
+      "audienceReception": {
+        "applause": [],
+        "laughter": []
+      },
+      "speakingTime": "33.37",
+      "emotionalLines": [
+        "And, he said free trade, I say free trade great.",
+        "know, it's amazing.",
+        null,
+        "And we will.",
+        "I guarantee you there is no problem.",
+        "I keep hearing that he is the only one that can beat me but he is getting beaten very, very badly.",
+        "Oh yeah, you're..",
+        "Very nice words, but happens to be wrong.",
+        "... That national poll — excuse me..",
+        "... The national poll — a national poll where he's at 15, he's at 14..",
+        "... And, I'm at 49, so when he says 75 percent, that would mean that 80 percent of the people do n't dig you, and I'm back down to 50..",
+        null,
+        "I beat Hillary Clinton in many polls..",
+        "I beat Hillary Clinton in many polls..",
+        "... I think I'm talking..",
+        "... I beat Hillary Clinton..",
+        "... I hope you think [ inaudible ]..",
+        "[ cheering ]...",
+        "... In one poll..",
+        "... In one poll.."
+      ],
+      "personalIssues": {},
+      "averageWordUsage": {
+        "look": "0.0118",
+        "like": "0.0097",
+        "don": "0.0278",
+        "country": "0.0132",
+        "said": "0.0237",
+        "But": "0.0216",
+        "way": "0.0139",
+        "And": "0.0404",
+        "say": "0.0181",
+        "going": "0.0299",
+        "You": "0.0223",
+        "just": "0.0160",
+        "know": "0.0202",
+        "people": "0.0438",
+        "question": "0.0104",
+        "want": "0.0104",
+        "tell": "0.0104",
+        "applause": "0.0125",
+        "That": "0.0153",
+        "The": "0.0111",
+        "think": "0.0146",
+        "They": "0.0167",
+        "thing": "0.0097",
+        "right": "0.0097",
+        "time": "0.0104"
+      }
+    }
+  }
+}

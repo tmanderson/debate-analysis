@@ -1,0 +1,85 @@
+{
+  "name": "Republican Candidates Debate",
+  "estimatedLength": 11.66,
+  "totalWordsSpoken": 2216,
+  "totalUniqueWords": 794,
+  "candidates": {
+    "trump": {
+      "totalWords": 11410,
+      "uniqueWords": {
+        "total": 794,
+        "mostUnique": [
+          "reason",
+          "being",
+          "beaten",
+          "front",
+          "militarily",
+          "There",
+          "anymore",
+          "ll",
+          "economy",
+          "dynamic",
+          "wages",
+          "able",
+          "hate",
+          "People",
+          "hard",
+          "upper",
+          "stratum",
+          "rest",
+          "happy",
+          "yesterday"
+        ]
+      },
+      "callouts": {
+        "hillary clinton": [
+          "We can not let Hillary Clinton, who is the worst secretary of state in the history of our country, win this election.We"
+        ]
+      },
+      "audienceReception": {
+        "applause": [],
+        "laughter": []
+      },
+      "speakingTime": "11.66",
+      "emotionalLines": [
+        "I hate to say it, but we have to leave it the way it is.",
+        "I would not do it.",
+        "And it was a terrific thing that happened.",
+        "Look, we're a country..",
+        "Going to have to go out and they will come back but they are going to have to go out and hopefully they get back.",
+        "[ laughter ] Let me just tell you that Dwight Eisenhower, good president, great president, people liked him.",
+        "No, it's unfair.",
+        "... built an unbelievable company worth billions and billions of dollars.",
+        "They're waiting. Very, very unfair to them.",
+        null,
+        "No, excuse me.",
+        "Please, if I could just..",
+        "We have to make our military bigger, better, stronger than ever before so that nobody messes with us, and a long run, it's going to save us.",
+        null,
+        null,
+        "...It's a horrible deal..",
+        "I love trade. I'm a free trader, 100 percent.",
+        "If you look at the way China and India and almost everybody takes advantage of the United States — China in particular, because they're so good.",
+        "We are losing jobs like nobody's ever lost jobs before.",
+        "One of the worst contracts ever signed, ever, in anything, and it's a disgrace."
+      ],
+      "personalIssues": {},
+      "averageWordUsage": {
+        "And": "0.0290",
+        "country": "0.0277",
+        "don": "0.0202",
+        "come": "0.0113",
+        "people": "0.0176",
+        "like": "0.0113",
+        "going": "0.0290",
+        "make": "0.0101",
+        "But": "0.0126",
+        "just": "0.0101",
+        "applause": "0.0101",
+        "They": "0.0227",
+        "know": "0.0101",
+        "money": "0.0101"
+      }
+    }
+  }
+}

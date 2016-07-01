@@ -1,0 +1,104 @@
+{
+  "name": "Republican Candidates Debate",
+  "estimatedLength": 36.52,
+  "totalWordsSpoken": 6938,
+  "totalUniqueWords": 1600,
+  "candidates": {
+    "trump": {
+      "totalWords": 35632,
+      "uniqueWords": {
+        "total": 1600,
+        "mostUnique": [
+          "My",
+          "theme",
+          "knock",
+          "capacity",
+          "healthcare",
+          "replaced",
+          "swiss",
+          "cheese",
+          "pours",
+          "amnesty",
+          "leader",
+          "debating",
+          "debate",
+          "asked",
+          "weren",
+          "opening",
+          "talked",
+          "illegals",
+          "immigration",
+          "11"
+        ]
+      },
+      "callouts": {
+        "chris christie": [
+          "... You know, I watched him meltdown two weeks ago with Chris Christie.",
+          "... wait a minute, and these people may even be tougher than Chris Christie."
+        ],
+        "hillary clinton": [
+          "One other thing — Hillary Clinton — take a look at USA Today, take a look at the Q poll."
+        ],
+        "ben carson": [
+          "lobbyists. I watched what this man did to Dr. Ben Carson, who I respect, in Iowa, where he said that Ben Carson is out of the race — he has left Iowa and he's out of the race.",
+          "Took them away from Ben Carson."
+        ]
+      },
+      "audienceReception": {
+        "applause": [],
+        "laughter": []
+      },
+      "speakingTime": "36.52",
+      "emotionalLines": [
+        "We do n't win with trade, we do n't win with the military.",
+        "The best of them will come back, but they're going to come back through a process.",
+        "Well, I'm very glad that Ted mentioned Arizona because probably the toughest man on borders is Sheriff Joe Arpaio, and two days ago he totally endorsed me, so, thank you.",
+        "far as the people that I've hired in various parts of Florida during the absolute prime season, like Palm Beach and other locations, you could not get help.",
+        "I criticized Mitt Romney for losing the election.",
+        "Excuse me. He ran one terrible campaign.",
+        "No, no, I'm the only one on the stage that's hired people.",
+        "You've hired nobody.",
+        "You've had nothing but problems with your credit cards, et cetera.",
+        "You have n't hired one person, you liar.",
+        "That's wrong. That's wrong.",
+        "Tens of thousands...",
+        "Everybody was happy.",
+        "That was a whole different world.",
+        "Nobody up here has hired anybody.",
+        "'ve had an amazing relationship with politicians — with politicians both Democrat, Republican, because I was a businessman.",
+        "He just left it off, and now he's going to protect the people from the big bad banks.Give",
+        "[ inaudible ].",
+        null,
+        "guy used a filthy, disgusting word on television, and he should be ashamed of himself, and he should apologize, OK?"
+      ],
+      "personalIssues": {},
+      "averageWordUsage": {
+        "great": "0.0094",
+        "don": "0.0231",
+        "going": "0.0394",
+        "just": "0.0213",
+        "You": "0.0300",
+        "look": "0.0106",
+        "big": "0.0094",
+        "applause": "0.0244",
+        "But": "0.0144",
+        "people": "0.0269",
+        "They": "0.0213",
+        "think": "0.0156",
+        "way": "0.0106",
+        "want": "0.0169",
+        "won": "0.0106",
+        "And": "0.0319",
+        "tell": "0.0119",
+        "years": "0.0112",
+        "say": "0.0175",
+        "said": "0.0100",
+        "got": "0.0094",
+        "billion": "0.0119",
+        "know": "0.0225",
+        "thing": "0.0094",
+        "let": "0.0119"
+      }
+    }
+  }
+}

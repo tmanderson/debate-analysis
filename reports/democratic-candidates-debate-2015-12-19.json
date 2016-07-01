@@ -1,0 +1,299 @@
+{
+  "name": "Democratic Candidates Debate",
+  "estimatedLength": 91.05,
+  "totalWordsSpoken": 17299,
+  "totalUniqueWords": 4855,
+  "candidates": {
+    "clinton": {
+      "totalWords": 37498,
+      "uniqueWords": {
+        "total": 1723,
+        "mostUnique": [
+          "thank",
+          "delighted",
+          "grow",
+          "helps",
+          "everyone",
+          "top",
+          "without",
+          "involved",
+          "distinct",
+          "tonight",
+          "counterparts",
+          "From",
+          "perspective",
+          "rolling",
+          "progress",
+          "repeal",
+          "improve",
+          "breaks",
+          "corporations",
+          "despite"
+        ]
+      },
+      "callouts": {
+        "donald trump": [
+          "worry greatly that the rhetoric coming from the Republicans, particularly Donald Trump, is sending a message to Muslims here in the United States and literally around the world that there is a\" clash of civilizations,\" that there is some kind of Western plot or even\" war against Islam,\" which then I believe fans the flames of radicalization.So",
+          "They are going to people showing videos of Donald Trump insulting Islam and Muslims in order to recruit more radical jihadists.",
+          "the final thing I would say, bringing Donald Trump back into it, if you're going to put together a coalition in the region to take on the threat of ISIS you do n't want to alienate the very countries and people you need to be part of the coalition."
+        ]
+      },
+      "audienceReception": {
+        "applause": [],
+        "laughter": []
+      },
+      "speakingTime": "37.04",
+      "emotionalLines": [
+        "I have a strategy to combat and defeat ISIS without getting us involved in another ground war, and I have plans to raise incomes and deal with a lot of the problems that keep families up at night.I",
+        "[ applause ] I think they're more interested in what we have to say about all the big issues facing us.",
+        "They will be our early warning signal.",
+        "Well, I think you have to look at both the terrorism challenge that we face abroad and certainly at home and the role that guns play in delivering the violence that stalks us.",
+        "Yes, I'm getting..",
+        "worry greatly that the rhetoric coming from the Republicans, particularly Donald Trump, is sending a message to Muslims here in the United States and literally around the world that there is a\" clash of civilizations,\" that there is some kind of Western plot or even\" war against Islam,\" which then I believe fans the flames of radicalization.So",
+        "Yes, let's tell the truth, Martin.",
+        "He invoked mine as well.",
+        "And in whatever way the three of us can we need to move this agenda forward and begin to deal with the gun lobby and the intimidation that they present.",
+        "And Mr. Trump has a great capacity to use bluster and bigotry to inflame people and to make think there are easy answers to very complex questions.So",
+        "He is becoming ISIS's best recruiter.",
+        "But I also understand, when a law enforcement official charged with the responsibility of preventing attacks -- to go back to our early questions, how do we prevent attacks -- well, if we ca n't know what someone is planning, we are going to have to rely on the neighbor or, you know, the member of the mosque or the teacher, somebody to see something.",
+        "Otherwise, law enforcement is blind -- blind before, blind during, and, unfortunately, in many instances, blind after.So",
+        "Well, I agree that we have to have the toughest screening and vetting..",
+        "So I want us to have a very tough screening process but I want that process to go forward.",
+        "They want American soldiers on the ground fighting them, giving them many more targets, and giving them a great recruiting opportunity.So",
+        "I believe if we lead an air coalition, which we are now in the position of doing and intensify it, if we continue to build back up the Iraqi army, which has had some recent success in Ramadi, as you know, if we get back talking to the tribal sheiks in Anbar to try to rebuild those relationships, which were very successful, in going after Al Qaida in Iraq, if we get the Turks to pay more attention to ISIS than they're paying to the Kurds, if we do put together the kind of coalition with the specific tasks that I am outlining, I think we can be successful in destroying ISIS.So",
+        "Well, I just want to quickly add..",
+        "'m hoping that because of the very recent announcement of the agreement at the Security Council, which embodies actually an agreement that I negotiated back in Geneva in June of 2012, we're going to get a diplomatic effort in Syria to begin to try to make a transition.",
+        "We are already de-conflicting air space."
+      ],
+      "personalIssues": {
+        "Health care": "0.85",
+        "Veterans, the armed forces, and their families": "0.49",
+        "Social Security and Medicare": "0.44",
+        "Gun violence prevention": "0.44",
+        "Women’s rights and opportunity": "0.41",
+        "National security": "0.39",
+        "Wall Street and corporate America": "0.38",
+        "Early childhood education": "0.32",
+        "Small business": "0.31",
+        "College": "0.29",
+        "Voting rights": "0.27",
+        "Criminal justice reform": "0.27",
+        "Economy": "0.24",
+        "Disability rights": "0.22",
+        "K–12 education": "0.20",
+        "Substance use disorder and addiction": "0.13",
+        "Climate change and energy": "0.08",
+        "Immigration reform": "0.04",
+        "Campus sexual assault": "0.04",
+        "Workforce and skills": "0.00",
+        "LGBT equality": "0.00",
+        "Labor": "0.00"
+      },
+      "averageWordUsage": {
+        "Well": "0.0104",
+        "And": "0.0348",
+        "know": "0.0226",
+        "ISIS": "0.0139",
+        "lot": "0.0128",
+        "people": "0.0192",
+        "work": "0.0093",
+        "country": "0.0093",
+        "want": "0.0157",
+        "think": "0.0255",
+        "don": "0.0116",
+        "need": "0.0139",
+        "going": "0.0157"
+      }
+    },
+    "o'malley": {
+      "totalWords": 26237,
+      "uniqueWords": {
+        "total": 1581,
+        "mostUnique": [
+          "debates",
+          "reason",
+          "jihadi",
+          "yes",
+          "talk",
+          "visited",
+          "number",
+          "Northern",
+          "Virginia",
+          "mosque",
+          "Friday",
+          "veterans",
+          "Boy",
+          "Scouts",
+          "moms",
+          "dads",
+          "anything",
+          "power",
+          "realize",
+          "while"
+        ]
+      },
+      "callouts": {
+        "donald trump": [
+          "And one of his little boys said to him,\" Dad, what happens if Donald Trump wins and we have to move out of our homes?",
+          "And we should never be convinced to give up those freedoms in exchange for a promise of greater security ; especially from someone as untried and as incompetent as Donald Trump."
+        ]
+      },
+      "audienceReception": {
+        "applause": [],
+        "laughter": []
+      },
+      "speakingTime": "25.59",
+      "emotionalLines": [
+        "our nation needs right now is to realize that, while we face a terrible danger, we also face a different sort of political danger.",
+        "and help my campaign move our country forward.",
+        "David, I am the very first..",
+        "believe that what's happened here is that the president had us on the right course, but it's a lack of battle tempo.",
+        "Martha, if I may..",
+        "Excuse me, no.",
+        "I am the only person on this stage who has actually..",
+        "[ applause ] Senator Sanders voted against the Brady Bill.",
+        "Because, Martha, it would prevent people like the guy that just got charged yesterday perhaps from being able to buy combat assault weapons.",
+        "ISIL videos, ISIL training videos are telling lone wolves the easiest way to buy a combat assault weapon in America is at a gun show.And",
+        "I am telling the truth.",
+        "Martha, may I -- Martha, may I...",
+        "Can I share this quick story?",
+        "Oh. All right.",
+        "When you come back to me, I'll share that story.",
+        "need to speak to what unites us as a people ; freedom of worship, freedom of religion, freedom of expression.",
+        "And if this humanitarian crisis increases, we should accept more.",
+        "There is a pretty excruciating process that refugees go through.",
+        "need to be the nation whose enduring symbol is the Statue of Liberty, and we need to act like the great country we are, according to our values.",
+        "I mean, we've seen time and time again, especially in this very troubled region of nation-state failures, and then we have no idea who the next generation of leaders are that are coming forward.So"
+      ],
+      "personalIssues": {
+        "Debt-Free College": "0.35",
+        "Expand Social Security": "0.31",
+        "Clean Energy Future": "0.29",
+        "Gun Reform": "0.22",
+        "Homeland Security": "0.20",
+        "Addiction Treatment": "0.18",
+        "Campaign Finance Reform": "0.14",
+        "Criminal Justice Reform": "0.12",
+        "Immigration Reform": "0.08",
+        "National Service": "0.08",
+        "Foreign Policy": "0.04",
+        "Financial Reform": "0.04",
+        "Trade Policy": "0.04"
+      },
+      "averageWordUsage": {
+        "America": "0.0108",
+        "people": "0.0164",
+        "And": "0.0259",
+        "country": "0.0101",
+        "new": "0.0095",
+        "But": "0.0114",
+        "things": "0.0095",
+        "need": "0.0209",
+        "actually": "0.0133"
+      }
+    },
+    "sanders": {
+      "totalWords": 29504,
+      "uniqueWords": {
+        "total": 1551,
+        "mostUnique": [
+          "Good",
+          "evening",
+          "politics",
+          "economics",
+          "corrupt",
+          "millionaires",
+          "represent",
+          "interests",
+          "planetary",
+          "climate",
+          "transform",
+          "efficiency",
+          "sustainable",
+          "takes",
+          "Isis",
+          "destroys",
+          "wealthy",
+          "supporting",
+          "give",
+          "hired"
+        ]
+      },
+      "callouts": {
+        "bernie sanders": [
+          "people said, there were three candidates in the race, you vote for one of the others, but not Bernie Sanders."
+        ],
+        "donald trump": [
+          "what I say to those people who go to Donald Trump's rallies, understand : He thinks a low minimum wage in America is a good idea."
+        ],
+        "hillary clinton": [
+          "[ laughter ] And let me, by the way, take this moment to congratulate Hillary Clinton, who I thought not only did an outstanding job as our first lady, but redefined what that role could be.So"
+        ]
+      },
+      "audienceReception": {
+        "applause": [],
+        "laughter": []
+      },
+      "speakingTime": "28.42",
+      "emotionalLines": [
+        "That's the kind of coalition we need and that's the kind of coalition I will put together.",
+        ", what I have a really problem, and as you mentioned - this is a problem, I recognize it as a problem.",
+        "we need an independent investigation, and I hope Secretary Clinton will agree with me for the need of that.Last",
+        null,
+        "Yes, I apologize.",
+        "if I find anybody else involved in this, they will also be fired.",
+        "Right? And what I said and I think what Governor O'Malley is saying, and I hope you say, is when the middle class of this country is disappearing, when we have massive income and wealth inequality, when we're the only major country on earth not guaranteeing health care to all people, all the issues that the governor talked about, the secretary talked about, those are the issues.",
+        "one, our goal is to crush and destroy ISIS.",
+        "[ applause ] Who denies that it is crazy to allow people to own guns who are criminals or are mentally unstable?",
+        "Let's calm down a little bit, Martin.",
+        "First of all, let's have some rules here, commentators.",
+        null,
+        "He sure did.",
+        "First off, we can do all the great speeches we want but you're not going to succeed unless there is a consensus.",
+        "You know, somebody is loading guns and ammunition into a house, I think it's a good idea to call 911.",
+        "But I want to talk -- I want to talk about something else, because Secretary Clinton I think made some interesting and good points.",
+        "Excuse me. May I have a chance to respond to this issue?",
+        "Yeah, but the rule includes equal -- got it.",
+        "All right. Let's keep going.",
+        null
+      ],
+      "personalIssues": {
+        "War Should Be the Last Option: Why I Support the Iran Deal": "1.02",
+        "Reforming Wall Street": "0.66",
+        "It’s Time to Make College Tuition Free and Debt Free": "0.65",
+        "Getting Big Money Out of Politics": "0.57",
+        "Real Family Values": "0.39",
+        "Creating Decent Paying Jobs": "0.34",
+        "Income and Wealth Inequality": "0.33",
+        "War and Peace": "0.32",
+        "Fighting to Lower Prescription Drug Prices": "0.27",
+        "A Living Wage": "0.23",
+        "A Fair and Humane Immigration Policy": "0.20",
+        "Climate Change & Environment": "0.20",
+        "Fighting for Women’s Rights": "0.17",
+        "Strengthen and Expand Social Security": "0.13",
+        "Fighting for LGBT Equality": "0.08",
+        "Racial Justice": "0.04",
+        "Caring for our Veterans": "0.00"
+      },
+      "averageWordUsage": {
+        "people": "0.0200",
+        "going": "0.0148",
+        "need": "0.0135",
+        "ISIS": "0.0103",
+        "applause": "0.0135",
+        "Clinton": "0.0123",
+        "And": "0.0187",
+        "right": "0.0103",
+        "But": "0.0161",
+        "Secretary": "0.0103",
+        "know": "0.0097",
+        "think": "0.0251",
+        "say": "0.0103",
+        "country": "0.0142",
+        "got": "0.0135",
+        "believe": "0.0103"
+      }
+    }
+  }
+}

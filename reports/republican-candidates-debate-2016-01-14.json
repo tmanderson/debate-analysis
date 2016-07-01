@@ -1,0 +1,85 @@
+{
+  "name": "Republican  Candidates Debate",
+  "estimatedLength": 18.34,
+  "totalWordsSpoken": 3484,
+  "totalUniqueWords": 1114,
+  "candidates": {
+    "trump": {
+      "totalWords": 17906,
+      "uniqueWords": {
+        "total": 1114,
+        "mostUnique": [
+          "fear",
+          "terror",
+          "reality",
+          "bombings",
+          "strictest",
+          "gun",
+          "policy",
+          "city",
+          "badly",
+          "wounded",
+          "around",
+          "introduced",
+          "doctor",
+          "nice",
+          "perfect",
+          "representative",
+          "Trojan",
+          "Horse",
+          "destruction",
+          "recently"
+        ]
+      },
+      "callouts": {},
+      "audienceReception": {
+        "applause": [],
+        "laughter": []
+      },
+      "speakingTime": "18.34",
+      "emotionalLines": [
+        "And you look around, and you see what's happening, and this is not the case when he introduced the doctor — very nice, everything perfect but that is not representative of what you have in that line of migration.That",
+        "But I was born here.",
+        "[ inaudible ].",
+        "OK, good. Because it would n't work.",
+        "I think I'm going to win fair and square [ inaudible ] to win this way.",
+        "It's true. No, it's true.",
+        "Even if it was a one percent chance, and it's far greater than one percent because [ inaudible ].I",
+        "[ applause ] [ crosstalk ] Take it from your professors...",
+        "He's wrong. He's wrong.",
+        "He is not the only one.",
+        "There are many lawyers.",
+        "[ applause ] I like that.",
+        "I have a feeling it's going to work out, actually.",
+        "I'm angry because our country is a mess.",
+        "[ applause ] We have to protect our 2nd amendment and you can not do this and certainly what Barack Obama was doing with the executive order.",
+        "It's not supposed to happen that way.",
+        "It's got great people, it's got loving people, wonderful people.",
+        "I just left Indonesia — bomb, bomb, bomb, bomb.",
+        "Eleven points, to be exact.",
+        "want to find out why those two young people — those two horrible young people in California when they shot the 14 people, killed them — people they knew, people that held the wedding reception for them."
+      ],
+      "personalIssues": {},
+      "averageWordUsage": {
+        "You": "0.0171",
+        "just": "0.0135",
+        "look": "0.0126",
+        "applause": "0.0180",
+        "people": "0.0332",
+        "They": "0.0189",
+        "And": "0.0269",
+        "great": "0.0126",
+        "going": "0.0206",
+        "said": "0.0153",
+        "like": "0.0117",
+        "country": "0.0135",
+        "know": "0.0126",
+        "don": "0.0260",
+        "problem": "0.0099",
+        "want": "0.0135",
+        "use": "0.0099",
+        "China": "0.0215"
+      }
+    }
+  }
+}

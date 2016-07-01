@@ -1,0 +1,98 @@
+{
+  "name": "Republican  Candidates Debate",
+  "estimatedLength": 17.74,
+  "totalWordsSpoken": 3371,
+  "totalUniqueWords": 1038,
+  "candidates": {
+    "trump": {
+      "totalWords": 17331,
+      "uniqueWords": {
+        "total": 1038,
+        "mostUnique": [
+          "best",
+          "built",
+          "corporation",
+          "employ",
+          "gotten",
+          "including",
+          "politicians",
+          "both",
+          "sides",
+          "matter",
+          "came",
+          "Oh",
+          "illegal",
+          "trying",
+          "him",
+          "Muslims",
+          "wanted",
+          "mention",
+          "brought",
+          "took"
+        ]
+      },
+      "callouts": {
+        "hillary clinton": [
+          "think that — I look at what's going on, I look at all of the polls, I do very, very well against Hillary Clinton.",
+          "we will galvanize the people of this country, and we will beat Hillary Clinton."
+        ],
+        "ben carson": [
+          "That's because he got Ben Carson's votes, by the way, but we wo n't [ inaudible ]."
+        ]
+      },
+      "audienceReception": {
+        "applause": [],
+        "laughter": []
+      },
+      "speakingTime": "17.74",
+      "emotionalLines": [
+        "We have to have a temporary something, because there's something going on that's not good.",
+        "I have to respond.",
+        "And that's what I like and that's what the country is going to like.",
+        "And our country is going to hell.",
+        null,
+        "As to North Korea?",
+        "China says they do n't have that good of control over North Korea.",
+        null,
+        null,
+        "[ applause ] In addition to that, you have the health care savings plans, which are excellent.",
+        "eminent domain — it's not that I love it, but eminent domain is absolutely — it's a necessity for a country.",
+        null,
+        "I did n't take the property.",
+        "I did n't take the property.",
+        "The woman ultimately did n't want to do that.",
+        "A lot of times, you'll have — you'll have — and it did n't work very well.",
+        "Quiet. A lot of times — a lot of times..",
+        "The reason they're not loving me is, I do n't want their money.",
+        "No — no, let me ask you, Jeb.",
+        "Is it public or private?"
+      ],
+      "personalIssues": {},
+      "averageWordUsage": {
+        "think": "0.0125",
+        "people": "0.0356",
+        "And": "0.0279",
+        "right": "0.0096",
+        "lot": "0.0125",
+        "going": "0.0424",
+        "don": "0.0202",
+        "But": "0.0125",
+        "tell": "0.0125",
+        "applause": "0.0145",
+        "win": "0.0154",
+        "country": "0.0231",
+        "Well": "0.0106",
+        "know": "0.0096",
+        "want": "0.0193",
+        "They": "0.0193",
+        "deal": "0.0135",
+        "money": "0.0106",
+        "The": "0.0096",
+        "eminent": "0.0116",
+        "domain": "0.0135",
+        "wouldn": "0.0096",
+        "You": "0.0154"
+      }
+    }
+  }
+}

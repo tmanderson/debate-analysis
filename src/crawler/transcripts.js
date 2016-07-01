@@ -19,7 +19,7 @@ function createDebateObj($link, date) {
 
   return {
     name: text.shift(),
-    location: text.shift(), 
+    location: text.shift(),
     date: date,
     url: $link.attr('href'),
     dialog: []
@@ -68,7 +68,7 @@ function getDebateLinksForYear(year, limit, $) {
     .map(function() {
       var $link, date, text, debates = [];
       var $this = $(this);
-      
+
       $link = $this.next().find('a');
 
       if(!$link.length) return;
@@ -106,13 +106,15 @@ module.exports = function getTranscripts(electionYear, party, count) {
       return _.map(transcripts, function(transcript) {
 
         transcript.dialog = parsers.transcript(transcript.dialog);
-        
+
+        var line = transcript.dialog.shift()
+
         transcript.participants = _.filter(
           _.map(
-            transcript.dialog.shift().participants.split(';'),
+            (line.participants || line.panelists).split(';'),
             function(name) {
               if(!name) return;
-              
+
               var chunks = name.split(' ');
               var last = chunks.slice(-1)[0];
 
@@ -122,9 +124,11 @@ module.exports = function getTranscripts(electionYear, party, count) {
           )
         );
 
+        var line = transcript.dialog.shift()
+
         transcript.moderators = _.filter(
           _.map(
-            transcript.dialog.shift().moderators.split(';'),
+            (line.moderators || line.moderator).split(';'),
             function(name) {
               return _.trim(name.replace('and', ''));
             }

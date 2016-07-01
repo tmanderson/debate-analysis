@@ -1,0 +1,219 @@
+{
+  "name": "Democratic Candidates Debate",
+  "estimatedLength": 74.22,
+  "totalWordsSpoken": 14102,
+  "totalUniqueWords": 3608,
+  "candidates": {
+    "clinton": {
+      "totalWords": 38512,
+      "uniqueWords": {
+        "total": 1764,
+        "mostUnique": [
+          "Thank",
+          "ladders",
+          "angry",
+          "cause",
+          "15",
+          "aren",
+          "paying",
+          "rigged",
+          "ensure",
+          "wrecks",
+          "street",
+          "tackle",
+          "market",
+          "Hardworking",
+          "brought",
+          "shadows",
+          "Guaranteeing",
+          "probably",
+          "size",
+          "40"
+        ]
+      },
+      "callouts": {
+        "donald trump": [
+          "So when somebody like Donald Trump and others..."
+        ]
+      },
+      "audienceReception": {
+        "applause": [],
+        "laughter": []
+      },
+      "speakingTime": "37.55",
+      "emotionalLines": [
+        null,
+        "And yes, the economy is rigged in favor of those at the top.",
+        "Judy, I think that the best analysis that I've seen based on Senator Sanders plans is that it would probably increase the size of the federal government by about 40 %, but what is most concerning to me is that in looking at the plans — let's take healthcare for example.",
+        "[ applause ] And why I am a staunch supporter of President Obama's principal accomplishment — namely the Affordable Care Act — is because I know how hard it was to get that done.",
+        "I far prefer that and the chances we have to be successful there than trying to start all over again, gridlocking our system, and trying to get from zero to 100 percent.",
+        "we have a special obligation to make clear what we stand for, which is why I think we should not make promises we ca n't keep, because that will further, I think, alienate Americans from understanding and believing we can together make some real changes in people's lives.",
+        "But I am conscious of the fact that we have to also be very clear, especially with young people, about what kind of government is going to do what for them and what it will cost.",
+        "I am a little skeptical about your governor actually caring enough about higher education to make any kind of commitment like that.",
+        "I just hope that by the end of this campaign there will be a lot more supporting me.",
+        "But it does n't change my view that we need to empower everyone, women and men, to make the best decisions in their minds that they can make.",
+        "'m very proud that NARAL endorsed me because when it comes to it we need a leader on women's issues.",
+        "And we know of the tragic, terrible event that lead to the death of Dontre Hamilton right here in Milwaukee, a young man unarmed, who should still be with us.",
+        "To use the Justice Department, as we just saw, they have said they are going to sue Ferguson, that entered into a consent agreement, and then tried to back out.",
+        "So, yes, I do think it would be a terrible oversight not to try to address the very real problems that white Americans — particularly those without a lot of education whose jobs have — you know, no longer provided them or even no longer present in their communities, because we have to focus where the real hurt is.",
+        "I'm a strong supporter of comprehensive immigration reform.",
+        "And I was proud to stand with him and support it.",
+        "I think now what I've called for is counsel for every child so that no child has to face any kind of process without someone who speaks and advocates for that child so that the right decision hopefully can be made.",
+        "First, rather than expand benefits for everyone, I do want to take care of low-income seniors who worked at low-wage jobs.",
+        "I have yet to see a proposal that you're describing that the — raising the cap would apply to passive income.",
+        "So I'm going to come up with the best way forward."
+      ],
+      "personalIssues": {
+        "Health care": "0.68",
+        "Wall Street and corporate America": "0.64",
+        "Women’s rights and opportunity": "0.57",
+        "Social Security and Medicare": "0.57",
+        "Criminal justice reform": "0.57",
+        "National security": "0.38",
+        "Immigration reform": "0.37",
+        "K–12 education": "0.28",
+        "Early childhood education": "0.28",
+        "Climate change and energy": "0.22",
+        "Veterans, the armed forces, and their families": "0.19",
+        "Substance use disorder and addiction": "0.17",
+        "Voting rights": "0.14",
+        "Small business": "0.14",
+        "Economy": "0.13",
+        "LGBT equality": "0.08",
+        "Gun violence prevention": "0.08",
+        "College": "0.08",
+        "Disability rights": "0.04",
+        "Workforce and skills": "0.00",
+        "Labor": "0.00",
+        "Campus sexual assault": "0.00"
+      },
+      "averageWordUsage": {
+        "president": "0.0113",
+        "know": "0.0198",
+        "lot": "0.0096",
+        "And": "0.0317",
+        "people": "0.0198",
+        "But": "0.0108",
+        "want": "0.0102",
+        "women": "0.0102",
+        "think": "0.0261",
+        "make": "0.0119",
+        "Senator": "0.0130",
+        "applause": "0.0176",
+        "President": "0.0091",
+        "Obama": "0.0119",
+        "need": "0.0096",
+        "just": "0.0102",
+        "going": "0.0142",
+        "support": "0.0096"
+      }
+    },
+    "sanders": {
+      "totalWords": 38527,
+      "uniqueWords": {
+        "total": 1844,
+        "mostUnique": [
+          "Gwen",
+          "hosting",
+          "event",
+          "PBS",
+          "Nine",
+          "organization",
+          "recognition",
+          "outside",
+          "responded",
+          "basic",
+          "truths",
+          "allows",
+          "pour",
+          "sums",
+          "elect",
+          "aligned",
+          "rigged",
+          "ordinary",
+          "hours",
+          "wagers"
+        ]
+      },
+      "callouts": {
+        "bernie sanders": [
+          "Secretary Clinton has been going around the country saying Bernie Sanders wants to dismantle the Affordable Care Act, people are going to lose their MedicAid, they're going to lose their CHIP program.",
+          "There is no president, in my view, not Hillary Clinton, not Bernie Sanders, who has the capability or the power to take on Wall Street, large campaign donors, the corporate media, the big money interests in this country alone."
+        ],
+        "hillary clinton": [
+          "There is no president, in my view, not Hillary Clinton, not Bernie Sanders, who has the capability or the power to take on Wall Street, large campaign donors, the corporate media, the big money interests in this country alone."
+        ]
+      },
+      "audienceReception": {
+        "applause": [],
+        "laughter": []
+      },
+      "speakingTime": "36.67",
+      "emotionalLines": [
+        "They see kids getting arrested for marijuana, getting in prison, getting a criminal record, while they see executives on Wall Street who pay billions of dollars in settlements and get no prosecution at all.",
+        "Well, to put that in a context, Judy, I think we have to understand that in the last 30 years in this country there has been a massive transfer of wealth going from the hands of working families into the top one-tenth of 1 % whose percentage of wealth has doubled.",
+        "... Of course there will be a limit, but when today you have massive levels of income and wealth inequality, when the middle class is disappearing, you have the highest rate of child poverty of almost any major country on Earth.",
+        "Secretary Clinton has been going around the country saying Bernie Sanders wants to dismantle the Affordable Care Act, people are going to lose their MedicAid, they're going to lose their CHIP program.",
+        "Please do not tell me that in this country, if — and here's the if — we have the courage to take on the drug companies, and have the courage to take on the insurance companies, and the medical equipment suppliers, if we do that, yes, we can guarantee health care to all people in a much more cost effective way.",
+        "Who denies that African-American youth unemployment, real, is over 50 percent.",
+        "A brief response.",
+        "Like rich kids, they deserve to get a free education.",
+        "I'm very proud that I support legislation that is currently in the Congress, got support of almost all progressive Democrats in the House and Senate, which says we will end the absurdity of women today making 79 cents on the dollar compared to men.",
+        "Well, you know, I think, from a historical point of view, somebody with my background, somebody with my views, somebody who has spent his entire life taking on the big money interests, I think a Sanders victory would be of some historical accomplishment, as well.",
+        "But, by the way, when it comes to a woman having to make a very personal choice, ah, in that case, my Republican colleagues love the government and want the government to make that choice for every woman in America.",
+        "The reality is four times as many blacks get arrested for marijuana.",
+        "This mandatory sentencing, a very bad idea.",
+        "So when you have childhood African-American poverty rates of 35 percent, when you have youth unemployment at 51 percent, when you have unbelievable rates of incarceration — which, by the way, leaves the children back home without a dad or even a mother — clearly, we are looking at institutional racism.",
+        "And I think when you give low-income kids — African-American, white, Latino kids — the opportunities to get their lives together, they are not going to end up in jail.",
+        null,
+        "But you know what, you can make a middle class wage, you have decent health care, decent benefits.",
+        "I have talked to some of the young kids with tears rolling down their cheeks, are scared to death that today they may or their parents may be deported.",
+        "Akin to slavery, where people came into this country to do guest work were abused, were exploited, and if they stood up for their rights, they'd be thrown out of this country.",
+        "I think we welcome them into this country and do the best we can to help them get their lives together."
+      ],
+      "personalIssues": {
+        "War Should Be the Last Option: Why I Support the Iran Deal": "1.15",
+        "Reforming Wall Street": "1.02",
+        "It’s Time to Make College Tuition Free and Debt Free": "0.76",
+        "Getting Big Money Out of Politics": "0.73",
+        "Strengthen and Expand Social Security": "0.61",
+        "Creating Decent Paying Jobs": "0.57",
+        "Income and Wealth Inequality": "0.52",
+        "Fighting for Women’s Rights": "0.35",
+        "Real Family Values": "0.30",
+        "Fighting to Lower Prescription Drug Prices": "0.26",
+        "War and Peace": "0.18",
+        "A Fair and Humane Immigration Policy": "0.15",
+        "Racial Justice": "0.15",
+        "Climate Change & Environment": "0.14",
+        "A Living Wage": "0.08",
+        "Caring for our Veterans": "0.04",
+        "Fighting for LGBT Equality": "0.04"
+      },
+      "averageWordUsage": {
+        "And": "0.0266",
+        "campaign": "0.0092",
+        "think": "0.0146",
+        "American": "0.0136",
+        "people": "0.0347",
+        "today": "0.0092",
+        "Wall": "0.0098",
+        "Street": "0.0098",
+        "going": "0.0130",
+        "country": "0.0179",
+        "world": "0.0114",
+        "know": "0.0130",
+        "just": "0.0092",
+        "believe": "0.0125",
+        "Secretary": "0.0098",
+        "make": "0.0103",
+        "right": "0.0119",
+        "But": "0.0163",
+        "applause": "0.0201",
+        "That": "0.0098",
+        "got": "0.0136",
+        "president": "0.0108"
+      }
+    }
+  }
+}

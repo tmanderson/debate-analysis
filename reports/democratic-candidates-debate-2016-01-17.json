@@ -1,0 +1,289 @@
+{
+  "name": "Democratic Candidates Debate",
+  "estimatedLength": 63.95,
+  "totalWordsSpoken": 12151,
+  "totalUniqueWords": 3847,
+  "candidates": {
+    "clinton": {
+      "totalWords": 23655,
+      "uniqueWords": {
+        "total": 1345,
+        "mostUnique": [
+          "Congressional",
+          "Black",
+          "Caucus",
+          "Institute",
+          "hosting",
+          "eve",
+          "Martin",
+          "Luther",
+          "Day",
+          "tomorrow",
+          "youth",
+          "Dr",
+          "teenager",
+          "moral",
+          "clarity",
+          "message",
+          "conveyed",
+          "stayed",
+          "helped",
+          "service"
+        ]
+      },
+      "callouts": {
+        "lindsey graham": [
+          "I did, working in the Senate, where I crossed the aisle often, working even with the senator from South Carolina, Lindsey Graham, to get Tricare for national guardsmen and women.And"
+        ]
+      },
+      "audienceReception": {
+        "applause": [],
+        "laughter": []
+      },
+      "speakingTime": "23.19",
+      "emotionalLines": [
+        "I'm prepared and ready to take it on and I hope to earn your support to be the nominee of the Democratic Party and the next president of the United States.",
+        "would also be presenting my plans to build on the Affordable Care Act and to improve it by decreasing the out-of-pocket costs by putting a cap on prescription drug costs ; by looking for ways that we can put the prescription drug business and the health insurance company business on a more stable platform that does n't take too much money out of the pockets of hard-working Americans.And",
+        "Let's not forget what this is about, 90 people a day die from gun violence in our country.",
+        "Well, sadly it's reality, and it has been heartbreaking, and incredibly outraging to see the constant stories of young men like Walter Scott, as you said, who have been killed by police officers.",
+        "Everywhere I go to campaign, I'm meeting families who are affected by the drug problem that mostly is opioids and heroin now, and lives are being lost and children are being orphaned.",
+        "So this is the kind of approach that we should take in dealing with what is now..",
+        "... a growing epidemic.",
+        "I want us to defend and build on the Affordable Care Act and improve it.",
+        "That is one of the greatest accomplishments of President Obama, of the Democratic Party, and of our country.",
+        "Now, there are things we can do to improve it, but to tear it up and start over again, pushing our country back into that kind of a contentious debate, I think is the wrong direction.",
+        "The Republicans just voted last week to repeal the Affordable Care Act, and thank goodness, President Obama vetoed it and saved Obamacare for the American people.",
+        ", many millions of dollars attacking me, and probably will so again, because of what I believe we can do building on the Affordable Care Act, I think it's important to point out that there are a lot of reasons we have the health care system we have today.I",
+        "If you're successful there, maybe you can build even more.",
+        "'ve laid out my ideas about what we can do to make college affordable ; how we can help people pay off their student debts and save thousands of dollars, how we can create more good jobs because a lot of the young people that I talk with are pretty disappointed the economic prospects they feel their facing.",
+        "That turning over our White House to the Republicans would be bad for everybody especially young people.",
+        "Look, I have the greatest respect for Senator Sanders and for his supports and I'm going to keep working as hard as I can to reach as many people of all ages about what I will do, what the experience and the ideas that I have that I will bring to the White House and I hope to have their support when I'm the Democratic nominee.",
+        "Senator Sanders called him weak, disappointing.",
+        "You know, I think since — since Senator Standers followed up on this..",
+        "look, I have a plan that most commentators have said is tougher, more effective, and more comprehensive.",
+        "It builds on the Dodd-Frank — yes, it is."
+      ],
+      "personalIssues": {
+        "Health care": "0.89",
+        "Wall Street and corporate America": "0.51",
+        "Women’s rights and opportunity": "0.50",
+        "Voting rights": "0.38",
+        "Disability rights": "0.30",
+        "Criminal justice reform": "0.29",
+        "Gun violence prevention": "0.21",
+        "Immigration reform": "0.18",
+        "Veterans, the armed forces, and their families": "0.15",
+        "National security": "0.15",
+        "Social Security and Medicare": "0.12",
+        "College": "0.12",
+        "Substance use disorder and addiction": "0.10",
+        "Small business": "0.08",
+        "Economy": "0.08",
+        "Climate change and energy": "0.08",
+        "Campus sexual assault": "0.04",
+        "Workforce and skills": "0.00",
+        "LGBT equality": "0.00",
+        "Labor": "0.00",
+        "K–12 education": "0.00",
+        "Early childhood education": "0.00"
+      },
+      "averageWordUsage": {
+        "Well": "0.0126",
+        "And": "0.0283",
+        "people": "0.0201",
+        "know": "0.0141",
+        "applause": "0.0126",
+        "going": "0.0126",
+        "think": "0.0126"
+      }
+    },
+    "o'malley": {
+      "totalWords": 16350,
+      "uniqueWords": {
+        "total": 1174,
+        "mostUnique": [
+          "My",
+          "name",
+          "Martin",
+          "O",
+          "Malley",
+          "born",
+          "delivered",
+          "Have",
+          "Dream",
+          "speech",
+          "hosting",
+          "aftermath",
+          "Mother",
+          "Emanuel",
+          "Church",
+          "You",
+          "keeping",
+          "teaching",
+          "love",
+          "final"
+        ]
+      },
+      "callouts": {
+        "martin o'malley": [
+          "Thank you. My name is Martin O'Malley, I was born the year Dr. King delivered his\" I Have A Dream\" speech.And"
+        ],
+        "donald trump": [
+          "That's the political front, and if Donald Trump wants to start a registry in our country of people by faith, he can start with me, and I will sign up as one who is totally opposed to his fascist appeals that wants to vilify American Muslims."
+        ]
+      },
+      "audienceReception": {
+        "applause": [],
+        "laughter": []
+      },
+      "speakingTime": "15.82",
+      "emotionalLines": [
+        "years ago, you brought forward a new leader in Barack Obama to save our country from the second Great Depression.",
+        ", I believe the greatest business opportunity to come to the United States of America in 100 years is climate change.",
+        "We need a new agenda for America cities that will invest in the talents and skills in our people, that will invest in CBVG transportation, infrastructure and transit options, and make our cities the leading edge in this move to a redesigned built clean green energy future that will employ our people.",
+        "It did have a ban on combat assault weapons, universal background checks, and you know what?",
+        null,
+        "drove our incarceration rate down to 20-year lows, and drove violent crime down to 30-year lows, and became the first governor south of the Mason-Dixon line to repeal the death penalty.I",
+        "... and to do more of them to reform our criminal justice system.",
+        "Lester, just ten seconds.",
+        "Just 10 seconds. All of the things..",
+        "I have to talk about something that's actually working in our state.",
+        "Andrea — Andrea — Andrea.",
+        "With the Affordable Care Act, we now have moved all of our acute care hospitals, that driver of cost at the center, away from fee-for- service.And",
+        null,
+        "[ applause ] We can talk all we want about wanting to build a stronger Democratic party, but Lester, the question you answered, it's no laughing matter.The",
+        "I agree with that.",
+        null,
+        "That's not true.",
+        "It's just not true.",
+        "Oh, come on.",
+        ", if a bank robber robs a bank and all you do is slap him on the wrist, he's just going to keep robbing banks again."
+      ],
+      "personalIssues": {
+        "Clean Energy Future": "0.31",
+        "Criminal Justice Reform": "0.30",
+        "Homeland Security": "0.26",
+        "Gun Reform": "0.25",
+        "Campaign Finance Reform": "0.21",
+        "Immigration Reform": "0.20",
+        "National Service": "0.17",
+        "Debt-Free College": "0.16",
+        "Expand Social Security": "0.13",
+        "Financial Reform": "0.13",
+        "Foreign Policy": "0.04",
+        "Addiction Treatment": "0.04",
+        "Trade Policy": "0.00"
+      },
+      "averageWordUsage": {
+        "And": "0.0213",
+        "people": "0.0153",
+        "new": "0.0119",
+        "need": "0.0230",
+        "things": "0.0128",
+        "actually": "0.0111",
+        "Andrea": "0.0119"
+      }
+    },
+    "sanders": {
+      "totalWords": 26140,
+      "uniqueWords": {
+        "total": 1328,
+        "mostUnique": [
+          "Thank",
+          "honor",
+          "Dr",
+          "Martin",
+          "Luther",
+          "Jr",
+          "remember",
+          "pledge",
+          "continue",
+          "rigged",
+          "ordinary",
+          "Americans",
+          "hours",
+          "wages",
+          "47",
+          "living",
+          "poverty",
+          "new",
+          "wealth",
+          "millionaires"
+        ]
+      },
+      "callouts": {
+        "donald trump": [
+          "In terms of taking on my taking on my good friend, Donald Trump, beating him by 19 points in New Hampshire, 13 points in the last national poll that we saw.To"
+        ],
+        "bernie sanders": [
+          "[ laughter ] Because what her campaign was saying — Bernie Sanders, who has fought for universal health care for my entire life, he wants to end Medicare, end Medicaid, end the children's health insurance program."
+        ]
+      },
+      "audienceReception": {
+        "applause": [],
+        "laughter": []
+      },
+      "speakingTime": "24.94",
+      "emotionalLines": [
+        "then, to make a bad situation worse, we have a corrupt campaign finance system where millionaires and billionaires are spending extraordinary amounts of money to buy elections.This",
+        ", what my first days are about is bringing America together, to end the decline of the middle class, to tell the wealthiest people in this country that yes, they are going to start paying their fair share of taxes, and that we are going to have a government that works for all of us, and not just big campaign contributors.",
+        "And that includes people of criminal backgrounds, people who are mentally unstable.",
+        "And what we also said,\" is a small mom and pop gun shop who sells a gun legally to somebody should not be held liable if somebody does something terrible with that gun.",
+        "...Well, I — look..",
+        "Who is satisfied that millions of people have police records for possessing marijuana when the CEO's of Wall Street companies who destroyed our economy have no police records.",
+        "... We need to take a very hard look at our..",
+        "... criminal justice system, investing in jobs, and education not in jails and incarceration.",
+        "In terms of taking on my taking on my good friend, Donald Trump, beating him by 19 points in New Hampshire, 13 points in the last national poll that we saw.To",
+        "I apologize for not hearing all of that question.",
+        null,
+        "[ applause ] And thirdly, we have got to de-militarize our police departments so they do n't look like occupying armies.",
+        "Sure. I agree... [ applause ] I agree with everything the Secretary said, but let me just add this, there is a responsibility on the part of the pharmaceutical industry and the drug companies who are producing all of these drugs and not looking at the consequence of it.And",
+        "... healthcare with mental health..",
+        "... a part of that.",
+        null,
+        "My proposal, provide health care to all people, get private insurance out of health insurance, lower the cost of health care for middle class families by 5,000 bucks.That",
+        "But — what if we have..",
+        "It is — it is absolutely inaccurate.",
+        "The vision from FDR and Harry Truman was health care for all people as a right in a cost-effective way.We"
+      ],
+      "personalIssues": {
+        "War Should Be the Last Option: Why I Support the Iran Deal": "0.93",
+        "Reforming Wall Street": "0.79",
+        "Getting Big Money Out of Politics": "0.66",
+        "Creating Decent Paying Jobs": "0.52",
+        "Fighting to Lower Prescription Drug Prices": "0.40",
+        "It’s Time to Make College Tuition Free and Debt Free": "0.32",
+        "Real Family Values": "0.27",
+        "Fighting for Women’s Rights": "0.25",
+        "Climate Change & Environment": "0.18",
+        "War and Peace": "0.15",
+        "Racial Justice": "0.15",
+        "Strengthen and Expand Social Security": "0.14",
+        "A Fair and Humane Immigration Policy": "0.13",
+        "A Living Wage": "0.13",
+        "Income and Wealth Inequality": "0.13",
+        "Fighting for LGBT Equality": "0.12",
+        "Caring for our Veterans": "0.05"
+      },
+      "averageWordUsage": {
+        "country": "0.0173",
+        "American": "0.0151",
+        "people": "0.0301",
+        "going": "0.0120",
+        "And": "0.0181",
+        "campaign": "0.0151",
+        "health": "0.0151",
+        "got": "0.0120",
+        "just": "0.0105",
+        "applause": "0.0173",
+        "think": "0.0120",
+        "Secretary": "0.0136",
+        "Clinton": "0.0113",
+        "need": "0.0098",
+        "know": "0.0105",
+        "But": "0.0105",
+        "want": "0.0136"
+      }
+    }
+  }
+}

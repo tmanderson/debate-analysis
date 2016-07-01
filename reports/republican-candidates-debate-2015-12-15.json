@@ -1,0 +1,101 @@
+{
+  "name": "Republican  Candidates Debate",
+  "estimatedLength": 14.08,
+  "totalWordsSpoken": 2675,
+  "totalUniqueWords": 863,
+  "candidates": {
+    "trump": {
+      "totalWords": 13769,
+      "uniqueWords": {
+        "total": 863,
+        "mostUnique": [
+          "journey",
+          "My",
+          "focus",
+          "borders",
+          "making",
+          "China",
+          "Japan",
+          "Mexico",
+          "both",
+          "longer",
+          "takes",
+          "advantage",
+          "Certainly",
+          "made",
+          "horrible",
+          "disgusting",
+          "incompetent",
+          "deal",
+          "150",
+          "billion"
+        ]
+      },
+      "callouts": {
+        "lindsey graham": [
+          "We ca n't go — and I watched Lindsey Graham, he said, I have been here for 10 years fighting."
+        ],
+        "jeb bush": [
+          "I think it's very sad that CNN leads Jeb Bush, Governor Bush, down a road by starting off virtually all the questions,\" Mr. Trump this, Mister\" — I think it's very sad."
+        ],
+        "hillary clinton": [
+          "I will do everything in my power to beat Hillary Clinton, I promise you."
+        ]
+      },
+      "audienceReception": {
+        "applause": [],
+        "laughter": []
+      },
+      "speakingTime": "14.08",
+      "emotionalLines": [
+        "would never have made that horrible, disgusting, absolutely incompetent deal with Iran where they get $ 150 billion.",
+        "It will be a great wall.",
+        "We want to make America great again.",
+        "But we should be using our brilliant people, our most brilliant minds to figure a way that ISIS can not use the Internet.",
+        "I sure as hell do n't want to let people that want to kill us and kill our nation use our Internet.",
+        "Frankly, that will make people think because they may not care much about their lives, but they do care, believe it or not, about their families' lives.",
+        "said when they come across the southern border they come as an act of love.",
+        "Am I talking or are you talking, Jeb?",
+        "You interrupted me.",
+        "No. Am I allowed to finish?",
+        "Excuse me, am I allowed to finish?",
+        null,
+        null,
+        "I know you're trying to build up your energy, Jeb, but it's not working very well.",
+        "We need strength. We're not respected, you know, as a nation anymore.",
+        "We will never be great again.",
+        "What I like even better than that is getting our smartest and getting our best to infiltrate their Internet, so that we know exactly where they're going, exactly where they're going to be.",
+        "The people that have been killed, the people that have wiped away, and for what?",
+        "Wounded warriors all over the place who I love, we have nothing for it.And",
+        "I've been saying it for years."
+      ],
+      "personalIssues": {},
+      "averageWordUsage": {
+        "country": "0.0185",
+        "They": "0.0139",
+        "But": "0.0127",
+        "talking": "0.0139",
+        "And": "0.0232",
+        "People": "0.0116",
+        "applause": "0.0162",
+        "great": "0.0127",
+        "come": "0.0127",
+        "people": "0.0290",
+        "going": "0.0197",
+        "ISIS": "0.0209",
+        "don": "0.0151",
+        "think": "0.0220",
+        "Jeb": "0.0151",
+        "said": "0.0093",
+        "want": "0.0116",
+        "Internet": "0.0116",
+        "You": "0.0139",
+        "know": "0.0116",
+        "just": "0.0185",
+        "need": "0.0127",
+        "saying": "0.0104",
+        "fighting": "0.0151"
+      }
+    }
+  }
+}

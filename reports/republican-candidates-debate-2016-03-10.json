@@ -1,0 +1,97 @@
+{
+  "name": "Republican Candidates Debate",
+  "estimatedLength": 30.43,
+  "totalWordsSpoken": 5782,
+  "totalUniqueWords": 1375,
+  "candidates": {
+    "trump": {
+      "totalWords": 29132,
+      "uniqueWords": {
+        "total": 1375,
+        "mostUnique": [
+          "events",
+          "anywhere",
+          "Millions",
+          "enthusiasm",
+          "Some",
+          "70",
+          "Democrat",
+          "independents",
+          "whole",
+          "exciting",
+          "establishment",
+          "whatever",
+          "call",
+          "extra",
+          "join",
+          "soundly",
+          "2",
+          "monetary",
+          "constantly",
+          "brilliantly"
+        ]
+      },
+      "callouts": {
+        "ben carson": [
+          "it was very interesting, I was with Dr. Ben Carson today, who is endorsing me, by the way, tomorrow morning, and he is..."
+        ],
+        "donald trump": [
+          "Do you swear you're going to vote for Donald Trump?"
+        ]
+      },
+      "audienceReception": {
+        "applause": [],
+        "laughter": []
+      },
+      "speakingTime": "30.43",
+      "emotionalLines": [
+        "It's very exciting.",
+        "Nobody else on this dais knows how to change it like I do, believe me.",
+        "It's very bad for business in terms of — and it's very bad for our workers and it's unfair for our workers.",
+        "He wants a lot of different things that are terrific, including charter schools, by the way, that the unions are fighting like crazy.",
+        "But in many cases they are more interested in their paycheck and the big bureaucracy than they are taking care of the children.",
+        "We're going to get rid of waste, fraud, abuse and bring back business.",
+        "But we take care of Germany, we take care of Saudi Arabia, we take care of Japan, we take care of South Korea.",
+        "They have great power and they do n't bid out.",
+        "Not full on, but he did change his view in the hopes of maybe doing well.",
+        "And Jeff Sessions, one of the most respected Senator in Washington, an incredible man, also endorsed me.And",
+        "you do n't tax certain products coming into this country from certain countries that are taking advantage of the United States and laughing at our stupidity, we're going to continue to lose businesses and we're going to continue to lose jobs.And",
+        "No tax, no nothing, no problems, no curfews, no anything.",
+        "And the way we've been doing it for the last long period of time is our country — our country is in serious, serious trouble.",
+        "I mean a lot of them.",
+        "And I will stick with exactly what I said to Anderson Cooper.",
+        "We have a serious, serious problem of hate.",
+        "We better solve the problem before it's too late.",
+        "better expand our laws or we're being a bunch of suckers, and they are laughing at us.",
+        "[ applause ] But I will tell you, I think if we're going to ever negotiate a peace settlement, which every Israeli wants, and I've spoken to the toughest and the sharpest, they all want peace, I think it would be much more helpful is — I'm a negotiator.",
+        "I think it's the worst deal I've ever seen negotiated."
+      ],
+      "personalIssues": {},
+      "averageWordUsage": {
+        "people": "0.0313",
+        "going": "0.0284",
+        "They": "0.0189",
+        "think": "0.0225",
+        "want": "0.0255",
+        "And": "0.0436",
+        "applause": "0.0182",
+        "better": "0.0095",
+        "know": "0.0189",
+        "country": "0.0189",
+        "But": "0.0204",
+        "like": "0.0124",
+        "say": "0.0145",
+        "look": "0.0102",
+        "just": "0.0095",
+        "good": "0.0124",
+        "don": "0.0327",
+        "make": "0.0124",
+        "great": "0.0102",
+        "way": "0.0145",
+        "time": "0.0095",
+        "mean": "0.0102",
+        "deal": "0.0240"
+      }
+    }
+  }
+}

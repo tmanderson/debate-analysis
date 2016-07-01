@@ -1,0 +1,104 @@
+{
+  "name": "Republican Candidates Debate",
+  "estimatedLength": 18.85,
+  "totalWordsSpoken": 3581,
+  "totalUniqueWords": 1021,
+  "candidates": {
+    "trump": {
+      "totalWords": 18007,
+      "uniqueWords": {
+        "total": 1021,
+        "mostUnique": [
+          "certainly",
+          "nominate",
+          "justice",
+          "President",
+          "Obama",
+          "hope",
+          "Senate",
+          "group",
+          "times",
+          "Diane",
+          "Sykes",
+          "Bill",
+          "Pryor",
+          "fantastic",
+          "conservatism",
+          "Mc",
+          "Connell",
+          "stop",
+          "how",
+          "learn"
+        ]
+      },
+      "callouts": {
+        "jeb bush": [
+          "All right? Now, you can take it any way you want, and it took — it took Jeb Bush, if you remember at the beginning of his announcement, when he announced for president, it took him five days.He",
+          "The weakest person on this stage by far on illegal immigration is Jeb Bush.",
+          "You probably are worse than Jeb Bush.",
+          "Jeb bush spent $ 44 million."
+        ],
+        "chris christie": [
+          "The state of New Jersey — too bad Chris Christie is not here, he could tell you — the state of New Jersey went to build a very large tower that was going to employ thousands of people.I"
+        ],
+        "ben carson": [
+          "This guy's lied — let me just tell you, this guy lied about Ben Carson when he took votes away from Ben Carson in Iowa, and he just continues.",
+          "This is the same thing he did to Ben Carson."
+        ],
+        "donald trump": [
+          "Today, we had robo-calls saying,\" Donald Trump is not going to run in South Carolina,\" where I'm leading by a lot.I"
+        ]
+      },
+      "audienceReception": {
+        "applause": [],
+        "laughter": []
+      },
+      "speakingTime": "18.85",
+      "emotionalLines": [
+        "times of delay, we could have a Diane Sykes, or you could have a Bill Pryor — we have some fantastic people.",
+        "It's called delay, delay, delay.",
+        "I hate to say Iran, but with Russia, because we — and the Iran deal is one of the worst deals I have ever seen negotiated in my entire life.",
+        "you listen to him, and you listen to some of the folks that I've been listening to, that's why we've been in the Middle East for 15 years, and we have n't won anything.",
+        "... You'll end up with World War III..",
+        "... We're supporting troops..",
+        "... that we do n't even know who they are.",
+        "... We're supporting troops that we do n't even know who they are..",
+        "We have no idea who they are.",
+        "... Oh, yeah, yeah..",
+        "... Let 44 million in New Hampshire, it was practically [ inaudible ]..",
+        "... 44 million — give me a break.",
+        "went back, it was a mistake, it was n't a mistake.",
+        "We can make mistakes.",
+        "They lied. They said there were weapons of mass destruction, there were none.",
+        "I'm being nice.",
+        "He spent $ 22 million in...",
+        "The World Trade Center came down during your brother's reign, remember that.",
+        "That's not keeping us safe.",
+        "She should be running."
+      ],
+      "personalIssues": {},
+      "averageWordUsage": {
+        "say": "0.0196",
+        "want": "0.0167",
+        "going": "0.0372",
+        "people": "0.0196",
+        "But": "0.0108",
+        "country": "0.0147",
+        "make": "0.0127",
+        "said": "0.0167",
+        "And": "0.0176",
+        "You": "0.0372",
+        "That": "0.0127",
+        "They": "0.0127",
+        "listen": "0.0108",
+        "just": "0.0186",
+        "tell": "0.0147",
+        "Jeb": "0.0137",
+        "know": "0.0137",
+        "spent": "0.0108",
+        "don": "0.0245",
+        "great": "0.0108"
+      }
+    }
+  }
+}

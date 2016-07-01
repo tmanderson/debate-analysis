@@ -1,0 +1,222 @@
+{
+  "name": "Democratic Candidates Debate",
+  "estimatedLength": 70.6,
+  "totalWordsSpoken": 13414,
+  "totalUniqueWords": 3201,
+  "candidates": {
+    "clinton": {
+      "totalWords": 35852,
+      "uniqueWords": {
+        "total": 1636,
+        "mostUnique": [
+          "amen",
+          "request",
+          "shine",
+          "bright",
+          "spotlight",
+          "recalled",
+          "citizens",
+          "attempting",
+          "focus",
+          "hundred",
+          "members",
+          "occur",
+          "sending",
+          "rainy",
+          "fund",
+          "emergencies",
+          "wellbeing",
+          "raining",
+          "derelict",
+          "coming"
+        ]
+      },
+      "callouts": {
+        "donald trump": [
+          "Well, let me start by saying that the last time I checked as of last night, Donald Trump had received 3.6",
+          "I have said, and I'll repeat here, I think that Donald Trump's bigotry, his bullying, his bluster, are not going to wear well on the American people."
+        ]
+      },
+      "audienceReception": {
+        "applause": [],
+        "laughter": []
+      },
+      "speakingTime": "35.74",
+      "emotionalLines": [
+        "[ applause ] We are here in Flint, I'm very grateful that my request that we hold this debate be held here so we can continue to shine a very bright spotlight on what has happened in this city.I",
+        "And, we'll get to what we need to do to help the children and the people when I have a little more time because that's just as important as fixing the pipes.",
+        "I will work with elected officials who I trust like your mayor and like your senators and member of Congress so that we can assure you that when it's fixed, you can trust it.",
+        "He expanded Medicaid for helping kids particularly to get the health care they need.",
+        "Well, I think that the people here in the region, who knew about this and failed to follow what you just said, rightly, the law required, have been eliminated from the EPA.",
+        "And if people know about it and they're not acting, and they're in the government at any level, they should be forced to resign.",
+        "I want us to have an absolute commitment to getting rid of lead wherever it is because it's not only in water systems, it's also in soil, and it's in lead paint that is found mostly in older homes.",
+        "Water, soil, and paint..",
+        "... We're going to get rid of it.",
+        "it leads to civil penalties, if it leads to criminal responsibility.",
+        "And, I will be with Flint all the way through this crisis in whatever capacity I am.And",
+        "need to do more to help create clean energy as a source of good jobs but I am also going to go after companies.",
+        "We had the best year that the auto industry has had in a long time.",
+        null,
+        "If you're gon na talk, tell the whole story, Senator Sanders.",
+        null,
+        "OK, so...",
+        "You did not. If everybody had voted the way he did, I believe the auto industry would have collapsed, taking four million jobs with it.",
+        "sent a letter, an authorized letter, asking us to support that to save the auto industry.",
+        "I asked that we do more to try to prevent what I worried was going to happen."
+      ],
+      "personalIssues": {
+        "Wall Street and corporate America": "0.77",
+        "Criminal justice reform": "0.52",
+        "Gun violence prevention": "0.42",
+        "Health care": "0.36",
+        "Early childhood education": "0.36",
+        "Climate change and energy": "0.31",
+        "Small business": "0.21",
+        "K–12 education": "0.20",
+        "Substance use disorder and addiction": "0.19",
+        "Women’s rights and opportunity": "0.17",
+        "Veterans, the armed forces, and their families": "0.14",
+        "Economy": "0.14",
+        "Voting rights": "0.04",
+        "National security": "0.04",
+        "Immigration reform": "0.04",
+        "Disability rights": "0.04",
+        "Workforce and skills": "0.00",
+        "Social Security and Medicare": "0.00",
+        "LGBT equality": "0.00",
+        "Labor": "0.00",
+        "College": "0.00",
+        "Campus sexual assault": "0.00"
+      },
+      "averageWordUsage": {
+        "Well": "0.0153",
+        "applause": "0.0183",
+        "support": "0.0147",
+        "people": "0.0244",
+        "money": "0.0092",
+        "know": "0.0177",
+        "And": "0.0281",
+        "think": "0.0202",
+        "said": "0.0128",
+        "going": "0.0202",
+        "make": "0.0110",
+        "got": "0.0116",
+        "jobs": "0.0098",
+        "don": "0.0098",
+        "way": "0.0092",
+        "want": "0.0128",
+        "That": "0.0104",
+        "try": "0.0104"
+      }
+    },
+    "sanders": {
+      "totalWords": 35944,
+      "uniqueWords": {
+        "total": 1565,
+        "mostUnique": [
+          "Over",
+          "several",
+          "weeks",
+          "opportunity",
+          "number",
+          "residents",
+          "heard",
+          "literally",
+          "shattered",
+          "blame",
+          "Governor",
+          "his",
+          "dereliction",
+          "duty",
+          "irresponsible",
+          "resign",
+          "importantly",
+          "lesser",
+          "throughout",
+          "recent"
+        ]
+      },
+      "callouts": {
+        "hillary clinton": [
+          "Well, Hillary Clinton, and everybody else who supported these disastrous trade policies."
+        ],
+        "bernie sanders": [
+          ", if I have voted against that bill, Secretary Clinton would be here tonight and she'd say,\" Bernie Sanders voted against the ban on assault weapons."
+        ],
+        "donald trump": [
+          "I would love to run against Donald Trump, and I'll tell you why.For"
+        ]
+      },
+      "audienceReception": {
+        "applause": [],
+        "laughter": []
+      },
+      "speakingTime": "34.86",
+      "emotionalLines": [
+        "Cities and towns are struggling, in order to provide basic services.",
+        "[ applause ] Second of all, to ease anxiety, CDC has to come in and examine every child and adult in this community in terms of the amount of lead they may have.",
+        ", I suppose they can trust the corporations who have destroyed Flint by a disastrous trade policy which have allowed them to shut down plants in flint and move to China or Mexico.",
+        "Detroit's public school system is collapsing.",
+        "We need a government that works for all of us..",
+        "... not just wealthy campaign contributors.",
+        "I will make a personal promise to you that the EPA and the EPA director that I appoint will make sure that every water system in the United States of America is tested, and that the people of those communities know the quality of the water that they are drinking, and that we are gon na have a plan to rebuild water systems in this country that are unsafe for drinking.",
+        "That is a crime against that child, and the people of Flint.",
+        "I think the fear and the legitimate fear of the people of Flint is that a certain point the TV cameras and CNN will disappear.",
+        "[ applause ] NAFTA, supported by the Secretary cost, us 800,000 jobs nationwide, tens of thousands of jobs in the Midwest.",
+        "We've lost 60,000 factories since 2001.",
+        "Well, I — If you are talking about the Wall Street bailout, where some of your friends destroyed this economy..",
+        "... through — excuse me, I'm talking.",
+        "You tell yours.",
+        "Did I vote against the Wall Street bailout?",
+        "an hour.I understood that these trade agreements were going to destroy the middle class of this country.",
+        "I believe that the recklessness, the greed, and the illegal behavior of Wall Street drove this country into the worst economic downturn in the history of the United — modern history of the United States of America.",
+        "Now, I kind of think if you get paid a couple hundred thousand dollars for a speech, it must be a great speech.",
+        "If you are an executive on Wall Street that destroys the American economy, you pay a $ 5 billion fine, no police record.If",
+        "This is an amazing thing which I did n't know until recently, and I wonder how many people did know this."
+      ],
+      "personalIssues": {
+        "Reforming Wall Street": "1.26",
+        "Getting Big Money Out of Politics": "0.66",
+        "Creating Decent Paying Jobs": "0.62",
+        "War Should Be the Last Option: Why I Support the Iran Deal": "0.60",
+        "It’s Time to Make College Tuition Free and Debt Free": "0.54",
+        "Climate Change & Environment": "0.26",
+        "Fighting for Women’s Rights": "0.25",
+        "Income and Wealth Inequality": "0.24",
+        "Real Family Values": "0.23",
+        "A Living Wage": "0.20",
+        "Racial Justice": "0.18",
+        "Fighting to Lower Prescription Drug Prices": "0.17",
+        "A Fair and Humane Immigration Policy": "0.13",
+        "Fighting for LGBT Equality": "0.08",
+        "War and Peace": "0.05",
+        "Strengthen and Expand Social Security": "0.05",
+        "Caring for our Veterans": "0.05"
+      },
+      "averageWordUsage": {
+        "Flint": "0.0109",
+        "tell": "0.0115",
+        "And": "0.0294",
+        "America": "0.0141",
+        "country": "0.0224",
+        "applause": "0.0351",
+        "But": "0.0128",
+        "people": "0.0332",
+        "going": "0.0153",
+        "You": "0.0115",
+        "say": "0.0109",
+        "know": "0.0281",
+        "Wall": "0.0141",
+        "Street": "0.0141",
+        "make": "0.0109",
+        "money": "0.0102",
+        "just": "0.0096",
+        "think": "0.0134",
+        "Clinton": "0.0128",
+        "Secretary": "0.0109",
+        "said": "0.0128",
+        "don": "0.0141"
+      }
+    }
+  }
+}
