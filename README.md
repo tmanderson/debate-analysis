@@ -1,9 +1,6 @@
 # Debate Critic
 
-Analyzing some language from the 2016 presidential debates. The reports can be viewed in the `reports` folder.
-
-### Reports:
-All primary debates have been analysed and can be viewed within the [reports](reports) directory.
+Analyzing some language from the 2016 presidential debates. The reports can be viewed in the [`reports`](reports) folder.
 
 ### Points of Analysis:
 - Total words spoken
