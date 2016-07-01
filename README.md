@@ -2,6 +2,11 @@
 
 Analyzing some language from the 2016 presidential debates. The reports can be viewed in the [`reports`](reports) folder.
 
+### Run Analysis
+```
+debate-critic/ $> node ./main
+```
+
 ### Points of Analysis:
 - Total words spoken
 - Articulation (unique words against total spoken)
